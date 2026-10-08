@@ -1,0 +1,509 @@
+{
+  "updatedAt": "2026-10-08T10:33:23+08:00",
+  "timezone": "Asia/Hong_Kong",
+  "tabs": [
+    {
+      "id": "ai",
+      "label": "AI",
+      "sections": [
+        {
+          "id": "frontier",
+          "label": "Frontier models",
+          "items": [
+            {
+              "id": "ai-20261008-nano-banana-2-1",
+              "title": "Google ships Nano Banana 2.1 on Gemini 3.6 Flash",
+              "summary": "Google 推出建基於 Gemini 3.6 Flash 嘅圖像生成及編輯模型 Nano Banana 2.1，編輯同文字渲染更好，1K／2K 出圖成本約減半。",
+              "source": "AI Industry Today",
+              "sourceUrl": "https://aiindustrytoday.com/news/google-launches-nano-banana-2-1-on-gemini-3-6-flash-with-stronger-image-editing-and-lower-costs/",
+              "publishedAt": "2026-10-07T20:52:00+08:00",
+              "category": "frontier",
+              "uncertain": false
+            },
+            {
+              "id": "ai-20261008-gpt6-chatgpt",
+              "title": "OpenAI rolls out GPT-6 with Intelligent UI across ChatGPT",
+              "summary": "OpenAI 將 GPT-6 帶入 ChatGPT，新增「Intelligent UI」可直接用互動介面作答；付費用戶用 GPT-6 Sol，免費及 Go 用戶由 10 月 8 日起用 GPT-6 Luna。",
+              "source": "Unite.AI",
+              "sourceUrl": "https://www.unite.ai/openai-brings-gpt-6-with-intelligent-ui-to-all-chatgpt-tiers/",
+              "publishedAt": "2026-10-07T00:00:00+08:00",
+              "category": "frontier",
+              "uncertain": false,
+              "note": "Source gives date only; time not stated."
+            },
+            {
+              "id": "ai-20261008-claude-haiku-5-5",
+              "title": "Anthropic launches Claude Haiku 5.5",
+              "summary": "Anthropic 推出 Claude Haiku 5.5，主打平、快、適合大量任務，已上 AWS、Google Cloud 同 Azure。Max 同 Team 用戶本週起每月有 API 額度。",
+              "source": "Anthropic",
+              "sourceUrl": "https://www.anthropic.com/claude-haiku-5-5",
+              "publishedAt": "2026-10-07T00:00:00+08:00",
+              "category": "frontier",
+              "uncertain": false,
+              "note": "Source gives date only; time not stated."
+            }
+          ]
+        },
+        {
+          "id": "open-source",
+          "label": "Open-source models",
+          "items": [
+            {
+              "id": "ai-20261008-liquid-d1",
+              "title": "Liquid AI releases open d1 decision models for edge devices",
+              "summary": "Liquid AI 開源 d1-3B 同實驗性 d1-omni-600M 兩款「決策模型」，支援文字、圖像同音訊輸入，主打邊緣裝置。",
+              "source": "Hugging Face Blog",
+              "sourceUrl": "https://huggingface.co/blog/LiquidAI/open-d1",
+              "publishedAt": "2026-10-08T00:54:00+08:00",
+              "category": "open-source",
+              "uncertain": false
+            },
+            {
+              "id": "ai-20261008-embeddinggemma-2",
+              "title": "Google releases EmbeddingGemma 2, an open multimodal embedding model",
+              "summary": "Google DeepMind 開源 7.4 億參數嘅 EmbeddingGemma 2，可將文字、圖片、音訊、影片同 code 放入同一 embedding 空間，Apache 2.0 授權，適合裝置端運行。",
+              "source": "Google Blog",
+              "sourceUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
+              "publishedAt": "2026-10-07T00:00:00+08:00",
+              "category": "open-source",
+              "uncertain": false
+            },
+            {
+              "id": "ai-20261008-pplx-embed-v2-late",
+              "title": "Perplexity open-sources pplx-embed-v2-late multimodal retrievers",
+              "summary": "Perplexity 開源 0.6B 同 9B 兩款多模態 ColBERT 檢索模型，可唔經 OCR 直接搜 PDF 同簡報，MIT 授權放上 Hugging Face。",
+              "source": "AICoder",
+              "sourceUrl": "https://aicoder.com/news/news-20261008-perplexity-pplx-embed-v2-late-multimodal-colbert",
+              "publishedAt": "2026-10-07T00:00:00+08:00",
+              "category": "open-source",
+              "uncertain": false,
+              "note": "Release dated Oct 7; time not stated."
+            },
+            {
+              "id": "ai-20261008-mistral-large-4",
+              "title": "Mistral unveils Mistral Large 4 (1.05T-parameter MoE) in public preview",
+              "summary": "Mistral 發布 Mistral Large 4，總參數 1.05 萬億、活躍 490 億，支援 100 萬 token context；現時只有 API 預覽，開放權重預計 10 月底推出。",
+              "source": "Unite.AI",
+              "sourceUrl": "https://www.unite.ai/mistral-unveils-1-05t-parameter-le-chonk-moe-model-in-public-preview/",
+              "publishedAt": "2026-10-06T00:00:00+08:00",
+              "category": "open-source",
+              "uncertain": false,
+              "note": "Weights not released yet; announced Oct 6 (time not stated)."
+            }
+          ]
+        },
+        {
+          "id": "hk",
+          "label": "香港 AI",
+          "items": [
+            {
+              "id": "ai-20261008-hk-pcpd-ai-sandbox",
+              "title": "PCPD and Digital Policy Office hold AI sandbox roadshow for schools",
+              "summary": "私隱專員公署同數字政策辦公室為學校舉辦「保障個人資料 AI 沙盒」巡迴展，學校可申請至 10 月 30 日。",
+              "source": "PCPD",
+              "sourceUrl": "https://www.pcpd.org.hk/english/news_events/media_statements/press_20261007.html",
+              "publishedAt": "2026-10-07T00:00:00+08:00",
+              "category": "hk",
+              "uncertain": false,
+              "note": "Press release dated Oct 7; time not stated."
+            },
+            {
+              "id": "ai-20261008-hk-legco-ai-plan",
+              "title": "HK innovation chief briefs LegCo on AI push in first five-year plan",
+              "summary": "創科及工業局局長向立法會介紹五年規劃 AI 措施：沙嶺數據園區 2032 年前提供 18 萬 PFLOPS 算力，人工智能資助計劃再注資 10 億元，並會設 AI 專員。",
+              "source": "香港政府新聞公報",
+              "sourceUrl": "https://www.info.gov.hk/gia/general/202610/06/P2026100600279.htm",
+              "publishedAt": "2026-10-06T12:08:00+08:00",
+              "category": "hk",
+              "uncertain": false,
+              "note": "Time taken from CLB report of the briefing."
+            }
+          ]
+        },
+        {
+          "id": "hardware-shipping",
+          "label": "硬件：已上市裝置",
+          "items": [
+            {
+              "id": "ai-20261008-surface-laptop-ultra-rtx-spark",
+              "title": "Microsoft launches Surface Laptop Ultra and Dev Box on NVIDIA RTX Spark",
+              "summary": "Microsoft 發布 RTX Spark 晶片嘅 Surface Laptop Ultra（由 US$2,600 起，可預訂）同 US$6,000 起嘅 Surface RTX Spark Dev Box，主打本地跑 AI 模型；Windows 11 亦加入沙盒 AI agent 嘅 Execution Containers。",
+              "source": "TechCrunch",
+              "sourceUrl": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+              "publishedAt": "2026-10-08T04:22:00+08:00",
+              "category": "hardware-shipping",
+              "uncertain": false
+            },
+            {
+              "id": "ai-20261008-asus-proart-rtx-spark",
+              "title": "ASUS opens global pre-orders for ProArt RTX Spark AI laptops",
+              "summary": "ASUS ProArt P16、P14 RTX Spark 筆電全球開放預訂，最高 128GB 統一記憶體，美國 10 月 16 日到貨，Best Buy 由 US$2,599.99 起。",
+              "source": "ASUS Pressroom",
+              "sourceUrl": "https://press.asus.com/news/press-releases/asus-proart-rtx-spark-p16-p14-ai-pcs/",
+              "publishedAt": "2026-10-08T00:00:00+08:00",
+              "category": "hardware-shipping",
+              "uncertain": false,
+              "note": "Press release dated Oct 8 (dateline typo says 2027); time not stated."
+            },
+            {
+              "id": "ai-20261008-dgx-spark-64gb",
+              "title": "NVIDIA DGX Spark 64GB arrives Oct 23 from US$4,999",
+              "summary": "NVIDIA DGX Spark 新增 64GB 版本，10 月 23 日由 Acer、ASUS、Dell 等六家廠商發售，US$4,999 起，兩部可串連至 128GB；128GB 版本已經有售。",
+              "source": "NVIDIA Blog",
+              "sourceUrl": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/",
+              "publishedAt": "2026-10-02T00:00:00+08:00",
+              "category": "hardware-shipping",
+              "uncertain": false,
+              "note": "Announced Oct 2 (outside 48h); kept as the on-sale reference device the brief asked for."
+            }
+          ]
+        },
+        {
+          "id": "hardware-gadgets",
+          "label": "硬件：消費 AI gadgets",
+          "items": [
+            {
+              "id": "ai-20261008-xreal-aura-price",
+              "title": "XREAL AURA Android XR glasses priced from US$1,279",
+              "summary": "XREAL 公布同 Google、Qualcomm 合作、內置 Gemini 嘅 AURA XR 眼鏡售價 US$1,279 起，已預留用戶即日可落單，美加日韓即將出貨。",
+              "source": "PR Newswire",
+              "sourceUrl": "https://www.prnewswire.com/news-releases/xreal-aura-starts-at-1-279--bringing-wired-xr-glasses-with-android-xr-to-customers-this-year-302900445.html",
+              "publishedAt": "2026-10-07T00:00:00+08:00",
+              "category": "hardware-gadgets",
+              "uncertain": false,
+              "note": "Dated Oct 7; time not stated."
+            },
+            {
+              "id": "ai-20261008-vexo-band",
+              "title": "Vexo opens pre-orders for US$199 always-listening AI bracelet",
+              "summary": "YC 初創 Vexo 推出 US$199 AI 手環，聲稱會聽對話後主動代訂餐廳、寫電郵；首批只送三藩市，未公布出貨日期同電池續航。",
+              "source": "Founderland",
+              "sourceUrl": "https://www.founderland.ai/articles/vexo-launches-199-ai-bracelet-that-acts-without-prompts-muyhk5oi",
+              "publishedAt": "2026-10-07T00:00:00+08:00",
+              "category": "hardware-gadgets",
+              "uncertain": false,
+              "note": "Dated Oct 7; time not stated."
+            },
+            {
+              "id": "ai-20261008-sesame-glasses-assistant",
+              "title": "Sesame previews new voice assistant for its upcoming AI glasses",
+              "summary": "Sesame 為即將推出嘅 AI 眼鏡預覽新語音助理，可在 iOS／Android app 試用，助理可用工具及指揮其他 AI agent。",
+              "source": "Sesame",
+              "sourceUrl": "https://www.sesame.com/journal/a-new-form-of-eyewear",
+              "publishedAt": "2026-10-06T00:00:00+08:00",
+              "category": "hardware-gadgets",
+              "uncertain": false,
+              "note": "Glasses not on sale yet; dated Oct 6, time not stated."
+            }
+          ]
+        },
+        {
+          "id": "companies",
+          "label": "AI 公司",
+          "items": [
+            {
+              "id": "ai-20261008-nous-research-series-b",
+              "title": "Nous Research raises $90M at $1.5B valuation, launches Hermes for Businesses",
+              "summary": "開源 Hermes Agent 開發商 Nous Research 完成 9,000 萬美元 B 輪，估值 15 億美元，Nvidia 等參與，並推出企業版「Hermes for Businesses」。",
+              "source": "TechCrunch",
+              "sourceUrl": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+              "publishedAt": "2026-10-08T04:48:00+08:00",
+              "category": "companies",
+              "uncertain": false
+            },
+            {
+              "id": "ai-20261008-mecka-series-b",
+              "title": "Robot data startup Mecka AI raises $60M led by Sequoia",
+              "summary": "機械人數據初創 Mecka 完成由 Sequoia 領投嘅 6,000 萬美元 B 輪融資。",
+              "source": "TechCrunch",
+              "sourceUrl": "https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/",
+              "publishedAt": "2026-10-07T00:00:00+08:00",
+              "category": "companies",
+              "uncertain": false,
+              "note": "Dated Oct 7; time not stated."
+            }
+          ]
+        },
+        {
+          "id": "markets",
+          "label": "AI 股市",
+          "items": [
+            {
+              "id": "ai-20261008-gpu-collateral-debate",
+              "title": "Lenders question how long Nvidia GPUs hold value, weighing on AI financing",
+              "summary": "華爾街銀行認為 GPU 可用年期只有 3–4 年，Nvidia 則指可達十年；呢個分歧影響 AI 數據中心融資成本，牽動一眾 AI 股。",
+              "source": "The Motley Fool",
+              "sourceUrl": "https://www.fool.com/investing/2026/10/07/the-500-billion-question-causing-waves-across-ever/",
+              "publishedAt": "2026-10-07T16:17:00+08:00",
+              "category": "markets",
+              "uncertain": false
+            },
+            {
+              "id": "ai-20261008-nvda-record-spacex",
+              "title": "Nvidia hits record then dips as SpaceX seeks $40B to buy its GPUs",
+              "summary": "Nvidia 股價一度創新高逾 243 美元，10 月 7 日收 237.47 美元；SpaceX 據報正籌組約 400 億美元債務融資購買 Nvidia GPU。",
+              "source": "CNBC",
+              "sourceUrl": "https://www.cnbc.com/investingclub/2026/10/07/spacexs-plans-to-buy-more-nvidia-gpus-is-keeping-jim-cramer-bullish-on-the-chip-stock-.html",
+              "publishedAt": "2026-10-07T00:00:00+08:00",
+              "category": "markets",
+              "uncertain": false,
+              "note": "Closing price from exa.ai market data; SpaceX financing is reported, not confirmed. Dated Oct 7 US; time not stated."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gaming",
+      "label": "Gaming",
+      "sections": [
+        {
+          "id": "pc-switch2",
+          "label": "PC／Switch 2 發售",
+          "items": [
+            {
+              "id": "gaming-20261008-minecraft-switch2-preorder",
+              "title": "Minecraft for Switch 2 pre-orders open, free digital upgrade until end of January",
+              "summary": "Switch 2 版《Minecraft》開放預購，10 月 27 日推出，支援 Vibrant Visuals；Switch 數位版玩家喺 2027 年 1 月底前可免費升級（日本、台灣除外）。",
+              "source": "Nintendo Life",
+              "sourceUrl": "https://www.nintendolife.com/news/2026/10/minecraft-switch-2-pre-orders-now-live-free-digital-upgrade-path-confirmed-as-limited-time-offer",
+              "publishedAt": "2026-10-08T08:25:00+08:00",
+              "category": "pc-switch2",
+              "platforms": [
+                "Switch 2"
+              ],
+              "releaseDate": "2026-10-27",
+              "uncertain": false
+            },
+            {
+              "id": "gaming-20261008-order-sinking-star",
+              "title": "Jonathan Blow's Order of the Sinking Star launches today on Switch 2 and PC",
+              "summary": "《Braid》《The Witness》作者 Jonathan Blow 新作《Order of the Sinking Star》今日推出，主打超過一千個互相串連嘅手工解謎關卡。",
+              "source": "Nintendo UK",
+              "sourceUrl": "https://www.nintendo.com/en-gb/News/2026/October/Upcoming-Games-October-2026-3208377.html",
+              "publishedAt": "2026-10-08T00:00:00+08:00",
+              "category": "pc-switch2",
+              "platforms": [
+                "Switch 2",
+                "PC"
+              ],
+              "releaseDate": "2026-10-08",
+              "uncertain": false,
+              "note": "Nintendo UK monthly release list; page time not stated. PC date per Steam upcoming list."
+            },
+            {
+              "id": "gaming-20261008-kingdom-hearts-collection-switch2",
+              "title": "Kingdom Hearts Collection [I–III] arrives natively on Switch 2",
+              "summary": "《Kingdom Hearts》全系列今日以 Switch 2 原生版推出，包括 HD 1.5+2.5 ReMIX、HD 2.8 同 KH III + Re Mind；舊 Cloud 版玩家可折扣購買並轉移存檔。",
+              "source": "Nintendo UK",
+              "sourceUrl": "https://www.nintendo.com/en-gb/News/2026/October/Upcoming-Games-October-2026-3208377.html",
+              "publishedAt": "2026-10-08T00:00:00+08:00",
+              "category": "pc-switch2",
+              "platforms": [
+                "Switch 2"
+              ],
+              "releaseDate": "2026-10-08",
+              "uncertain": false,
+              "note": "Nintendo UK monthly release list; page time not stated."
+            },
+            {
+              "id": "gaming-20261008-switch2-oct8-wave",
+              "title": "12 new Switch 2 games land on October 8",
+              "summary": "今日係 Switch 2 推出以嚟最忙嘅發售日之一，一日有 12 隻新作，包括 Hell Is Us、The Crew Motorfest、Once Upon a Katamari 同 Hellraiser: Revival。",
+              "source": "Game Rant",
+              "sourceUrl": "https://gamerant.com/switch-2-games-coming-out-soon-october-2026/",
+              "publishedAt": "2026-10-08T00:00:00+08:00",
+              "category": "pc-switch2",
+              "platforms": [
+                "Switch 2"
+              ],
+              "releaseDate": "2026-10-08",
+              "uncertain": false,
+              "note": "Article publish time not stated; date set to the release day."
+            },
+            {
+              "id": "gaming-20261008-cities-skylines-expanded-switch2",
+              "title": "Cities: Skylines – Expanded Edition comes to Switch 2 on October 28",
+              "summary": "Paradox 宣布 Switch 2 版《Cities: Skylines》加強版，可建區域由 9 格加到 25 格，支援鍵盤滑鼠同 60fps 模式；Switch 舊版玩家有七折優惠。",
+              "source": "Paradox Interactive (Cision)",
+              "sourceUrl": "https://news.cision.com/paradox-interactive/r/cities--skylines---expanded-edition-launches-on-nintendo-switch-2-on-october-28,c4404643",
+              "publishedAt": "2026-10-07T00:00:00+08:00",
+              "category": "pc-switch2",
+              "platforms": [
+                "Switch 2"
+              ],
+              "releaseDate": "2026-10-28",
+              "uncertain": false,
+              "note": "Release posted Oct 7, 17:21 Stockholm time; set to date only."
+            },
+            {
+              "id": "gaming-20261008-gears-eday-pc",
+              "title": "Gears of War: E-Day launches on PC to modest Steam reception",
+              "summary": "《Gears of War: E-Day》已於 10 月 6 日登陸 Steam，據報 Steam 同時在線高峰約 31,500 人，評價一般。",
+              "source": "TechPowerUp",
+              "sourceUrl": "https://www.techpowerup.com/353482/gears-of-war-e-day-launches-to-modest-reviews-and-31-500-peak-steam-players",
+              "publishedAt": "2026-10-07T00:00:00+08:00",
+              "category": "pc-switch2",
+              "platforms": [
+                "PC",
+                "Xbox Series X|S"
+              ],
+              "releaseDate": "2026-10-06",
+              "uncertain": true,
+              "note": "Article date not confirmed; peak player figure from the article headline."
+            }
+          ]
+        },
+        {
+          "id": "news",
+          "label": "遊戲新聞",
+          "items": [
+            {
+              "id": "gaming-20261008-my-mario-free-games",
+              "title": "Nintendo releases two free My Mario games: Hello, Peach! and Hello, Luigi!",
+              "summary": "任天堂喺 eShop 免費推出幼兒向《Hello, Peach!》同《Hello, Luigi!》，Switch 同 Switch 2 都玩得。",
+              "source": "Screen Rant",
+              "sourceUrl": "https://screenrant.com/nintendo-switch-super-mario-free-games/",
+              "publishedAt": "2026-10-08T03:53:00+08:00",
+              "category": "news",
+              "platforms": [
+                "Switch",
+                "Switch 2"
+              ],
+              "uncertain": false
+            },
+            {
+              "id": "gaming-20261008-zelda-switch2-bundle-restock",
+              "title": "Switch 2 Zelda Edition pre-orders return at $519.99",
+              "summary": "Switch 2 Zelda 版同捆再度開放預購，係首款全彩 Joy-Con 2，10 月 29 日出貨；之前三輪補貨都喺幾個鐘內賣晒。",
+              "source": "Tech Times",
+              "sourceUrl": "https://www.techtimes.com/articles/328740/20261007/zelda-switch-2-pre-orders-return-first-full-color-joy-con-ships-anniversary-bundle.htm",
+              "publishedAt": "2026-10-07T00:00:00+08:00",
+              "category": "news",
+              "platforms": [
+                "Switch 2"
+              ],
+              "releaseDate": "2026-10-29",
+              "uncertain": false,
+              "note": "US pricing and retailers; source gives date only."
+            }
+          ]
+        },
+        {
+          "id": "other-consoles",
+          "label": "其他主機",
+          "items": [
+            {
+              "id": "gaming-20261008-ps5-crunchyroll-hub",
+              "title": "PS5 to get a Crunchyroll anime hub on the home screen in spring 2027",
+              "summary": "Sony 宣布 2027 年春季喺 PS5 主畫面加入 Crunchyroll 動畫專區，集中動畫同動畫風遊戲。",
+              "source": "Variety",
+              "sourceUrl": "https://variety.com/2026/gaming/news/playstation-ps5-new-crunchyroll-anime-hub-1236904550/",
+              "publishedAt": "2026-10-08T05:30:00+08:00",
+              "category": "other-consoles",
+              "platforms": [
+                "PS5"
+              ],
+              "uncertain": false
+            },
+            {
+              "id": "gaming-20261008-gta6-xbox-streaming",
+              "title": "Xbox denies report that GTA 6 streaming will be Xbox-exclusive or come to PC",
+              "summary": "Xbox 否認 GTA 6 雲端串流由 Xbox 獨佔嘅報道，並指遊戲 11 月 19 日喺 Xbox 推出，但唔會獨家串流、亦唔會串流到 PC。",
+              "source": "Forbes",
+              "sourceUrl": "https://www.forbes.com/sites/paultassi/2026/10/07/xbox-rejects-gta-6-pc-streaming-and-exclusivity-report-though-questions-remain/",
+              "publishedAt": "2026-10-07T22:18:00+08:00",
+              "category": "other-consoles",
+              "platforms": [
+                "Xbox",
+                "PS5"
+              ],
+              "releaseDate": "2026-11-19",
+              "uncertain": false
+            },
+            {
+              "id": "gaming-20261008-gamepass-oct-wave1",
+              "title": "Game Pass October wave 1: Battlefield 6, Valor Mortis, Forever Ago",
+              "summary": "Xbox 公布 10 月第一波 Game Pass：Forever Ago、Echo Weaver 10 月 8 日加入，Battlefield 6 同 Valor Mortis 10 月 13 日加入。",
+              "source": "Xbox Wire",
+              "sourceUrl": "https://news.xbox.com/en-us/2026/10/07/xbox-game-pass-october-2026-wave-1/",
+              "publishedAt": "2026-10-07T00:00:00+08:00",
+              "category": "other-consoles",
+              "platforms": [
+                "Xbox Series X|S",
+                "PC",
+                "Cloud"
+              ],
+              "uncertain": false,
+              "note": "Source gives date only (US date Oct 7)."
+            },
+            {
+              "id": "gaming-20261008-used-ps5-pro-price",
+              "title": "Used PS5 Pro listed at $1,329.99 at GameStop amid console shortages",
+              "summary": "GameStop 二手 PS5 Pro 標價 1,329.99 美元；報道指 GTA 6 臨近推出令主機缺貨。",
+              "source": "Destructoid",
+              "sourceUrl": "https://www.destructoid.com/were-at-a-point-where-stores-are-selling-used-ps5s-for-1300/",
+              "publishedAt": "2026-10-07T00:00:00+08:00",
+              "category": "other-consoles",
+              "platforms": [
+                "PS5"
+              ],
+              "uncertain": false,
+              "note": "US pricing; source time zone not stated, so date only."
+            }
+          ]
+        },
+        {
+          "id": "other",
+          "label": "其他遊戲新聞",
+          "items": [
+            {
+              "id": "gaming-20261008-gravity-well-layoffs",
+              "title": "Gravity Well lays off majority of staff",
+              "summary": "遊戲工作室 Gravity Well 裁走大部分員工。",
+              "source": "Inven Global",
+              "sourceUrl": "https://www.invenglobal.com/articles/26919/gravity-well-lays-off-majority-of-staff",
+              "publishedAt": "2026-10-08T08:15:00+08:00",
+              "category": "other",
+              "uncertain": true,
+              "note": "Only the headline was readable; details not verified."
+            },
+            {
+              "id": "gaming-20261008-unity-spark",
+              "title": "Unity unveils Unity Spark, a no-code web game creator tied to Google Playground",
+              "summary": "Unity 公布 Unity Spark，用文字提示喺瀏覽器整遊戲，唔使寫 code；今年稍後可直接發布去 Google Playground，目前開放候補名單。",
+              "source": "TAU-HOME",
+              "sourceUrl": "https://tau-home.com/en/post/unity-spark-no-code-web-game-creation-google-playground/",
+              "publishedAt": "2026-10-08T00:00:00+08:00",
+              "category": "other",
+              "uncertain": false,
+              "note": "Secondary source; announced Oct 7. Source gives date only."
+            },
+            {
+              "id": "gaming-20261008-bit-reactor-staff-return",
+              "title": "Star Wars Zero Company studio Bit Reactor brings back some furloughed staff",
+              "summary": "《Star Wars Zero Company》開發商 Bit Reactor 開始召回部分停薪留職員工；之前據報約八成員工喺遊戲推出前被停薪留職。",
+              "source": "Maxbit Games",
+              "sourceUrl": "https://games.maxbit.cc/an-important-step-forward-some-staff-at-star-wars-zero-company-developer-bit-reactor-return-to-work-after-massive-furloughs/",
+              "publishedAt": "2026-10-08T00:00:00+08:00",
+              "category": "other",
+              "uncertain": false,
+              "note": "Secondary source citing GameFile; source gives date only."
+            },
+            {
+              "id": "gaming-20261008-xbox-sharma-town-hall",
+              "title": "Xbox CEO Asha Sharma reportedly tells staff first-party is back to growth",
+              "summary": "據 Windows Central 報道，Xbox CEO Asha Sharma 喺內部會議話第一方遊戲業務「開始回復增長」，又暗示 Game Pass 會更有彈性。",
+              "source": "VGC",
+              "sourceUrl": "https://www.videogameschronicle.com/news/xbox-has-started-to-return-to-growth-in-first-party-following-an-all-time-low-ceo-asha-sharma-reportedly-tells-staff/",
+              "publishedAt": "2026-10-07T16:35:00+08:00",
+              "category": "other",
+              "uncertain": false,
+              "note": "Report of an internal meeting; no official figures. Time assumes UK time (BST)."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
