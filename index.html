@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="zh-Hant-HK">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="Gary's Daily Brief — AI 同 Gaming 每日新聞摘要。" />
+  <meta name="color-scheme" content="light" />
+  <title>Gary's Daily Brief</title>
+  <link rel="icon" href="favicon.svg" type="image/svg+xml" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <a class="skip-link" href="#brief">跳至內容</a>
+
+  <header class="site-header" id="top">
+    <div class="header-inner">
+      <a class="brand" href="#top">
+        <span class="brand-mark" aria-hidden="true"></span>
+        <span class="brand-text">Gary's Daily Brief</span>
+      </a>
+      <p class="header-updated" id="updated-at" hidden></p>
+    </div>
+  </header>
+
+  <main>
+    <section class="intro" aria-labelledby="hero-title">
+      <div class="section-inner intro-inner">
+        <p class="eyebrow">每日新聞摘要 · 香港時間</p>
+        <h1 id="hero-title">Daily Brief</h1>
+        <p class="intro-sub">AI 同 Gaming 兩欄，精選來源、中文摘要。</p>
+
+        <div class="tab-bar" role="tablist" aria-label="新聞欄">
+          <button type="button" class="tab-btn is-active" role="tab" id="tab-ai" data-tab="ai" aria-selected="true" aria-controls="panel-ai">AI</button>
+          <button type="button" class="tab-btn" role="tab" id="tab-gaming" data-tab="gaming" aria-selected="false" aria-controls="panel-gaming">Gaming</button>
+        </div>
+
+        <div class="archive-row" id="archive-row" hidden>
+          <label class="archive-label" for="archive-select">Archive</label>
+          <select id="archive-select" class="archive-select">
+            <option value="">Latest</option>
+          </select>
+        </div>
+      </div>
+    </section>
+
+    <section class="brief-section" id="brief" aria-live="polite">
+      <div class="section-inner">
+        <div id="load-status" class="status" role="status">載入中…</div>
+
+        <div id="panel-ai" class="tab-panel" role="tabpanel" aria-labelledby="tab-ai" hidden>
+          <div class="filter-bar" id="filter-ai" role="group" aria-label="AI 分類篩選"></div>
+          <div class="sections" id="sections-ai"></div>
+          <p class="status empty-msg" id="empty-ai" hidden>呢個分類暫時冇新聞。</p>
+        </div>
+
+        <div id="panel-gaming" class="tab-panel" role="tabpanel" aria-labelledby="tab-gaming" hidden>
+          <div class="filter-bar" id="filter-gaming" role="group" aria-label="Gaming 分類篩選"></div>
+          <div class="sections" id="sections-gaming"></div>
+          <p class="status empty-msg" id="empty-gaming" hidden>呢個分類暫時冇新聞。</p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <p class="disclaimer">公開來源整理，唔構成投資或購買建議。時間以 Asia/Hong_Kong 顯示。</p>
+      <p class="footer-meta">
+        <span id="footer-updated"></span>
+        · <a href="data/data.json">data.json</a>
+        · <a href="docs/SCHEMA.md">schema</a>
+      </p>
+    </div>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
