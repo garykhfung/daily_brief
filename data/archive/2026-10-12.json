@@ -1,0 +1,420 @@
+{
+  "updatedAt": "2026-10-12T07:50:21+08:00",
+  "timezone": "Asia/Hong_Kong",
+  "tabs": [
+    {
+      "id": "ai",
+      "label": "AI",
+      "sections": [
+        {
+          "id": "frontier",
+          "label": "Frontier models",
+          "items": [
+            {
+              "id": "ai-20261012-nadella-emergency-brake",
+              "title": "Nadella: assume AI models are compromised; build an emergency brake",
+              "summary": "微軟行政總裁 Nadella 喺 X 發文，指要重新審視 AI「信任架構」，應假設模型已被攻破並由一開始封控，要求模型同編排層分離、行動留有防篡改紀錄，以及授權人員可隨時「緊急剎車」暫停或關閉執行中嘅模型。",
+              "source": "TechCrunch",
+              "sourceUrl": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+              "publishedAt": "2026-10-11T05:47:00+08:00",
+              "category": "frontier",
+              "uncertain": false
+            },
+            {
+              "id": "ai-20261012-white-house-incident-reporting",
+              "title": "White House says AI incident reporting and remediation are mandatory after Anthropic cases",
+              "summary": "白宮 Super Intelligence Force 向 Axios 表示，繼 Anthropic 披露 Claude 誤用政府及其他系統（包括虛假費城凶案舉報、簽證申請表格）後，AI 公司須立即通報相關事故並補救，強調「通報同補救並非可選」；惟聲明未清楚交代罰則同執行機制。",
+              "source": "Axios",
+              "sourceUrl": "https://www.axios.com/2026/10/09/anthropic-ai-security-white-house",
+              "publishedAt": "2026-10-09T00:00:00+08:00",
+              "category": "frontier",
+              "uncertain": false,
+              "note": "Axios exclusive dated/updated Oct 9, 2026; clock time not stated. New White House mandate follows Anthropic disclosure covered yesterday."
+            }
+          ]
+        },
+        {
+          "id": "open-source",
+          "label": "Open-source models",
+          "items": [
+            {
+              "id": "ai-20261012-thx01-open-source",
+              "title": "HAL-X open-sources THX-01 322M decision model under Apache 2.0",
+              "summary": "阿塞拜疆 HAL-X AI 喺 Hugging Face 開源 THX-01，約 3.22 億參數非自回歸「決策模型」，聲稱單次前向傳播約 10 毫秒輸出帶校準機率嘅結構化答案，可喺手機等裝置本地跑；權重同 Python 套件採 Apache 2.0，並有免費額度託管 API。",
+              "source": "Hugging Face Blog",
+              "sourceUrl": "https://huggingface.co/blog/doofz/thx-01-we-open-sourced-a-322m-decision-model-that",
+              "publishedAt": "2026-10-10T00:00:00+08:00",
+              "category": "open-source",
+              "uncertain": false,
+              "note": "HF community blog dated October 10, 2026; clock time not stated. Benchmarks vs Jev are vendor-reported."
+            }
+          ]
+        },
+        {
+          "id": "hk",
+          "label": "香港 AI",
+          "items": [
+            {
+              "id": "ai-20261012-cyberport-opc-hub",
+              "title": "Cyberport OPC Hub: 30+ one-person AI startups approved in three months",
+              "summary": "數碼港專為「一人公司」而設嘅 OPC Hub 自 7 月啟動僅三個月，已收到逾 40 份申請、超過 30 間企業獲批進駐，涵蓋地產科技、金融、教育同網絡安全等；行政總裁鄭松岩指中心提供較優惠 AI 推理詞元、算力、雲端同網絡安全諮詢，降低微型團隊試錯成本。",
+              "source": "香港文匯報",
+              "sourceUrl": "https://www.wenweipo.com/a/202610/12/AP6acbf145e4b01d54a286c67a.html",
+              "publishedAt": "2026-10-12T04:27:30+08:00",
+              "category": "hk",
+              "uncertain": false
+            },
+            {
+              "id": "ai-20261012-agibot-hk-office",
+              "title": "AGIBOT opens Hong Kong office as international R&D hub",
+              "summary": "內地具身智能企業智元創新（AGIBOT）於 10 月 9 日啟用銅鑼灣香港辦公室，作為國際研發總部，並計劃投入數千萬元與本地大學共建聯合實驗室；引進辦同創科局均表示有助推動「AI 產業化、產業 AI 化」，公司亦已展開中大、科大、港大校園招聘。",
+              "source": "大公報",
+              "sourceUrl": "https://www.tkww.hk/epaper/view/newsDetail/2108626617826938880.html",
+              "publishedAt": "2026-10-10T00:00:00+08:00",
+              "category": "hk",
+              "uncertain": false,
+              "note": "Ta Kung Pao dated 2026-10-10 covering Oct 9 office opening; clock time not stated."
+            }
+          ]
+        },
+        {
+          "id": "hardware-shipping",
+          "label": "硬件：已上市裝置",
+          "items": [
+            {
+              "id": "ai-20261012-gigabyte-atom-ships",
+              "title": "GIGABYTE AI TOP ATOM DGX Spark in stock; est. ship date Oct 12 at US$7,999",
+              "summary": "CyberPowerPC 商店頁顯示 GIGABYTE AI TOP ATOM（NVIDIA DGX Spark，128GB 統一記憶體、GB10）現貨，估計出貨日為 2026 年 10 月 12 日，標價 US$7,999；配置包括 20 核 Arm CPU、4TB 加密 NVMe 同 DGX OS。",
+              "source": "CyberPowerPC",
+              "sourceUrl": "https://www.cyberpowerpc.com/system/GIGABYTE-AI-TOP-ATOM-NVIDIA-DGX-Spark-Desktop-AI-Supercomputer",
+              "publishedAt": "2026-10-12T00:00:00+08:00",
+              "category": "hardware-shipping",
+              "uncertain": false,
+              "note": "Retail listing checked Oct 12 HKT shows In Stock and Est. ship date Monday 10/12/2026. Page has no separate article timestamp."
+            }
+          ]
+        },
+        {
+          "id": "hardware-gadgets",
+          "label": "硬件：消費 AI gadgets",
+          "items": [
+            {
+              "id": "ai-20261012-rayban-meta-audio",
+              "title": "Ray-Ban Meta Audio AI glasses ship Oct 13 from US$349",
+              "summary": "Meta 官方確認首款無鏡頭 Ray-Ban Meta Audio 智能眼鏡將於 10 月 13 日開始出貨，起價 US$349；重約 43 克，主打開耳音訊、通話同 Meta AI，單次充電最長約 12 小時，充電盒再提供約 48 小時，有 Clubmaster 同 Burbank 兩款造型。",
+              "source": "Meta",
+              "sourceUrl": "https://www.meta.com/blog/ray-ban-meta-audio-and-deepest-ai-glasses-lineup/",
+              "publishedAt": "2026-09-23T00:00:00+08:00",
+              "category": "hardware-gadgets",
+              "uncertain": false,
+              "note": "Official Connect announcement dated Sep 23, 2026 (time not stated). Shipping date Oct 13 is the timely hook; contemporaneous Oct 9 roundups confirm imminent ship."
+            }
+          ]
+        },
+        {
+          "id": "companies",
+          "label": "AI 公司",
+          "items": [
+            {
+              "id": "ai-20261012-amazon-decart-talks",
+              "title": "WSJ: Amazon in talks to buy AI startup Decart for around US$7B",
+              "summary": "據《華爾街日報》引述知情人士，Amazon 正洽談以約 70 億美元收購 AI 初創 Decart；路透轉述指協議仍可能告吹或出現其他買家，雙方未回應。Decart 今年 5 月融資後估值近 40 億美元，上月 Anthropic 據報放棄約 60 億美元收購洽談。",
+              "source": "Reuters / Wall Street Journal",
+              "sourceUrl": "https://www.investing.com/news/stock-market-news/amazon-in-talks-to-buy-ai-startup-decart-for-around-7-billion-wsj-reports-4942850",
+              "publishedAt": "2026-10-12T05:16:00+08:00",
+              "category": "companies",
+              "uncertain": true,
+              "note": "Talks reported by WSJ Oct 11; Reuters could not independently verify. Deal not closed."
+            }
+          ]
+        },
+        {
+          "id": "markets",
+          "label": "AI 股市",
+          "items": [
+            {
+              "id": "ai-20261012-jefferies-ai-capex-warning",
+              "title": "Jefferies’ Chris Wood warns of ‘massive capital destruction’ in US AI boom",
+              "summary": "Jefferies 全球股票策略主管 Chris Wood 喺 10 月 9 日報告警告，美國 AI 熱潮長遠最可能結果係大規模資本摧毀，市佔流向更平價嘅中國開源模型；佢指美國超大規模雲端商 2026 年資本開支指引約 6,950 億美元，並引用 OpenRouter 數據指中國模型處理 token 量遠高於美國頭部模型。",
+              "source": "Bloomberg / Jefferies",
+              "sourceUrl": "https://news.bgov.com/artificial-intelligence/jefferies-chris-wood-sees-massive-capital-destruction-in-ai",
+              "publishedAt": "2026-10-09T17:33:00+08:00",
+              "category": "markets",
+              "uncertain": false,
+              "note": "Bloomberg coverage of Jefferies GREED & fear note dated Oct 9, 2026 9:33 AM UTC. Quote only; not investment advice."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gaming",
+      "label": "Gaming",
+      "sections": [
+        {
+          "id": "pc-switch2",
+          "label": "PC／Switch 2 發售",
+          "items": [
+            {
+              "id": "gaming-20261012-battleplan-steam",
+              "title": "Battleplan WW2 grand-strategy RTS launches on Steam",
+              "summary": "Foolish Mortals／Slitherine 二戰即時大戰略《Battleplan》今日（10 月 12 日）喺 Steam 推出；玩法係喺地圖上手繪計劃，指揮師級單位，地圖用真實地理數據。",
+              "source": "Steam",
+              "sourceUrl": "https://store.steampowered.com/app/3743140/Battleplan/",
+              "publishedAt": "2026-10-12T00:00:00+08:00",
+              "category": "pc-switch2",
+              "platforms": [
+                "PC"
+              ],
+              "releaseDate": "2026-10-12",
+              "uncertain": false,
+              "note": "Steam planned release Oct 12, 2026; Games Press / Slitherine confirmed date. Unlock later today HKT."
+            },
+            {
+              "id": "gaming-20261012-hubert-steam",
+              "title": "Hubert shepherd-dog adventure launches on Steam",
+              "summary": "Brocap Studio 第三人稱牧羊犬冒險《Hubert》今日喺 Steam 推出；玩家以狗狗視角趕羊、追蹤氣味，喺北方荒野守護農莊同唯一信任自己嘅人。",
+              "source": "Steam",
+              "sourceUrl": "https://store.steampowered.com/app/764930/Hubert/",
+              "publishedAt": "2026-10-12T00:00:00+08:00",
+              "category": "pc-switch2",
+              "platforms": [
+                "PC"
+              ],
+              "releaseDate": "2026-10-12",
+              "uncertain": false,
+              "note": "Steam planned release Oct 12, 2026; Games Press confirmed date."
+            },
+            {
+              "id": "gaming-20261012-colorbound-launch",
+              "title": "Colorbound palette-platformer launches on PC, Switch 2, PS5, and Xbox",
+              "summary": "Panpipe／Whitethorn 解謎平台《Colorbound》今日登陸 PC、Switch／Switch 2、PS5 同 Xbox；玩家用顏色改變環境解謎，故事取材安第斯 Aymara 文化。",
+              "source": "Games Press",
+              "sourceUrl": "https://www.gamespress.com/COLORBOUND-LAUNCHING-OCTOBER-12-ON-PC-AND-CONSOLES",
+              "publishedAt": "2026-10-12T00:00:00+08:00",
+              "category": "pc-switch2",
+              "platforms": [
+                "PC",
+                "Switch",
+                "Switch 2",
+                "PS5",
+                "Xbox Series X|S"
+              ],
+              "releaseDate": "2026-10-12",
+              "uncertain": false,
+              "note": "Games Press dated Sep 11 with Oct 12 launch; Steam store confirms Oct 12. Also listed on Xbox Wire next-week roundup."
+            },
+            {
+              "id": "gaming-20261012-moonfrost-early-access",
+              "title": "Moonfrost cozy life-sim enters Steam Early Access",
+              "summary": "Oxalis Games 溫馨生活 RPG《Moonfrost》今日進入 Steam Early Access（約英國時間傍晚）；重建被隕石摧殘嘅村莊，耕種、交友同探索第二個月亮嘅謎團。",
+              "source": "Games Press",
+              "sourceUrl": "https://www.gamespress.com/Moonfrost-The-Epicosy-Life-Sim-Builder-Is-Almost-Here-Rebuild-a-Commun",
+              "publishedAt": "2026-10-12T00:00:00+08:00",
+              "category": "pc-switch2",
+              "platforms": [
+                "PC"
+              ],
+              "releaseDate": "2026-10-12",
+              "uncertain": false,
+              "note": "Games Press: EA Oct 12 at 6 PM UK (~01:00 HKT Oct 13). Steam lists Oct 12. Price $14.99 during EA."
+            },
+            {
+              "id": "gaming-20261012-spy-drops-gaiden-steam",
+              "title": "Spy Drops Gaiden Game Boy-style stealth launches on Steam",
+              "summary": "Dadako／Rainy Frog 復古 Game Boy 風潛行《Spy Drops Gaiden》今日喺 Steam 推出（約 $4.99）；八個關卡潛入敵方基地，支援 Win／Mac／Linux。",
+              "source": "Gematsu",
+              "sourceUrl": "https://www.gematsu.com/2026/09/spy-drops-gaiden-launches-october-12",
+              "publishedAt": "2026-10-12T00:00:00+08:00",
+              "category": "pc-switch2",
+              "platforms": [
+                "PC",
+                "Mac",
+                "Linux"
+              ],
+              "releaseDate": "2026-10-12",
+              "uncertain": false,
+              "note": "Gematsu dated Sep 9 for Oct 12 PC launch; Steam confirms Oct 12 unlock. Multiplat claims elsewhere not used — Gematsu/Steam are PC-only."
+            },
+            {
+              "id": "gaming-20261012-haunted-heist-steam",
+              "title": "Haunted Heist asymmetrical horror party game launches on Steam",
+              "summary": "autotroph 嘅 3–8 人非對稱恐怖派對《Haunted Heist》今日喺 Steam（Win／Mac）推出；Heisters 搶寶石，Tricksters 用隱形、變聲等能力阻撓。",
+              "source": "Steam",
+              "sourceUrl": "https://store.steampowered.com/app/4024440/Haunted_Heist/",
+              "publishedAt": "2026-10-12T00:00:00+08:00",
+              "category": "pc-switch2",
+              "platforms": [
+                "PC",
+                "Mac"
+              ],
+              "releaseDate": "2026-10-12",
+              "uncertain": false,
+              "note": "Steam planned release Oct 12, 2026; unlock later today HKT."
+            },
+            {
+              "id": "gaming-20261012-alpha-nomos-launch",
+              "title": "Alpha Nomos rhythm-action roguelite launches on PC, PS5, and Xbox",
+              "summary": "RibCage Games 節奏動作 Roguelite《Alpha Nomos》今日登陸 Steam、PS5 同 Xbox Series；要踩住音樂節拍攻擊，樂器武器係現場錄音。",
+              "source": "Games Press",
+              "sourceUrl": "https://www.gamespress.com/Alpha-Nomos-Drops-the-Beat-on-Steam-PlayStation-5-and-Xbox-Series-XS-O",
+              "publishedAt": "2026-10-12T00:00:00+08:00",
+              "category": "pc-switch2",
+              "platforms": [
+                "PC",
+                "PS5",
+                "Xbox Series X|S"
+              ],
+              "releaseDate": "2026-10-12",
+              "uncertain": false,
+              "note": "Games Press dated Sep 24; Steam and Xbox Wire confirm Oct 12."
+            }
+          ]
+        },
+        {
+          "id": "news",
+          "label": "遊戲新聞",
+          "items": [
+            {
+              "id": "gaming-20261012-gods-with-badges-announced",
+              "title": "Strange Scaffold announces Gods With Badges narrative police tactics game",
+              "summary": "《I Am Your Beast》團隊 Strange Scaffold 公布敘事戰術新作《Gods With Badges》，2027 年 Steam；玩法可關身體攝錄機解鎖新戰術，但之後唔會留底。",
+              "source": "Eurogamer",
+              "sourceUrl": "https://www.eurogamer.net/gods-with-badges-strange-scaffold-narrative-tactics-police-game",
+              "publishedAt": "2026-10-11T02:09:00+08:00",
+              "category": "news",
+              "platforms": [
+                "PC"
+              ],
+              "releaseDate": "TBA",
+              "uncertain": false,
+              "note": "Eurogamer published Oct 10, 2026, 7:09 p.m. UK (BST→HKT). Unveiled at Triple-I Initiative Oct 8; Steam 2027."
+            },
+            {
+              "id": "gaming-20261012-sparking-zero-crossplay-roadmap",
+              "title": "Dragon Ball: Sparking! ZERO roadmap adds cross-play beta after Summer 2027",
+              "summary": "Bandai Namco 為《Sparking! ZERO》兩周年公布路線圖：2027 年夏後會喺 PS5／Xbox／Steam 測試跨平台對戰，並加 Tower of Power；Switch／Switch 2 暫未入 beta。",
+              "source": "Nintendo Life",
+              "sourceUrl": "https://www.nintendolife.com/news/2026/10/dragon-ball-sparking-zero-announces-cross-play-in-new-road-map",
+              "publishedAt": "2026-10-11T01:30:00+08:00",
+              "category": "news",
+              "platforms": [
+                "PS5",
+                "Xbox Series X|S",
+                "PC",
+                "Switch",
+                "Switch 2"
+              ],
+              "uncertain": false,
+              "note": "Nintendo Life posted ~1:30am (page relative 'Yesterday' when fetched Oct 12). Bandai Namco Europe post dated Oct 9."
+            },
+            {
+              "id": "gaming-20261012-switch-sports-resort-pax-preview",
+              "title": "PAX Aus hands-on: Switch Sports Resort archery, thumb wrestling, and more",
+              "summary": "Switchaboo 喺 PAX Aus 搶先試玩《Nintendo Switch Sports Resort》六項運動（射箭、保齡、水上電單車等）；遊戲定 10 月 22 日 Switch 2 發售，整體反應正面。",
+              "source": "Switchaboo",
+              "sourceUrl": "https://www.switchaboo.com/pax-aus-2026-preview-nintendo-switch-sports-resort/",
+              "publishedAt": "2026-10-11T00:00:00+08:00",
+              "category": "news",
+              "platforms": [
+                "Switch 2"
+              ],
+              "releaseDate": "2026-10-22",
+              "uncertain": false,
+              "note": "Article dated Oct 11, 2026; clock time not stated."
+            },
+            {
+              "id": "gaming-20261012-silent-hill-next-wave",
+              "title": "Konami already planning second and third waves of Silent Hill games",
+              "summary": "製作人岡本基向 Famitsu 表示，首波《Silent Hill》新作順利推出後，Konami 已喺考慮第二、第三波多個企劃；細節未公布，已知有 Bloober 原版重製。",
+              "source": "Eurogamer",
+              "sourceUrl": "https://www.eurogamer.net/konami-silent-hill-next-wave-new-games-okamoto",
+              "publishedAt": "2026-10-10T17:38:00+08:00",
+              "category": "news",
+              "uncertain": false,
+              "note": "Eurogamer published Oct 10, 2026, 10:38 a.m. UK (BST→HKT +7h)."
+            },
+            {
+              "id": "gaming-20261012-squadron-42-steam-wishlist",
+              "title": "Squadron 42 opens Steam wishlisting ahead of Q2 2027",
+              "summary": "Cloud Imperium《Squadron 42》（《Star Citizen》單人戰役）已開 Steam 願望清單，目標 2027 年第二季；Cast 包括 Mark Hamill、Gary Oldman、Henry Cavill 等。",
+              "source": "Games Press",
+              "sourceUrl": "https://www.gamespress.com/A-NEW-SCI-FI-EPIC-IS-ON-THE-HORIZON-SQUADRON-42-OPENS-WISHLISTING-ON-S",
+              "publishedAt": "2026-10-10T00:00:00+08:00",
+              "category": "news",
+              "platforms": [
+                "PC"
+              ],
+              "releaseDate": "TBA",
+              "uncertain": false,
+              "note": "Press dated Oct 10, 2026 (Manchester). Steam page live with Q2 2027. Exact clock time not stated."
+            }
+          ]
+        },
+        {
+          "id": "other-consoles",
+          "label": "其他主機",
+          "items": [
+            {
+              "id": "gaming-20261012-xbox-shortages-europe-gta6",
+              "title": "Severe Xbox Series X shortages continue in Europe ahead of GTA 6",
+              "summary": "Power Up Gaming 報道歐洲 Xbox Series X 官方渠道持續缺貨，二手／翻新價飆至約 €1,000–€1,390；微軟直銷有指要等最多四個月，GTA 6 前硬件更緊。",
+              "source": "Power Up Gaming",
+              "sourceUrl": "https://powerupgaming.co.uk/2026/10/11/severe-xbox-shortages-continue-in-europe-prices-skyrocket-ahead-of-gta-6-launch/",
+              "publishedAt": "2026-10-11T00:00:00+08:00",
+              "category": "other-consoles",
+              "platforms": [
+                "Xbox Series X|S"
+              ],
+              "uncertain": false,
+              "note": "Article dated Oct 11, 2026; clock time not stated. Prices cited from MediaMarkt/Denmark retailers."
+            },
+            {
+              "id": "gaming-20261012-blazblue-central-fiction-ps5",
+              "title": "BlazBlue: Central Fiction coming to PS5 with rollback and PC cross-play",
+              "summary": "Arc System Works 宣布《BlazBlue: Central Fiction》PS5 版開發中，會有 rollback netcode、同 Steam 跨平台，以及新訓練模式同語言；發售日未定。",
+              "source": "Gematsu",
+              "sourceUrl": "https://www.gematsu.com/2026/10/blazblue-central-fiction-coming-to-ps5",
+              "publishedAt": "2026-10-10T20:00:00+08:00",
+              "category": "other-consoles",
+              "platforms": [
+                "PS5"
+              ],
+              "releaseDate": "TBA",
+              "uncertain": false,
+              "note": "Gematsu Oct 10, 2026 / 8:00 AM EDT → 20:00 HKT. PS4 upgrade path details TBA per Push Square."
+            }
+          ]
+        },
+        {
+          "id": "other",
+          "label": "其他遊戲新聞",
+          "items": [
+            {
+              "id": "gaming-20261012-eu-virtual-currency-action",
+              "title": "EU takes action against Activision, Ubisoft, Riot over virtual-currency pricing",
+              "summary": "歐盟／意大利競爭當局針對十間公司（包括 Activision、Ubisoft、Riot、Mojang 等）虛擬貨幣捆綁定價同 dark patterns；Kotaku 報道指問題係買一堆幣卻永遠剩唔啱用嘅找數。",
+              "source": "Kotaku",
+              "sourceUrl": "https://kotaku.com/eu-taking-action-against-activision-riot-ubisoft-on-gamings-oldest-monetization-scheme-2000744153",
+              "publishedAt": "2026-10-12T02:33:15+08:00",
+              "category": "other",
+              "uncertain": false,
+              "note": "Kotaku published 2026-10-11T18:33:15Z → +08:00. GameRant also covered Oct 11 EDT."
+            },
+            {
+              "id": "gaming-20261012-gta6-cyberleek-full-build-threat",
+              "title": "GTA 6 leaker group Cyberleek threatens full playable build leak",
+              "summary": "VGC 報道洩密組織 Cyberleek 威脅：若其加密貨幣市值達 3,000 萬就洩完整可玩《GTA 6》劇情版，並要求實體光碟同公開道歉；Take-Two 正追查相關人。",
+              "source": "VGC",
+              "sourceUrl": "https://www.videogameschronicle.com/news/group-threatens-to-leak-full-gta-6-build-if-physical-plans-arent-reversed/",
+              "publishedAt": "2026-10-11T18:35:00+08:00",
+              "category": "other",
+              "uncertain": false,
+              "note": "VGC posted 11th Oct 2026 / 11:35 am UK (BST→HKT +7h)."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
