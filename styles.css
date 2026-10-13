@@ -335,6 +335,10 @@ a:hover {
   }
 }
 
+.item-body {
+  min-width: 0;
+}
+
 .item-media {
   margin: 0 0 0.75rem;
   border-radius: calc(var(--radius) - 2px);
@@ -344,9 +348,31 @@ a:hover {
 }
 
 .item-media img {
+  display: block;
   width: 100%;
   max-height: 220px;
   object-fit: cover;
+}
+
+/* Wider viewports: compact side thumbnail + body; stacked full-bleed on mobile. */
+@media (min-width: 640px) {
+  .item-card.has-media {
+    display: grid;
+    grid-template-columns: 140px minmax(0, 1fr);
+    gap: 0.85rem 1rem;
+    align-items: start;
+  }
+
+  .item-card.has-media .item-media {
+    margin: 0;
+    width: 140px;
+  }
+
+  .item-card.has-media .item-media img {
+    width: 140px;
+    height: 100px;
+    max-height: none;
+  }
 }
 
 .item-top {

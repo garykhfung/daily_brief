@@ -118,26 +118,40 @@
     const article = el("article", "item-card");
     if (item.uncertain) article.classList.add("is-uncertain");
 
-    if (item.image) {
+    const imageUrl = (typeof item.imageUrl === "string" && item.imageUrl.trim())
+      || (typeof item.image === "string" && item.image.trim())
+      || "";
+
+    if (imageUrl) {
       const media = el("figure", "item-media");
       const img = document.createElement("img");
-      img.src = item.image;
-      img.alt = escapeText(item.imageAlt || "");
+      img.src = imageUrl;
+      // Prefer real alt; empty over invented copy when missing.
+      img.alt = escapeText(
+        typeof item.imageAlt === "string" ? item.imageAlt : ""
+      );
       img.loading = "lazy";
       img.decoding = "async";
+      img.addEventListener("error", () => {
+        media.remove();
+        article.classList.remove("has-media");
+      });
       media.appendChild(img);
       article.appendChild(media);
+      article.classList.add("has-media");
     }
+
+    const body = el("div", "item-body");
 
     const top = el("div", "item-top");
     top.appendChild(el("h3", "item-title", item.title || "(untitled)"));
     if (item.uncertain) {
       top.appendChild(el("span", "pill pill-uncertain", "未確認"));
     }
-    article.appendChild(top);
+    body.appendChild(top);
 
     if (item.summary) {
-      article.appendChild(el("p", "item-summary", item.summary));
+      body.appendChild(el("p", "item-summary", item.summary));
     }
 
     const platforms = Array.isArray(item.platforms) ? item.platforms.filter(Boolean) : [];
@@ -149,7 +163,7 @@
       if (item.releaseDate) {
         extras.appendChild(el("span", "release-date", `Release: ${item.releaseDate}`));
       }
-      article.appendChild(extras);
+      body.appendChild(extras);
     }
 
     const meta = el("div", "item-meta");
@@ -165,12 +179,13 @@
     }
     const when = formatPublished(item.publishedAt, item.note);
     if (when) meta.appendChild(el("time", null, when));
-    article.appendChild(meta);
+    body.appendChild(meta);
 
     if (item.note) {
-      article.appendChild(el("p", "item-note", item.note));
+      body.appendChild(el("p", "item-note", item.note));
     }
 
+    article.appendChild(body);
     return article;
   }
 
