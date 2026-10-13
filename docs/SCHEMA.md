@@ -1,4 +1,9 @@
-# Daily Brief data schema (v1)
+# Daily Brief data schema (v1.1)
+
+Backward compatible with v1. Existing `image` fields keep working; desks should prefer `imageUrl` from the next batch.
+
+## Volume target
+Aim for **~25–30 items per tab** when real sources in the past 24–48h allow. Prefer quality over padding; empty sections stay empty. No invented items.
 
 ## Desk hand-off format (what AI News Desk / Gaming News Desk send to Daily Brief Site)
 {
@@ -18,11 +23,18 @@
   "category": "<section id below>",
   "platforms": ["PC","Switch 2"],     // gaming only, optional
   "releaseDate": "2026-11-20" | "TBA",// gaming release items only, only if sourced
-  "image": "https://...",             // optional, public image only
-  "imageAlt": "string",               // required if image
+  "imageUrl": "https://..." | null,   // preferred desk hand-off field; og:image / article hero only
+  "image": "https://...",             // accepted alias of imageUrl (either OK on hand-off)
+  "imageAlt": "string",               // required when image/imageUrl is set
   "uncertain": false,                 // true = flagged 未確認
   "note": "string"                    // optional, e.g. why uncertain
 }
+
+### Image rules
+- Prefer source `og:image` or clear article hero on the same page as `sourceUrl`.
+- Skip (set `imageUrl: null`) if none, paywalled, or license/ownership unclear.
+- Never invent URLs or hotlink random CDN noise.
+- Site storage persists the URL as `image` in data.json (+ `imageAlt` when present).
 
 ## Section ids
 AI tab ("ai"):
@@ -51,3 +63,4 @@ Gaming tab ("gaming"):
   ]
 }
 Daily Brief Site merges desk hand-offs into this file (sections in the order above, items newest first).
+On merge: normalize `imageUrl` → `image`; drop image fields when null/empty; keep `imageAlt` only when `image` is set.
