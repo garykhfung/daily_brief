@@ -1,0 +1,427 @@
+{
+  "updatedAt": "2026-10-13T07:49:11+08:00",
+  "timezone": "Asia/Hong_Kong",
+  "tabs": [
+    {
+      "id": "ai",
+      "label": "AI",
+      "sections": [
+        {
+          "id": "frontier",
+          "label": "Frontier models",
+          "items": [
+            {
+              "id": "ai-20261013-meta-muse-wonder",
+              "title": "Meta releases Muse Wonder and Muse Wonder Full frontier models",
+              "summary": "Meta Superintelligence Lab 推出 Muse Wonder 同 Muse Wonder Full，稱為公司首批 frontier 級模型，主打個人與專業 agent 任務、Active Memory 同 Active Focus；Wonder 已透過 Meta Model API 同 Muse Code 開放，輸入約 US$4／百萬 token、輸出約 US$20，Wonder Full 則僅限 Muse Code 訂戶。",
+              "source": "Meta / TechCrunch",
+              "sourceUrl": "https://about.fb.com/news/2026/10/introducing-muse-wonder-models/",
+              "publishedAt": "2026-10-12T00:00:00+08:00",
+              "category": "frontier",
+              "uncertain": false,
+              "note": "Meta Newsroom dated Oct 12, 2026 (clock time not stated). TechCrunch coverage 10:56 AM PDT Oct 12 (= 01:56 HKT Oct 13)."
+            }
+          ]
+        },
+        {
+          "id": "open-source",
+          "label": "Open-source models",
+          "items": [
+            {
+              "id": "ai-20261013-vllm-decision-3",
+              "title": "vLLM Semantic Router open-sources Decision 3.0 multimodal decision models",
+              "summary": "vLLM Semantic Router（vllm-sr）喺 Hugging Face 以 Apache 2.0 開源 Decision 3.0 系列六款多模態決策模型（d3 約 26B 至 d3-edge 約 0.6B），以單次前向傳播輸出選項機率而非逐字生成；支援文字、圖片同短片輸入。基準數字來自廠商自身評測，尚未有獨立覆核。",
+              "source": "Hugging Face",
+              "sourceUrl": "https://huggingface.co/collections/vllm-sr/decision-30",
+              "publishedAt": "2026-10-10T17:38:00+08:00",
+              "category": "open-source",
+              "uncertain": false,
+              "note": "Weights uploaded Oct 10, 2026 ~09:38 UTC (largest d3); collection still updating ~14h before this brief. Vendor-reported Jev Decision Index figures."
+            }
+          ]
+        },
+        {
+          "id": "hk",
+          "label": "香港 AI",
+          "items": [
+            {
+              "id": "ai-20261013-hk-ai-city-brain",
+              "title": "HK CS: AI City Brain to begin storm-season testing next year",
+              "summary": "政務司長陳國基接受訪問指，政府正將預警同監測系統整合入人工智能，施政報告提出嘅「AI城市大腦」預計最快明年風季成形並開始測試；計劃明年上半年完成基本設計並展開首階段開發，目標 2028 年首季正式使用。",
+              "source": "商業電台",
+              "sourceUrl": "https://www.881903.com/news/local/2654310",
+              "publishedAt": "2026-10-12T09:28:00+08:00",
+              "category": "hk",
+              "uncertain": false
+            }
+          ]
+        },
+        {
+          "id": "hardware-shipping",
+          "label": "硬件：已上市裝置",
+          "items": [
+            {
+              "id": "ai-20261013-rtx-spark-ships-oct16",
+              "title": "ASUS ProArt RTX Spark PCs: first U.S. units arrive Oct 16 from US$2,599",
+              "summary": "華碩確認 ProArt P16／P14（NVIDIA RTX Spark）美國首批於 10 月 16 日到貨，全球預購已於 10 月 7 日開始，Best Buy 起價約 US$2,599（24GB）；更高統一記憶體配置（含 64GB／128GB）主要經 ASUS eShop 同 Best Buy 銷售，迷你機 GR1X 稍後推出。",
+              "source": "ASUS",
+              "sourceUrl": "https://press.asus.com/news/press-releases/asus-proart-rtx-spark-p16-p14-ai-pcs/",
+              "publishedAt": "2026-10-08T00:00:00+08:00",
+              "category": "hardware-shipping",
+              "uncertain": false,
+              "note": "ASUS pressroom dated Oct 8, 2026 (clock time not stated; press dateline typo shows 2027). Timely hook: first U.S. units Oct 16. Tom's Hardware Oct 7 corroborates preorders and ship date."
+            }
+          ]
+        },
+        {
+          "id": "hardware-gadgets",
+          "label": "硬件：消費 AI gadgets",
+          "items": [
+            {
+              "id": "ai-20261013-fitbit-edge",
+              "title": "Google Fitbit Edge tracker with AI coaching: pre-order US$179.99, shelves Oct 27",
+              "summary": "Google 推出 Fitbit Edge 運動追蹤器，結合自動辨識運動同 Google Health Coach 個人化指導，建議零售價 US$179.99，現已開放預購，預計 10 月 27 日上架；聲稱最長約 7 日續航，並附三個月 Google Health Premium。",
+              "source": "Google",
+              "sourceUrl": "https://blog.google/products-and-platforms/devices/fitbit/google-fitbit-edge/",
+              "publishedAt": "2026-10-12T00:00:00+08:00",
+              "category": "hardware-gadgets",
+              "uncertain": false,
+              "note": "Google Wearables blog dated Oct 12, 2026; clock time not stated."
+            },
+            {
+              "id": "ai-20261013-qwen-n1-glasses-sale",
+              "title": "Alibaba Qwen N1 / N1 Pro AI glasses go on sale in China Oct 13; price still unlisted",
+              "summary": "阿里千問 AI 眼鏡 N1／N1 Pro 按雲栖大會公布於今日（10 月 13 日）喺中國現貨開售，N1 Pro 加入眼動追蹤、虹膜支付同健康監測；至開售前夕官方仍未公布售價，買家需留意定價同押金條款。",
+              "source": "MetaverseWatcher / 陀螺科技",
+              "sourceUrl": "https://www.metaversewatcher.io/alibaba-qwen-n1-n1-pro-glasses-on-sale-october-13-no-price/",
+              "publishedAt": "2026-10-12T00:00:00+08:00",
+              "category": "hardware-gadgets",
+              "uncertain": true,
+              "note": "Oct 12 eve-of-sale roundup; original Cloud Summit announce Sep 22 (tuoluo.cn). Official retail price still unpublished as of Oct 12 coverage — uncertain on price."
+            }
+          ]
+        },
+        {
+          "id": "companies",
+          "label": "AI 公司",
+          "items": [
+            {
+              "id": "ai-20261013-salesforce-loops",
+              "title": "Salesforce to acquire Loops for agentic analytics inside Tableau",
+              "summary": "Salesforce 宣布已簽署最終協議收購 AI 分析初創 Loops，計劃將其納入 Tableau，強化可解釋業務指標變動、主動監察 KPI，並可經 Slack／電郵觸發嘅 agentic analytics；交易預期於 Salesforce 2027 財政年度 11 月初完成，尚待慣常交割條件。",
+              "source": "Salesforce",
+              "sourceUrl": "https://www.salesforce.com/news/stories/salesforce-signs-definitive-agreement-to-acquire-loops/",
+              "publishedAt": "2026-10-12T00:00:00+08:00",
+              "category": "companies",
+              "uncertain": false,
+              "note": "Salesforce newsroom dated Oct 12, 2026; clock time not stated. Deal not yet closed."
+            },
+            {
+              "id": "ai-20261013-nvidia-reflection-talks",
+              "title": "FT: Nvidia in early talks to deepen stake in or buy Reflection AI",
+              "summary": "據《金融時報》引述知情人士，Nvidia 正早期洽談加深投資或收購開源 AI 初創 Reflection AI（已注資約 8 億美元，估值曾報約 250 億美元）；方案或包括 acqui-hire／授權，路透未能獨立核實，雙方未評論，協議仍可能告吹。",
+              "source": "CNBC-TV18 / Financial Times / Reuters",
+              "sourceUrl": "https://www.cnbctv18.com/technology/nvidia-in-talks-to-invest-further-in-reflection-ai-or-buy-it-ft-reports-20009206.htm",
+              "publishedAt": "2026-10-11T11:21:00+08:00",
+              "category": "companies",
+              "uncertain": true,
+              "note": "FT report via Reuters/CNBC-TV18 Oct 11, 2026 08:51 IST. Talks early-stage; Reuters could not independently verify."
+            }
+          ]
+        },
+        {
+          "id": "markets",
+          "label": "AI 股市",
+          "items": [
+            {
+              "id": "ai-20261013-imf-ai-jobs-growth",
+              "title": "IMF’s Georgieva: AI investment supports ~3% global growth; ‘slow-moving tsunami’ for jobs",
+              "summary": "IMF 總裁 Georgieva 喺曼谷年會指 AI 基建投資正支撐全球增長約 3%，並形容 AI 為影響就業、教育同稅收嘅「緩慢海嘯」；IMF 估計長遠約 40% 工作會被增強、降級或淘汰。僅引述報道，唔構成投資建議。",
+              "source": "Bangkok Post / Reuters",
+              "sourceUrl": "https://www.bangkokpost.com/business/general/3335668/imf-says-ai-investment-keeps-global-growth-around-3-with-major-asia-benefits",
+              "publishedAt": "2026-10-12T13:15:00+08:00",
+              "category": "markets",
+              "uncertain": false,
+              "note": "Reuters via Bangkok Post, published 12 Oct 2026 12:15 ICT (= 13:15 HKT). Quote only; not investment advice."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gaming",
+      "label": "Gaming",
+      "sections": [
+        {
+          "id": "pc-switch2",
+          "label": "PC／Switch 2 發售",
+          "items": [
+            {
+              "id": "gaming-20261013-planet-zoo-2-launch",
+              "title": "Planet Zoo 2 launches on PC, PS5, and Xbox Series",
+              "summary": "Frontier《Planet Zoo 2》今日（10 月 13 日）登陸 PC、PS5 同 Xbox Series；首次加入全水生同飛行動物、水族館／鳥舍，仲可以將動物放返野外 Wildlife Reserves。全球同日約英國時間下午 3 時解鎖。",
+              "source": "Planet Zoo Official",
+              "sourceUrl": "https://www.planetzoogame.com/en-US/2/news/2026-10-12/countdown-launch",
+              "publishedAt": "2026-10-13T00:00:00+08:00",
+              "category": "pc-switch2",
+              "platforms": [
+                "PC",
+                "PS5",
+                "Xbox Series X|S"
+              ],
+              "releaseDate": "2026-10-13",
+              "uncertain": false,
+              "note": "Official countdown Oct 12: unlocks all platforms 3pm BST Oct 13 (=22:00 HKT). Steam app 3219030 confirms Oct 13."
+            },
+            {
+              "id": "gaming-20261013-valor-mortis-launch",
+              "title": "Valor Mortis Napoleonic soulslike launches on PC, PS5, Xbox, and Game Pass",
+              "summary": "Ghostrunner 團隊 One More Level 第一人稱 Soulslike《Valor Mortis》今日推出；玩家係拿破崙軍隊復活士兵，Steam／PS5／Xbox 同步解鎖，並即日加入 Xbox Game Pass。",
+              "source": "Games Press",
+              "sourceUrl": "https://www.gamespress.com/Valor-Mortis-Launch-Trailer-Arrives-Alongside-Jennifer-English-and-Vin",
+              "publishedAt": "2026-10-13T00:00:00+08:00",
+              "category": "pc-switch2",
+              "platforms": [
+                "PC",
+                "PS5",
+                "Xbox Series X|S"
+              ],
+              "releaseDate": "2026-10-13",
+              "uncertain": false,
+              "note": "Games Press Oct 9: unlock 5:00 PM UTC Oct 13 (=01:00 HKT Oct 14). Xbox Wire confirms day-one Game Pass. Steam app 2828710."
+            },
+            {
+              "id": "gaming-20261013-deep-dish-dungeon-launch",
+              "title": "Deep Dish Dungeon survival Metroidvania launches on PC, Xbox, and Game Pass",
+              "summary": "Behold Studios／Raw Fury 生存探索《Deep Dish Dungeon》今日登陸 Steam、Xbox Series 同 Game Pass；手製迷宮兼有 Metroidvania／製作元素，可單人或最多三人線上合作。",
+              "source": "Gematsu",
+              "sourceUrl": "https://www.gematsu.com/2026/08/deep-dish-dungeon-launches-october-13",
+              "publishedAt": "2026-10-13T00:00:00+08:00",
+              "category": "pc-switch2",
+              "platforms": [
+                "PC",
+                "Xbox Series X|S",
+                "Mac"
+              ],
+              "releaseDate": "2026-10-13",
+              "uncertain": false,
+              "note": "Gematsu Aug 27 dating post; Steam app 2871520 confirms Oct 13 unlock. Xbox Wire lists day-one Game Pass."
+            },
+            {
+              "id": "gaming-20261013-trash-day-steam",
+              "title": "Trash Day physics raccoon co-op launches on Steam",
+              "summary": "前 Rocket League 開發者組成嘅 Off By One Games《Trash Day》今日喺 Steam 推出；最多六人扮演浣熊搶垃圾、推馬車去 Raccoon Paradise，有物理同工具解謎。",
+              "source": "Games Press",
+              "sourceUrl": "https://www.gamespress.com/TRASH-DAY-LAUNCHES-Oct-13-2026-ON-STEAM",
+              "publishedAt": "2026-10-13T00:00:00+08:00",
+              "category": "pc-switch2",
+              "platforms": [
+                "PC"
+              ],
+              "releaseDate": "2026-10-13",
+              "uncertain": false,
+              "note": "Games Press dated Sep 11 for Oct 13 Steam launch; Steam app 3314580 confirms Oct 13."
+            },
+            {
+              "id": "gaming-20261013-shogun-2-complete-edition",
+              "title": "Total War: SHOGUN 2 – Complete Edition launches on PC",
+              "summary": "SEGA／Creative Assembly《Total War: SHOGUN 2 - Complete Edition》今日喺 PC（Steam／Epic 等）推出；收錄三個戰役同全部主要 DLC，並有 4K UI、64-bit 同 Mod.io 等現代化更新。",
+              "source": "SEGA",
+              "sourceUrl": "https://sega.co.jp/en/release/260916_1.html",
+              "publishedAt": "2026-10-13T00:00:00+08:00",
+              "category": "pc-switch2",
+              "platforms": [
+                "PC"
+              ],
+              "releaseDate": "2026-10-13",
+              "uncertain": false,
+              "note": "SEGA release: Oct 13, 2026 at 16:00 BST (=23:00 HKT). Steam app 3846830. Existing owners get legacy DLC free (excl. Blood Pack)."
+            },
+            {
+              "id": "gaming-20261013-double-dealers-early-access",
+              "title": "Double Dealers bluffing auction game enters Steam Early Access",
+              "summary": "Miklagard Studios 3–6 人虛張聲勢拍賣對戰《Double Dealers》今日進入 Steam Early Access；賣家知真實條款，買家要靠談判同虛張聲勢，預計 EA 約六個月。",
+              "source": "Steam",
+              "sourceUrl": "https://store.steampowered.com/app/4218620/Double_Dealers/",
+              "publishedAt": "2026-10-13T00:00:00+08:00",
+              "category": "pc-switch2",
+              "platforms": [
+                "PC"
+              ],
+              "releaseDate": "2026-10-13",
+              "uncertain": false,
+              "note": "Steam store planned release Oct 13, 2026 Early Access; ~6 months EA per store page."
+            }
+          ]
+        },
+        {
+          "id": "news",
+          "label": "遊戲新聞",
+          "items": [
+            {
+              "id": "gaming-20261013-castlevania-belmonts-curse-week",
+              "title": "Castlevania: Belmont's Curse due October 15 on PC and consoles",
+              "summary": "Konami／Evil Empire 新 2D《Castlevania: Belmont's Curse》定本周四（10 月 15 日）登陸 PC、PS5、Xbox 同 Switch；故事喺《Castlevania III》23 年後，主角係 Rose Belmont。",
+              "source": "Konami",
+              "sourceUrl": "https://www.konami.com/games/eu/en/topics/19188/",
+              "publishedAt": "2026-10-15T00:00:00+08:00",
+              "category": "news",
+              "platforms": [
+                "PC",
+                "PS5",
+                "Xbox Series X|S",
+                "Switch"
+              ],
+              "releaseDate": "2026-10-15",
+              "uncertain": false,
+              "note": "Konami EU topics confirm Oct 15; week-ahead release. Switch (BC on Switch 2 per roundups)."
+            },
+            {
+              "id": "gaming-20261013-boltgun-2-tomorrow",
+              "title": "Warhammer 40,000: Boltgun 2 launches tomorrow on PC, PS5, and Xbox",
+              "summary": "Auroch／Devolver 復古 FPS 續作《Warhammer 40,000: Boltgun 2》定明日（10 月 14 日）登陸 PC、PS5 同 Xbox；可玩 Ultramarine 或 Sister of Battle，Switch 2 版稍後跟進。",
+              "source": "Steam",
+              "sourceUrl": "https://store.steampowered.com/app/3115160/Warhammer_40000_Boltgun_2/",
+              "publishedAt": "2026-10-14T00:00:00+08:00",
+              "category": "news",
+              "platforms": [
+                "PC",
+                "PS5",
+                "Xbox Series X|S"
+              ],
+              "releaseDate": "2026-10-14",
+              "uncertain": false,
+              "note": "Steam confirms Oct 14, 2026. Warp Pipes/week roundups note Switch 2 later, no date."
+            },
+            {
+              "id": "gaming-20261013-epic-ai-first",
+              "title": "Epic Games reportedly orders AI-first development on Disney shooter",
+              "summary": "VGC 引 Bloomberg：Epic 據報要求未公布嘅迪士尼合作射擊遊戲改「AI-first」製作、減少手寫程式；Tim Sweeney 亦公開提到公司正大規模轉向 AI 加速。",
+              "source": "VGC",
+              "sourceUrl": "https://www.videogameschronicle.com/news/epic-games-reportedly-orders-staff-to-implement-ai-first-development/",
+              "publishedAt": "2026-10-13T03:43:00+08:00",
+              "category": "news",
+              "uncertain": true,
+              "note": "VGC 12th Oct 2026 / 8:43 pm UK (BST→HKT +7h = 03:43 Oct 13). Based on Bloomberg report; Epic confirmed AI-accelerated stance in statement. Marked uncertain as internal details are reported."
+            },
+            {
+              "id": "gaming-20261013-battlefield-6-game-pass",
+              "title": "Battlefield 6 joins Xbox Game Pass as Season 5 begins",
+              "summary": "《Battlefield 6》今日加入 Xbox Game Pass Ultimate／PC Game Pass；同日開 Season 5（Siege of Vegas），EA Play 會員可領 Deployment Pack 同賽季獎勵。",
+              "source": "Xbox Wire",
+              "sourceUrl": "https://news.xbox.com/en-us/2026/10/07/xbox-game-pass-october-2026-wave-1/",
+              "publishedAt": "2026-10-13T00:00:00+08:00",
+              "category": "news",
+              "platforms": [
+                "PC",
+                "Xbox Series X|S"
+              ],
+              "uncertain": false,
+              "note": "Xbox Wire dated Oct 7 listing Oct 13 arrival; event is today. Season 5 same-day per EA/Xbox coverage."
+            },
+            {
+              "id": "gaming-20261013-undermire-dated",
+              "title": "UnderMire co-op roguelite horror dated for Steam November 13",
+              "summary": "Table Knight Games 手繪合作 Roguelite 恐怖《UnderMire》定 11 月 13 日喺 Steam 推出；最多四人落Bunker，有 SMUSH 合成系統同距離語音，Demo 已上線。",
+              "source": "Gematsu",
+              "sourceUrl": "https://www.gematsu.com/2026/10/undermire-launches-november-13",
+              "publishedAt": "2026-10-12T22:30:00+08:00",
+              "category": "news",
+              "platforms": [
+                "PC"
+              ],
+              "releaseDate": "2026-11-13",
+              "uncertain": false,
+              "note": "Gematsu Oct 12, 2026 / 2:30 PM EDT → 22:30 HKT."
+            },
+            {
+              "id": "gaming-20261013-nintendo-physical-media",
+              "title": "Nintendo: no plans to ditch physical games on Switch 2",
+              "summary": "任天堂拉丁美洲 VP Bill van Zyll 表示公司「冇計劃放棄實體」；強調 Switch 2 剛過一年、同時支援數位同實體，會跟消費者喜好。",
+              "source": "Nintendo Life",
+              "sourceUrl": "https://www.nintendolife.com/news/2026/10/nintendo-states-that-it-has-no-plans-to-ditch-physical-media",
+              "publishedAt": "2026-10-12T16:30:00+08:00",
+              "category": "news",
+              "platforms": [
+                "Switch 2"
+              ],
+              "uncertain": false,
+              "note": "Nintendo Life relative 'Yesterday, 9:30am' when fetched Oct 13 HKT morning → Oct 12 ~9:30am UK (BST) = 16:30 HKT. Also The Verge Oct 12."
+            },
+            {
+              "id": "gaming-20261013-steam-43m-concurrent",
+              "title": "Steam hits record 43.5 million concurrent users",
+              "summary": "Steam 喺 10 月再破同時在線紀錄，達約 4,350 萬人登入；同期遊戲中玩家約 1,450 萬亦創新高。Kotaku 指係今年第三次刷新。",
+              "source": "Kotaku",
+              "sourceUrl": "https://kotaku.com/steam-valve-concurrent-users-record-in-game-epic-fortnite-roblox-2000744564",
+              "publishedAt": "2026-10-12T00:00:00+08:00",
+              "category": "news",
+              "uncertain": false,
+              "note": "Kotaku published Oct 12, 2026; clock time not stated on page. Peak figure 43,505,724; in-game ~14.5M. Record dated Oct 11 per X/other coverage."
+            }
+          ]
+        },
+        {
+          "id": "other-consoles",
+          "label": "其他主機",
+          "items": [
+            {
+              "id": "gaming-20261013-invincible-vs-angstrom",
+              "title": "Invincible VS Season 2 DLC fighter Angstrom Levy launches today",
+              "summary": "Skybound／Quarter Up《Invincible VS》第二季 DLC 角色 Angstrom Levy 今日推出；係注重 portal／orb 控場嘅 zoning 角色，遊戲喺 PS5、Xbox Series 同 PC 可玩。",
+              "source": "Gematsu",
+              "sourceUrl": "https://www.gematsu.com/2026/10/invincible-vs-dlc-character-angstrom-levy-launches-october-13",
+              "publishedAt": "2026-10-13T00:00:00+08:00",
+              "category": "other-consoles",
+              "platforms": [
+                "PS5",
+                "Xbox Series X|S",
+                "PC"
+              ],
+              "releaseDate": "2026-10-13",
+              "uncertain": false,
+              "note": "Gematsu Oct 1 dating for Oct 13 launch; Season 2 starts with this fighter."
+            },
+            {
+              "id": "gaming-20261013-gears-eday-ddos",
+              "title": "The Coalition: Gears of War: E-Day hit by DDoS over the weekend",
+              "summary": "《Gears of War: E-Day》開發商 The Coalition 確認週末遭受 DDoS，導致登入同斷線問題；團隊持續監控緩解，呼籲玩家耐心。",
+              "source": "VGC",
+              "sourceUrl": "https://www.videogameschronicle.com/news/gears-of-war-e-day-suffered-connection-issues-after-being-hit-by-a-ddos-attack-the-coalition-says/",
+              "publishedAt": "2026-10-12T23:00:00+08:00",
+              "category": "other-consoles",
+              "platforms": [
+                "Xbox Series X|S",
+                "PC"
+              ],
+              "uncertain": false,
+              "note": "VGC 12th Oct 2026 / 4:00 pm UK (BST→HKT +7h = 23:00 HKT). Coalition post dated Oct 12."
+            }
+          ]
+        },
+        {
+          "id": "other",
+          "label": "其他遊戲新聞",
+          "items": [
+            {
+              "id": "gaming-20261013-sifu-mobile",
+              "title": "Sifu kung-fu brawler launches on iOS and Android",
+              "summary": "Sloclap 功夫動作《Sifu》已於 10 月 12 日登陸 iOS 同 Android；原作已喺 PS／Xbox／Switch／PC 推出，今次補齊手機版。",
+              "source": "Gematsu",
+              "sourceUrl": "https://www.gematsu.com/2026/10/sifu-coming-to-ios-android-on-october-12",
+              "publishedAt": "2026-10-12T00:00:00+08:00",
+              "category": "other",
+              "platforms": [
+                "iOS",
+                "Android"
+              ],
+              "releaseDate": "2026-10-12",
+              "uncertain": false,
+              "note": "Gematsu Oct 1 dating for Oct 12 mobile launch. Exact clock time not stated."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
