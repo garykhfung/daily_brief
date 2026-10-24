@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T07:48:36+08:00",
+  "updatedAt": "2026-10-25T07:51:35+08:00",
   "timezone": "Asia/Hong_Kong",
   "tabs": [
     {
@@ -85,7 +85,7 @@
         },
         {
           "id": "hk",
-          "label": "香港 AI",
+          "label": "Hong Kong",
           "items": [
             {
               "id": "ai-20261025-innocarnival-2026-opens-at-science-park-with-ai",
@@ -143,7 +143,7 @@
         },
         {
           "id": "hardware-shipping",
-          "label": "硬件：已上市裝置",
+          "label": "Hardware shipping",
           "items": [
             {
               "id": "ai-20261025-eu-retailer-ai-storelabs-lists-asus-ascent-gx10",
@@ -173,7 +173,7 @@
         },
         {
           "id": "hardware-gadgets",
-          "label": "硬件：消費 AI gadgets",
+          "label": "Hardware gadgets",
           "items": [
             {
               "id": "ai-20261025-cue-halo-ai-wearable-companion-opens-pre-orders",
@@ -218,7 +218,7 @@
         },
         {
           "id": "companies",
-          "label": "AI 公司",
+          "label": "Companies",
           "items": [
             {
               "id": "ai-20261025-higgsfield-extends-series-b-with-new-investment",
@@ -313,7 +313,7 @@
         },
         {
           "id": "markets",
-          "label": "AI 股市",
+          "label": "Markets",
           "items": [
             {
               "id": "ai-20261025-cnbc-nvidia-s-role-as-ai-financier-faces-first-b",
@@ -377,505 +377,516 @@
       "sections": [
         {
           "id": "pc-switch2",
-          "label": "PC／Switch 2 發售",
+          "label": "PC / Switch 2",
           "items": [
             {
-              "id": "gaming-20261025-mw4-switch2-30gb-update",
-              "title": "Call of Duty: Modern Warfare 4 Switch 2 weekend patch (~30 GB) now live",
-              "summary": "Nintendo Life 報道 Switch 2 版 MW4 週末突然出咗大約 30GB 更新，Activision 暫時未出官方 patch notes；遊戲本體約佔 91GB 機內空間。",
-              "source": "Nintendo Life",
-              "sourceUrl": "https://www.nintendolife.com/news/2026/10/psa-call-of-duty-modern-warfare-4-switch-2-update-now-live",
-              "publishedAt": "2026-10-24T23:00:00+08:00",
-              "category": "pc-switch2",
-              "platforms": [
-                "Switch 2"
-              ],
-              "uncertain": true,
-              "note": "Patch contents unverified; Activision had not posted notes when NL filed.",
-              "image": "https://images.nintendolife.com/39d66f7a3e8d1/1280x720.jpg",
-              "imageAlt": "Call of Duty: Modern Warfare 4 Switch 2 update PSA artwork"
-            },
-            {
-              "id": "gaming-20261025-phantom-blade-zero-steam-oct28",
-              "title": "Phantom Blade Zero Steam page locks October 28, 2026 release",
-              "summary": "Steam 頁而家顯示 Phantom Blade Zero 將於 2026 年 10 月 28 日解鎖（全球約 UTC 02:00）；預購送配件同服裝，並標註 Denuvo。",
+              "id": "gaming-20261025-hatsune-miku-connecting-puzzle-tamagotori-deluxe",
+              "title": "Hatsune Miku Connecting Puzzle TAMAGOTORI Deluxe coming to Steam around October 28–29",
+              "summary": "KOMODO／Crypton《Hatsune Miku Connecting Puzzle TAMAGOTORI Deluxe》將登陸 Steam（連同 PS5／PS4／Xbox One）：含原作同兩套 Premium DLC，連蛋解謎解鎖插畫同小鳥圖鑑；Steam 列 10 月 28 日、Gematsu 寫 10 月 29 日。",
               "source": "Steam",
-              "sourceUrl": "https://store.steampowered.com/app/4115450/Phantom_Blade_Zero/",
-              "publishedAt": "2026-10-24T12:00:00+08:00",
+              "sourceUrl": "https://store.steampowered.com/app/4971990/Hatsune_Miku_Connecting_Puzzle_TAMAGOTORI_Deluxe/",
+              "publishedAt": "2026-10-28T00:00:00+08:00",
               "category": "pc-switch2",
-              "platforms": [
-                "PC",
-                "PS5"
-              ],
-              "releaseDate": "2026-10-28",
-              "uncertain": false,
-              "note": "Material date lock vs Oct 24 ~500k pre-order analyst item.",
-              "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4115450/98af27aecb2eedd674e4e18b5fb3e58754729589/capsule_616x353.jpg?t=1792637475",
-              "imageAlt": "Phantom Blade Zero Steam capsule art"
-            },
-            {
-              "id": "gaming-20261025-ocarina-esrb-summary",
-              "title": "Zelda: Ocarina of Time Switch 2 ESRB rating summary goes live (E10+)",
-              "summary": "ESRB 公開 Ocarina of Time Switch 2 remake 評級摘要：E10+（Animated Blood、Fantasy Violence），並概述戰鬥同敵人內容；未再提 3DS 版嗰句 suggestive themes。",
-              "source": "Nintendo Life",
-              "sourceUrl": "https://www.nintendolife.com/news/2026/10/the-legend-of-zelda-ocarina-of-time-switch-2-esrb-rating-summary-published",
-              "publishedAt": "2026-10-24T07:30:00+08:00",
-              "category": "pc-switch2",
-              "platforms": [
-                "Switch 2"
-              ],
-              "releaseDate": "2026-11-05",
-              "uncertain": false,
-              "image": "https://images.nintendolife.com/84f3b7c35dd08/1280x720.jpg",
-              "imageAlt": "Legend of Zelda Ocarina of Time Switch 2 ESRB summary coverage"
-            },
-            {
-              "id": "gaming-20261025-village-in-the-shade-nl-review",
-              "title": "Village in the Shade Switch 2 review: Nintendo Life 9/10 for horror-tinged farm sim",
-              "summary": "Nintendo Life 畀 Village in the Shade Switch 2 版 9/10，讚耕作手感同對 cosy 類型嘅社會評論；西方實體／數位發售定喺 10 月 27 日。",
-              "source": "Nintendo Life",
-              "sourceUrl": "https://www.nintendolife.com/reviews/nintendo-switch-2/village-in-the-shade",
-              "publishedAt": "2026-10-23T21:00:00+08:00",
-              "category": "pc-switch2",
-              "platforms": [
-                "Switch 2",
-                "PC"
-              ],
-              "releaseDate": "2026-10-27",
-              "uncertain": false,
-              "image": "https://images.nintendolife.com/2cf8ecc190848/1280x720.jpg",
-              "imageAlt": "Village in the Shade Switch 2 review hero image"
-            },
-            {
-              "id": "gaming-20261025-genshin-72-hour-of-ruin",
-              "title": "Genshin Impact Version 7.2 ‘Hour of Ruin’ launches November 4",
-              "summary": "miHoYo 經 Gematsu 公布原神 7.2「Hour of Ruin」11 月 4 日上線：東部至冬新區、新角色 Mitya／Valeriy，以及七國聯合對抗 Nails of Retribution 主線。",
-              "source": "Gematsu",
-              "sourceUrl": "https://www.gematsu.com/2026/10/genshin-impact-version-version-7-2-update-hour-of-ruin-launches-november-4",
-              "publishedAt": "2026-10-23T20:56:00+08:00",
-              "category": "pc-switch2",
+              "uncertain": true,
               "platforms": [
                 "PC",
                 "PS5",
-                "Xbox Series",
-                "iOS",
-                "Android"
+                "PS4",
+                "Xbox One"
               ],
-              "releaseDate": "2026-11-04",
-              "uncertain": false,
-              "image": "https://www.gematsu.com/wp-content/uploads/2026/10/Genshin-Impact_2026_10-23-26_019.jpg",
-              "imageAlt": "Genshin Impact Version 7.2 Hour of Ruin key art"
+              "releaseDate": "2026-10-28",
+              "note": "uncertain=true: Steam Planned Release Date Oct 28 2026 (unlock ~4 days); Gematsu Oct 21 cites Oct 29 and 1,980 yen. releaseDate uses Steam. publishedAt date-only midnight HKT on Steam date. Corroboration: https://www.gematsu.com/2026/10/hatsune-miku-connecting-puzzle-tamagotori-deluxe-coming-to-ps5-ps4-xbox-one-and-pc-on-october-29. imageUrl Steam og:image.",
+              "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4971990/6f1582b0763b12a4e7df254c699759d639cc0fae/capsule_616x353.jpg?t=1792745533",
+              "imageAlt": "Hatsune Miku Connecting Puzzle TAMAGOTORI Deluxe Steam capsule"
             },
             {
-              "id": "gaming-20261025-hitman-absolution-free-upgrade-nov4",
-              "title": "Hitman: Absolution Switch 2 upgrade stays free until November 4",
-              "summary": "Feral 同 Nintendo Life 提醒：擁有 Switch 1 版可免費拎 Switch 2 Upgrade Pack，限期至 11 月 4 日；之後升級包會收 $9.99／£4.99。",
-              "source": "Nintendo Life",
-              "sourceUrl": "https://www.nintendolife.com/news/2026/10/psa-hitman-absolutions-switch-2-upgrade-path-is-free-for-now-but-be-quick",
-              "publishedAt": "2026-10-23T17:00:00+08:00",
+              "id": "gaming-20261025-peak-console-edition-launch-trailer-confirms-swi",
+              "title": "Peak: Console Edition launch trailer confirms Switch 2 co-op climb with cross-play",
+              "summary": "Landfall／Aggro Crab《Peak: Console Edition》已喺 Switch 2 上架，Nintendo Everything 今日放出發售預告：最多四人合作攀山、鄰近語音同每日換圖，並支援同 PC／PS5／Xbox 全平台 cross-play；主機版約於 10 月 22 日推出。",
+              "source": "Nintendo Everything",
+              "sourceUrl": "https://nintendoeverything.com/peak-console-edition-launch-trailer/",
+              "publishedAt": "2026-10-24T00:00:00+08:00",
               "category": "pc-switch2",
+              "uncertain": false,
               "platforms": [
-                "Switch 2"
+                "Switch 2",
+                "PC",
+                "PS5",
+                "Xbox Series"
               ],
-              "uncertain": false,
-              "note": "Free-until-Nov-4 window also on Feral Oct 22; material vs Oct 23 Limited Run physical item.",
-              "image": "https://images.nintendolife.com/097fd103d011c/1280x720.jpg",
-              "imageAlt": "Hitman Absolution Switch 2 free upgrade path PSA"
+              "releaseDate": "2026-10-22",
+              "note": "publishedAt date-only midnight HKT from NE Oct 24 post. Xbox Peak Friendship covered Oct 23 batch; this is Switch 2–focused launch trailer not on dedupe. imageUrl from page og/hero.",
+              "image": "https://nintendoeverything.com/wp-content/uploads/Peak-trailer.jpg",
+              "imageAlt": "Peak Console Edition Switch 2 key art"
             },
             {
-              "id": "gaming-20261025-portopia-remake-march-2027",
-              "title": "Next: The Portopia Serial Murder Case dated March 4, 2027 in Japan",
-              "summary": "G-MODE／room6／Game Studio 宣布由堀井雄二監修嘅《港灣殺人事件》重製 Next: The Portopia Serial Murder Case 將於 2027 年 3 月 4 日喺日本推出 Switch 2／Switch／Steam（僅日文）。",
-              "source": "Gematsu",
-              "sourceUrl": "https://www.gematsu.com/2026/10/next-the-portopia-serial-murder-case-launches-march-4-2027-in-japan",
-              "publishedAt": "2026-10-23T11:27:00+08:00",
+              "id": "gaming-20261025-a-tower-full-of-cats-switch-2-edition-dated-octo",
+              "title": "A Tower Full of Cats Switch 2 edition dated October 28 for $5.99",
+              "summary": "Devcats／Alchemy Games 尋貓解謎《A Tower Full of Cats》Switch 版已上架，Nintendo Everything 更新指 Switch 2 版將於 10 月 28 日推出、售價約 US$5.99；超過 1,400 隻隱藏貓同手繪場景。",
+              "source": "Nintendo Everything",
+              "sourceUrl": "https://nintendoeverything.com/a-tower-full-of-cats-launches-on-nintendo-switch-today-nintendo-switch-2-version-coming-soon/",
+              "publishedAt": "2026-10-24T00:00:00+08:00",
               "category": "pc-switch2",
+              "uncertain": false,
               "platforms": [
                 "Switch 2",
                 "Switch",
                 "PC"
               ],
-              "releaseDate": "2027-03-04",
-              "uncertain": false,
-              "image": "https://www.gematsu.com/wp-content/uploads/2026/10/Portopia-Remake_10-22-26.jpg",
-              "imageAlt": "Next The Portopia Serial Murder Case remake box art"
+              "releaseDate": "2026-10-28",
+              "note": "NE Oct 24 post with Oct 23 update dating Switch 2 to Oct 28. publishedAt date-only midnight HKT. imageUrl from page.",
+              "image": "https://nintendoeverything.com/wp-content/uploads/Tower-Full-of-Cats.jpg",
+              "imageAlt": "A Tower Full of Cats key art"
             },
             {
-              "id": "gaming-20261025-rv-there-yet-ps5-switch2-oct29",
-              "title": "RV There Yet? coming to PS5 and Switch 2 on October 29 with cross-play",
-              "summary": "Nuggets Entertainment 經 Gematsu 宣布合作 RV 冒險 RV There Yet? 將於 10 月 29 日登陸 PS5 同 Switch 2，並同現有 Xbox／PC 版 cross-play。",
+              "id": "gaming-20261025-cult-of-the-lamb-nintendo-switch-2-edition-now-a",
+              "title": "Cult of the Lamb – Nintendo Switch 2 Edition now available with free Switch upgrade",
+              "summary": "Devolver／Massive Monster《Cult of the Lamb – Nintendo Switch 2 Edition》已喺 eShop 上架：含 Woolhaven 同所有 DLC，Switch 版可免費升級；Switch 2 版強調更高解像度、幀率同 GameShare。",
+              "source": "Gematsu",
+              "sourceUrl": "https://www.gematsu.com/2026/10/cult-of-the-lamb-nintendo-switch-2-edition-now-available",
+              "publishedAt": "2026-10-23T00:14:00+08:00",
+              "category": "pc-switch2",
+              "uncertain": false,
+              "platforms": [
+                "Switch 2"
+              ],
+              "releaseDate": "2026-10-22",
+              "note": "Gematsu Oct 22 12:14 PM EDT = Oct 23 00:14 HKT. NL ICYMI URL is on dedupe; Gematsu availability URL is not. Not in Oct 23–24 final batches. imageUrl Gematsu og:image.",
+              "image": "https://www.gematsu.com/wp-content/uploads/2026/10/Cult-Lamb-Switch-2_10-22-26.jpg",
+              "imageAlt": "Cult of the Lamb Nintendo Switch 2 Edition key art"
+            },
+            {
+              "id": "gaming-20261025-touhou-koumakyou-new-classic-switch-2-switch-jap",
+              "title": "Touhou Koumakyou: New Classic Switch 2/Switch Japan physical dated December 17 with English",
+              "summary": "《東方紅魔郷 New Classic》日本實體版將於 12 月 17 日推出 Switch 2 同 Switch 版本：支援英文，Switch 2 為正式卡帶而非 game-key card；美區等可經進口預購。",
+              "source": "Nintendo Everything",
+              "sourceUrl": "https://nintendoeverything.com/touhou-koumakyou-new-classic-switch-2-switch-physical/",
+              "publishedAt": "2026-10-23T00:00:00+08:00",
+              "category": "pc-switch2",
+              "uncertain": false,
+              "platforms": [
+                "Switch 2",
+                "Switch"
+              ],
+              "releaseDate": "2026-12-17",
+              "note": "NE Oct 23 post; publishedAt date-only midnight HKT. Japan physical with English support. imageUrl from page.",
+              "image": "https://nintendoeverything.com/wp-content/uploads/Touhou-Koumakyou-New-Classic-physical.jpg",
+              "imageAlt": "Touhou Koumakyou New Classic physical box art"
+            },
+            {
+              "id": "gaming-20261025-rv-there-yet-co-op-rv-adventure-hits-switch-2-an",
+              "title": "RV There Yet? co-op RV adventure hits Switch 2 and PS5 October 29 with cross-play",
+              "summary": "Nuggets Entertainment《RV There Yet?》將於 10 月 29 日登陸 Switch 2 同 PS5：最多四人合作開露營車穿越 Mabutts Valley，並與現有 Steam／Xbox 版開啟全平台 cross-play；本作 2025 年已先出 PC。",
               "source": "Gematsu",
               "sourceUrl": "https://www.gematsu.com/2026/10/rv-there-yet-coming-to-ps5-switch-2-on-october-29",
               "publishedAt": "2026-10-21T22:08:00+08:00",
               "category": "pc-switch2",
+              "uncertain": false,
               "platforms": [
-                "PS5",
                 "Switch 2",
+                "PS5",
+                "PC",
+                "Xbox Series"
+              ],
+              "releaseDate": "2026-10-29",
+              "note": "Gematsu Oct 21 10:08 AM EDT = Oct 21 22:08 HKT; slightly outside 48h window but Switch 2 dated launch not in Oct 23–24 batches or dedupe. imageUrl Gematsu og:image.",
+              "image": "https://www.gematsu.com/wp-content/uploads/2026/10/RV-There-Yet-PS5-Dated_10-21-26.jpg",
+              "imageAlt": "RV There Yet PS5 and Switch 2 announcement art"
+            },
+            {
+              "id": "gaming-20261025-pratfall-co-op-cave-digger-coming-to-switch-2-ps",
+              "title": "Pratfall co-op cave digger coming to Switch 2, PS5 and Xbox Series",
+              "summary": "Daedalic／Quad Head 合作洞穴挖掘《Pratfall》宣布將登陸 Switch 2、PS5 同 Xbox Series：已有 Steam 版，最多大量線上合作、鄰近語音同程序生成洞穴；發售日未公布。",
+              "source": "Gematsu",
+              "sourceUrl": "https://www.gematsu.com/2026/10/pratfall-coming-to-ps5-xbox-series-and-switch-2",
+              "publishedAt": "2026-10-21T21:05:00+08:00",
+              "category": "pc-switch2",
+              "uncertain": false,
+              "platforms": [
+                "Switch 2",
+                "PS5",
                 "Xbox Series",
                 "PC"
               ],
-              "releaseDate": "2026-10-29",
+              "releaseDate": "TBA",
+              "note": "Gematsu Oct 21 9:05 AM EDT = Oct 21 21:05 HKT. GoNintendo/others say early 2027; Gematsu itself gave no date so releaseDate TBA. Not on dedupe. imageUrl Gematsu og:image.",
+              "image": "https://www.gematsu.com/wp-content/uploads/2026/10/Pratfall-Consoles_10-21-26.jpg",
+              "imageAlt": "Pratfall console announcement art"
+            },
+            {
+              "id": "gaming-20261025-villion-code-western-launch-january-26-2027-on-s",
+              "title": "Villion: Code western launch January 26, 2027 on Switch 2, PC and more",
+              "summary": "Compile Heart／Idea Factory《Villion: Code》歐美將於 2027 年 1 月 26 日登陸 Switch 2、PS5、PS4、Switch 同 Steam：Cozy Okada 監製動作 RPG，含 Digital Deluxe；日本已於 6 月推出。",
+              "source": "Gematsu",
+              "sourceUrl": "https://www.gematsu.com/2026/10/villion-code-launches-january-26-2027-in-the-west",
+              "publishedAt": "2026-10-21T00:01:00+08:00",
+              "category": "pc-switch2",
               "uncertain": false,
-              "note": "Catch-up: not in Oct 22–24 desks; published Oct 21 EDT.",
-              "image": "https://www.gematsu.com/wp-content/uploads/2026/10/RV-There-Yet-PS5-Dated_10-21-26.jpg",
-              "imageAlt": "RV There Yet PS5 and Switch 2 October 29 announcement art"
+              "platforms": [
+                "Switch 2",
+                "PC",
+                "PS5",
+                "PS4",
+                "Switch"
+              ],
+              "releaseDate": "2027-01-26",
+              "note": "Gematsu Oct 20 12:01 PM EDT = Oct 21 00:01 HKT. Not on dedupe / prior batches. imageUrl Gematsu og:image.",
+              "image": "https://www.gematsu.com/wp-content/uploads/2026/10/Villion-Code-Date_10-20-26.jpg",
+              "imageAlt": "Villion Code western date announcement art"
+            },
+            {
+              "id": "gaming-20261025-ys-viii-lacrimosa-of-dana-switch-2-version-dated",
+              "title": "Ys VIII: Lacrimosa of DANA Switch 2 version dated February 25, 2027",
+              "summary": "NIS America／Falcom《Ys VIII: Lacrimosa of DANA》Switch 2 版定於 2027 年 2 月 25 日推出：首次加入西班牙文，並標榜最高 120fps 同 GameShare 雙人合作；系列經典動作 JRPG。",
+              "source": "Gematsu",
+              "sourceUrl": "https://www.gematsu.com/2026/10/ys-viii-lacrimosa-of-dana-coming-to-switch-2-on-february-25-2027",
+              "publishedAt": "2026-10-20T21:14:00+08:00",
+              "category": "pc-switch2",
+              "uncertain": false,
+              "platforms": [
+                "Switch 2"
+              ],
+              "releaseDate": "2027-02-25",
+              "note": "Gematsu Oct 20 9:14 AM EDT = Oct 20 21:14 HKT; outside strict 48h but dated Switch 2 port not previously batched. imageUrl Gematsu og:image.",
+              "image": "https://www.gematsu.com/wp-content/uploads/2026/10/Ys-VIII-Switch-2_10-20-26.jpg",
+              "imageAlt": "Ys VIII Lacrimosa of DANA Switch 2 key art"
             }
           ]
         },
         {
           "id": "news",
-          "label": "遊戲新聞",
+          "label": "Game news",
           "items": [
             {
-              "id": "gaming-20261025-switch2-rom-dumps-ns2jb",
-              "title": "Reports: first Switch 2 game files dumped after ns2jb (Deltarune, MK World)",
-              "summary": "Tgames 整理 10 月 24 日社群截圖，聲稱 ns2jb 後出現 Deltarune、Mario Kart World 等 romfs 傾印；網站強調未能獨立核實，亦無 custom firmware／可跑盜版。",
-              "source": "Tgames",
-              "sourceUrl": "https://www.tgames.fr/en/news/12431-switch-2-les-premiers-jeux-dumpes-grace-au-jailbreak-ns2jb",
-              "publishedAt": "2026-10-24T14:00:00+08:00",
-              "category": "news",
-              "platforms": [
-                "Switch 2"
-              ],
-              "uncertain": true,
-              "note": "Based on Discord/X screenshots; outlet could not verify dumps at source."
-            },
-            {
-              "id": "gaming-20261025-switch2-ns2jb-jailbreak",
-              "title": "Switch 2 supposedly jailbroken via tethered software exploit ns2jb",
-              "summary": "Nintendo Life 報道研究員 pepsipu 聲稱以 SmileBASIC 4 為入口整出 tethered 軟件越獄 ns2jb；之後 eShop 似已下架 SmileBASIC 4，Nintendo 未公開回應。",
+              "id": "gaming-20261025-call-of-duty-modern-warfare-4-switch-2-gets-a-la",
+              "title": "Call of Duty: Modern Warfare 4 Switch 2 gets a large post-launch patch (~30GB)",
+              "summary": "Nintendo Life 指《Call of Duty: Modern Warfare 4》Switch 2 版週末有新補丁上線，玩家回報下載約 30GB；Activision 尚未公布內容。遊戲佔用約 91GB，並含 Campaign／Multiplayer／DMZ。",
               "source": "Nintendo Life",
-              "sourceUrl": "https://www.nintendolife.com/news/2026/10/switch-2-supposedly-jailbroken-via-software-only-exploit",
-              "publishedAt": "2026-10-23T10:55:00+08:00",
+              "sourceUrl": "https://www.nintendolife.com/news/2026/10/psa-call-of-duty-modern-warfare-4-switch-2-update-now-live",
+              "publishedAt": "2026-10-24T23:45:00+08:00",
               "category": "news",
+              "uncertain": true,
               "platforms": [
                 "Switch 2"
               ],
-              "uncertain": true,
-              "note": "Exploit claims and delisting reported second-hand; no official Nintendo confirmation.",
-              "image": "https://images.nintendolife.com/6888cfa4ddfb2/1280x720.jpg",
-              "imageAlt": "Nintendo Switch 2 console used to illustrate jailbreak report"
+              "note": "uncertain=true: Activision no official patch notes; size ~30GB and 91GB install from player reports via NL. REAL update vs MW4 launch already covered. publishedAt approx from NL '8 hours ago' at ~07:45 HKT Oct 25. imageUrl NL og:image.",
+              "image": "https://images.nintendolife.com/39d66f7a3e8d1/1280x720.jpg",
+              "imageAlt": "Call of Duty Modern Warfare 4 Switch 2 screenshot"
             },
             {
-              "id": "gaming-20261025-wo-long-2-alpha-survey",
-              "title": "Wo Long 2: Wings of Ember alpha demo survey outlines full-game fixes",
-              "summary": "Team NINJA／光榮公開 Alpha Demo 問卷結果：會改 Insight／Spirit 節奏、強化武技同術法、優化幀率同讀盤；完整版定 2027 年 3 月 4 日多平台＋Game Pass。",
-              "source": "Gematsu",
-              "sourceUrl": "https://www.gematsu.com/2026/10/wo-long-2-wings-of-ember-alpha-demo-survey-results-announced",
-              "publishedAt": "2026-10-23T09:27:00+08:00",
+              "id": "gaming-20261025-zelda-ocarina-of-time-switch-2-esrb-rating-summa",
+              "title": "Zelda: Ocarina of Time Switch 2 ESRB rating summary published (E10+)",
+              "summary": "任天堂《薩爾達傳說：時之笛》Switch 2 重製版 ESRB 詳細說明已上線，維持 E10+（Animated Blood、Fantasy Violence）；摘要描述探索海拉魯、劍盾弓同部分敵人綠／紫血液效果。",
+              "source": "Nintendo Life",
+              "sourceUrl": "https://www.nintendolife.com/news/2026/10/the-legend-of-zelda-ocarina-of-time-switch-2-esrb-rating-summary-published",
+              "publishedAt": "2026-10-24T07:30:00+08:00",
               "category": "news",
+              "uncertain": false,
               "platforms": [
-                "PS5",
-                "Xbox Series",
-                "Switch 2",
+                "Switch 2"
+              ],
+              "note": "NL 'Yesterday 12:30am' UK on Oct 25 fetch ≈ Oct 24 00:30 UK ≈ Oct 24 07:30 HKT. Not on dedupe. imageUrl NL og:image.",
+              "image": "https://images.nintendolife.com/84f3b7c35dd08/1280x720.jpg",
+              "imageAlt": "The Legend of Zelda Ocarina of Time Switch 2 artwork"
+            },
+            {
+              "id": "gaming-20261025-report-arkane-lyon-faces-november-13-consultatio",
+              "title": "Report: Arkane Lyon faces November 13 consultation deadline; Schreier sees paths to survival",
+              "summary": "Gematsu 引述 Le Monde：Arkane Studios（Lyon）諮詢期至 11 月 13 日，約 217 個職位受影響，並有多條接管方案；Bloomberg 嘅 Jason Schreier 補充指多條路徑仍活躍，對工作室關閉會感意外。",
+              "source": "Gematsu",
+              "sourceUrl": "https://www.gematsu.com/2026/10/report-arkane-studios-has-until-november-13-to-find-a-buyer",
+              "publishedAt": "2026-10-23T21:55:00+08:00",
+              "category": "news",
+              "uncertain": true,
+              "platforms": [
                 "PC"
               ],
-              "releaseDate": "2027-03-04",
-              "uncertain": false,
-              "image": "https://www.gematsu.com/wp-content/uploads/2026/10/Wo-Long-2-Wings-of-Ember_2026_10-22-26_011.jpg",
-              "imageAlt": "Wo Long 2 Wings of Ember alpha survey screenshot"
+              "note": "uncertain=true: based on Le Monde/union + Schreier understanding, not Microsoft/Arkane official confirmation of buyer. REAL update vs prior 'time running out for Arkane' (PC Gamer on dedupe) with Nov 13 date + Schreier note. Gematsu Oct 23 9:55 AM EDT = Oct 23 21:55 HKT. imageUrl Gematsu og:image.",
+              "image": "https://www.gematsu.com/wp-content/uploads/2026/10/Arkane-Lyon-Deadline_10-23-26.jpg",
+              "imageAlt": "Arkane Studios Lyon report art"
             },
             {
-              "id": "gaming-20261025-dispatch-mobile-dec9",
-              "title": "Dispatch mobile dated December 9; Deluxe Commentary/Storyboard update live",
-              "summary": "AdHoc 經 Gematsu 落實 Dispatch iOS／Android 12 月 9 日上架（首四集免費、完整版 $19.99），同時 Deluxe 加送 16 小時以上 commentary 同 storyboard 模式。",
+              "id": "gaming-20261025-genshin-impact-version-7-2-hour-of-ruin-launches",
+              "title": "Genshin Impact version 7.2 ‘Hour of Ruin’ launches November 4",
+              "summary": "miHoYo《原神》7.2「Hour of Ruin」定於 11 月 4 日推出：新東部至冬國度、Archon Quest 聯合抗災，新角色 Mitya（5 星雷元素）同 Valeriy 登場；適用 PC／主機／手機。",
               "source": "Gematsu",
-              "sourceUrl": "https://www.gematsu.com/2026/10/dispatch-coming-to-ios-android-on-december-9-deluxe-edition-commentary-and-storyboard-modes-update-now-available",
-              "publishedAt": "2026-10-23T00:56:00+08:00",
+              "sourceUrl": "https://www.gematsu.com/2026/10/genshin-impact-version-version-7-2-update-hour-of-ruin-launches-november-4",
+              "publishedAt": "2026-10-23T20:56:00+08:00",
               "category": "news",
+              "uncertain": false,
               "platforms": [
-                "iOS",
-                "Android",
                 "PC",
                 "PS5",
-                "Switch 2",
                 "Xbox Series"
               ],
-              "releaseDate": "2026-12-09",
-              "uncertain": false,
-              "note": "Material date update vs Oct 23 ‘plans mobile’ desk item.",
-              "image": "https://www.gematsu.com/wp-content/uploads/2026/10/Dispatch-Mobile_10-22-26.jpg",
-              "imageAlt": "Dispatch mobile December 9 announcement art"
+              "releaseDate": "2026-11-04",
+              "note": "Gematsu Oct 23 8:56 AM EDT = Oct 23 20:56 HKT. Within window; not on dedupe. imageUrl Gematsu og:image.",
+              "image": "https://www.gematsu.com/wp-content/uploads/2026/10/Genshin-Impact_2026_10-23-26_019.jpg",
+              "imageAlt": "Genshin Impact version 7.2 Hour of Ruin key art"
             },
             {
-              "id": "gaming-20261025-katana-zero-dlc-full-sequel-size",
+              "id": "gaming-20261025-hitman-absolution-switch-2-free-upgrade-ends-nov",
+              "title": "Hitman: Absolution Switch 2 free upgrade ends November 4",
+              "summary": "Feral Interactive／IO《Hitman: Absolution – Nintendo Switch 2 Edition》升級目前免費，但 Nintendo Life 提醒只到 11 月 4 日；之後升級包約 US$9.99。Switch 2 版含更高解像度、目標 60fps、滑鼠模式同 Contracts。",
+              "source": "Nintendo Life",
+              "sourceUrl": "https://www.nintendolife.com/news/2026/10/psa-hitman-absolutions-switch-2-upgrade-path-is-free-for-now-but-be-quick",
+              "publishedAt": "2026-10-23T17:00:00+08:00",
+              "category": "news",
+              "uncertain": false,
+              "platforms": [
+                "Switch 2"
+              ],
+              "note": "NL Fri 10am UK ≈ Oct 23 ~17:00 HKT (approx). Distinct from LRG physical story on dedupe—deadline PSA. imageUrl NL og:image.",
+              "image": "https://images.nintendolife.com/097fd103d011c/1280x720.jpg",
+              "imageAlt": "Hitman Absolution Switch 2 Edition screenshot"
+            },
+            {
+              "id": "gaming-20261025-paralives-first-major-update-slips-from-end-2026",
+              "title": "Paralives first major update slips from end-2026 into 2027",
+              "summary": "Paralives Studio 官方十月開發更新：首個大型更新原定 2026 年底，現需更多時間延至 2027；重點強化關係／互動、經濟曲線、新技能同職業、Build Mode 修復同 Paramaker 身體滑桿等。",
+              "source": "Paralives",
+              "sourceUrl": "https://www.paralives.com/news/development-update-october-2026",
+              "publishedAt": "2026-10-23T00:00:00+08:00",
+              "category": "news",
+              "uncertain": false,
+              "platforms": [
+                "PC"
+              ],
+              "releaseDate": "TBA",
+              "note": "Official Oct 23 2026 byline Gabrielle Boyer-Antoni. publishedAt date-only midnight HKT. No clear public og:image on fetch—imageUrl null. PC Early Access life-sim news."
+            },
+            {
+              "id": "gaming-20261025-capcom-onimusha-way-of-the-sword-difficulty-hit",
+              "title": "Capcom: Onimusha: Way of the Sword difficulty ‘hit the right spot’ per player data",
+              "summary": "Capcom 導演 Nihei 向 PC Gamer 表示，根據《鬼武者 Way of the Sword》玩家數據，難度接近團隊目標：有挫敗同死亡但仍可推進；並回應約 20 小時長度同重複 BOSS 嘅意見。",
+              "source": "PC Gamer",
+              "sourceUrl": "https://www.pcgamer.com/games/action/based-on-player-data-capcoms-pretty-happy-with-the-difficulty-level-of-onimusha-way-of-the-sword-we-think-its-hit-the-right-spot/",
+              "publishedAt": "2026-10-23T00:00:00+08:00",
+              "category": "news",
+              "uncertain": false,
+              "platforms": [
+                "PC"
+              ],
+              "note": "PC Gamer Published 23 October 2026; publishedAt date-only midnight HKT. Not on dedupe. imageUrl PC Gamer og:image.",
+              "image": "https://cdn.mos.cms.futurecdn.net/m9jozBeHDcZQTCMZLJkNLd-2560-80.png",
+              "imageAlt": "Onimusha Way of the Sword combat screenshot"
+            },
+            {
+              "id": "gaming-20261025-katana-zero-dlc-still-coming-now-the-size-of-a-f",
               "title": "Katana ZERO DLC still coming, now ‘the size of a full sequel’",
-              "summary": "Askiisoft 喺 X 表示 Katana ZERO DLC 仍在開發，規模已變成「完整續作」，另加 30 首以上新曲；是否維持免費未再確認。",
+              "summary": "Askiisoft 表示《Katana ZERO》期待已久嘅 DLC 仍在製作，規模已達「完整續作」並有逾 30 首新曲；先前曾稱免費，今次未再確認是否仍然免費，發售日未定。",
               "source": "Gematsu",
               "sourceUrl": "https://www.gematsu.com/2026/10/katana-zero-dlc-still-coming-now-the-size-of-a-full-sequel",
               "publishedAt": "2026-10-22T23:21:00+08:00",
               "category": "news",
+              "uncertain": true,
               "platforms": [
                 "PC",
                 "Switch",
                 "Xbox One"
               ],
-              "uncertain": true,
-              "note": "Free status unclear in latest post; slightly outside 48h window, not in prior desks.",
+              "releaseDate": "TBA",
+              "note": "uncertain=true: free status unclear per Gematsu. Oct 22 11:21 AM EDT = Oct 22 23:21 HKT. Not on dedupe. imageUrl Gematsu og:image.",
               "image": "https://www.gematsu.com/wp-content/uploads/2026/10/Katana-ZERO-DLC-Tease_10-22-26.jpg",
-              "imageAlt": "Katana ZERO DLC still coming teaser image"
-            },
-            {
-              "id": "gaming-20261025-cloud-playtime-pricing",
-              "title": "Xbox Cloud Playtime packs priced from $3.99 for 10 hours",
-              "summary": "The Verge：唔使 Game Pass 都可以買 Cloud Playtime，介紹價 10 小時 $3.99、25 小時 $7.99、50 小時 $11.99；Insiders 已可買，11 月全面開放。",
-              "source": "The Verge",
-              "sourceUrl": "https://www.theverge.com/news/1015321/xbox-cloud-gaming-pay-as-you-go-cloud-hours-pricing",
-              "publishedAt": "2026-10-22T02:00:00+08:00",
-              "category": "news",
-              "platforms": [
-                "Xbox"
-              ],
-              "uncertain": false,
-              "note": "Material pricing update vs Oct 22 Insider availability item; Verge dated Oct 21 UTC.",
-              "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22478836/acastro_210429_1777_0004.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-              "imageAlt": "Xbox Cloud Gaming illustration from The Verge"
-            },
-            {
-              "id": "gaming-20261025-pratfall-consoles",
-              "title": "Pratfall coming to PS5, Xbox Series and Switch 2",
-              "summary": "Daedalic／Quad Head 經 Gematsu 宣布洞穴共掘合作遊戲 Pratfall 將推出 PS5、Xbox Series、Switch 2 版；日期未定，PC 版已於 4 月推出。",
-              "source": "Gematsu",
-              "sourceUrl": "https://www.gematsu.com/2026/10/pratfall-coming-to-ps5-xbox-series-and-switch-2",
-              "publishedAt": "2026-10-21T21:05:00+08:00",
-              "category": "news",
-              "platforms": [
-                "PS5",
-                "Xbox Series",
-                "Switch 2",
-                "PC"
-              ],
-              "uncertain": false,
-              "note": "Catch-up Oct 21 announcement missing from prior desks.",
-              "image": "https://www.gematsu.com/wp-content/uploads/2026/10/Pratfall-Consoles_10-21-26.jpg",
-              "imageAlt": "Pratfall console versions announcement art"
+              "imageAlt": "Katana ZERO DLC teaser art"
             }
           ]
         },
         {
           "id": "other-consoles",
-          "label": "其他主機",
+          "label": "Other consoles",
           "items": [
             {
-              "id": "gaming-20261025-xbox-next-week-oct26-30",
-              "title": "Next Week on Xbox: Séance of Blake Manor, Scramble Knights, Croc 2 and more",
-              "summary": "Xbox Wire 列出 10 月 26–30 陣容：Scramble Knights Online（26 日 Game Pass）、Séance of Blake Manor（27 日）、Mouthwashing／Wolf Among Us Remastered／Croc 2（29 日）等。",
+              "id": "gaming-20261025-watch-the-official-grand-theft-auto-vi-launch-tr",
+              "title": "Watch the Official Grand Theft Auto VI Launch Trailer – Explore Leonida Before the Game Arrives November 19",
+              "summary": "Xbox Wire 轉載 Rockstar《Grand Theft Auto VI》正式上市預告，強調 11 月 19 日登陸 Xbox Series X|S（同 PS5）；片段展示 Leonida 場景同 Jason、Lucia 前戲。",
+              "source": "Xbox Wire",
+              "sourceUrl": "https://news.xbox.com/en-us/2026/10/23/watch-the-official-grand-theft-auto-vi-launch-trailer-explore-leonida-before-the-game-arrives-november-19/",
+              "publishedAt": "2026-10-24T05:50:48+08:00",
+              "category": "other-consoles",
+              "uncertain": false,
+              "platforms": [
+                "Xbox Series X|S",
+                "PS5"
+              ],
+              "releaseDate": "2026-11-19",
+              "note": "Xbox Wire datePublished 2026-10-23T21:50:48Z to 2026-10-24T05:50:48+08:00. Trailer itself reportedly earlier; this is Xbox Wire Oct 23 post confirming Nov 19 console launch framing.",
+              "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/GTAVI_Launch_PartnerMedia_Xbox_WireHero_1920x1080_Deliv-9cc35a7dfb344d1ae8cf.jpg",
+              "imageAlt": "Grand Theft Auto VI launch trailer Xbox Wire hero art"
+            },
+            {
+              "id": "gaming-20261025-call-of-duty-modern-warfare-4-kill-block-is-must",
+              "title": "Call of Duty: Modern Warfare 4 – Kill Block is Must-Play Multiplayer at Launch",
+              "summary": "Xbox Wire 詳解《Modern Warfare 4》新模式 Kill Block：三塊模組化地圖每局重組，號稱逾 500 種配置，並支援 3v3／全新 10v10 Gunfight；遊戲已於 Xbox Series、PC、PS5 同 Switch 2 全球上市。",
+              "source": "Xbox Wire",
+              "sourceUrl": "https://news.xbox.com/en-us/2026/10/23/call-of-duty-modern-warfare-4-kill-block-must-play-multiplayer/",
+              "publishedAt": "2026-10-24T01:00:00+08:00",
+              "category": "other-consoles",
+              "uncertain": false,
+              "platforms": [
+                "Xbox Series X|S",
+                "PC",
+                "PS5",
+                "Switch 2"
+              ],
+              "releaseDate": "2026-10-23",
+              "note": "datePublished 2026-10-23T17:00:00Z to 2026-10-24T01:00 HKT. NEW vs Oct 23 pc-switch2 MW4 launch/OpenCritic items; this is Kill Block feature deep-dive.",
+              "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/MW4_MP_Gen_03-33bf8ef8c9eb55346366.jpg",
+              "imageAlt": "Call of Duty Modern Warfare 4 Kill Block multiplayer artwork"
+            },
+            {
+              "id": "gaming-20261025-next-week-on-xbox-new-games-for-october-26-to-30",
+              "title": "Next Week on Xbox: New Games for October 26 to 30",
+              "summary": "Xbox Wire 公布 10 月 26–30 日上架名單：Game Pass 將加入 The Séance of Blake Manor、Scramble Knights Online（Preview）、Terrible Lizards 等；Mouthwashing、The Wolf Among Us Remastered 亦於 10 月 29 日登陸。",
               "source": "Xbox Wire",
               "sourceUrl": "https://news.xbox.com/en-us/2026/10/23/next-week-on-xbox-new-games-for-october-26-to-30/",
-              "publishedAt": "2026-10-23T12:00:00+08:00",
+              "publishedAt": "2026-10-23T22:00:00+08:00",
               "category": "other-consoles",
+              "uncertain": false,
               "platforms": [
-                "Xbox Series",
+                "Xbox Series X|S",
+                "Xbox One",
                 "PC"
               ],
-              "uncertain": false,
+              "note": "datePublished 2026-10-23T14:00:00Z to 22:00 HKT. Distinct from prior Mouthwashing/Wolf Among Us standalone Gematsu posts.",
               "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/nwox-hero-7b008f3fcb5a3c8b2654.jpg",
               "imageAlt": "Next Week on Xbox October 26 to 30 hero image"
             },
             {
-              "id": "gaming-20261025-croc-2-oct29",
-              "title": "Croc 2: Kingdom of the Gobbos remaster launches October 29 multiplat",
-              "summary": "Argonaut 確認 Croc 2 remaster 10 月 29 日數位登陸 Switch、PS5／PS4、Xbox Series 同 PC（Steam／GOG），含畫質同 QoL 改善；Xbox Wire 亦列入下週陣容。",
-              "source": "Games Press",
-              "sourceUrl": "https://www.gamespress.com/en-US/Croc-2-Kingdom-of-the-Gobbos-Launches-October-29-on-Consoles-and-PC",
-              "publishedAt": "2026-10-23T12:00:00+08:00",
+              "id": "gaming-20261025-saros-creating-the-epic-overlords-of-carcosa",
+              "title": "Saros: creating the epic Overlords of Carcosa",
+              "summary": "PlayStation Blog 由 Nixxes／Housemarque 拆解《Saros》五大首領設計；並指出免費更新 Saros: Zenith 嘅 Overlord Rush 可重溫呢啲戰鬥同爭搶排行榜。",
+              "source": "PlayStation Blog",
+              "sourceUrl": "https://blog.playstation.com/2026/10/23/saros-creating-the-epic-overlords-of-carcosa/",
+              "publishedAt": "2026-10-23T19:59:40+08:00",
               "category": "other-consoles",
+              "uncertain": false,
               "platforms": [
-                "Switch",
+                "PS5"
+              ],
+              "note": "article:published_time 2026-10-23T04:59:40-07:00 to 19:59:40 HKT. Distinct from Oct 19/20 Zenith update coverage.",
+              "image": "https://blog.playstation.com/tachyon/2048/10/a72625381e38fc3fd0fa0a8932dcf40f98acbc99-scaled.jpg",
+              "imageAlt": "Saros Overlords of Carcosa PlayStation Blog feature art"
+            },
+            {
+              "id": "gaming-20261025-wo-long-2-wings-of-ember-alpha-demo-survey-resul",
+              "title": "Wo Long 2: Wings of Ember Alpha Demo survey results announced",
+              "summary": "Koei Tecmo／Team NINJA 公布《Wo Long 2: Wings of Ember》Alpha Demo 問卷結果，將簡化 Insight Skill、調整 Spirit 同強化武技／仙術；遊戲訂 2027 年 3 月 4 日登陸 PS5、Xbox Series、Switch 2、PC 同 Game Pass。",
+              "source": "Gematsu",
+              "sourceUrl": "https://www.gematsu.com/2026/10/wo-long-2-wings-of-ember-alpha-demo-survey-results-announced",
+              "publishedAt": "2026-10-23T09:27:00+08:00",
+              "category": "other-consoles",
+              "uncertain": false,
+              "platforms": [
                 "PS5",
-                "PS4",
-                "Xbox Series",
+                "Xbox Series X|S",
+                "Switch 2",
                 "PC"
               ],
-              "releaseDate": "2026-10-29",
-              "uncertain": false,
-              "note": "Date reiterated in Oct 23 Xbox Wire; original Games Press dated earlier Oct.",
-              "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2026/07/292314-92d74f0c/Croc2Logo.png?w=360&mode=max&otf=y&quality=90&format=png&bgcolor=transparent&sky=b5e220a77970957a2947d443cd36d2dc93790c3baed90ac7aa23f25672eecf1a",
-              "imageAlt": "Croc 2 Kingdom of the Gobbos logo"
+              "releaseDate": "2027-03-04",
+              "note": "Gematsu Oct 22 9:27 PM EDT to Oct 23 09:27 HKT.",
+              "image": "https://www.gematsu.com/wp-content/uploads/2026/10/Wo-Long-2-Wings-of-Ember_2026_10-22-26_011.jpg",
+              "imageAlt": "Wo Long 2 Wings of Ember Alpha Demo survey artwork"
             },
             {
-              "id": "gaming-20261025-seance-blake-manor-oct27",
-              "title": "The Séance of Blake Manor arrives on Game Pass October 27",
-              "summary": "Raw Fury 推理遊戲 The Séance of Blake Manor 將於 10 月 27 日加入 Xbox Game Pass／Play Anywhere；故事設定 1897 年 Blake Manor 通靈會。",
-              "source": "Xbox Wire",
-              "sourceUrl": "https://news.xbox.com/en-us/2026/10/23/next-week-on-xbox-new-games-for-october-26-to-30/",
-              "publishedAt": "2026-10-23T12:00:00+08:00",
-              "category": "other-consoles",
-              "platforms": [
-                "Xbox Series",
-                "PC"
-              ],
-              "releaseDate": "2026-10-27",
-              "uncertain": false,
-              "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/nwox-hero-7b008f3fcb5a3c8b2654.jpg",
-              "imageAlt": "Séance of Blake Manor on Next Week on Xbox"
-            },
-            {
-              "id": "gaming-20261025-terrible-lizards-oct29",
-              "title": "Terrible Lizards joins Game Pass October 29",
-              "summary": "Xbox Wire：恐怖探索遊戲 Terrible Lizards 10 月 29 日登陸 Xbox／PC，並加入 Game Pass；故事設定 1992 年荒廢恐龍主題公園。",
-              "source": "Xbox Wire",
-              "sourceUrl": "https://news.xbox.com/en-us/2026/10/23/next-week-on-xbox-new-games-for-october-26-to-30/",
-              "publishedAt": "2026-10-23T12:00:00+08:00",
-              "category": "other-consoles",
-              "platforms": [
-                "Xbox Series",
-                "PC"
-              ],
-              "releaseDate": "2026-10-29",
-              "uncertain": false,
-              "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/nwox-hero-7b008f3fcb5a3c8b2654.jpg",
-              "imageAlt": "Terrible Lizards listed for October 29 on Xbox Wire"
-            },
-            {
-              "id": "gaming-20261025-luma-island-dec2",
-              "title": "Luma Island consoles December 2 on PS5 and Xbox Series with cross-play",
-              "summary": "Feel Free Games 經 Gematsu 宣布耕種冒險 Luma Island 12 月 2 日登陸 PS5／Xbox Series（$19.99），開賣即支援最多四人跨平台合作。",
+              "id": "gaming-20261025-luma-island-for-ps5-xbox-series-launches-decembe",
+              "title": "Luma Island for PS5, Xbox Series launches December 2",
+              "summary": "Gematsu 報道農場冒險 RPG《Luma Island》將於 12 月 2 日以 19.99 美元登陸 PS5 同 Xbox Series，首日支援最多四人跨平台聯機（含 PC）。",
               "source": "Gematsu",
               "sourceUrl": "https://www.gematsu.com/2026/10/luma-island-for-ps5-xbox-series-launches-december-2",
               "publishedAt": "2026-10-22T22:05:00+08:00",
               "category": "other-consoles",
+              "uncertain": false,
               "platforms": [
                 "PS5",
-                "Xbox Series",
+                "Xbox Series X|S",
                 "PC"
               ],
               "releaseDate": "2026-12-02",
-              "uncertain": false,
-              "note": "Catch-up Oct 22 item missing from prior desks.",
+              "note": "Gematsu Oct 22 10:05 AM EDT to 22:05 HKT. Within ~48h; not in prior gaming batches.",
               "image": "https://www.gematsu.com/wp-content/uploads/2026/10/Luma-Island_2026_10-22-26_002.jpg",
-              "imageAlt": "Luma Island PS5 and Xbox Series announcement art"
+              "imageAlt": "Luma Island console announcement key art"
             },
             {
-              "id": "gaming-20261025-hatsune-miku-tamagotori-oct29",
-              "title": "Hatsune Miku Connecting Puzzle TAMAGOTORI Deluxe dated October 29 multiplat",
-              "summary": "KOMODO／Crypton 經 Gematsu 宣布 Deluxe 版 10 月 29 日登陸 PS5／PS4、Xbox One 同 PC（1,980 日圓），內含本體加兩包舊 DLC；Switch 版早已推出。",
+              "id": "gaming-20261025-order-of-the-sinking-star-physical-edition-launc",
+              "title": "Order of the Sinking Star physical edition launches in 2027",
+              "summary": "PM Studios 將為 Jonathan Blow 嘅解謎冒險《Order of the Sinking Star》推出 PS5／Switch 2 實體版，暫定 2027 年；數位版已於 10 月 8 日上市，實體預購已開。",
               "source": "Gematsu",
-              "sourceUrl": "https://www.gematsu.com/2026/10/hatsune-miku-connecting-puzzle-tamagotori-deluxe-coming-to-ps5-ps4-xbox-one-and-pc-on-october-29",
-              "publishedAt": "2026-10-22T09:13:00+08:00",
+              "sourceUrl": "https://www.gematsu.com/2026/10/order-of-the-sinking-star-physical-edition-launches-in-2027",
+              "publishedAt": "2026-10-22T21:37:00+08:00",
               "category": "other-consoles",
+              "uncertain": false,
               "platforms": [
                 "PS5",
-                "PS4",
-                "Xbox One",
-                "PC"
+                "Switch 2"
               ],
-              "releaseDate": "2026-10-29",
-              "uncertain": false,
-              "note": "Catch-up Oct 21 evening EDT announcement.",
-              "image": "https://www.gematsu.com/wp-content/uploads/2026/10/Hatsune-Miku-Connecting-Puzzle-TAMAGOTORI-Deluxe-Ann_10-21-26.jpg",
-              "imageAlt": "Hatsune Miku Connecting Puzzle TAMAGOTORI Deluxe announcement"
-            },
-            {
-              "id": "gaming-20261025-buckshot-roulette-ps-switch",
-              "title": "Buckshot Roulette coming to PS5, PS4 and Switch",
-              "summary": "CRITICAL REFLEX／Mike Klubnika 經 Gematsu 宣布 Buckshot Roulette 將推出 PS5、PS4 同 Switch 版；日期未定，Xbox／PC 版已有，Steam 成績約 400 萬套。",
-              "source": "Gematsu",
-              "sourceUrl": "https://www.gematsu.com/2026/10/buckshot-roulette-coming-to-ps5-ps4-and-switch",
-              "publishedAt": "2026-10-21T02:04:00+08:00",
-              "category": "other-consoles",
-              "platforms": [
-                "PS5",
-                "PS4",
-                "Switch",
-                "Xbox Series",
-                "PC"
-              ],
-              "uncertain": false,
-              "note": "Catch-up Oct 20 announcement; paired with CRITICAL REFLEX Mouthwashing console wave already covered Oct 24.",
-              "image": "https://www.gematsu.com/wp-content/uploads/2026/10/Buckshot-Roulette-PS-Switch_10-20-26.jpg",
-              "imageAlt": "Buckshot Roulette PlayStation and Switch announcement art"
-            },
-            {
-              "id": "gaming-20261025-scramble-knights-ea-oct26",
-              "title": "Scramble Knights Online Early Access / Game Preview October 26 on Xbox and PC",
-              "summary": "Funktronic Labs 經 Gematsu 宣布 MMO-lite Scramble Knights Online 10 月 26 日進 Early Access（Xbox Series、Steam、Microsoft Store）；Xbox Wire 亦確認同日加入 Game Pass Preview。",
-              "source": "Gematsu",
-              "sourceUrl": "https://www.gematsu.com/2026/10/scramble-knights-online-launches-in-early-access-on-october-26",
-              "publishedAt": "2026-10-21T01:20:00+08:00",
-              "category": "other-consoles",
-              "platforms": [
-                "Xbox Series",
-                "PC"
-              ],
-              "releaseDate": "2026-10-26",
-              "uncertain": false,
-              "note": "EA date Gematsu Oct 20; Game Pass listing confirmed in Oct 23 Xbox Wire next-week.",
-              "image": "https://www.gematsu.com/wp-content/uploads/2026/10/Scramble-Knights-Online-EA-Date_10-20-26.jpg",
-              "imageAlt": "Scramble Knights Online Early Access October 26 announcement"
+              "releaseDate": "TBA",
+              "note": "Gematsu Oct 22 9:37 AM EDT to 21:37 HKT. Exact 2027 ship month not stated; releaseDate kept as year only. Physical edition year 2027 from source; releaseDate set TBA (month unknown).",
+              "image": "https://www.gematsu.com/wp-content/uploads/2026/10/Order-Sinking-Star-Physical_10-22-26.jpg",
+              "imageAlt": "Order of the Sinking Star physical edition announcement art"
             }
           ]
         },
         {
           "id": "other",
-          "label": "其他遊戲新聞",
+          "label": "Other",
           "items": [
             {
-              "id": "gaming-20261025-nintendo-music-arms",
-              "title": "Nintendo Music adds full ARMS soundtrack (45 tracks)",
-              "summary": "Nintendo Music 更新加入 ARMS 原聲：45 首、約 1 小時 30 分，作曲包括淺野篤子同岩田恭明；需有效 Switch Online 訂閱。",
-              "source": "Nintendo Life",
-              "sourceUrl": "https://www.nintendolife.com/news/2026/10/final-battle-nintendo-music-expands-its-library-with-the-arms-soundtrack",
-              "publishedAt": "2026-10-24T16:00:00+08:00",
+              "id": "gaming-20261025-xbox-wanted-800-million-from-netflix-for-7-years",
+              "title": "Xbox wanted $800 million from Netflix for 7 years of its biggest characters, it is claimed",
+              "summary": "VGC 引述 Puck：Xbox 據報向 Netflix 開價 8 億美元換七年獨家改編最大 IP，Netflix 還價 5 億後破局；Xbox 聲明仍視 Netflix 為夥伴，並改為尋求更多細額合作。",
+              "source": "VGC",
+              "sourceUrl": "https://www.videogameschronicle.com/news/xbox-wanted-800-million-from-netflix-for-7-years-of-its-biggest-characters-its-claimed/",
+              "publishedAt": "2026-10-23T23:26:00+08:00",
               "category": "other",
-              "platforms": [
-                "Switch",
-                "Switch 2"
-              ],
-              "uncertain": false,
-              "image": "https://images.nintendolife.com/2676d7db38580/1280x720.jpg",
-              "imageAlt": "ARMS soundtrack added to Nintendo Music"
+              "uncertain": true,
+              "note": "VGC dated 23rd Oct 2026 / 4:26 pm (assumed UK BST to UTC+1 to 23:26 HKT). Claim via Puck; Xbox statement confirms interest but not dollar figures; uncertain=true.",
+              "image": "https://www.videogameschronicle.com/files/2026/10/Xbox-Netflix.jpg",
+              "imageAlt": "Xbox and Netflix deal report illustration from VGC"
             },
             {
-              "id": "gaming-20261025-wow-forever-layering",
-              "title": "Blizzard: WoW Forever layering fixes for boats, zeppelins and city exits before Nov 4",
-              "summary": "GameSpot 引 Blizzard 聲明：WoW: Forever 會改善船／飛艇讀盤後分層、以及大群進出主城被拆層問題；11 月 4 日開賣後仍會繼續調。",
-              "source": "GameSpot",
-              "sourceUrl": "https://www.gamespot.com/articles/wow-forevers-divisive-layering-will-see-major-improvements-for-launch-blizzard-says/",
-              "publishedAt": "2026-10-24T00:29:00+08:00",
+              "id": "gaming-20261025-street-fighter-6-players-reeling-after-capcom-ta",
+              "title": "Street Fighter 6 Players Reeling After Capcom Takes Down Popular Community Resource Site",
+              "summary": "Kotaku 報道 Capcom 向 Ultimate Frame Data 發律師信，要求 10 月 30 日前下架《Street Fighter 6》碰撞框資料；站長已移除 SF6 內容，FGC 反應強烈。",
+              "source": "Kotaku",
+              "sourceUrl": "https://kotaku.com/street-fighter-6-players-reeling-after-capcom-takes-down-popular-community-resource-site-2000749159",
+              "publishedAt": "2026-10-23T20:00:00+08:00",
               "category": "other",
+              "uncertain": false,
               "platforms": [
+                "PS5",
+                "Xbox Series X|S",
                 "PC"
               ],
-              "releaseDate": "2026-11-04",
-              "uncertain": false,
-              "image": "https://www.gamespot.com/wp-content/uploads/2026/10/WoW-Forever-Layering-Changes-1.jpg",
-              "imageAlt": "World of Warcraft Forever layering changes article image"
+              "note": "Kotaku dated October 23, 2026; exact hour not in page metadata; publishedAt approx evening HKT. Distinct from Capcom ID breach IR notices.",
+              "image": "https://kotaku.com/app/uploads/2026/10/street-fighter-6.jpg",
+              "imageAlt": "Street Fighter 6 Capcom Ultimate Frame Data takedown story image"
             },
             {
-              "id": "gaming-20261025-eu-halloween-sale",
-              "title": "Nintendo Europe Halloween eShop sale live through November 1",
-              "summary": "繼北美 Screaming Deals，歐洲 eShop Halloween Sale 已開跑至 11 月 1 日；Nintendo Life 整理評分 9／10 以上推介名單。",
-              "source": "Nintendo Life",
-              "sourceUrl": "https://www.nintendolife.com/guides/61-switch-1-and-2-games-you-should-check-out-in-nintendos-halloween-sale-europe",
-              "publishedAt": "2026-10-23T22:45:00+08:00",
+              "id": "gaming-20261025-gamemaker-gmrt-runtime-free-for-commercial-use-f",
+              "title": "GameMaker GMRT runtime free for commercial use from January 1, 2027",
+              "summary": "Opera 旗下 GameMaker 宣布由 2027 年 1 月 1 日起，次世代運行時 GMRT 可免費用於桌面／手機／網頁／GX Games 商業發行；主機輸出仍需 Enterprise 授權。",
+              "source": "GameMaker",
+              "sourceUrl": "https://gamemaker.io/en/blog/gmrt-update",
+              "publishedAt": "2026-10-23T07:30:00+08:00",
               "category": "other",
-              "platforms": [
-                "Switch",
-                "Switch 2"
-              ],
               "uncertain": false,
-              "image": "https://images.nintendolife.com/d41139d2fc297/1280x720.jpg",
-              "imageAlt": "Nintendo Europe Halloween Sale guide artwork"
+              "note": "Official blog datePublished Thu Oct 22 2026 23:30:00 GMT to 2026-10-23T07:30 HKT. Also covered by GameDeveloper Oct 23.",
+              "image": "https://assets.gamemaker.io/content/GMRT_Update_Blog_2d954269e4.png",
+              "imageAlt": "GameMaker GMRT free for commercial use announcement graphic"
             },
             {
-              "id": "gaming-20261025-minecraft-dbz-legends-update",
-              "title": "Minecraft x Dragon Ball Z 1.1 Legends Update adds Vegito, Gotenks and more",
-              "summary": "Bedrock 版 Dragon Ball Z DLC 推出 1.1 Legends Update：新角色、故事戰同最多 8 人自訂錦標賽；Minecraft Switch 2 版下週 10 月 27 日推出。",
-              "source": "Nintendo Life",
-              "sourceUrl": "https://www.nintendolife.com/news/2026/10/minecraft-x-dragon-ball-z-1-1-legends-update-adds-more-characters-new-story-mode-fights-and-custom-tournament",
-              "publishedAt": "2026-10-22T12:45:00+08:00",
+              "id": "gaming-20261025-famitsu-sales-10-12-26-to-10-18-26",
+              "title": "Famitsu Sales: 10/12/26 to 10/18/26",
+              "summary": "Famitsu 週銷：《Tales of Eternia Remastered》首週實體約 4.23 萬套居首，Castlevania: Belmont's Curse 約 2.33 萬；主機方面 Switch 2 賣 21,854 部，PS5 系列 10,667、Xbox Series 229。",
+              "source": "Gematsu",
+              "sourceUrl": "https://www.gematsu.com/2026/10/famitsu-sales-10-12-26-10-18-26",
+              "publishedAt": "2026-10-22T21:04:00+08:00",
               "category": "other",
-              "platforms": [
-                "Switch",
-                "Switch 2",
-                "PC",
-                "consoles"
-              ],
               "uncertain": false,
-              "note": "Catch-up Thu NL item not in prior desks; Switch 2 Minecraft dated Oct 27 in same piece.",
-              "image": "https://images.nintendolife.com/9296df27710d4/1280x720.jpg",
-              "imageAlt": "Minecraft Dragon Ball Z 1.1 Legends Update artwork"
+              "note": "Gematsu Oct 22 9:04 AM EDT to 21:04 HKT. Sales chart categorized as other.",
+              "image": "https://www.gematsu.com/wp-content/uploads/2026/10/Famitsu-Sales_10-22-26.jpg",
+              "imageAlt": "Famitsu sales chart week of October 12 to 18 2026"
             }
           ]
         }
