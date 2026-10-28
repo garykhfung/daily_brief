@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T07:50:59+08:00",
+  "updatedAt": "2026-10-28T07:47:14+08:00",
   "timezone": "Asia/Hong_Kong",
   "tabs": [
     {
@@ -11,54 +11,56 @@
           "label": "Frontier models",
           "items": [
             {
-              "id": "ai-20261027-cadence-maestro",
-              "title": "Cadence launches Maestro AI chip-design models with Nvidia Nemotron and OpenShell",
-              "summary": "據路透，Cadence 周一推出 Maestro AI 晶片設計模型組合，部分建基於 Nvidia 開源權重 Nemotron，並採用 OpenShell 安全技術；客戶可於 Cadence／公有雲或完全在地端運行與微調。首批模型第四季予早期客戶。",
-              "source": "Reuters via Investing.com",
-              "sourceUrl": "https://www.investing.com/news/stock-market-news/cadence-unveils-nvidiabacked-ai-models-that-chipmakers-can-run-inhouse-4972805",
-              "publishedAt": "2026-10-26T21:03:00+08:00",
+              "id": "ai-20261028-openai-oracle-apps-chatgpt",
+              "title": "OpenAI expands Oracle partnership to bring Oracle apps into ChatGPT",
+              "summary": "OpenAI同Oracle擴展合作，將Oracle應用同數據接入ChatGPT，並用OpenAI模型推動Oracle AI Workspace、AI Security Mesh等企業產品。美國Oracle客戶亦可經Oracle Marketplace用現有採購流程購買OpenAI API、Codex同ChatGPT Work。",
+              "source": "OpenAI",
+              "sourceUrl": "https://openai.com/index/oracle-apps-in-chatgpt/",
+              "publishedAt": "2026-10-27T00:00:00+08:00",
               "category": "frontier",
               "uncertain": false,
-              "note": "Investing listed Published Oct 26, 2026, 09:03 AM (treated as US ET → 21:03 HKT).",
-              "image": "https://content-media.investing.com/trkd-images/LYNXNPEM9P15I_L.jpg",
-              "imageAlt": "Reuters Cadence Maestro AI models article image"
+              "note": "Official OpenAI post dated October 27, 2026; exact publish time unknown",
+              "image": "https://images.ctfassets.net/kftzwdyauwt9/2NtuSxL760WPfJi1wbdQwh/c651b8dac0f73296f731f9fbe7b827d9/openai-oracle-apps-chatgpt-blue-seo-image-1920x1080.png?w=1600&h=900&fit=fill",
+              "imageAlt": "OpenAI and Oracle apps in ChatGPT announcement graphic"
             },
             {
-              "id": "ai-20261027-openai-gpt61-terra",
-              "title": "OpenAI launches GPT-6.1 Terra for computer use, visual reasoning and coding",
-              "summary": "OpenAI 推出 GPT-6.1 Terra，強調視覺推理與電腦操控，並指標準 API 價格較 GPT-5.6 Terra／GPT-6.1 Sol 低約一半；已於 ChatGPT Work、Codex 及 API（gpt-6.1-terra）開放。",
-              "source": "OpenAI",
-              "sourceUrl": "https://openai.com/index/introducing-gpt-6-1-terra",
-              "publishedAt": "2026-10-26T00:00:00+08:00",
+              "id": "ai-20261028-google-deepmind-genie-4",
+              "title": "Google DeepMind announces Genie 4 real-time world simulation model",
+              "summary": "Google DeepMind推出Genie 4世界模型，支援即時互動模擬，並原生生成環境音效、音樂同角色對話。目前以研究預覽形式向信任測試者開放，之後會陸續開放畀Google AI Ultra同Gemini API早期合作夥伴。",
+              "source": "Google DeepMind",
+              "sourceUrl": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+              "publishedAt": "2026-10-27T00:00:00+08:00",
               "category": "frontier",
               "uncertain": false,
-              "note": "Official post clock time not extracted (403 on curl); Verge coverage 2026-10-27T02:22:51+08 confirms same-day launch. Exact publish minute unknown → T00:00+08.",
-              "image": "https://cdn.openai.com/mdx-assets/71f084db-a08b-48c5-b96e-5fbdc21a1a00/terra-art-card-16x9.0394724b.png",
-              "imageAlt": "OpenAI GPT-6.1 Terra announcement card"
+              "note": "Also covered at blog.google Genie 4 post same day; exact publish time unknown",
+              "image": "https://lh3.googleusercontent.com/i7iotPkcMbMubxRzAdriO5wsIsowROonBvjLNnmPbOaRgEb1k4LKTBqay5VrcPpZi0R4il_bYCCsPYQ0Gy_-XbAw66azAGEfE-E6_9Izz5apP0BMJVE=w1200-h630-n-nu-rw",
+              "imageAlt": "Google DeepMind Genie 4 world simulation blog hero"
             },
             {
-              "id": "ai-20261027-openai-science-results",
-              "title": "OpenAI publishes AI-generated results in math, complexity theory and quantum field theory",
-              "summary": "OpenAI 於 10 月 26 日公布內部模型在調和分析（含 Kakeya）、反證指數時間假設（ETH），以及量子色動力學／楊—米爾斯存在性等方面的結果，並以外部學者「shepherd」協助驗證與釋出。數學與計算機科學的自然語言證明與 Lean 形式化已放上公開 GitHub。",
-              "source": "OpenAI",
-              "sourceUrl": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
-              "publishedAt": "2026-10-26T00:00:00+08:00",
+              "id": "ai-20261028-anthropic-claude-vulnerability-research",
+              "title": "Anthropic Frontier Red Team details Claude finding critical software vulnerabilities",
+              "summary": "Anthropic Frontier Red Team公開用未發佈內部研究模型發現並串連多個真實軟件漏洞，包括Chrome、Safari、Android、Windows同Linux相關攻擊鏈，並已按協調披露向廠商報告。文章同時指出防禦方可透過Cyber Verification Program取得更強網絡安全能力模型。",
+              "source": "Anthropic",
+              "sourceUrl": "https://www.anthropic.com/research/discovering-vulnerabilities-with-claude",
+              "publishedAt": "2026-10-27T00:00:00+08:00",
+              "category": "frontier",
+              "uncertain": false,
+              "note": "Published Oct 27, 2026 per Anthropic; frontier capability research, not a new consumer product launch; exact time unknown",
+              "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+              "imageAlt": "Anthropic research post on Claude vulnerability discovery"
+            },
+            {
+              "id": "ai-20261028-gemini-robotics-er-2-public-preview",
+              "title": "Gemini Robotics Embodied Reasoning 2 enters public preview on Google Cloud",
+              "summary": "Google將Gemini Robotics Embodied Reasoning 2（ER 2）放到Gemini平台公開預覽，作為機械人高層規劃同安全決策模型。企業可結合Google Cloud安全同多代理編排，喺唔同機械人形態上做長時程任務同多機協作。",
+              "source": "Google Cloud Blog",
+              "sourceUrl": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-robotics-embodied-reasoning-2-is-now-available-on-google-cloud",
+              "publishedAt": "2026-10-27T00:00:00+08:00",
               "category": "frontier",
               "uncertain": true,
-              "note": "Page dated October 26, 2026; clock time unknown → T00:00+08. Claims are AI-produced manuscripts pending external academic verification (uncertain:true).",
-              "image": "https://images.ctfassets.net/kftzwdyauwt9/5HKwJOTURosg0IoKJA21s8/88eefd210a578266fca1a9d9454daadc/from-ai-results-to-scientific-understanding-social.png?w=1600&h=900&fit=fill",
-              "imageAlt": "OpenAI scientific understanding announcement social card"
-            },
-            {
-              "id": "ai-20261027-aws-bedrock-terra",
-              "title": "AWS makes OpenAI GPT-6.1 Terra generally available on Amazon Bedrock",
-              "summary": "AWS 宣布 OpenAI GPT-6.1 Terra 於 Amazon Bedrock 正式上線，標榜較 GPT-6.1 Sol／GPT-5.6 Terra 至少低五成的輸入輸出 token 價，並支援最高約 100 萬輸入 token 及圖文輸入。",
-              "source": "AWS",
-              "sourceUrl": "https://aws.amazon.com/about-aws/whats-new/2026/10/openai-gpt-6-1-terra-on-amazon-bedrock/",
-              "publishedAt": "2026-10-26T00:00:00+08:00",
-              "category": "frontier",
-              "uncertain": false,
-              "note": "AWS what's-new dated Oct 26, 2026; clock time unknown → T00:00+08. No usable og:image."
+              "note": "JSON-LD datePublished is 2026-10-27; visible byline shows October 28, 2026. Time unknown.",
+              "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/gemini-robotics-2__blog__cover.width-2200..max-2200x2200.png",
+              "imageAlt": "Gemini Robotics Embodied Reasoning 2 Google Cloud blog cover"
             }
           ]
         },
@@ -67,43 +69,30 @@
           "label": "Open-source models",
           "items": [
             {
-              "id": "ai-20261027-hf-transformers-v521",
-              "title": "Hugging Face Transformers v5.21.0 adds MiniCPM-OCR, Flint, UltraVBert and Pocket TTS",
-              "summary": "Hugging Face Transformers 發布 v5.21.0，新增 MiniCPM-OCR、Recursive Flint、UltraVBert、Gradium Phonon TTS 與 Pocket TTS 等模型支援，並更新快取、視覺與 MoE 平行化相關行為。",
-              "source": "GitHub / Hugging Face",
-              "sourceUrl": "https://github.com/huggingface/transformers/releases/tag/v5.21",
-              "publishedAt": "2026-10-27T02:17:00+08:00",
+              "id": "ai-20261028-inclusionai-ling-3-1-flash-1019",
+              "title": "inclusionAI open-weights Ling-3.1-flash-1019 MoE model (MIT)",
+              "summary": "inclusionAI（螞蟻）喺Hugging Face以MIT授權開放Ling-3.1-flash-1019權重，總參數約560B、每token激活約25B，屬混合線性MoE。HF API顯示倉庫於2026-10-27 05:46 UTC建立，模型卡稱代理同推理能力有提升。",
+              "source": "Hugging Face / inclusionAI",
+              "sourceUrl": "https://huggingface.co/inclusionAI/Ling-3.1-flash-1019",
+              "publishedAt": "2026-10-27T13:46:51+08:00",
               "category": "open-source",
               "uncertain": false,
-              "note": "GitHub release page listed Cyrilvallez released this 26 Oct 18:17 (treated as UTC → 02:17+08 next day).",
-              "image": "https://repository-images.githubusercontent.com/155220641/a16c4880-a501-11ea-9e8f-646cf611702e",
-              "imageAlt": "Hugging Face Transformers GitHub repository social image"
+              "note": "HF createdAt 2026-10-27T05:46:51Z. Distinct from yesterday's inclusionAI LBS-27B item.",
+              "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/inclusionAI/Ling-3.1-flash-1019.png",
+              "imageAlt": "inclusionAI Ling-3.1-flash-1019 Hugging Face model card thumbnail"
             },
             {
-              "id": "ai-20261027-inclusionai-lbs-27b",
-              "title": "inclusionAI open-weights LBS-27B agentic vision model (Apache 2.0)",
-              "summary": "inclusionAI 於 Hugging Face 釋出 LBS-27B（Apache 2.0），以 Qwen3.8-27B 為底、用合成 GUI grounding 資料訓練，可將畫面區域觀察策略遷移到一般視覺問答與高解析度感知。",
-              "source": "Hugging Face",
-              "sourceUrl": "https://huggingface.co/inclusionAI/LBS-27B",
-              "publishedAt": "2026-10-26T13:36:52+08:00",
+              "id": "ai-20261028-liquid-ai-lfm3-open-weights",
+              "title": "Liquid AI open-weights LFM3 multimodal family on Hugging Face",
+              "summary": "Liquid AI公開LFM3系列開源權重模型，約2B參數級涵蓋文字、視覺、音訊、omni同決策模型，共用新backbone並可單卡微調。官方同Hugging Face部落格均標示2026年10月27日發布，強調邊緣部署同代理人場景。",
+              "source": "Liquid AI / Hugging Face",
+              "sourceUrl": "https://www.liquid.ai/blog/lfm3",
+              "publishedAt": "2026-10-27T00:00:00+08:00",
               "category": "open-source",
               "uncertain": false,
-              "note": "HF API createdAt 2026-10-26T05:36:52Z; weights present (12 safetensors shards).",
-              "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/inclusionAI/LBS-27B.png",
-              "imageAlt": "Hugging Face social thumbnail for inclusionAI/LBS-27B"
-            },
-            {
-              "id": "ai-20261027-baai-ms-human-700",
-              "title": "BAAI open-sources MS-Human-700 musculoskeletal model suite (Apache 2.0)",
-              "summary": "北京智源（BAAI）於 Hugging Face 開源 MS-Human-700：含約 700 條肌腱單元的全身肌肉骨骼 MuJoCo 模型、Gymnasium 環境、DynSyn-SAC 訓練程式與參考動作；不含已訓練策略權重與評估結果。",
-              "source": "Hugging Face / BAAI",
-              "sourceUrl": "https://huggingface.co/BAAI/MS-Human-700",
-              "publishedAt": "2026-10-25T21:50:09+08:00",
-              "category": "open-source",
-              "uncertain": false,
-              "note": "HF API createdAt 2026-10-25T13:50:09Z; card license apache-2.0.",
-              "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/BAAI/MS-Human-700.png",
-              "imageAlt": "Hugging Face social thumbnail for BAAI/MS-Human-700"
+              "note": "Primary Liquid AI blog Oct 27, 2026; companion HF blog https://huggingface.co/blog/LiquidAI/lfm3 same day. Exact time unknown.",
+              "image": "https://cdn-uploads.huggingface.co/production/uploads/644249b08443bce4c9890a0f/wEKXxH6qGa7vmHjn5KA-W.png",
+              "imageAlt": "Liquid AI LFM3 Hugging Face blog cover image"
             }
           ]
         },
@@ -112,41 +101,30 @@
           "label": "Hong Kong",
           "items": [
             {
-              "id": "ai-20261027-news-gov-fintech-ai",
-              "title": "news.gov.hk: Fintech coordination meeting hears regulators’ AI market adoption progress",
-              "summary": "財庫局局長許正宇主持金融科技項目執行統籌小組第六次會議，監管機構匯報喺金融市場應用人工智能嘅最新進展，並討論虛擬資產擬議監管同FinTech Week安排。",
-              "source": "news.gov.hk",
-              "sourceUrl": "https://www.news.gov.hk/eng/2026/10/20261026/20261026_180214_849.html",
-              "publishedAt": "2026-10-26T18:00:00+08:00",
+              "id": "ai-20261028-scmp-san-tin-technopole-27b-funding-concerns",
+              "title": "SCMP: Lawmakers question HK$27.2B second-round San Tin Technopole funding",
+              "summary": "南華早報報道立法會發展事務委員會討論政府為新田科技城第二期工程申請約272億港元撥款，涵蓋填地、濕地公園同污水處理設施；議員關注時間表、預算同填塘工程。",
+              "source": "SCMP",
+              "sourceUrl": "https://www.scmp.com/news/hong-kong/society/article/3372338/hong-kong-lawmakers-raise-concerns-about-fresh-hk27-billion-funding-tech-hub",
+              "publishedAt": "2026-10-27T21:34:00+08:00",
               "category": "hk",
               "uncertain": false,
-              "note": "English news.gov.hk Oct 26; Chinese GIA P2026102600464 timestamp 香港時間18時00分. Regulators briefed AI adoption; HKMA also updated Ensemble/CargoX. Distinct from deduped FinTech Week festival preview."
+              "note": "Published 9:34pm 27 Oct 2026 HKT (updated 9:59pm). San Tin Technopole is HK flagship I&T/tech hub; article is infrastructure funding, not AI-model news. Distinct from Oct 22 GBA AI supply-chain SCMP (outside window).",
+              "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/10/27/c60fbc1f-91ad-49bc-860e-d1294476d866_6c9d7167.jpg?itok=rEHwJFX2&v=1793107678",
+              "imageAlt": "SCMP image for San Tin Technopole funding panel story"
             },
             {
-              "id": "ai-20261027-scmp-hku-seedance",
-              "title": "SCMP/HKU: Chinese video AI models lead visual quality but lag on safeguards",
-              "summary": "港大經管學院人工智能評估實驗室研究指，字節跳動Seedance 2.0 Pro喺12款主流AI影片模型中視覺質素排第一，但安全防護只排第六；報告認為生成能力同風險管控之間出現明顯落差。",
-              "source": "SCMP",
-              "sourceUrl": "https://www.scmp.com/tech/tech-trends/article/3372107/chinese-video-ai-models-beat-us-rivals-visual-quality-lag-safeguards-hku-study",
-              "publishedAt": "2026-10-26T16:00:00+08:00",
+              "id": "ai-20261028-cyberport-venture-capital-forum-2026-agentic-ai",
+              "title": "Cyberport Venture & Capital Forum 2026 to spotlight Agentic AI and OPCs (4–5 Nov)",
+              "summary": "數碼港公布11月4至5日舉行Cyberport Venture & Capital Forum 2026，主題圍繞Agentic AI、一人公司（OPC）同香港作為國際創科融資樞紐；過去一年社群企業共籌集逾745億港元，並將舉辦Agentic Economy Summit。",
+              "source": "Cyberport",
+              "sourceUrl": "https://www.cyberport.hk/wp-content/uploads/Press-release-Cyberport-Venture-Capital-Forum-2026-Scaling-in-a-Changing-World.-Winning-the-Next-Competitive-Cycle-1.pdf",
+              "publishedAt": "2026-10-26T12:00:00+08:00",
               "category": "hk",
               "uncertain": false,
-              "note": "Published 4:00pm 26 Oct 2026 HKT (updated 6:27pm). Led by HKU Business School Prof. Zhenhui Jack Jiang / AIEL. Also covered on lead.hku.hk same day.",
-              "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/10/26/3bf0b243-1490-4ea9-9e3c-1a2bb10e2ab4_3ea72cce.jpg?itok=rLLxe-1d&v=1792982495",
-              "imageAlt": "SCMP image for HKU AI video model safety and quality study"
-            },
-            {
-              "id": "ai-20261027-scmp-openweight-cyber",
-              "title": "SCMP: Debate over China’s open-weight AI — cybersecurity threat or armour?",
-              "summary": "南華早報專題探討中國開源權重AI模型（DeepSeek、Z.ai、阿里等）對網絡安全嘅影響，指可移除防護唔等於必然造成更大現實傷害，同時政府同保安機構正加速補強防線。",
-              "source": "SCMP",
-              "sourceUrl": "https://www.scmp.com/tech/tech-trends/article/3371961/weapon-or-armour-contentious-debate-over-chinas-open-weight-ai",
-              "publishedAt": "2026-10-26T10:00:00+08:00",
-              "category": "hk",
-              "uncertain": false,
-              "note": "Published 10:00am 26 Oct 2026 HKT. SCMP Hong Kong tech desk In Focus feature; China models with HK outlet framing.",
-              "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/10/23/47af3891-b97b-4a79-9180-d425e3161cb4_ea798425.jpg?itok=vxiz1eI8&v=1792757363",
-              "imageAlt": "SCMP In Focus illustration on China’s open-weight AI cybersecurity debate"
+              "note": "Official Cyberport press release dated Hong Kong, 26 October 2026. Listed on cyberport.hk press_release index as 26/10/2026. Distinct from Oct 23 AI for ALL (outside window) and yesterday news.gov.hk fintech item.",
+              "image": "https://www.cyberport.hk/wp-content/uploads/press-release.png",
+              "imageAlt": "Cyberport press release banner image"
             }
           ]
         },
@@ -155,43 +133,30 @@
           "label": "Hardware shipping",
           "items": [
             {
-              "id": "ai-20261027-scan-uk-gx10-128gb",
-              "title": "Scan UK lists ASUS Ascent GX10 128GB DGX Spark SKU in stock at £4,999.99",
-              "summary": "英國Scan產品頁顯示ASUS Ascent GX10（GB10／128GB LPDDR5X／1TB）標示In stock，售價£4,999.99，預計最快10月28日（星期三）由DPD送達，屬DGX Spark平台現售渠道。",
-              "source": "Scan UK",
-              "sourceUrl": "https://www.scan.co.uk/products/asus-ascent-gx10-desktop-ai-supercomputer-gb10-blackwell-superchip-128gb-lpddr5x-1tb-ssd-cx7",
-              "publishedAt": "2026-10-27T07:30:00+08:00",
+              "id": "ai-20261028-pb-tech-nz-dgx-spark-fe-instock-12499",
+              "title": "PB Tech NZ lists NVIDIA DGX Spark Founders Edition in stock at NZ$12,499 +GST",
+              "summary": "紐西蘭PB Tech產品頁顯示NVIDIA DGX Spark Founders Edition（GB10、128GB、4TB）有現貨可加入購物車，標價NZ$12,499（未稅）／約NZ$14,373.85（連GST），每客限購1部，屬新渠道現售。",
+              "source": "PB Tech NZ",
+              "sourceUrl": "https://www.pbtech.co.nz/product/WKSNV0001/NVIDIA-DGX-Spark-Founders-Edition-AI-Supercomputer",
+              "publishedAt": "2026-10-28T07:40:00+08:00",
               "category": "hardware-shipping",
               "uncertain": true,
-              "note": "Retailer page observed ~07:30 HKT 2026-10-27. Distinct from deduped 64GB notify-me Scan SKU and CyberPowerPC UK Oct 26 item. uncertain=true: live stock/price/dispatch can change.",
-              "image": "https://www.scan.co.uk/images/products/3723857-a.jpg",
-              "imageAlt": "Scan UK product photo of ASUS Ascent GX10 128GB"
+              "note": "Retailer page observed ~07:40 HKT 2026-10-28; schema.org Offer availability InStock, price 14373.85 NZD inc GST / 12499 +GST. Store stock table showed units at Albany/Glenfield/Head Office/Hornby. Distinct from yesterday Scan UK / iBUYPOWER / Krumpin Oct 26. uncertain=true: live commerce.",
+              "image": "https://www.pbtech.co.nz/imgprod/W/K/WKSNV0001__1.jpg",
+              "imageAlt": "PB Tech product photo of NVIDIA DGX Spark Founders Edition"
             },
             {
-              "id": "ai-20261027-ibuypower-edgexpert",
-              "title": "iBUYPOWER lists MSI EdgeXpert GB10 DGX Spark system InStock at $7,999",
-              "summary": "美國系統商iBUYPOWER產品頁顯示MSI EdgeXpert-13SUS（GB10、128GB、4TB NVMe、DGX OS）報價US$7,999，結構化資料標示InStock並可加入購物車，屬DGX Spark同級現售OEM渠道。",
-              "source": "iBUYPOWER",
-              "sourceUrl": "https://www.ibuypower.com/store/msi-edgexpert-13sus-dgx-spark-ai-supercomputer",
-              "publishedAt": "2026-10-27T07:30:00+08:00",
-              "category": "hardware-shipping",
-              "uncertain": true,
-              "note": "Official retailer page observed ~07:30 HKT 2026-10-27; schema.org Offer availability InStock, price 7999 USD. uncertain=true: live commerce. Distinct from Dell $6,593 listing already published Oct 26.",
-              "image": "https://content.ibuypower.com/Images/Components/32720/MSI-EdgeXpert-01-2400.png",
-              "imageAlt": "iBUYPOWER MSI EdgeXpert DGX Spark product image"
-            },
-            {
-              "id": "ai-20261027-krumpin-oct26-dgx",
-              "title": "Price tracker: Micro Center still 25 DGX Spark; B&H GX10 OOS, Oct 27 ETA gone",
-              "summary": "Krumpin 10月26日快照顯示Micro Center NVIDIA DGX Spark仍約25部現貨、標價US$6,949.99（自取）；B&H ASUS GX10／Lenovo PGX等繼續缺貨，而且先前顯示嘅10月27日到貨預期已唔再出現。",
+              "id": "ai-20261028-krumpin-oct27-bh-gx10-eta-nvidia-marketplace-buydirectny",
+              "title": "Krumpin Oct 27: B&H GX10 ETA now 2–4 weeks; NVIDIA store ATC $6,950; BuyDirectNY AI Box +$2,500",
+              "summary": "Krumpin 10月27日快照顯示B&H ASUS GX10 1TB／kit仍暫時缺貨但改列預計2至4週到貨；NVIDIA Marketplace DGX Spark頁再出現US$6,950「加入購物車」（庫存未核實）；BuyDirectNY AORUS RTX 5090 AI Box由US$5,499升至US$7,999；Micro Center Spark仍約25部、US$6,949.99自取。",
               "source": "Krumpin / jbhobby",
-              "sourceUrl": "https://krumpin.jbhobby.com/ai-hardware-prices-2026-10-26/",
-              "publishedAt": "2026-10-26T00:00:00+08:00",
+              "sourceUrl": "https://krumpin.jbhobby.com/ai-hardware-prices-2026-10-27/",
+              "publishedAt": "2026-10-27T00:00:00+08:00",
               "category": "hardware-shipping",
               "uncertain": true,
-              "note": "Daily digest titled 2026-10-26; date-only → T00:00+08:00. Prices flat vs Oct 25 but ETA note change. uncertain=true: third-party scrape; qty is threshold. Not investment advice.",
-              "image": "https://krumpin.jbhobby.com/content/images/2026/10/ca_landed_cost_comparison-24.png",
-              "imageAlt": "Krumpin AI hardware landed-cost comparison chart for 2026-10-26"
+              "note": "Daily digest titled 2026-10-27; date-only → T00:00+08:00. NEW vs yesterday's Oct 26 Krumpin URL (deduped). Highlights stock/ETA/price deltas only. uncertain=true: third-party scrape; NVIDIA Marketplace stock unverified per author. Not investment advice.",
+              "image": "https://krumpin.jbhobby.com/content/images/2026/10/ca_landed_cost_comparison-25.png",
+              "imageAlt": "Krumpin AI hardware landed-cost comparison chart for 2026-10-27"
             }
           ]
         },
@@ -200,43 +165,30 @@
           "label": "Hardware gadgets",
           "items": [
             {
-              "id": "ai-20261027-gosight-p1-indiegogo",
-              "title": "GOSIGHT P1 AI+AR glasses launch on Indiegogo October 27",
-              "summary": "GOSIGHT官網宣布全彩雙目AI／AR眼鏡P1於10月27日獨家喺Indiegogo開賣，配置12MP相機同熱插拔電池；公司稱首批數量嚴格限量，並開放電郵名單通知早鳥。",
-              "source": "GOSIGHT",
-              "sourceUrl": "https://gosightai.com/",
-              "publishedAt": "2026-10-27T00:00:00+08:00",
+              "id": "ai-20261028-aimoga-mobo-humanoid-global-preorders",
+              "title": "AiMOGA opens global pre-orders for Mobo 0.9m family companion humanoid",
+              "summary": "AiMOGA Robotics公布首款消費級家庭陪伴人型機械人Mobo全球開放預訂，身高約0.9米、22自由度，支援超過20種語言；公司稱自8月世界機械人大會以來已吸引逾1萬名意向用戶，並啟動全球用家共創計劃。",
+              "source": "GlobeNewswire / AiMOGA",
+              "sourceUrl": "https://www.globenewswire.com/news-release/2026/10/27/3389757/0/en/mobo-makes-global-debut-and-opens-pre-orders-as-aimoga-unveils-its-new-path-to-industrialization.html",
+              "publishedAt": "2026-10-28T05:50:00+08:00",
               "category": "hardware-gadgets",
               "uncertain": true,
-              "note": "Company launch page stating Indiegogo launch October 27, 2026. uncertain=true: crowdfunding timing/stock/final pricing may change; no independent retail corroboration fetched.",
-              "image": "https://gosightai.com/images/hero-model.png",
-              "imageAlt": "GOSIGHT P1 AI AR glasses hero product image"
+              "note": "GlobeNewswire dated Oct. 27, 2026 17:50 ET → 05:50 HKT Oct 28. Pre-order pricing not stated in release; uncertain=true for final retail price/ship dates. Distinct from yesterday Realbotix Echo.",
+              "image": "https://ml.globenewswire.com/Resource/Download/80f99f61-dafa-4037-a7de-fd399856937b",
+              "imageAlt": "AiMOGA Mobo humanoid robot promotional photo"
             },
             {
-              "id": "ai-20261027-even-brown-g2",
-              "title": "Even Realities Brown G2 smart glasses go on sale from $649",
-              "summary": "Even Realities推出G2啡色版Even Brown 2，硬件功能與標準G2相近但更輕，即日起發售售價US$649；同期加推太陽鏡夾片（US$149）同頸鏈配件（US$79）。",
-              "source": "Engadget",
-              "sourceUrl": "https://www.engadget.com/2295406/even-realities-launches-a-brown-version-of-its-g2-smart-glasses/",
-              "publishedAt": "2026-10-26T22:00:00+08:00",
+              "id": "ai-20261028-brilliant-labs-halo-glasses-399-launch",
+              "title": "Brilliant Labs launches Halo privacy-first AI glasses at $399",
+              "summary": "Brilliant Labs宣布Halo智能眼鏡於10月27日發售，售價US$399，強調裝置端處理同開源架構，內置AI助手Noa同實境適應遊戲Narrative；配備全彩microOLED、骨傳導喇叭，官方稱續航最長約14小時。",
+              "source": "Business Wire / Brilliant Labs",
+              "sourceUrl": "https://www.businesswire.com/news/home/20261027712724/en/Brilliant-Labs-Launches-Halo-Glasses-A-New-Generation-of-Privacy-First-Smartglasses",
+              "publishedAt": "2026-10-27T12:00:00+08:00",
               "category": "hardware-gadgets",
               "uncertain": false,
-              "note": "Engadget dated Oct. 26, 2026 10:00 am EST → 22:00 HKT. Distinct from deduped Engadget G2 review URL.",
-              "image": "https://www.engadget.com/img/gallery/even-realities-now-offers-a-brown-version-of-its-g2-smart-glasses/l-intro-1792771151.jpg",
-              "imageAlt": "Even Realities Brown G2 smart glasses product photo"
-            },
-            {
-              "id": "ai-20261027-realbotix-echo",
-              "title": "Realbotix opens Echo humanoid robot reservations with $199 deposit",
-              "summary": "Realbotix宣布旗艦人型機械人Echo系列開售預訂，桌面版Echo Tabletop標價US$11,950、全身版US$59,950；首批限量225部桌面同25部全身，預計2027年下半年付運，可用US$199訂金鎖位。",
-              "source": "Business Wire / Realbotix",
-              "sourceUrl": "https://www.businesswire.com/news/home/20261026986313/en/Realbotix-Launches-Echo-Humanoid-Robot-Line",
-              "publishedAt": "2026-10-26T12:00:00+08:00",
-              "category": "hardware-gadgets",
-              "uncertain": false,
-              "note": "Business Wire release dated Oct 26, 2026 (Las Vegas). Delivery 2H 2027; monthly app subscription from $19.99. Forward-looking production volumes per release.",
-              "image": "https://mms.businesswire.com/media/20261026986313/en/2945323/22/echo-all.jpg",
-              "imageAlt": "Realbotix Echo humanoid robot lineup photo"
+              "note": "Business Wire release dated SINGAPORE--(BUSINESS WIRE)-- launch Oct 27, 2026; available at brilliant.xyz. Corroborated by Unite.AI Oct 27. Distinct from yesterday Even Realities Brown G2 / GOSIGHT P1.",
+              "image": "https://mms.businesswire.com/media/20261027712724/en/2946643/22/halo_01.jpg",
+              "imageAlt": "Brilliant Labs Halo smart glasses product photo"
             }
           ]
         },
@@ -245,41 +197,106 @@
           "label": "Companies",
           "items": [
             {
-              "id": "ai-20261027-msft-voluntary-exits",
-              "title": "Microsoft offers voluntary exit packages to about 60,000 employees amid AI shift",
-              "summary": "微軟向約 6 萬名員工提供自願離職方案，覆蓋美國、加拿大、印度與英國部分團隊（含 Xbox、Windows、Copilot、Finance 等，數據中心與銷售行銷等除外），作為為 AI 時代調整人力與成本的一環。",
+              "id": "ai-20261028-infisical-40m-series-b",
+              "title": "Infisical raises $40M Series B at $600M valuation for AI agent security",
+              "summary": "Infisical宣布由Elad Gil領投完成4,000萬美元B輪，估值6億美元，用於強化AI代理人憑證同存取安全基礎設施。公司強調Agent Vault可讓代理人存取系統而唔直接持有密碼或API金鑰。",
+              "source": "PR Newswire / Infisical",
+              "sourceUrl": "https://www.prnewswire.com/news-releases/infisical-raises-40-million-at-600-million-valuation-to-secure-the-ai-agent-economy-302920994.html",
+              "publishedAt": "2026-10-28T00:00:00+08:00",
+              "category": "companies",
+              "uncertain": false,
+              "note": "PR Newswire timestamp Oct 27, 2026, 12:00 ET → 2026-10-28T00:00:00+08:00 assuming EDT. og:image was PR wire logo only, set null."
+            },
+            {
+              "id": "ai-20261028-hyphenate-45m-series-a",
+              "title": "Hyphenate raises $45M Series A for autonomous finance AI agents",
+              "summary": "前稱Maximor嘅Hyphenate完成4,500萬美元A輪，由Nexus Venture Partners領投，累計融資約5,400萬美元。平台用自學習AI代理人自動化總帳、財資、應收應付同財務報告等流程，並強調可審計軌跡。",
+              "source": "SiliconANGLE",
+              "sourceUrl": "https://siliconangle.com/2026/10/27/hyphenate-bags-45m-in-funding-to-accelerate-autonomous-financial-operations/",
+              "publishedAt": "2026-10-27T21:00:00+08:00",
+              "category": "companies",
+              "uncertain": false,
+              "note": "SiliconANGLE updated 09:00 EDT Oct 27, 2026",
+              "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Screenshot-from-2026-10-27-09-54-14.png",
+              "imageAlt": "Hyphenate founders screenshot from SiliconANGLE"
+            },
+            {
+              "id": "ai-20261028-general-compute-100m-series-a",
+              "title": "General Compute raises $100M Series A at $800M valuation for inference neocloud",
+              "summary": "General Compute完成1億美元A輪，由Blackbird同Abstract領投，投後估值約8億美元。公司主打SambaNova、Positron、Cerebras等非Nvidia推理晶片雲端，並稱已有約1億美元年經常性收入客戶交易作支撐。",
               "source": "TechCrunch",
-              "sourceUrl": "https://techcrunch.com/2026/10/26/microsoft-offers-buyouts-to-around-60000-employees-reports-say/",
-              "publishedAt": "2026-10-26T23:58:25+08:00",
+              "sourceUrl": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
+              "publishedAt": "2026-10-27T21:00:00+08:00",
               "category": "companies",
               "uncertain": false,
-              "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2269268389.jpg?resize=1200,800",
-              "imageAlt": "Microsoft campus related TechCrunch image"
+              "note": "TechCrunch 6:00 AM PDT Oct 27, 2026",
+              "image": "https://techcrunch.com/wp-content/uploads/2026/10/Team-05.jpg?resize=800,1200",
+              "imageAlt": "General Compute team photo"
             },
             {
-              "id": "ai-20261027-unconventional-neureality",
-              "title": "Unconventional AI buys Israeli chip startup NeuReality in cash-and-stock deal",
-              "summary": "據路透，估值約 45 億美元的美國 AI 晶片新創 Unconventional AI（Naveen Rao）周一宣布以現金加股票收購以色列 NeuReality，金額未披露；約 40 人加入，並維持以色列據點。",
-              "source": "Reuters via Investing.com",
-              "sourceUrl": "https://www.investing.com/news/stock-market-news/unconventional-ai-buys-israelichip-startup-neureality-to-speed-product-development-4973194",
-              "publishedAt": "2026-10-26T23:01:00+08:00",
+              "id": "ai-20261028-bedrock-robotics-600m-series-c",
+              "title": "Bedrock Robotics raises $600M Series C at $4.1B valuation for autonomous excavators",
+              "summary": "Bedrock Robotics完成6億美元C輪，由CapitalG同Emergence共同領投，投後估值41億美元，累計融資近10億美元。公司將自駕套件改裝挖土機並已喺美國多個真實工地投入商業作業，NVIDIA等亦有跟投。",
+              "source": "TechCrunch",
+              "sourceUrl": "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/",
+              "publishedAt": "2026-10-27T01:45:00+08:00",
               "category": "companies",
               "uncertain": false,
-              "note": "Investing listed Published Oct 26, 2026, 11:01 AM (treated as US ET → 23:01 HKT).",
-              "image": "https://content-media.investing.com/trkd-images/LYNXNPEM9P1EC_L.jpg",
-              "imageAlt": "Reuters Unconventional AI NeuReality acquisition article image"
+              "note": "TechCrunch 10:45 AM PDT Oct 26, 2026 (= 01:45 HKT Oct 27). Within 24–48h window.",
+              "image": "https://techcrunch.com/wp-content/uploads/2026/10/bedrock-robotics-excavators.jpg?resize=1200,675",
+              "imageAlt": "Bedrock Robotics autonomous excavators"
             },
             {
-              "id": "ai-20261027-nevis-70m-series-b",
-              "title": "Nevis raises $70M Series B led by EQT for AI wealth-management OS",
-              "summary": "前 Revolut 高管創辦的 Nevis 宣布由 EQT Ventures 領投 7,000 萬美元 B 輪，Charles Schwab、Sequoia、ICONIQ、QuantumLight、Ribbit 參與，累計融資約 1.1 億；平台以 AI agent 整合財富管理 CRM、會議與託管流程。",
-              "source": "Nevis",
-              "sourceUrl": "https://www.neviswealth.com/blog/nevis-raises-70m-series-b/",
-              "publishedAt": "2026-10-26T19:00:00+08:00",
+              "id": "ai-20261028-nvidia-meta-muse-collaboration-3b",
+              "title": "NVIDIA and Meta expand Muse collaboration; NVIDIA to invest $3B in Meta equity offering",
+              "summary": "NVIDIA同Meta宣布擴大喺Muse模型家族嘅合作，優化訓練同推理，並探討OpenShell同Sentry等代理人安全監控技術。Meta計劃擴大部署Vera Rubin、Vera CPU、Spectrum-X同BlueField-4；NVIDIA將向Meta股權發行投資30億美元。",
+              "source": "NVIDIA",
+              "sourceUrl": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-and-Meta-to-Expand-Collaboration-on-Muse-and-Muse-Family-of-Models-Amid-Robust-Growth/default.aspx",
+              "publishedAt": "2026-10-27T00:00:00+08:00",
               "category": "companies",
               "uncertain": false,
-              "image": "https://cdn.neviswealth.com/assets/website/blog-series-b.jpg",
-              "imageAlt": "Nevis Series B announcement blog image"
+              "note": "Oct 27, 2026 NVIDIA press release. New Muse/infra partnership angle vs yesterday's Meta equity-raise headline; exact time unknown.",
+              "image": "https://ml.globenewswire.com/media/915679a6-3b0b-41f7-8fac-5f6958b3ae3e/medium/meta-and-nvidia.png",
+              "imageAlt": "NVIDIA and Meta partnership announcement image"
+            },
+            {
+              "id": "ai-20261028-guidewire-acquires-hyperexponential-1-7b",
+              "title": "Guidewire to acquire Hyperexponential for $1.7B cash in agentic underwriting deal",
+              "summary": "Guidewire宣布以17億美元現金收購英國AI核保平台Hyperexponential，另設最多4億美元或有對價，總交易規模最高約21億美元。交易旨在將代理人式核保同定價能力併入Guidewire，預計2027財年第二季完成。",
+              "source": "Guidewire",
+              "sourceUrl": "https://www.guidewire.com/about/press-center/press-releases/20261027/guidewire-signs-definitive-agreement-to-acquire-hyperexponential",
+              "publishedAt": "2026-10-27T00:00:00+08:00",
+              "category": "companies",
+              "uncertain": false,
+              "note": "Primary Guidewire PR Oct 27, 2026; TechCrunch corroboration same day 3:26 PM PDT. Guidewire page og:image is logo; used TechCrunch hero as clearer article image. Exact primary PR time unknown.",
+              "image": "https://techcrunch.com/wp-content/uploads/2026/10/Golden-AI-finance-collage.png?resize=1200,600",
+              "imageAlt": "TechCrunch illustration for Guidewire Hyperexponential acquisition"
+            },
+            {
+              "id": "ai-20261028-hyperbolic-30m-series-a1",
+              "title": "Hyperbolic raises $30M Series A1 led by Walden Catalyst for AI GPU orchestration",
+              "summary": "Hyperbolic宣布獲得3,000萬美元A1輪融資，由Intel行政總裁Tan Lip-Bu共同創辦嘅Walden Catalyst領投，Dell Technologies Capital、General Catalyst等跟投。資金將擴展Forge編排平台同多雲GPU算力流動性市場。",
+              "source": "Hyperbolic",
+              "sourceUrl": "https://www.hyperbolic.ai/blog/a1-funding",
+              "publishedAt": "2026-10-27T00:00:00+08:00",
+              "category": "companies",
+              "uncertain": false,
+              "note": "Company blog dated Oct 27, 2026; exact time unknown",
+              "image": "https://a-us.storyblok.com/f/1019538/2048x1152/8f15bfda40/series-a1-funding-cover.png",
+              "imageAlt": "Hyperbolic Series A1 funding announcement cover"
+            },
+            {
+              "id": "ai-20261028-avante-30m-series-a-benefits-ai",
+              "title": "Avante raises $30M Series A for AI agents serving corporate benefits teams",
+              "summary": "西雅圖新創Avante宣布由Frist Cressey Ventures領投完成3,000萬美元A輪，累計融資4,000萬美元。公司為企業福利團隊打造領域專用AI代理人，處理計劃文件、續約分析同員工福利查詢等。",
+              "source": "Avante",
+              "sourceUrl": "https://www.avante.ai/articles/avante-raises-a-30m-series-a-led-by-frist-cressey-ventures",
+              "publishedAt": "2026-10-27T00:00:00+08:00",
+              "category": "companies",
+              "uncertain": false,
+              "note": "Company post dated October 27, 2026; exact time unknown",
+              "image": "https://cdn.prod.website-files.com/6984a517535340963a10742b/6adfa27cd63a2a00411c58ab_avante-resource-library-series-a%402x.jpg",
+              "imageAlt": "Avante Series A announcement resource image"
             }
           ]
         },
@@ -288,67 +305,56 @@
           "label": "Markets",
           "items": [
             {
-              "id": "ai-20261027-rthk-nasdaq-anthropic",
-              "title": "RTHK: AI stocks lift Wall Street after Anthropic IPO filing; Nasdaq +0.8%",
-              "summary": "香港電台引述路透：週一美股收升，標普500升0.7%、納指升0.8%至26,169，Anthropic公開上市文件帶動AI相關股份氣氛；Meta則因擬籌資擴建AI基建收跌約1.9%。",
-              "source": "RTHK / Reuters",
-              "sourceUrl": "https://news.rthk.hk/rthk/en/component/k2/1875430-20261027.htm",
-              "publishedAt": "2026-10-27T07:02:00+08:00",
+              "id": "ai-20261028-geekwire-microsoft-earnings-preview-azure-capex",
+              "title": "GeekWire: Microsoft earnings preview — Azure ~45%, record >$50B capex, Anthropic cloud spend",
+              "summary": "GeekWire預覽微軟10月28日業績：分析師預期收入約907.5億美元，Azure按不變貨幣約增長44%至45%；公司料本季資本開支逾500億美元。Anthropic S-1顯示其對微軟雲承諾至少約449億美元（2026年11月至2033年5月）。",
+              "source": "GeekWire",
+              "sourceUrl": "https://www.geekwire.com/2026/microsoft-earnings-preview-employee-buyouts-ai-spending-and-a-new-financial-scorecard/",
+              "publishedAt": "2026-10-28T01:50:00+08:00",
               "category": "markets",
               "uncertain": false,
-              "note": "RTHK stamp 2026-10-27 HKT 07:02. Quotes S&P 500 7,676 / Nasdaq 26,169 / Dow 52,361. Source attribution Reuters. Not investment advice.",
-              "image": "https://newsstatic.rthk.hk/images/mfile_1875430_1_M_20261027053200.jpg",
-              "imageAlt": "RTHK file photo accompanying Anthropic IPO markets story"
+              "note": "Published Oct 27, 2026 10:50 am PT → 01:50 HKT Oct 28 (datePublished 17:50 UTC). Preview ahead of Wed close report; quotes analyst expectations. Distinct from yesterday Microsoft buyouts TechCrunch (companies). Not investment advice.",
+              "image": "https://cdn.geekwire.com/wp-content/uploads/2026/10/20160926_Microsoft_Ignite_1087.jpg",
+              "imageAlt": "GeekWire file photo of Microsoft executives for earnings preview"
             },
             {
-              "id": "ai-20261027-spacex-40b-apollo",
-              "title": "SpaceX locks in ~$40B GPU finance lease with Apollo for Vera Rubin buildout",
-              "summary": "SpaceX公布與Apollo管理實體達成約US$400億GPU及相關設備融資租賃約束性承諾，稱屬迄今最大GPU融資；預期年底前完成交割，租賃隨2027年上半年設備交付展開，用於地面算力擴建。",
-              "source": "TechCrunch / SpaceX",
-              "sourceUrl": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
-              "publishedAt": "2026-10-27T00:46:00+08:00",
+              "id": "ai-20261028-reuters-meta-equity-raise-975b-priced-625",
+              "title": "Reuters: Meta upsizes AI equity plan to $97.5B; common stock priced at $625",
+              "summary": "路透報道Meta把原定股權融資規模上調至約975億美元：普通股發售由225億增至250億、定價每股625美元，另250億份可換優先股存託憑證以每股50美元定價合共125億，並保留最多約600億ATM計劃。",
+              "source": "Reuters / Investing.com",
+              "sourceUrl": "https://www.investing.com/news/economy-news/meta-eyes-record-975-billion-equity-raise-to-fund-ai-expansion-4975360",
+              "publishedAt": "2026-10-27T20:05:00+08:00",
               "category": "markets",
               "uncertain": false,
-              "note": "TechCrunch 9:46 AM PDT Oct 26 → 00:46 HKT Oct 27. Also on ir.spacex.com Oct 26. Subject to closing conditions. Not investment advice.",
-              "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-20-at-2.40.46-PM-e1793033116950.png?resize=1200,911",
-              "imageAlt": "TechCrunch image for SpaceX GPU financing story"
+              "note": "Published Oct 27, 2026 08:05 (updated 11:48). NEW facts vs yesterday CNBC $95B plan: upsize to $97.5B and $625 pricing. Also on rte.ie same day. Not investment advice.",
+              "image": "https://content-media.investing.com/trkd-images/LYNXNPEM9P1G1_L.jpg",
+              "imageAlt": "Investing.com/Reuters image for Meta equity raise story"
             },
             {
-              "id": "ai-20261027-anthropic-s1-ant",
-              "title": "Anthropic files S-1 for proposed Nasdaq IPO under ticker ANT",
-              "summary": "Anthropic公布已向美國證交會提交S-1，計劃喺Nasdaq以代號ANT上市，發行股數同價格區間尚未確定；公司強調公告唔構成要約，註冊聲明仍未生效。",
-              "source": "Anthropic",
-              "sourceUrl": "https://www.anthropic.com/news/s1-sec",
-              "publishedAt": "2026-10-26T21:00:00+08:00",
-              "category": "markets",
-              "uncertain": false,
-              "note": "Official Anthropic announcement dated Oct 26, 2026. Distinct from prior ‘may file’/‘mid-November’ Reuters items already deduped. Not investment advice.",
-              "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
-              "imageAlt": "Anthropic S-1 IPO announcement page image"
-            },
-            {
-              "id": "ai-20261027-cnbc-meta-95b",
-              "title": "CNBC: Meta plans up to $95 billion equity raise to fund AI expansion",
-              "summary": "CNBC報道Meta計劃合共籌集最多約US$950億股本資金支持AI基建同超級智能投資，當中約US$350億為承銷公開發售，另規劃約US$600億ATM計劃；並指Nvidia、AMD同Broadcom有意認購最多約US$50億普通股。",
+              "id": "ai-20261028-cnbc-nvidia-amd-4b-invest-meta-equity",
+              "title": "CNBC: Nvidia and AMD to invest $4B in Meta’s AI equity offering",
+              "summary": "CNBC報道Nvidia同AMD分別表示將向Meta股權發售投資約30億同10億美元，合計約40億；Meta前日公布最多約950億美元AI基建融資計劃，並指三家晶片商合共有意認購最多約50億普通股。報道指AMD股價當日升約3%、Meta跌約1%。",
               "source": "CNBC",
-              "sourceUrl": "https://www.cnbc.com/2026/10/26/meta-stock-offering-ai.html",
-              "publishedAt": "2026-10-26T19:34:00+08:00",
+              "sourceUrl": "https://www.cnbc.com/2026/10/27/nvidia-invest-meta.html",
+              "publishedAt": "2026-10-27T16:40:00+08:00",
               "category": "markets",
               "uncertain": false,
-              "note": "CNBC published Mon Oct 26 2026 7:34 AM EDT → 19:34 HKT. Corroborated by Meta IR release same day. Distinct from prior Meta Q3 earnings item. Not investment advice.",
-              "image": "https://image.cnbcfm.com/api/v1/image/108039168-1745940414655-108039168-17272881332024-09-25t181332z_2097001546_rc2u7aaih91n_rtrmadp_0_meta-platforms-virtual-reality.jpg?v=1745940424&w=1920&h=1080",
-              "imageAlt": "CNBC photo accompanying Meta AI stock offering story"
+              "note": "CNBC published Tue Oct 27 2026 4:40 AM EDT → 16:40 HKT (updated 10:19 AM EDT). NEW vs yesterday Meta $95B raise item—names firm $3B/$1B commitments and stock moves. Corroborated by AMD IR Oct 27. Not investment advice.",
+              "image": "https://image.cnbcfm.com/api/v1/image/108443817-1792619674080-gettyimages-2296215637-META_CONNECT.jpeg?v=1792795588&w=1920&h=1080",
+              "imageAlt": "CNBC photo of Meta CEO at Connect event"
             },
             {
-              "id": "ai-20261027-broadcom-63b-anthropic",
-              "title": "Broadcom partners: banks and Blackstone line up $63B to finance Anthropic XPUs",
-              "summary": "Broadcom同BofA、Blackstone、Citi、Morgan Stanley公布約US$630億融資結構，經特別目的公司購入Broadcom XPU同網絡設備再租予Anthropic，屬雙方既有算力協議一部分，預計2027年開始交付。",
-              "source": "Broadcom IR",
-              "sourceUrl": "https://investors.broadcom.com/news-releases/news-release-details/bank-america-blackstone-citi-and-morgan-stanley-announce",
-              "publishedAt": "2026-10-26T12:00:00+08:00",
+              "id": "ai-20261028-reuters-morning-bid-anthropic-kospi-ai",
+              "title": "Reuters Morning Bid: Anthropic IPO filing lifts AI mood; KOSPI jumps 3.6%",
+              "summary": "路透Morning Bid指Anthropic提交美國上市文件後市場氣氛回暖，亞洲股市跟隨美股；南韓KOSPI單日升約3.6%，為9月初以來最大升幅，但仍料10月累跌約17%。文中同時提到Meta最多約950億融資同SpaceX約400億GPU租賃。",
+              "source": "Reuters / Investing.com",
+              "sourceUrl": "https://www.investing.com/news/economy-news/morning-bid-all-eyes-on-ai-4974170",
+              "publishedAt": "2026-10-27T12:40:00+08:00",
               "category": "markets",
               "uncertain": false,
-              "note": "Broadcom IR press release dated Oct. 26, 2026 (New York/Charlotte/Palo Alto). First-lien arranged by BofA/Citi/MS; Blackstone second lien; Broadcom residual-value support. Not investment advice."
+              "note": "Published Oct 27, 2026 12:40 AM (updated 02:06 AM). Market-reaction angle distinct from yesterday RTHK Wall Street close / Anthropic S-1 filing items. Not investment advice.",
+              "image": "https://content-media.investing.com/trkd-images/LYNXNPEM9Q09V_L.jpg",
+              "imageAlt": "Investing.com image for Reuters Morning Bid AI markets column"
             }
           ]
         }
@@ -363,171 +369,247 @@
           "label": "PC / Switch 2",
           "items": [
             {
-              "id": "gaming-20261027-virtue-and-a-sledgehammer-launches-october-27-on",
-              "title": "Virtue and a Sledgehammer launches October 27 on PC",
-              "summary": "Devolver 發行、Deconstructeam／Selkie Harbour 製作嘅敘事探索作《Virtue and a Sledgehammer》今日登陸 Steam：返廢墟家鄉拎大錘拆屋，面對被數位化鄰居嘅機械幽靈。",
-              "source": "Steam",
-              "sourceUrl": "https://store.steampowered.com/app/3743260/Virtue_and_a_Sledgehammer/",
-              "publishedAt": "2026-10-27T00:00:00+08:00",
-              "category": "pc-switch2",
-              "uncertain": false,
-              "platforms": [
-                "PC"
-              ],
-              "releaseDate": "2026-10-27",
-              "note": "Steam store unlock planned Oct 27 (~17h from research morning HKT). Corroboration PC Gamer Sep 20 date trailer; Instant Gaming week list. publishedAt is date-only (T00:00:00+08:00).",
-              "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3743260/b3a130e8651d51b77ca0696c2872809805b783af/capsule_616x353.jpg",
-              "imageAlt": "Virtue and a Sledgehammer Steam capsule art"
-            },
-            {
-              "id": "gaming-20261027-nomad-drive-enters-steam-early-access-october-27",
-              "title": "Nomad Drive enters Steam Early Access October 27",
-              "summary": "Indie Devil 末日房車生存《Nomad Drive》今日進入 Steam Early Access，支援單人或 1–4 人線上合作、程序化探索同房車改裝，預計 EA 期約 6–12 個月。",
-              "source": "Steam",
-              "sourceUrl": "https://store.steampowered.com/app/2223980/Nomad_Drive/",
-              "publishedAt": "2026-10-27T00:00:00+08:00",
-              "category": "pc-switch2",
-              "uncertain": false,
-              "platforms": [
-                "PC"
-              ],
-              "releaseDate": "2026-10-27",
-              "note": "Steam Early Access unlock Oct 27; store said ~17h from research morning. Pogwire notes 1pm ET unlock. publishedAt is date-only (T00:00:00+08:00).",
-              "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2223980/e95ec7f6267c27c26997205fcc7628b946de2ae0/capsule_616x353.jpg",
-              "imageAlt": "Nomad Drive Steam capsule art"
-            },
-            {
-              "id": "gaming-20261027-lacey-s-flash-games-launches-october-27-on-steam",
-              "title": "Lacey's Flash Games launches October 27 on Steam",
-              "summary": "ghosttundra 等工作室嘅點擊恐怖合集《Lacey's Flash Games》今日上 Steam：以 2000 年代「女生 Flash 遊戲」包裝，搜尋失蹤創作者 Rocio Yani 背後嘅黑暗秘密。",
-              "source": "Steam",
-              "sourceUrl": "https://store.steampowered.com/app/3459340/Laceys_Flash_Games/",
-              "publishedAt": "2026-10-27T00:00:00+08:00",
-              "category": "pc-switch2",
-              "uncertain": false,
-              "platforms": [
-                "PC"
-              ],
-              "releaseDate": "2026-10-27",
-              "note": "Steam store unlock Oct 27; SteamPeaks listed among Oct 27 confirmed releases. publishedAt is date-only (T00:00:00+08:00).",
-              "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3459340/182d2825ddaae6769414f6175874e0d06ade92d5/capsule_616x353.jpg",
-              "imageAlt": "Lacey's Flash Games Steam capsule art"
-            },
-            {
-              "id": "gaming-20261027-playable-archive-free-micro-horror-game-now-avai",
-              "title": "Playable Archive free micro horror game now available on PC",
-              "summary": "《The Mortuary Assistant》開發商 DarkStone Digital 同 DreadXP 喺 10 月 26 日免費推出約 30–60 分鐘心理恐怖《Playable Archive》，保存一部永遠唔會出正作嘅素材，無存檔。",
+              "id": "gaming-20261028-the-outlast-trials-now-available-for-switch-2",
+              "title": "The Outlast Trials now available for Switch 2",
+              "summary": "Red Barrels 合作生存恐怖遊戲《The Outlast Trials》已喺 Nintendo eShop 推出 Switch 2 版，售價 39.99 美元；可單人或二至四人組隊進行 Murkoff 實驗關卡。",
               "source": "Gematsu",
-              "sourceUrl": "https://www.gematsu.com/2026/10/the-mortuary-assistant-developer-releases-free-micro-horror-game-playable-archive-for-pc",
-              "publishedAt": "2026-10-26T23:21:00+08:00",
+              "sourceUrl": "https://www.gematsu.com/2026/10/the-outlast-trials-now-available-for-switch-2",
+              "publishedAt": "2026-10-28T00:31:00+08:00",
               "category": "pc-switch2",
               "uncertain": false,
               "platforms": [
-                "PC"
-              ],
-              "releaseDate": "2026-10-26",
-              "note": "Gematsu Oct 26 11:21 AM EDT → 23:21 HKT. Free Steam launch.",
-              "image": "https://www.gematsu.com/wp-content/uploads/2026/10/Playable-Archive-Ann_10-26-26.jpg",
-              "imageAlt": "Playable Archive announcement art"
-            },
-            {
-              "id": "gaming-20261027-burggeist-for-nintendo-switch-2-launches-october",
-              "title": "BURGGEIST for Nintendo Switch 2 launches October 27",
-              "summary": "GHRIAN STUDIO 即時動作策略《BURGGEIST》今日（10 月 27 日）以約 12 美元登陸 Switch 2 eShop，雙角色戰鬥同開放世界探索；PC Steam 版早已推出。",
-              "source": "Games Press",
-              "sourceUrl": "https://www.gamespress.com/BURGGEIST-Launches-Soon-for-Nintendo-Switch-2",
-              "publishedAt": "2026-10-23T00:00:00+08:00",
-              "category": "pc-switch2",
-              "uncertain": false,
-              "platforms": [
-                "Switch 2",
-                "PC"
+                "Switch 2"
               ],
               "releaseDate": "2026-10-27",
-              "note": "Games Press dated 23/10/2026; corroboration GoNintendo Oct 21. imageUrl from GoNintendo article hero (Games Press page had no clear game og). publishedAt is date-only (T00:00:00+08:00).",
-              "image": "https://gonintendo.com/attachments/image/87845/file/medium-5a1eefcea7f1594b7b6cd3a13ae0f3fb.jpg",
-              "imageAlt": "BURGGEIST Switch 2 key art"
+              "note": "Gematsu stamped Oct 27 2026 / 12:31 PM EDT (= Oct 28 00:31 HKT).",
+              "image": "https://www.gematsu.com/wp-content/uploads/2026/10/Outlast-Trials-Switch-2_10-27-26.jpg",
+              "imageAlt": "The Outlast Trials Switch 2 announcement art"
             },
             {
-              "id": "gaming-20261027-sn-ultimate-freeriding-coming-to-ps5-xbox-series",
-              "title": "SNØ: Ultimate Freeriding coming to PS5, Xbox Series, and Switch 2 on October 28",
-              "summary": "AMATA Games 將喺 10 月 28 日把 Studio Gauntlet 無盡滑雪《SNØ: Ultimate Freeriding》帶上 PS5、Xbox Series 同 Switch 2；PC Steam 版 2025 年 2 月已出。",
-              "source": "Gematsu",
-              "sourceUrl": "https://www.gematsu.com/2026/10/sno-ultimate-freeriding-coming-to-ps5-xbox-series-and-switch-2-on-october-28",
-              "publishedAt": "2026-10-07T23:20:00+08:00",
+              "id": "gaming-20261028-probably-stolen-cyberpunk-shopkeeper-sim-launche",
+              "title": "Probably Stolen – Cyberpunk Shopkeeper Sim launches October 28 on Steam",
+              "summary": "tinyBuild 發行、Questing Goose Studio 開發嘅賽博龐克商店模擬《Probably Stolen》計劃喺 10 月 28 日喺 Steam 解鎖，玩家喺太空站經營灰色地帶買賣、應付派系同失控 AI。",
+              "source": "Steam",
+              "sourceUrl": "https://store.steampowered.com/app/4348910/Probably_Stolen_Cyberpunk_Shopkeeper_Sim/",
+              "publishedAt": "2026-10-28T00:00:00+08:00",
               "category": "pc-switch2",
               "uncertain": false,
               "platforms": [
-                "Switch 2",
-                "PS5",
-                "Xbox Series",
                 "PC"
               ],
               "releaseDate": "2026-10-28",
-              "note": "Gematsu Oct 7 11:20 AM EDT → 23:20 HKT. Not in today's dedupe; console window this week.",
-              "image": "https://www.gematsu.com/wp-content/uploads/2026/10/SNO-Consoles-Ann_10-07-26.jpg",
-              "imageAlt": "SNØ: Ultimate Freeriding console announcement art"
+              "note": "Steam planned release Oct 28, 2026; page said unlock ~13h from research morning HKT.",
+              "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4348910/9c7b2a21040f0e71a412bc8347a357f8e26212a4/capsule_616x353.jpg",
+              "imageAlt": "Probably Stolen Steam capsule art"
             },
             {
-              "id": "gaming-20261027-hell-is-us-switch-2-physical-edition-arrives-oct",
-              "title": "Hell is Us Switch 2 physical edition arrives October 27; digital launched October 8",
-              "summary": "Nacon 動作冒險《Hell is Us》Switch 2 實體版今日（10 月 27 日）到貨；數位版已於 10 月 8 日推出，較早前因檔期同物流調整過發售日。",
-              "source": "GoNintendo",
-              "sourceUrl": "https://www.gonintendo.com/contents/60632-hell-is-us-comes-to-switch-2-oct-27th-2026-update",
-              "publishedAt": "2026-10-07T00:00:00+08:00",
+              "id": "gaming-20261028-anomalith-launches-october-28-on-pc-switch-2-and",
+              "title": "ANOMALITH launches October 28 on PC, Switch 2 and PS5",
+              "summary": "FuRyu／Winning Entertainment Group 嘅昭和風異常空間生存 TPS《ANOMALITH》計劃 10 月 28 日喺 Steam、Switch 2 同 PS5 推出；早期購買有限定任務同服裝獎勵（日本時間窗口另列）。",
+              "source": "Steam",
+              "sourceUrl": "https://store.steampowered.com/app/4017880/ANOMALITH/",
+              "publishedAt": "2026-10-28T00:00:00+08:00",
               "category": "pc-switch2",
               "uncertain": false,
               "platforms": [
-                "Switch 2",
                 "PC",
-                "PS5",
-                "Xbox Series"
+                "Switch 2"
               ],
-              "releaseDate": "2026-10-27",
-              "note": "GoNintendo Oct 7 update clarifying digital Oct 8 / physical Oct 27. PC already available on other platforms historically. dateOnly for Oct 7 stamp. publishedAt is date-only (T00:00:00+08:00).",
-              "image": "https://gonintendo.com/attachments/image/80343/file/medium-d75acb29ec111f4c1f420b073458dfdf.jpg",
-              "imageAlt": "Hell is Us Switch 2 announcement art"
+              "releaseDate": "2026-10-28",
+              "note": "Steam planned Oct 28 unlock (~15h from research morning). Switch 2 listing confirmed via Nintendo store / Pogwire week guide. Distinct from prior 'dated late October' dedupe item.",
+              "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4017880/c3b8c4a0e37e27a688d460293630ba264554f674/capsule_616x353.jpg",
+              "imageAlt": "ANOMALITH Steam capsule art"
             },
             {
-              "id": "gaming-20261027-queen-s-domain-launches-october-30-for-ps5-xbox",
-              "title": "Queen's Domain launches October 30 for PS5, Xbox Series, Switch 2, and PC",
-              "summary": "Future Friends／Freshly Baked 受《King's Field》啟發嘅第一人稱動作 RPG《Queen's Domain》訂 10 月 30 日登陸 PS5、Xbox Series、Switch 2 同 Steam。",
-              "source": "Gematsu",
-              "sourceUrl": "https://www.gematsu.com/2026/09/queens-domain-launches-october-30-for-ps5-xbox-series-switch-2-and-pc",
-              "publishedAt": "2026-09-30T21:09:00+08:00",
+              "id": "gaming-20261028-broke-wizards-launches-october-28-on-steam",
+              "title": "Broke Wizards launches October 28 on Steam",
+              "summary": "Scribblenauts 開發商 5TH Cell 嘅 2–6 人競爭沙盒派對遊戲《Broke Wizards》計劃 10 月 28 日喺 Steam 推出，巫師室友搶住交租、打怪同玩各種小遊戲。",
+              "source": "Steam",
+              "sourceUrl": "https://store.steampowered.com/app/4398500/Broke_Wizards/",
+              "publishedAt": "2026-10-28T00:00:00+08:00",
               "category": "pc-switch2",
               "uncertain": false,
               "platforms": [
-                "Switch 2",
-                "PS5",
-                "Xbox Series",
                 "PC"
               ],
-              "releaseDate": "2026-10-30",
-              "note": "Gematsu Sep 30 9:09 AM EDT → 21:09 HKT. Not in dedupe; this week's Japanese releases list also confirms.",
-              "image": "https://www.gematsu.com/wp-content/uploads/2026/09/Queens-Domain-Date_09-30-26.jpg",
-              "imageAlt": "Queen's Domain release date key art"
+              "releaseDate": "2026-10-28",
+              "note": "Steam planned Oct 28 unlock (~14h from research morning HKT).",
+              "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4398500/97640c2f24b7e5f7123af732ab6d7a98c559e502/capsule_616x353.jpg",
+              "imageAlt": "Broke Wizards Steam capsule art"
             },
             {
-              "id": "gaming-20261027-demon-slayer-hinokami-chronicles-2-nintendo-swit",
-              "title": "Demon Slayer: Hinokami Chronicles 2 Nintendo Switch 2 Edition dated October 29",
-              "summary": "Sega《鬼滅之刃 火之神血風譚 2》Nintendo Switch 2 Edition 訂 10 月 29 日全球推出，支援更高解像同 60fps、跨 Switch／Switch 2 對戰；原 Switch 版可免費升級（無限城角色通行證另購）。",
-              "source": "Anime News Network",
-              "sourceUrl": "https://www.animenewsnetwork.com/news/2026-06-29/demon-slayer-the-hinokami-chronicles-2-game-gets-switch-2-edition-on-october-29/.239105",
-              "publishedAt": "2026-06-30T01:45:00+08:00",
+              "id": "gaming-20261028-airport-contraband-launches-october-28-on-steam",
+              "title": "Airport Contraband launches October 28 on Steam",
+              "summary": "DRAGO entertainment 海關羅ogue-like 模擬《Airport Contraband》計劃 10 月 28 日喺 Steam 解鎖，玩家喺機場檢查證件同行李，可選擇守法或同走私集團勾結。",
+              "source": "Steam",
+              "sourceUrl": "https://store.steampowered.com/app/1167820/Airport_Contraband/",
+              "publishedAt": "2026-10-28T00:00:00+08:00",
               "category": "pc-switch2",
               "uncertain": false,
               "platforms": [
-                "Switch 2",
-                "Switch",
+                "PC"
+              ],
+              "releaseDate": "2026-10-28",
+              "note": "Steam planned Oct 28 unlock (~16h from research morning). Publisher also lists Shochiku.",
+              "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1167820/df64109a49804e95e86f1519ebd6110a2f65e3fa/capsule_616x353_alt_assets_38.jpg",
+              "imageAlt": "Airport Contraband Steam capsule art"
+            },
+            {
+              "id": "gaming-20261028-fantasy-world-manager-enters-steam-early-access",
+              "title": "Fantasy World Manager enters Steam Early Access October 28",
+              "summary": "Florian Alushaj／Legendary Pixels 嘅奇幻世界建構模擬《Fantasy World Manager》計劃 10 月 28 日進入 Steam 搶先體驗，已可建立大型世界、種族、文化、勢力同地牢等編輯器內容。",
+              "source": "Steam",
+              "sourceUrl": "https://store.steampowered.com/app/3447280/Fantasy_World_Manager/",
+              "publishedAt": "2026-10-28T00:00:00+08:00",
+              "category": "pc-switch2",
+              "uncertain": false,
+              "platforms": [
+                "PC"
+              ],
+              "releaseDate": "2026-10-28",
+              "note": "Steam planned Early Access Oct 28 (~15h from research morning).",
+              "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3447280/d01ce9d10fbdbe032ca923d8ccf1de9f0621ac09/capsule_616x353.jpg",
+              "imageAlt": "Fantasy World Manager Steam capsule art"
+            },
+            {
+              "id": "gaming-20261028-zombie-assault-resurgence-launches-october-28-on",
+              "title": "Zombie Assault: Resurgence launches October 28 on Steam",
+              "summary": "Ninja Kiwi 俯視射擊 RPG《Zombie Assault: Resurgence》計劃 10 月 28 日喺 Steam 推出，支援單人同最多四人線上合作，有職業技能樹同可升級武器裝備。",
+              "source": "Steam",
+              "sourceUrl": "https://store.steampowered.com/app/2747660/Zombie_Assault_Resurgence/",
+              "publishedAt": "2026-10-28T00:00:00+08:00",
+              "category": "pc-switch2",
+              "uncertain": false,
+              "platforms": [
+                "PC"
+              ],
+              "releaseDate": "2026-10-28",
+              "note": "Steam planned Oct 28 unlock (~14h from research morning); Windows and macOS listed.",
+              "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2747660/36c306d5be74e4e665f4e892d9a5e6455f18c701/capsule_616x353.jpg",
+              "imageAlt": "Zombie Assault Resurgence Steam capsule art"
+            },
+            {
+              "id": "gaming-20261028-village-in-the-shade-now-available-on-switch-and",
+              "title": "Village in the Shade now available on Switch and Switch 2",
+              "summary": "NIS America 發布由夜廻系列班底打造嘅日式山村農耕模擬《Village in the Shade》，Switch 同 Switch 2 版已正式上架；亦有 PC／PS5 版，並附可關閉恐怖要素嘅陽光模式。",
+              "source": "GoNintendo",
+              "sourceUrl": "https://gonintendo.com/contents/66513-village-in-the-shade-now-available-on-switch-and-switch-2",
+              "publishedAt": "2026-10-27T00:00:00+08:00",
+              "category": "pc-switch2",
+              "uncertain": false,
+              "platforms": [
+                "PC",
+                "Switch 2"
+              ],
+              "releaseDate": "2026-10-27",
+              "note": "GoNintendo dated 27 October 2026 (time not stated; used T00:00:00+08:00). Also on Steam/PS5 per NIS; UK price cited £49.99.",
+              "image": "https://gonintendo.com/attachments/image/88029/file/medium-933e022a8ce7650ab8c8dc8b6a990e5b.jpg",
+              "imageAlt": "Village in the Shade key art"
+            },
+            {
+              "id": "gaming-20261028-northgard-battlegrounds-enters-steam-early-acces",
+              "title": "Northgard Battlegrounds enters Steam Early Access October 27",
+              "summary": "Shiro Unlimited／Funday Games 嘅維京城建自動戰鬥遊戲《Northgard Battlegrounds》已喺 Steam 進入搶先體驗，定價約 14.99 美元並有兩週一成開賣折扣；預計至少六個月搶先體驗。",
+              "source": "Steam",
+              "sourceUrl": "https://store.steampowered.com/app/4487060/Northgard_Battlegrounds/",
+              "publishedAt": "2026-10-27T00:00:00+08:00",
+              "category": "pc-switch2",
+              "uncertain": false,
+              "platforms": [
+                "PC"
+              ],
+              "releaseDate": "2026-10-27",
+              "note": "Steam store lists Early Access Release Date Oct 27, 2026; corroboration Games Press press release 27/10/2026.",
+              "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4487060/bc8955140dc2a97e6454597ecd190f1e4d520772/capsule_616x353_alt_assets_4.jpg",
+              "imageAlt": "Northgard Battlegrounds Steam capsule art"
+            },
+            {
+              "id": "gaming-20261028-farming-simulator-25-beans-alpacas-expansion-now",
+              "title": "Farming Simulator 25: Beans & Alpacas expansion now available",
+              "summary": "GIANTS Software 官方宣布《Farming Simulator 25》大型資料片 Beans & Alpacas 已喺 PC 同主機上架，新增南美風地圖 Catuaí、咖啡同香蕉種植、羊駝同 Brahman 牛，並附 25 部以上新農機；Year 2 Season Pass 已包含。",
+              "source": "Farming Simulator / GIANTS Software",
+              "sourceUrl": "https://www.farming-simulator.com/newsArticle.php?news_id=716",
+              "publishedAt": "2026-10-27T00:00:00+08:00",
+              "category": "pc-switch2",
+              "uncertain": false,
+              "platforms": [
+                "PC"
+              ],
+              "releaseDate": "2026-10-27",
+              "note": "Official news dated October 27, 2026 (time not stated).",
+              "image": "https://www.farming-simulator.com/cms/uploads/news_6ad5ed470150a.jpg",
+              "imageAlt": "Farming Simulator 25 Beans & Alpacas expansion art"
+            },
+            {
+              "id": "gaming-20261028-you-are-empty-absolute-edition-launches-on-steam",
+              "title": "You Are Empty: Absolute Edition launches on Steam October 27",
+              "summary": "經典另類歷史蘇聯基輔恐怖 FPS《You Are Empty》現代化重製 Absolute Edition 已喺 Steam 推出，加入成就、手掣支援、寬螢幕同大量效能／QoL 修正。",
+              "source": "Steam",
+              "sourceUrl": "https://store.steampowered.com/app/4760480/You_Are_Empty_Absolute_Edition/",
+              "publishedAt": "2026-10-27T00:00:00+08:00",
+              "category": "pc-switch2",
+              "uncertain": false,
+              "platforms": [
+                "PC"
+              ],
+              "releaseDate": "2026-10-27",
+              "note": "Steam Release Date Oct 27, 2026 with live reviews; ZOOM Platform dated announce earlier (Aug).",
+              "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4760480/8c1c3143af6c166b593e8498170b684388d68424/capsule_616x353.jpg",
+              "imageAlt": "You Are Empty Absolute Edition Steam capsule art"
+            },
+            {
+              "id": "gaming-20261028-dog-man-bark-in-action-launches-on-steam-october",
+              "title": "Dog Man: Bark in Action launches on Steam October 27",
+              "summary": "Mindscape／Floor 84 根據 Dav Pilkey 漫畫改編嘅動作平台作《Dog Man: Bark in Action》已喺 Steam 等同日多平台上架，最多 10 名可玩角色、約 60 關同雙人同機合作。",
+              "source": "Steam",
+              "sourceUrl": "https://store.steampowered.com/app/4782240/Dog_Man_Bark_in_Action/",
+              "publishedAt": "2026-10-27T00:00:00+08:00",
+              "category": "pc-switch2",
+              "uncertain": false,
+              "platforms": [
                 "PC",
                 "PS5",
-                "Xbox Series"
+                "Xbox",
+                "Switch"
               ],
-              "releaseDate": "2026-10-29",
-              "note": "ANN Jun 29 13:45 EDT → Jun 30 01:45 HKT. Base game already on PC/consoles Aug 2025; Switch 2 Edition launch this week. Also listed in Gematsu weekly JP releases.",
-              "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHP/cms/news.9/239105/demon-slayer-hinokami-chronicles-2.jpg",
-              "imageAlt": "Demon Slayer Hinokami Chronicles 2 key art"
+              "releaseDate": "2026-10-27",
+              "note": "Steam Release Date Oct 27, 2026; Mindscape out-now blog 27-10-2026 lists Switch/Steam/Xbox/PlayStation (Switch 1, not Switch 2).; also out on PlayStation, Xbox, Switch",
+              "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4782240/4fb51f1157d1b018b14ab859af4a75704e98efe7/capsule_616x353.jpg",
+              "imageAlt": "Dog Man Bark in Action Steam capsule art"
+            },
+            {
+              "id": "gaming-20261028-vampy-s-big-day-launches-october-27-on-steam",
+              "title": "Vampy's Big Day launches October 27 on Steam",
+              "summary": "Jerbob 手繪風短篇動作 RPG《Vampy's Big Day》已喺 Steam 推出，笨拙吸血鬼靠仙女搬動陽光、喺陰影中潛行，並決定放過定吞噬村民。",
+              "source": "Steam",
+              "sourceUrl": "https://store.steampowered.com/app/4287040/Vampys_Big_Day/",
+              "publishedAt": "2026-10-27T00:00:00+08:00",
+              "category": "pc-switch2",
+              "uncertain": false,
+              "platforms": [
+                "PC"
+              ],
+              "releaseDate": "2026-10-27",
+              "note": "Steam Release Date Oct 27, 2026 with live Positive reviews.",
+              "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4287040/c085b283cd85f692a4d3303fec3e06c49174d306/capsule_616x353.jpg",
+              "imageAlt": "Vampy's Big Day Steam capsule art"
+            },
+            {
+              "id": "gaming-20261028-culdcept-begins-launches-on-steam",
+              "title": "Culdcept BEGINS launches on Steam",
+              "summary": "Neos Corporation 棋盤×卡牌混合作《Culdcept BEGINS》Steam 版已上架（商店標 10 月 27 日），帶來新地圖同介面改良；Switch／Switch 2 版早前已出並宣佈累計出貨逾 10 萬。",
+              "source": "Steam",
+              "sourceUrl": "https://store.steampowered.com/app/3322630/Culdcept_BEGINS/",
+              "publishedAt": "2026-10-27T00:00:00+08:00",
+              "category": "pc-switch2",
+              "uncertain": false,
+              "platforms": [
+                "PC"
+              ],
+              "releaseDate": "2026-10-27",
+              "note": "Steam lists Release Date Oct 27, 2026 with live reviews; Games Press (20/10) said Steam launch Oct 28 JST—timezone listing variance. Prefer Steam live date.",
+              "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3322630/e9ca4ca7e80b00bb959a1364ac0614f8e107036e/capsule_616x353.jpg",
+              "imageAlt": "Culdcept BEGINS Steam capsule art"
             }
           ]
         },
@@ -536,171 +618,53 @@
           "label": "Game news",
           "items": [
             {
-              "id": "gaming-20261027-emberville-steam-early-access-delayed-from-octob",
-              "title": "Emberville Steam Early Access delayed from October 27 to January 7, 2027",
-              "summary": "Cygnus Cross 臨開賣一日將《Emberville》Steam Early Access 由 10 月 27 日延至 2027 年 1 月 7 日，指 Steam Next Fest 反饋需要重做弓箭等系統，一月版亦會收錄原訂首個更新內容。",
-              "source": "Polygon",
-              "sourceUrl": "https://www.polygon.com/emberville-early-access-launch-delay/",
-              "publishedAt": "2026-10-27T04:46:00+08:00",
-              "category": "news",
-              "uncertain": false,
-              "platforms": [
-                "PC"
-              ],
-              "releaseDate": "2027-01-07",
-              "note": "Polygon Oct 26 4:46 PM EDT → Oct 27 04:46 HKT. Corroboration WorthPlaying Oct 26; PC Gamer also covered delay.",
-              "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/emberville.jpg?w=1600&h=900&fit=crop",
-              "imageAlt": "Emberville forest settlement screenshot"
-            },
-            {
-              "id": "gaming-20261027-assassin-s-creed-black-flag-resynced-new-game-up",
-              "title": "Assassin's Creed Black Flag Resynced New Game+ update launches October 27",
-              "summary": "Ubisoft Quebec 為《Assassin's Creed Black Flag Resynced》推出最終大型更新：New Game+（最多五輪）、Nightmare Mode、新擊殺同外觀，今日太平洋時間上午 7 時喺 PS5／Xbox Series／PC 上線。",
+              "id": "gaming-20261028-nintendo-indie-world-showcase-set-for-october-28",
+              "title": "Nintendo Indie World Showcase set for October 28",
+              "summary": "任天堂宣布 10 月 28 日上午 7 時（太平洋時間）舉行約 15 分鐘 Indie World Showcase，介紹即將登陸 Switch 2 同 Switch 嘅獨立遊戲消息，可喺 YouTube／Twitch 收看。",
               "source": "Gematsu",
-              "sourceUrl": "https://www.gematsu.com/2026/10/assassins-creed-black-flag-resynced-new-game-update-launches-october-27",
-              "publishedAt": "2026-10-27T01:16:00+08:00",
+              "sourceUrl": "https://www.gematsu.com/2026/10/nintendo-indie-world-showcase-set-for-october-28",
+              "publishedAt": "2026-10-27T22:04:00+08:00",
               "category": "news",
               "uncertain": false,
-              "platforms": [
-                "PC",
-                "PS5",
-                "Xbox Series"
-              ],
-              "releaseDate": "2026-10-27",
-              "note": "Gematsu Oct 26 1:16 PM EDT → Oct 27 01:16 HKT. PC via Steam and Epic.",
-              "image": "https://www.gematsu.com/wp-content/uploads/2026/10/ACBF-Update_10-26-26.jpg",
-              "imageAlt": "Assassin's Creed Black Flag Resynced update art"
-            },
-            {
-              "id": "gaming-20261027-marvel-cosmic-invasion-dlc-the-siege-of-castle-d",
-              "title": "MARVEL Cosmic Invasion DLC 'The Siege of Castle Doom' reveals Castle Doom game mode",
-              "summary": "Dotemu／Tribute 公開《MARVEL Cosmic Invasion》付費 DLC「The Siege of Castle Doom」新 Castle Doom 類 Roguelike 模式，訂 11 月 10 日上線 Switch 2／PC 等多平台。",
-              "source": "Gematsu",
-              "sourceUrl": "https://www.gematsu.com/2026/10/marvel-cosmic-invasion-dlc-the-siege-of-castle-doom-reveals-new-game-mode",
-              "publishedAt": "2026-10-27T00:04:00+08:00",
-              "category": "news",
-              "uncertain": false,
-              "platforms": [
-                "Switch 2",
-                "Switch",
-                "PC",
-                "PS5",
-                "Xbox Series"
-              ],
-              "releaseDate": "2026-11-10",
-              "note": "Gematsu Oct 26 12:04 PM EDT → Oct 27 00:04 HKT. DLC date Nov 10.",
-              "image": "https://www.gematsu.com/wp-content/uploads/2026/10/MARVEL-Cosmic-Invasion-DLC_10-26-26.jpg",
-              "imageAlt": "MARVEL Cosmic Invasion Siege of Castle Doom DLC art"
-            },
-            {
-              "id": "gaming-20261027-minecraft-switch-2-mini-review-satisfying-upgrad",
-              "title": "Minecraft Switch 2 mini review: satisfying upgrade, but no mouse mode (8/10)",
-              "summary": "Nintendo Life 畀《Minecraft》Switch 2 版迷你評分 8/10，讚 Vibrant Visuals、讀取同約 60fps，但批評無滑鼠模式同體感，偶有掉幀；數位 Standard 可免費領至 2027 年 1 月底。",
-              "source": "Nintendo Life",
-              "sourceUrl": "https://www.nintendolife.com/reviews/nintendo-switch-2/minecraft",
-              "publishedAt": "2026-10-26T23:45:00+08:00",
-              "category": "news",
-              "uncertain": true,
               "platforms": [
                 "Switch 2"
               ],
-              "releaseDate": "2026-10-27",
-              "note": "NL '8 hours ago' relative to ~07:45 HKT Oct 27 research ≈ 23:45 HKT Oct 26; uncertain true. Distinct from Mojang pre-order item already in dedupe.",
-              "image": "https://images.nintendolife.com/88124efca385e/1280x720.jpg",
-              "imageAlt": "Minecraft Switch 2 review hero image"
+              "note": "Gematsu Oct 27 2026 / 10:04 AM EDT (= 22:04 HKT). Showcase airs morning of Oct 28 US (= afternoon HKT).",
+              "image": "https://www.gematsu.com/wp-content/uploads/2026/10/Nindie-World-Ann_10-27-26.jpg",
+              "imageAlt": "Nintendo Indie World Showcase October 2026 announcement art"
             },
             {
-              "id": "gaming-20261027-romancing-saga-3-destinies-united-details-travel",
-              "title": "Romancing SaGa 3: Destinies United details traveling companions, systems, and battle mechanics",
-              "summary": "Square Enix 公開《Romancing SaGa 3: Destinies United》旅伴、名聲／鍛造系統同新陣型等細節，訂 2027 年 2 月 16 日登陸 Switch 2、Switch、PS5、Xbox Series 同 PC。",
-              "source": "Gematsu",
-              "sourceUrl": "https://www.gematsu.com/2026/10/romancing-saga-3-destinies-united-details-traveling-companions-systems-and-battle-mechanics",
-              "publishedAt": "2026-10-26T22:59:00+08:00",
+              "id": "gaming-20261028-plants-vs-zombies-replanted-is-europe-s-next-nin",
+              "title": "Plants vs. Zombies: Replanted is Europe's next Nintendo Switch Online Game Trial",
+              "summary": "歐洲 Nintendo Switch Online 會員可於 10 月 28 日至 11 月 3 日免費試玩 HD 重製《Plants vs. Zombies: Replanted》（Switch 2／Switch）；試玩結束後購買可承接存檔。",
+              "source": "Nintendo Everything",
+              "sourceUrl": "https://nintendoeverything.com/plants-vs-zombies-replanted-is-europes-next-nintendo-switch-online-game-trial/",
+              "publishedAt": "2026-10-27T00:00:00+08:00",
               "category": "news",
               "uncertain": false,
               "platforms": [
-                "Switch 2",
-                "Switch",
-                "PC",
-                "PS5",
-                "Xbox Series"
+                "Switch 2"
               ],
-              "releaseDate": "2027-02-16",
-              "note": "Gematsu Oct 26 10:59 AM EDT → 22:59 HKT.",
-              "image": "https://www.gematsu.com/wp-content/uploads/2026/10/Romancing-SaGa-3-Destinies-United_2026_10-26-26_053.jpg",
-              "imageAlt": "Romancing SaGa 3 Destinies United screenshot"
+              "note": "Posted October 27, 2026 (time not stated). Europe NSO trial window Oct 28–Nov 3.",
+              "image": "https://nintendoeverything.com/wp-content/uploads/pvz-replanted-game-trial.jpg",
+              "imageAlt": "Plants vs Zombies Replanted Game Trial artwork"
             },
             {
-              "id": "gaming-20261027-s-t-a-l-k-e-r-2-heart-of-chornobyl-version-2-1-t",
-              "title": "S.T.A.L.K.E.R. 2: Heart of Chornobyl version 2.1 'The Zone Lookout' now available",
-              "summary": "GSC 喺 10 月 26 日為《S.T.A.L.K.E.R. 2》推出 2.1「The Zone Lookout」：可調 A-Life NPC 可視距離、遠距戰鬥音效調整，以及小隊隊長付費快速旅行到附近已探索地點。",
-              "source": "Gematsu",
-              "sourceUrl": "https://www.gematsu.com/2026/10/stalker-2-heart-of-chornobyl-version-2-1-update-the-zone-lookout-now-available",
-              "publishedAt": "2026-10-26T20:34:00+08:00",
-              "category": "news",
-              "uncertain": false,
-              "platforms": [
-                "PC",
-                "PS5",
-                "Xbox Series"
-              ],
-              "note": "Gematsu Oct 26 8:34 AM EDT → 20:34 HKT. PC on Steam/Epic/GOG/MS Store.",
-              "image": "https://www.gematsu.com/wp-content/uploads/2026/10/STALKER-2-Update_10-26-26.jpg",
-              "imageAlt": "S.T.A.L.K.E.R. 2 The Zone Lookout update art"
-            },
-            {
-              "id": "gaming-20261027-uk-charts-call-of-duty-modern-warfare-4-debuts-1",
-              "title": "UK Charts: Call of Duty Modern Warfare 4 debuts #1; Switch Sports Resort #2",
-              "summary": "英國 GfK 實體榜（截至 10 月 24 日一週）《Call of Duty: Modern Warfare 4》居冠（PS5 約 78%）、Switch Sports Resort 亞軍；《Final Fantasy Resonance》排第四並有明顯 Switch 2 份額。",
+              "id": "gaming-20261028-capcom-reveals-tank-man-robot-master-for-mega-ma",
+              "title": "Capcom reveals Tank Man Robot Master for Mega Man: Dual Override",
+              "summary": "Capcom 公開《Mega Man: Dual Override》第三位 Robot Master「Tank Man」同戰鬥預告，設定為失控嘅機械油料管理員；遊戲預計 2027 年登陸 Switch 2／Switch 等平台。",
               "source": "Nintendo Life",
-              "sourceUrl": "https://www.nintendolife.com/news/2026/10/uk-charts-switch-sports-resort-and-call-of-duty-are-fast-off-the-start-line",
-              "publishedAt": "2026-10-26T18:30:00+08:00",
+              "sourceUrl": "https://www.nintendolife.com/news/2026/10/capcom-reveals-another-robot-master-for-mega-man-dual-override",
+              "publishedAt": "2026-10-27T00:00:00+08:00",
               "category": "news",
               "uncertain": false,
               "platforms": [
-                "Switch 2",
-                "PS5",
-                "Xbox Series"
-              ],
-              "note": "NL 10:30am UK Oct 26 (post-DST GMT) → 18:30 HKT. Switch 2 share noted for MW4/Resonance.",
-              "image": "https://images.nintendolife.com/74fa1439838df/1280x720.jpg",
-              "imageAlt": "UK charts Switch Sports Resort and Call of Duty"
-            },
-            {
-              "id": "gaming-20261027-sonic-x-shadow-generations-sales-top-three-milli",
-              "title": "Sonic X Shadow Generations sales top three million",
-              "summary": "SEGA 公布《Sonic X Shadow Generations》全球銷量突破 300 萬套；遊戲 2024 年 10 月多平台推出，Switch 2 版 2025 年 6 月登場，早前 2025 年 1 月已破 200 萬。",
-              "source": "Gematsu",
-              "sourceUrl": "https://www.gematsu.com/2026/10/sonic-x-shadow-generations-sales-top-three-million",
-              "publishedAt": "2026-10-26T09:18:00+08:00",
-              "category": "news",
-              "uncertain": false,
-              "platforms": [
-                "Switch 2",
-                "Switch",
                 "PC",
-                "PS5",
-                "Xbox Series"
+                "Switch 2"
               ],
-              "note": "Gematsu Oct 25 9:18 PM EDT → Oct 26 09:18 HKT. Explicitly includes Switch 2.",
-              "image": "https://www.gematsu.com/wp-content/uploads/2026/10/Sonic-x-Shadow-Generations-Sales_10-25-26.jpg",
-              "imageAlt": "Sonic X Shadow Generations sales milestone art"
-            },
-            {
-              "id": "gaming-20261027-steam-loading-user-data-login-issues-hit-many-pc",
-              "title": "Steam 'loading user data' login issues hit many PC players on October 26",
-              "summary": "PC Gamer 報道 10 月 26 日大量玩家遇上 Steam「loading user data」登入問題，Down Detector 約美東早上 6 時起飆升，官網狀態仍顯示正常；部分人重開或等待後恢復。",
-              "source": "PC Gamer",
-              "sourceUrl": "https://www.pcgamer.com/games/steam-is-broken-its-still-up-but-some-users-cant-log-in/",
-              "publishedAt": "2026-10-26T00:00:00+08:00",
-              "category": "news",
-              "uncertain": true,
-              "platforms": [
-                "PC"
-              ],
-              "note": "PC Gamer dated Oct 26 without exact clock; uncertain true. Corroboration TechRadar/Android Authority outage roundups. publishedAt is date-only (T00:00:00+08:00).",
-              "image": "https://cdn.mos.cms.futurecdn.net/ocyiDF76QwDQKRvvKB2hRQ-1280-80.jpg",
-              "imageAlt": "Steam client loading user data issue"
+              "note": "Nintendo Life Oct 2026 article; Nintendo Scoop corroborates dated October 27, 2026. Spring/2027 window per Capcom/Scoop.",
+              "image": "https://images.nintendolife.com/0a108dcfc6de3/1280x720.jpg",
+              "imageAlt": "Mega Man Dual Override Tank Man artwork"
             }
           ]
         },
@@ -709,90 +673,164 @@
           "label": "Other consoles",
           "items": [
             {
-              "id": "gaming-20261027-sega-s-virtua-fighter-ps5-revival-teases-new-inf",
-              "title": "SEGA's Virtua Fighter PS5 Revival Teases New Info for This Week",
-              "summary": "SEGA Virtua Fighter Crossroads 社交渠道預告 10 月 29 日展示會；Push Square 指或有預告片甚至發售日消息，RGG Studio 格鬥作仍瞄準 2027。",
-              "source": "Push Square",
-              "sourceUrl": "https://www.pushsquare.com/news/2026/10/segas-glitzy-virtua-fighter-ps5-revival-teases-new-info-for-this-week",
-              "publishedAt": "2026-10-27T00:45:00+08:00",
-              "category": "other-consoles",
-              "uncertain": false,
-              "platforms": [
-                "PS5"
-              ],
-              "releaseDate": "2027",
-              "note": "Push Square relative ~7h before ~07:45 HKT 2026-10-27 fetch → ~00:45 HKT. PS5-angled coverage; multiplat status not confirmed in article.",
-              "image": "https://images.pushsquare.com/60e61f173e7c0/1280x720.jpg",
-              "imageAlt": "Virtua Fighter Crossroads tease image"
-            },
-            {
-              "id": "gaming-20261027-these-46-ps5-and-ps-plus-games-are-coming-out-th",
-              "title": "These 46+ PS5 and PS Plus Games Are Coming Out This Week (26th–1st November)",
-              "summary": "Push Square 本週 PS5 日程點名《Phantom Blade Zero》（10 月 29）、《Hunter's Moon》／《Fangtopia》（10 月 26）、《Dog Man》同 Blake Manor（10 月 27）等逾 46 款。",
-              "source": "Push Square",
-              "sourceUrl": "https://www.pushsquare.com/guides/these-45plus-ps5-and-ps-plus-games-are-coming-out-next-week-26th-1st-november",
-              "publishedAt": "2026-10-26T21:45:00+08:00",
-              "category": "other-consoles",
-              "uncertain": false,
-              "platforms": [
-                "PS5"
-              ],
-              "note": "Push Square relative ~10h before ~07:45 HKT 2026-10-27 → ~21:45 HKT Oct 26. Roundup; individual launches may also appear elsewhere.",
-              "image": "https://images.pushsquare.com/ccbae66e9794d/1280x720.jpg",
-              "imageAlt": "Push Square PS5 weekly release roundup hero"
-            },
-            {
-              "id": "gaming-20261027-celebrate-helldivers-2-liberty-day-2026-with-in",
-              "title": "Celebrate Helldivers 2 Liberty Day 2026 with In-Game Gifts Today",
-              "summary": "Arrowhead 喺 10 月 26 日 Helldivers 2 Liberty Day 送上船艦裝飾同 AR-23L Liberator Legacy 步槍（9 月 26 日起活躍玩家），遊戲仍喺 PlayStation Plus Extra 目錄。",
+              "id": "gaming-20261028-aloft-and-conan-exiles-enhanced-launch-on-ps5-in",
+              "title": "Aloft and Conan Exiles Enhanced Launch on PS5 in Early 2027",
+              "summary": "Funcom 喺 PlayStation Blog 宣布合作沙盒《Aloft》同《Conan Exiles Enhanced》將喺 2027 年初登陸 PS5；《Aloft》會帶齊 Early Access 更新同 1.0 內容，而擁有 PS4 版《Conan Exiles》嘅玩家可免費升級 Enhanced，DLC 亦可繼承。",
               "source": "PlayStation Blog",
-              "sourceUrl": "https://blog.playstation.com/2026/10/26/celebrate-helldivers-2-liberty-day-2026-with-in-game-gifts-today/",
-              "publishedAt": "2026-10-26T18:00:05+08:00",
+              "sourceUrl": "https://blog.playstation.com/2026/10/27/aloft-and-conan-exiles-enhanced-launch-on-ps5-in-early-2027/",
+              "publishedAt": "2026-10-28T00:00:43+08:00",
               "category": "other-consoles",
               "uncertain": false,
               "platforms": [
                 "PS5",
-                "PC",
-                "Xbox Series X|S"
+                "PS4"
               ],
-              "note": "article:published_time 2026-10-26T03:00:05-07:00 → HKT.",
-              "image": "https://blog.playstation.com/tachyon/2026/10/eff4855b16a092b26b26caeee292ff736efc92b9.jpg",
-              "imageAlt": "Helldivers 2 Liberty Day 2026 promotional image"
+              "releaseDate": "2027",
+              "note": "article:published_time 2026-10-27T09:00:43-07:00 → HKT. Exact calendar dates TBA. og:image path year segment looks odd but is the page's official og:image.",
+              "image": "https://blog.playstation.com/tachyon/2086/10/d90c6cc29a861f55fc6013f43487f410dcd639ad.jpg",
+              "imageAlt": "Aloft and Conan Exiles Enhanced PlayStation Blog hero"
             },
             {
-              "id": "gaming-20261027-hunter-s-moon-available-today-exclusively-on-pla",
-              "title": "Hunter's Moon Available Today Exclusively on PlayStation 5",
-              "summary": "Twin Swans 第一人稱民間恐怖《Hunter's Moon》10 月 26 日以 PS5 独占推出：喺 17 世紀英格蘭村莊一夜躲避獵巫者，靈感來自真實獵巫歷史。",
-              "source": "Games Press",
-              "sourceUrl": "https://www.gamespress.com/Survive-One-Fateful-Night-as-an-Accused-Witch-in-Hunters-Mo-Twin-Swans",
-              "publishedAt": "2026-10-26T00:00:00+08:00",
+              "id": "gaming-20261028-where-winds-meet-hutuo-battlefield-narrative-arc",
+              "title": "Where Winds Meet Hutuo Battlefield Narrative Arc Revealed, Out November 13",
+              "summary": "《燕雲十六聲／Where Winds Meet》喺 PS Blog 公開最大敘事章節「滹沱」戰場區域，11 月 13 日隨全球一週年更新上線；PS5／PS5 Pro 會加強 PSSR、光追反射同 DualSense 觸感，並預告袁和平指導嘅雙槍武學稍後登場。",
+              "source": "PlayStation Blog",
+              "sourceUrl": "https://blog.playstation.com/2026/10/27/where-winds-meets-climactic-hutuo-battlefield-narrative-arc-revealed-out-nov-13/",
+              "publishedAt": "2026-10-27T23:01:34+08:00",
+              "category": "other-consoles",
+              "uncertain": false,
+              "platforms": [
+                "PS5",
+                "PS5 Pro"
+              ],
+              "releaseDate": "2026-11-13",
+              "note": "article:published_time 2026-10-27T08:01:34-07:00 → HKT. Multiplat live-service; PS Blog angles PS5 enhancements.",
+              "image": "https://blog.playstation.com/tachyon/2026/10/d90b9946eaf75ed2c43b0b527138cad134f8e02d.jpg",
+              "imageAlt": "Where Winds Meet Hutuo Battlefield promotional art"
+            },
+            {
+              "id": "gaming-20261028-terrible-lizards-dev-discusses-dinomania-horror",
+              "title": "Terrible Lizards Dev Discusses Dinomania Horror Parkour, Out October 29",
+              "summary": "WDR Studios 喺 PS Blog 介紹 90 年代恐龍路邊景點題材恐怖跑酷《Terrible Lizards》，強調第一身平台動作同恐懼節奏；遊戲定於 10 月 29 日推出，並已列入 Xbox Game Pass 同期加入名單。",
+              "source": "PlayStation Blog",
+              "sourceUrl": "https://blog.playstation.com/2026/10/27/terrible-lizards-dev-discusses-twisting-familiar-dinosaur-designs-out-oct-29/",
+              "publishedAt": "2026-10-27T22:00:38+08:00",
+              "category": "other-consoles",
+              "uncertain": false,
+              "platforms": [
+                "PS5",
+                "Xbox Series X|S",
+                "PC"
+              ],
+              "releaseDate": "2026-10-29",
+              "note": "article:published_time 2026-10-27T07:00:38-07:00 → HKT. Also day-one Game Pass per Xbox Wire wave 2 (Oct 20).",
+              "image": "https://blog.playstation.com/tachyon/2048/10/564f2809cf3652afd6be49798e199e217f3fd19c.png",
+              "imageAlt": "Terrible Lizards PlayStation Blog promotional image"
+            },
+            {
+              "id": "gaming-20261028-xbox-cracks-down-on-shovelware-triple-stack-achi",
+              "title": "Xbox Cracks Down on Shovelware Triple-Stack Achievement Games",
+              "summary": "TrueAchievements 取得 Xbox 發給開發者嘅電郵：往後發行「沒有明顯差異體驗」嘅相同遊戲分別掛成就將違反商店政策；若要多平台發行需用 Xbox Play Anywhere 或 game binding 綁定進度同成就，以打擊三連堆疊刷 Gamerscore。",
+              "source": "TrueAchievements",
+              "sourceUrl": "https://www.trueachievements.com/news/xbox-ban-shovelware-triple-stack-achievement-games",
+              "publishedAt": "2026-10-27T21:36:16+08:00",
+              "category": "other-consoles",
+              "uncertain": false,
+              "platforms": [
+                "Xbox Series X|S",
+                "Xbox One",
+                "PC"
+              ],
+              "note": "datePublished 2026-10-27T13:36:16 treated as UTC → HKT. Also covered by Pure Xbox.",
+              "image": "https://www.trueachievements.com/imgs/180193/xbox-cracks-down-on-shovelware-by-banning-triple-stack-achievement-games.jpg",
+              "imageAlt": "TrueAchievements report on Xbox triple-stack achievement crackdown"
+            },
+            {
+              "id": "gaming-20261028-hacker-awarded-50k-bounty-for-reporting-ps5-linu",
+              "title": "Hacker Awarded $50k Bounty for Reporting PS5 Linux Hypervisor Bug",
+              "summary": "Tom's Hardware／IGN 報道化名 Jordy 嘅研究員因向 Sony 回報可用於喺 PS5 載入 Linux 嘅 hypervisor 漏洞獲 5 萬美元獎金；Sony 已喺 10 月 21 日韌體 14.20 修補，引發部分破解社群反彈。",
+              "source": "Tom's Hardware",
+              "sourceUrl": "https://www.tomshardware.com/video-games/playstation/hacker-awarded-usd50k-bounty-for-reporting-bug-to-sony-that-allowed-ps5-linux-exploit-move-sparks-backlash-from-jailbreaking-community",
+              "publishedAt": "2026-10-27T21:22:04+08:00",
               "category": "other-consoles",
               "uncertain": false,
               "platforms": [
                 "PS5"
               ],
-              "releaseDate": "2026-10-26",
-              "note": "Publisher day-of launch release dated 26/10/2026; no exact clock time on Games Press. publishedAt is date-only (T00:00:00+08:00).",
-              "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2026/10/121420-ee12db71/keyart_16x9.jpg",
-              "imageAlt": "Hunter's Moon key art for PlayStation 5 launch"
+              "note": "published 2026-10-27T13:22:04Z → HKT. Distinct angle from prior jailbreak-criticism coverage already in dedupe.",
+              "image": "https://cdn.mos.cms.futurecdn.net/tg95hzQEgMNoJTJZHb5oXU-1920-80.png",
+              "imageAlt": "PlayStation 5 console photo for Linux bounty story"
             },
             {
-              "id": "gaming-20261027-xbox-game-pass-is-coming-to-eligible-t-mobile-cu",
-              "title": "Xbox Game Pass Is Coming to Eligible T-Mobile Customers",
-              "summary": "Xbox Wire 指 11 月起合資格美國 T-Mobile T-Mix 用戶可選 Game Pass Ultimate 或 Premium 作為月費福利，據稱係美國首個綁 Game Pass 嘅電訊計劃。",
-              "source": "Xbox Wire",
-              "sourceUrl": "https://news.xbox.com/en-us/2026/10/26/xbox-game-pass-t-mobile/",
-              "publishedAt": "2026-10-26T00:00:00+08:00",
+              "id": "gaming-20261028-final-3-ps-plus-extra-games-for-october-2026-ava",
+              "title": "Final 3 PS Plus Extra Games for October 2026 Available to Download Now",
+              "summary": "Push Square 報道英國、美國同日本 PS Plus Extra 訂戶今日可下載 10 月 Extra 最後一批：《Poppy Playtime: Chapter 2》、《Tales of Arise: Beyond the Dawn Edition》同《Monster Energy Supercross 25》；11 月 Essential 名單預計 10 月 28 日公布。",
+              "source": "Push Square",
+              "sourceUrl": "https://www.pushsquare.com/news/2026/10/final-3-ps-plus-extra-games-for-october-2026-available-to-download-now",
+              "publishedAt": "2026-10-27T17:00:00+08:00",
               "category": "other-consoles",
               "uncertain": false,
               "platforms": [
-                "Xbox Series X|S",
-                "PC",
-                "Cloud"
+                "PS5",
+                "PS4"
               ],
-              "note": "Xbox Wire dated October 26, 2026 without exact clock time. publishedAt is date-only (T00:00:00+08:00).",
-              "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/XBOX_TMO_16x9-R2D-4f063534a7b256d7123f.jpg",
-              "imageAlt": "Xbox Game Pass and T-Mobile partnership promotional image"
+              "note": "Push Square stamped '9am' on Oct 27; UK already on GMT after Oct 25 clock change → ~17:00 HKT. Other regions got these titles earlier.",
+              "image": "https://images.pushsquare.com/b4a5f161a01af/1280x720.jpg",
+              "imageAlt": "PS Plus Extra October final games hero image"
+            },
+            {
+              "id": "gaming-20261028-remothered-red-nun-s-legacy-launches-on-pc-ps5-a",
+              "title": "Remothered: Red Nun's Legacy Launches on PC, PS5 and Xbox Series",
+              "summary": "Stormind Games 生存恐怖三部曲終章《Remothered: Red Nun's Legacy》已喺 PC（Steam／Epic／GOG）、PS5 同 Xbox Series／Cloud 發售，標準版 US$29.99；Nintendo Switch 2 版改期 12 月 3 日。",
+              "source": "Games Press",
+              "sourceUrl": "https://www.gamespress.com/REMOTHERED-RED-NUNS-LEGACY-LAUNCHES-ON-PC-PLAYSTATION-5-AND-XBOX-SERIE",
+              "publishedAt": "2026-10-27T00:00:00+08:00",
+              "category": "other-consoles",
+              "uncertain": false,
+              "platforms": [
+                "PS5",
+                "Xbox Series X|S",
+                "PC"
+              ],
+              "releaseDate": "2026-10-27",
+              "note": "Publisher press dated 27/10/2026; no clock time. Distinct from earlier Switch 2 date-move coverage already in dedupe.",
+              "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2026/03/131057-612e7083/Stormind_Games_-_Red_Nun_s_Legacy_-_Key_Art_web_-_LANDSCAPE.jpg",
+              "imageAlt": "Remothered Red Nun's Legacy key art"
+            },
+            {
+              "id": "gaming-20261028-original-xbox-games-now-appearing-in-xbox-profil",
+              "title": "Original Xbox Games Now Appearing in Xbox Profile Achievement History",
+              "summary": "多名玩家發現原初 Xbox 遊戲開始出現喺主機個人檔案成就歷史，顯示 0 成就／0G；TrueAchievements 指或為稍後為指定懷舊作加入成就嘅前期跡象，但 Microsoft 尚未正式宣布即時上線。",
+              "source": "TrueAchievements",
+              "sourceUrl": "https://www.trueachievements.com/news/original-xbox-games-achievements-history",
+              "publishedAt": "2026-10-26T20:45:46+08:00",
+              "category": "other-consoles",
+              "uncertain": true,
+              "platforms": [
+                "Xbox Series X|S",
+                "Xbox One"
+              ],
+              "note": "datePublished 2026-10-26T12:45:46 treated as UTC → HKT. Speculative/user-spotted; Xbox previously promised select OG titles later in 2026.",
+              "image": "https://www.trueachievements.com/imgs/180078/original-xbox-games-are-now-showing-in-xbox-achievement-history.jpg",
+              "imageAlt": "Original Xbox games appearing in achievement history"
+            },
+            {
+              "id": "gaming-20261028-phantom-blade-zero-review-roundup-88-on-metacrit",
+              "title": "Phantom Blade Zero Review Roundup: 88 on Metacritic Ahead of Launch",
+              "summary": "Output Lag 整理《Phantom Blade Zero》發售前評分：Metacritic 約 88、OpenCritic 約 89–91，評論普遍讚武打同 Boss，劇情評價兩極；PC 表現較穩，PS5 偶有掉幀，Steam Deck 則被指暫時唔建議遊玩。",
+              "source": "Output Lag",
+              "sourceUrl": "https://outputlag.com/news/phantom-blade-zero-review-roundup/",
+              "publishedAt": "2026-10-26T12:39:00+08:00",
+              "category": "other-consoles",
+              "uncertain": false,
+              "platforms": [
+                "PS5",
+                "PC"
+              ],
+              "releaseDate": "2026-10-29",
+              "note": "Published Oct 26 ~12:39am local (site), updated Oct 27 6:44pm. Distinct from launch-trailer/physical-editions item already in dedupe. Unlock timing cited as Oct 28 evening ET / Oct 29 China.",
+              "image": "https://outputlag.com/wp-content/uploads/2026/10/phantom-blade-zero-fire-boss-official-screenshot.jpg",
+              "imageAlt": "Phantom Blade Zero boss fight screenshot from review roundup"
             }
           ]
         },
@@ -801,112 +839,68 @@
           "label": "Other",
           "items": [
             {
-              "id": "gaming-20261027-call-of-duty-breaks-40-billion-lifetime-revenue",
-              "title": "Call of Duty Breaks $40 Billion Lifetime Revenue with MW4 Launch",
-              "summary": "Xbox CEO Asha Sharma 表示《Call of Duty》系列終身收入已破 400 億美元，數字係系列累計估計；Activision 2022 年曾報約 300 億，今次喺 MW4 上市後確認。",
-              "source": "TweakTown",
-              "sourceUrl": "https://www.tweaktown.com/news/114308/call-of-duty-breaks-dollars40-billion-lifetime-revenue-with-mw4-launch/index.html",
-              "publishedAt": "2026-10-27T06:05:11+08:00",
+              "id": "gaming-20261028-pok-mon-unite-service-ends-march-23-2027",
+              "title": "Pokémon UNITE Service Ends March 23, 2027",
+              "summary": "官方宣布《Pokémon UNITE》（Switch 同流動版）將於 2027 年 3 月 23 日 00:00 UTC 結束營運，之後無法登入對戰；服務結束前完成 Library 資料下載嘅訓練家仍可瀏覽持有服裝、執照同成就紀錄。",
+              "source": "Pokémon Support",
+              "sourceUrl": "https://support.pokemon.com/hc/en-us/articles/55009302346132-Pok%C3%A9mon-UNITE-End-of-Service-Notice",
+              "publishedAt": "2026-10-27T22:58:00+08:00",
               "category": "other",
               "uncertain": false,
               "platforms": [
-                "PS5",
-                "Xbox Series X|S",
-                "PC",
-                "Switch 2"
+                "Switch",
+                "Mobile"
               ],
-              "note": "datePublished 2026-10-26T17:05:11-05:00 → HKT. MW4 launched Oct 23; this is the $40B confirmation story within the window.",
-              "image": "https://static.tweaktown.com/news/1/1/114308_3_call-of-duty-breaks-40-billion-lifetime-revenue-after-mw4-launch_full.jpg",
-              "imageAlt": "Call of Duty promotional art for $40 billion revenue milestone"
+              "releaseDate": "2027-03-23",
+              "note": "Support page updated October 27, 2026 14:58 (tz not labeled; treated ~UTC→HKT). Confirmed on pokemonunite.jp Asia news same day. Theme og only → imageUrl null."
             },
             {
-              "id": "gaming-20261027-microsoft-offers-voluntary-resignation-buyouts-t",
-              "title": "Microsoft Offers Voluntary Resignation Buyouts to 60,000 Workers, Including Xbox",
-              "summary": "Microsoft 向美／英／加／印部分組織合資格員工推出自願離職方案（VEO）；報道指 Xbox 亦在參與部門之列，官方博客有確認計劃但 Xbox 細節多引自 Reuters。",
-              "source": "TweakTown",
-              "sourceUrl": "https://www.tweaktown.com/news/114307/microsoft-offers-voluntary-resignation-buyouts-to-60000-workers-including-xbox/index.html",
-              "publishedAt": "2026-10-27T05:04:14+08:00",
+              "id": "gaming-20261028-xbox-game-pass-pc-games-running-natively-on-andr",
+              "title": "Xbox Game Pass PC Games Running Natively on Android via DroidDeck",
+              "summary": "Windows Central 報道第三方 App DroidDeck 0.6.0 測試版可喺 Android 本機執行部分 Xbox PC Game Pass 遊戲，無需依賴雲端串流；表現視裝置同遊戲而定，例如 Ayn Thor 上《Hollow Knight: Silksong》可過百幀。",
+              "source": "Windows Central",
+              "sourceUrl": "https://www.windowscentral.com/gaming/xbox/xbox-game-pass-games-running-on-android-without-cloud-streaming",
+              "publishedAt": "2026-10-27T22:17:08+08:00",
               "category": "other",
               "uncertain": true,
               "platforms": [
-                "Xbox Series X|S"
+                "Xbox",
+                "Mobile",
+                "PC"
               ],
-              "note": "Official Microsoft blog confirms VEO; Xbox participation attributed to Reuters. datePublished 2026-10-26T16:04:14-05:00 → HKT.",
-              "image": "https://static.tweaktown.com/news/1/1/114307_1_microsoft-offers-voluntary-resignation-buyouts-to-60-000-workers_full.png",
-              "imageAlt": "Microsoft voluntary exit offer news image"
+              "note": "published 2026-10-27T14:17:08Z → HKT. Third-party/community tool in testing, not an official Xbox feature.",
+              "image": "https://cdn.mos.cms.futurecdn.net/HQersv7wLwCmyR2EEWszqC-1536-80.png",
+              "imageAlt": "Xbox Game Pass on Android via DroidDeck story image"
             },
             {
-              "id": "gaming-20261027-auroch-digital-to-lay-off-25-percent-of-staff",
-              "title": "Auroch Digital to Lay Off 25 Percent of Staff",
-              "summary": "《Warhammer Survivors》《Boltgun II》開發商 Auroch Digital 宣布展開約四分一職位嘅裁員諮詢，歸咎行業市況，並指兩作售後支援會繼續。",
+              "id": "gaming-20261028-bleach-mirrors-high-launches-october-28-on-ios-a",
+              "title": "BLEACH Mirrors High Launches October 28 on iOS and Android",
+              "summary": "Bandai Namco 免費《BLEACH Mirrors High》定於 10 月 28 日登陸 iOS／Android：故事設喺千年血戰之後，由久保帶人新設計角色，並以三人小隊卡牌戰鬥同 SOUL DRIVE 連攜為賣點。",
               "source": "Gematsu",
-              "sourceUrl": "https://www.gematsu.com/2026/10/auroch-digital-to-lay-off-25-percent-of-staff",
-              "publishedAt": "2026-10-27T02:29:00+08:00",
-              "category": "other",
-              "uncertain": false,
-              "note": "Gematsu Oct 26 2:29 PM EDT → 2026-10-27T02:29:00+08:00. Studio statement via social media.",
-              "image": "https://www.gematsu.com/wp-content/uploads/2026/10/Auroch-Digital-Layoffs_10-26-26.jpg",
-              "imageAlt": "Auroch Digital layoff announcement image"
-            },
-            {
-              "id": "gaming-20261027-layoffs-hit-ghost-of-yotei-developer-sucker-punc",
-              "title": "Layoffs Hit Ghost of Yotei Developer Sucker Punch",
-              "summary": "Aftermath 報道 Sony 旗下 Sucker Punch 裁員 24 人（早前數字曾報 26），內部電郵提及市場挑戰同下一個專案需求；《Ghost of Yotei》2025 年推出。",
-              "source": "Aftermath",
-              "sourceUrl": "https://aftermath.site/sucker-punch-layoffs-sony-ghost-of-yotei/",
-              "publishedAt": "2026-10-27T00:18:21+08:00",
-              "category": "other",
-              "uncertain": true,
-              "platforms": [
-                "PS5"
-              ],
-              "note": "Report citing former employee; published_time 2026-10-26T16:18:21Z → HKT. Headcount corrected to 24. Sony did not comment in the article.",
-              "image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/10/IMG_7201.jpeg",
-              "imageAlt": "Aftermath report on Sucker Punch layoffs"
-            },
-            {
-              "id": "gaming-20261027-save-mass-effect-petition-cracks-200-000-signatu",
-              "title": "'Save Mass Effect' Petition Cracks 200,000 Signatures",
-              "summary": "VGC 報道，EA 宣布關閉 BioWare 並取消下一作《Mass Effect》後，要求續作或授權其他工作室嘅 Change.org 請願已破 20 萬簽名。",
-              "source": "VGC",
-              "sourceUrl": "https://www.videogameschronicle.com/news/save-mass-effect-petition-cracks-200000-signatures-as-fans-plead-for-the-series-to-continue/",
-              "publishedAt": "2026-10-26T18:28:00+08:00",
-              "category": "other",
-              "uncertain": false,
-              "note": "VGC stamped 26th Oct 2026 / 10:28 am (UK GMT after clocks change) → 18:28 HKT. Petition milestone story; BioWare closure itself was prior week.",
-              "image": "https://www.videogameschronicle.com/files/2023/11/mass-effect-n7-day.jpg",
-              "imageAlt": "Mass Effect N7 Day promotional image"
-            },
-            {
-              "id": "gaming-20261027-helldivers-3-isn-t-in-development-because-its-bi",
-              "title": "Helldivers 3 Isn't in Development Because Its Biggest Competitor Would Be Helldivers 2, Arrowhead CCO Says",
-              "summary": "Arrowhead CCO Johan Pilestedt 向媒體指約 95% 團隊仍做《Helldivers 2》，只有小組原型下一作；佢認為續作會重置進度，最大對手反而係現役社群。",
-              "source": "VGC",
-              "sourceUrl": "https://www.videogameschronicle.com/news/helldivers-3-isnt-in-development-because-its-biggest-competitor-would-be-helldivers-2-arrowhead-cco-says/",
-              "publishedAt": "2026-10-26T17:57:00+08:00",
+              "sourceUrl": "https://www.gematsu.com/2026/10/bleach-mirrors-high-launches-october-28",
+              "publishedAt": "2026-10-27T19:00:00+08:00",
               "category": "other",
               "uncertain": false,
               "platforms": [
-                "PS5",
-                "PC",
-                "Xbox Series X|S"
+                "Mobile"
               ],
-              "note": "VGC stamped 26th Oct 2026 / 9:57 am GMT → 17:57 HKT. Industry/live-service strategy angle.",
-              "image": "https://www.videogameschronicle.com/files/2024/03/helldivers2.jpg",
-              "imageAlt": "Helldivers 2 key art"
+              "releaseDate": "2026-10-28",
+              "note": "Gematsu Oct 27 7:00 AM EDT → 2026-10-27T19:00:00+08:00.",
+              "image": "https://www.gematsu.com/wp-content/uploads/2026/10/BLEACH-Mirrors-High-Date_10-27-26.jpg",
+              "imageAlt": "BLEACH Mirrors High launch date announcement art"
             },
             {
-              "id": "gaming-20261027-skydance-institutes-company-wide-mandatory-retur",
-              "title": "Skydance Institutes Company-Wide Mandatory Return to Office Alongside Employee Buyouts",
-              "summary": "Kotaku 引 Vertical Slice 指 Skydance Games 員工收到一週五日強制返辦公室令同自願買斷方案，涵蓋遊戲同其他媒體業務，發生喺 Paramount／Warner 相關合併之後。",
-              "source": "Kotaku",
-              "sourceUrl": "https://kotaku.com/skydance-institutes-company-wide-mandatory-return-to-office-so-it-can-avoid-saying-layoffs-so-soon-after-merger-2000749847",
-              "publishedAt": "2026-10-26T00:00:00+08:00",
+              "id": "gaming-20261028-capcom-h1-fy2027-operating-profit-up-54-5-to-60",
+              "title": "Capcom H1 FY2027 Operating Profit Up 54.5% to ¥60.8 Billion",
+              "summary": "Capcom 公布截至 2026 年 9 月中期業績：營業額 1,208.87 億日圓（+49.0%）、營業利益 607.69 億日圓（+54.5%）；數位內容銷量 3,686 萬套，其中《鬼武者 Way of the Sword》破 170 萬套，日媒另指《Pragmata》達 270 萬套。",
+              "source": "Capcom IR",
+              "sourceUrl": "https://www.capcom.co.jp/ir/english/news/pdf/e261027b.pdf",
+              "publishedAt": "2026-10-27T15:40:00+08:00",
               "category": "other",
-              "uncertain": true,
-              "note": "Report via Vertical Slice; Kotaku dated October 26, 2026 without exact clock time. publishedAt is date-only (T00:00:00+08:00).",
-              "image": "https://kotaku.com/app/uploads/2026/10/skydance.jpg",
-              "imageAlt": "Skydance Media branding image"
+              "uncertain": false,
+              "note": "Official English IR dated October 27, 2026. PublishedAt aligned to gamebiz.jp 16:40 JST stamp (~15:40 HKT). Pragmata 2.7M figure from gamebiz Japanese coverage of same release; English PDF highlights Onimusha 1.7M and catalog growth.",
+              "image": "https://i3.gamebiz.jp/media/8f85cd4e-4577-4b56-8edc-f1eae1c2da0b.jpg",
+              "imageAlt": "Capcom half-year earnings coverage image"
             }
           ]
         }
