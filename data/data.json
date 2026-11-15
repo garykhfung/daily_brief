@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T07:56:28+08:00",
+  "updatedAt": "2026-11-15T08:12:26+08:00",
   "timezone": "Asia/Hong_Kong",
   "tabs": [
     {
@@ -11,42 +11,42 @@
           "label": "Frontier models",
           "items": [
             {
-              "id": "ai-20261114-openai-daybreak",
-              "title": "OpenAI launches Daybreak Red Team and Defense Factory for AI security testing",
-              "summary": "OpenAI 喺 11 月 12 日 Cyber at the Frontier 活動推出 Daybreak Red Team 同 Daybreak Defense Factory，用 AI agent 為網頁應用做授權滲透測試，並協助調查安全發現同準備修補。SecurityWeek 報道，Red Team 聚焦測試同驗證漏洞，Defense Factory 則協助開發修補方案。",
-              "source": "SecurityWeek",
-              "sourceUrl": "https://www.securityweek.com/openai-unveils-daybreak-red-team-defense-factory-security-tools/",
-              "publishedAt": "2026-11-13T17:21:01+08:00",
+              "id": "ai-20261115-google-antigravity-teamwork",
+              "title": "Google opens Antigravity /teamwork multi-agent tools to external researchers",
+              "summary": "Google Research 公布 Antigravity 嘅 /teamwork 多智能體工作流程，連同 /boost 等工具，現已開放畀外部研究者同開發者使用 Gemini 4 模型應用；同時開放申請，為 10,000 名學術研究者提供六個月最高用量層級免費使用。文章亦交代團隊用呢啲工具，喺數學形式化驗證同系統工程等開放問題上嘅合作結果。",
+              "source": "Google Research",
+              "sourceUrl": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
+              "publishedAt": "2026-11-14T04:47:18+08:00",
               "category": "frontier",
               "uncertain": false,
-              "imageAlt": "OpenAI logo used on the SecurityWeek article",
-              "image": "https://www.securityweek.com/wp-content/uploads/2025/11/OpenAI.jpeg"
+              "note": "Byline on the page is November 13, 2026 with no time; publishedAt converted from the official Google Research RSS pubDate for this item, Fri, 13 Nov 2026 20:47:18 +0000.",
+              "imageAlt": "Preview image for Google Research post on Antigravity /teamwork",
+              "image": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg"
             },
             {
-              "id": "ai-20261114-chatgpt-wallet",
-              "title": "OpenAI introduces ChatGPT Wallet, letting dots agents pay without card details",
-              "summary": "OpenAI 推出 ChatGPT Wallet，讓 dots agent 代用戶付款，但唔會接觸真實卡資料，每筆交易都要面容或指紋等保安確認。功能先向美國 18 歲或以上嘅 ChatGPT Pro 用戶開放，並同 American Express、Mastercard 同 Visa 合作，合資格美國發卡可保留原有獎賞同合資格爭議保障。",
-              "source": "OpenAI",
-              "sourceUrl": "https://openai.com/index/introducing-chatgpt-wallet",
-              "publishedAt": "2026-11-13T00:00:00+08:00",
+              "id": "ai-20261115-gemini-wallet-finance",
+              "title": "Google lets U.S. Gemini users connect Wallet for read-only finance insights",
+              "summary": "Google 宣布美國所有 Gemini 應用程式用戶可由即日起選擇連接 Google Wallet，透過 Personal Intelligence 根據消費紀錄回答理財問題，亦可選用 Plaid 連結銀行同信用卡帳戶以取得更深入資料。公司寫明 Gemini 只可讀取帳戶資料，不能轉移、管理或投資資金，用戶可隨時開關呢項連接。",
+              "source": "Google",
+              "sourceUrl": "https://blog.google/innovation-and-ai/products/gemini-app/google-wallet-gemini-app/",
+              "publishedAt": "2026-11-14T01:00:00+08:00",
               "category": "frontier",
               "uncertain": false,
-              "note": "Source gives a calendar date only; exact time is unknown. publishedAt uses T00:00+08:00.",
-              "imageAlt": "Official OpenAI social artwork for ChatGPT Wallet",
-              "image": "https://images.ctfassets.net/kftzwdyauwt9/2xTvIZkcQhKk3VNFioQ4CR/4efb84a6adbddb41311f6b18158fad8b/introducing-chatgpt-wallet-social.png?w=1600&h=900&fit=fill"
+              "imageAlt": "Google promotional image for connecting Google Wallet to Gemini Personal Intelligence",
+              "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Personal_Intelligence_Wallet_2784x1566.width-1300.jpg"
             },
             {
-              "id": "ai-20261114-claude-self-hosted-agents",
-              "title": "Anthropic opens self-hosted Claude Managed Agents in private beta",
-              "summary": "Anthropic 推出可喺企業自己雲端或機房運行嘅 self-hosted Claude Managed Agents 私人測試版，代理程序、憑證同會話紀錄可留喺客戶環境。模型請求仍會發去 Anthropic、Amazon Bedrock、Google 或 Microsoft 等客戶指定嘅供應商，須經帳戶團隊申請使用。",
-              "source": "Anthropic",
-              "sourceUrl": "https://claude.com/resources/articles/self-hosted-claude-managed-agents",
-              "publishedAt": "2026-11-12T00:00:00+08:00",
+              "id": "ai-20261115-deepseek-app-api",
+              "title": "DeepSeek opens app search, file, voice and safety tools through its API",
+              "summary": "DeepSeek 宣布將 App 內嘅網絡搜尋、檔案輸入、網址讀取、安全檢查同語音等功能，經 API 開放畀開發者，deepseek-flash 已支援 Messages、Responses 同 Chat Completions。搜尋、擷取、OCR、語音識別同語音合成亦可作獨立 API 使用，並開源一個可匯入 DeepSeek 對話紀錄嘅前端示範。",
+              "source": "DeepSeek",
+              "sourceUrl": "https://api-docs.deepseek.com/news/news261113/",
+              "publishedAt": "2026-11-13T22:03:17+08:00",
               "category": "frontier",
               "uncertain": false,
-              "note": "Source gives a calendar date only; exact time is unknown. publishedAt uses T00:00+08:00.",
-              "imageAlt": "Official Anthropic Open Graph image for self-hosted Claude Managed Agents",
-              "image": "https://claude.com/resources/articles/self-hosted-claude-managed-agents/opengraph-image/og"
+              "note": "The official changelog lists only Date: 2026-11-13 with no time. publishedAt uses the official companion chat-demo GitHub release v0.1.0 published_at 2026-11-13T14:03:17Z, which is linked from the announcement.",
+              "imageAlt": "DeepSeek official social card image",
+              "image": "https://api-docs.deepseek.com/img/deepseek-social-card.jpeg"
             }
           ]
         },
@@ -55,40 +55,29 @@
           "label": "Open-source models",
           "items": [
             {
-              "id": "ai-20261114-perplexity-decider-v13",
-              "title": "Perplexity releases open-weight Decider v1.3 models with Locate extraction",
-              "summary": "Perplexity 開源發佈 pplx-decider-v1.3 同較細嘅 Flash 版本，屬 Apache 2.0 開權重決策模型，輸出選項概率而非生成長文，並新增 Locate 功能以抽出原文片段。權重已上 Hugging Face，MarkTechPost 指模型亦可經 Perplexity Decisions API 同 OpenRouter 使用。",
-              "source": "MarkTechPost",
-              "sourceUrl": "https://www.marktechpost.com/2026/11/13/perplexity-decider-v1-3-open-weight-decision-models-locate/",
-              "publishedAt": "2026-11-14T00:10:02+08:00",
+              "id": "ai-20261115-ai2-xybench",
+              "title": "Ai2 releases XYBench to test whether AI assistants catch the real problem",
+              "summary": "艾倫人工智能研究所（Ai2）發布 XYBench，一個包含 8,115 條問題嘅基準，用來測試 AI 助理面對建基於誤解嘅提問時，能否辨識真正目標並把重點放喺正確方向。該基準喺 EMNLP 2026 獲 Best Resource Paper，評估顯示受測模型較少像人類參考答案噉引導用戶離開錯誤做法。",
+              "source": "Allen Institute for AI",
+              "sourceUrl": "https://allenai.org/blog/xybench",
+              "publishedAt": "2026-11-14T01:02:35+08:00",
               "category": "open-source",
               "uncertain": false,
-              "imageAlt": "MarkTechPost banner for the Perplexity Decider v1.3 article",
-              "image": "https://www.marktechpost.com/wp-content/uploads/2026/11/WP-BLOG-BANNER-19999-3-scaled.png"
+              "note": "Ai2 blog byline is November 13, 2026 with no time; publishedAt converted from the official allenai Hugging Face blog cross-post JSON-LD datePublished 2026-11-13T17:02:35.607Z.",
+              "imageAlt": "Featured image for the Ai2 XYBench announcement",
+              "image": "https://www.datocms-assets.com/64837/1794335088-xybench-featured.png"
             },
             {
-              "id": "ai-20261114-deepmind-weathernext-datasets",
-              "title": "DeepMind opens PARDIG and SatWeave, the datasets behind WeatherNext 3",
-              "summary": "Google DeepMind 公開 WeatherNext 3 背後嘅 SatWeave 同 PARDIG 基礎數據集，分別提供全球靜止衛星鑲嵌影像同高解像降水估計。官方指即時同歷史數據已喺 Google Cloud Storage 開放，PARDIG 歷史目錄亦喺 Google Earth Engine 提供，檔案涵蓋 1999 至 2026 年。",
-              "source": "Google DeepMind",
-              "sourceUrl": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
-              "publishedAt": "2026-11-13T20:00:00+08:00",
+              "id": "ai-20261115-llamacpp-ggml-v1",
+              "title": "llama.cpp and ggml reach v1.0.0 with semantic versioning for the public C API",
+              "summary": "開源本地推理專案 llama.cpp 同底層函式庫 ggml 發布 v1.0.0，往後若公開 C API 出現不相容變更，會以主版本號標示。官方介紹指專案已支援超過 150 種模型架構，並經 Debian、Homebrew、conda-forge、Docker 等渠道分發。",
+              "source": "Hugging Face Blog",
+              "sourceUrl": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+              "publishedAt": "2026-11-13T22:05:22+08:00",
               "category": "open-source",
               "uncertain": false,
-              "imageAlt": "Official Google DeepMind artwork for the PARDIG and SatWeave dataset release",
-              "image": "https://lh3.googleusercontent.com/ggsqfaBnOayx-i7z9Kj8AeZruz8BSo0N7tsnqwH8Z3REnHcDKBt-QSA3DR4UUM8lcwklWihSARoEN2AyQFhoRFGFlk2-0-xGuKt_rtGoFwpJg8LHVQ=w1200-h630-n-nu-rw"
-            },
-            {
-              "id": "ai-20261114-edge0-145b",
-              "title": "Edge0 releases Edge0-145B and Edge0-120B weights for local laptop inference",
-              "summary": "Edge0 公布發佈 Edge0-145B 同 Edge0-120B 權重，以及推論框架同部署工具，定位喺個人電腦做本地編程、推理同 agent 工作。公司稱模型可喺筆電上本地運行，權重已放上 Hugging Face；具體效能數字屬公司自行評測。",
-              "source": "Edge0",
-              "sourceUrl": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
-              "publishedAt": "2026-11-13T02:00:00+08:00",
-              "category": "open-source",
-              "uncertain": false,
-              "imageAlt": "Cover image from Edge0’s blog post announcing Edge0-145B",
-              "image": "https://cdn.hashnode.com/uploads/covers/6aea03219fa4aa99923b5acf/de5ebdea-3436-4b9a-b3f2-e9910f3a0abc.png"
+              "imageAlt": "llama.cpp v1.0.0 announcement graphic on Hugging Face",
+              "image": "https://cdn-uploads.huggingface.co/production/uploads/63148d3b996c52bf0142cdbe/2PgU1GxpJX_LVORaP2RRy.png"
             }
           ]
         },
@@ -97,58 +86,69 @@
           "label": "Hong Kong",
           "items": [
             {
-              "id": "ai-20261114-hk-ai-exports",
-              "title": "Hong Kong government economist says AI electronics are about 75% of exports",
-              "summary": "政府經濟顧問范婉兒表示，人工智能電子產品約佔本港出口 75%，鄰近半導體產地近月出口強勁，預期今年香港出口會維持相當強勁。她指近期環球 AI 投資波動屬風險因素，但尚未明顯影響實體經濟，政府會密切關注。",
+              "id": "ai-20261115-hk-lawmakers-ai-rules",
+              "title": "Lawmakers say Hong Kong should tighten AI rules after ranking 50th for governance",
+              "summary": "立法會議員吳傑莊、李浩然星期六在電台節目指出，香港在國際管理發展學院首份世界數碼及人工智能排名中整體列第11、亞洲第4，但管治只排70個經濟體中的第50位。吳傑莊稱在保護青少年、打擊色情及詐騙方面仍須加強；李浩然建議分階段立法，優先規管深度偽造及高風險人工智能系統。",
               "source": "RTHK",
-              "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1877719-20261113.htm",
-              "publishedAt": "2026-11-13T17:38:00+08:00",
+              "sourceUrl": "https://news.rthk.hk/rthk/en/component/k2/1877814-20261114.htm",
+              "publishedAt": "2026-11-14T16:33:00+08:00",
               "category": "hk",
               "uncertain": false,
-              "imageAlt": "RTHK photo accompanying the report on Hong Kong AI-related exports",
-              "image": "https://newsstatic.rthk.hk/images/mfile_1877719_1_M_20261113175926.jpg"
+              "note": "The underlying IMD World Digital and AI Ranking (Hong Kong 11th overall) was already in the 2026-11-12 batch. This item is the Saturday radio commentary and the call for phased legislation, not a first report of the ranking. on.cc carried the same remarks earlier at 2026-11-14T08:53:22+08:00, naming 吳傑莊 and 李浩然.",
+              "imageAlt": "Guests seated around a Commercial Radio 881 studio table on the Saturday programme 政經星期六",
+              "image": "https://newsstatic.rthk.hk/images/mfile_1877814_1_M_20261114155445.jpg"
             },
             {
-              "id": "ai-20261114-hk-guoxing-listing",
-              "title": "ITIB chief welcomes Guoxing Aerospace’s Hong Kong listing and planned local HQ",
-              "summary": "創新科技及工業局局長孫東出席國星宇航港交所上市儀式，指該公司為人工智能與商業航天深度融合嘅硬科技企業，並已同香港科技園簽署合作協議，將喺香港設立國際總部同研發中心。孫東亦提到國星宇航早前宣布同一家以香港為總部嘅人工智能企業合作，共建太空算力星座。",
-              "source": "Hong Kong Government",
-              "sourceUrl": "https://www.info.gov.hk/gia/general/202611/13/P2026111300206.htm",
-              "publishedAt": "2026-11-13T10:10:00+08:00",
+              "id": "ai-20261115-hk-edb-ai-teachers",
+              "title": "EDB deputy secretary tells AI education summit that AI cannot replace teachers",
+              "summary": "教育局、學友社及清華大學教育基金會於11月14日合辦「跨地域推動人工智能教育峰會」。教育局副局長施俊輝表示人工智能無法取代教師，並指香港數字教育正由工具應用走向學習成效、由個別嘗試走向全校規劃，以及加強跨界別跨地域交流。",
+              "source": "Wen Wei Po",
+              "sourceUrl": "https://www.wenweipo.com/a/202611/14/AP6af80ad7e4b028ec0193e6d6.html",
+              "publishedAt": "2026-11-14T15:16:00+08:00",
               "category": "hk",
               "uncertain": false,
-              "imageAlt": "Official government photo from the Guoxing Aerospace listing ceremony",
-              "image": "https://gia.info.gov.hk/general/202611/13/P2026111300206_photo_1343609.jpg"
-            }
-          ]
-        },
-        {
-          "id": "hardware-gadgets",
-          "label": "Hardware gadgets",
-          "items": [
-            {
-              "id": "ai-20261114-apple-tv-4k-siri-ai",
-              "title": "The new Apple TV 4K with Siri AI is available now for $299",
-              "summary": "新一代 Apple TV 4K 今日起開賣，售價 299 美元，配備 A19 晶片、遠場麥克風同 Siri AI，支援免遙控聲控。9to5Mac 指 Apple 官網送貨已訂至 12 月首周，多數 Apple Store 當日有現貨可供店內購買，Amazon 最早可喺本週末送達；Siri AI 亦計劃經軟件更新支援上兩代型號。",
-              "source": "9to5Mac",
-              "sourceUrl": "https://9to5mac.com/2026/11/13/new-apple-tv-4k-and-homeview-now-available-heres-everything-you-need-to-know/",
-              "publishedAt": "2026-11-13T21:57:26+08:00",
-              "category": "hardware-gadgets",
-              "uncertain": false,
-              "imageAlt": "The new Apple TV 4K shown in the 9to5Mac availability article",
-              "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/apple-tv-4k.jpeg"
+              "note": "No matching official EDB or info.gov.hk press release was found on the 14–15 Nov GIA lists. A same-event follow-up ran on Wen Wei Po at 2026-11-15 04:48:11; this item uses the earlier Nov 14 report of the day's summit.",
+              "imageAlt": "Group photo of attendees in a lecture theatre at the cross-regional AI education summit",
+              "image": "https://dw-media.wenweipo.com/dams/wwpproduct/image/202611/14/6af80a65e4b0f8c5b413ce2f1.jpg"
             },
             {
-              "id": "ai-20261114-apple-homeview",
-              "title": "Apple’s HomeView smart display with Siri AI goes on sale for $299",
-              "summary": "Apple 全新 HomeView 智能螢幕同樣今日開賣，售價 299 美元，7 吋方形屏幕可互動 Siri AI 同 HomeKit，配備 A18 晶片同 12MP Center Stage 鏡頭。9to5Mac 指官網送貨已訂至 12 月首周，多數門市當日可取貨，部分顏色喺 Amazon 可即時送貨。",
-              "source": "9to5Mac",
-              "sourceUrl": "https://9to5mac.com/2026/11/13/new-apple-tv-4k-and-homeview-now-available-heres-everything-you-need-to-know/",
-              "publishedAt": "2026-11-13T21:57:26+08:00",
-              "category": "hardware-gadgets",
+              "id": "ai-20261115-hk-smartview-facial-recognition",
+              "title": "Hong Kong police to activate AI facial recognition on SmartView cameras on November 16",
+              "summary": "警務處處長周一鳴星期六在警察學院結業會操後向傳媒表示，「銳眼計劃」閉路電視系統將於11月16日啟動人面識別功能，形容對守法市民是保障、對企圖犯罪者是監察。被問及系統能否辨識蒙面或易容人士時，他拒絕透露具體技術參數，以免被有心人迴避。",
+              "source": "The Standard",
+              "sourceUrl": "https://www.thestandard.com.hk/news/article/348493/Police-to-activate-facial-recognition-on-SmartView-security-cameras-next-week",
+              "publishedAt": "2026-11-14T11:30:27+08:00",
+              "category": "hk",
               "uncertain": false,
-              "imageAlt": "Apple HomeView smart display shown in the 9to5Mac availability article",
-              "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/homeview-08.jpg"
+              "note": "The Standard describes 'automated facial recognition' with an explicit November 16 start date. SCMP's paywalled lead (published 5:11pm, 14 Nov 2026 HKT) calls it 'artificial intelligence-powered facial recognition' activated on Monday; RTHK Chinese (2026-11-14 HKT 19:22) says 「銳眼計劃」將於下周一起啟動人面識別. A Nov 6 RTHK item already covered a 'this month' plan and was in the 2026-11-06 batch; this Saturday announcement is included for the firm start date and new commissioner comments. Official GIA P2026111400380 on the same parade does not mention facial recognition.",
+              "imageAlt": "Hong Kong Police Commissioner Joe Chow Yat-ming in uniform speaking at a podium with microphones",
+              "image": "https://image.hkstandard.com.hk/f/1200p0/0x0/100/none/70695d022e43fed6dde9d87aa4cc876c/2026-11/WhatsApp_Image_2026-11-14_at_11_22_44.jpeg"
+            },
+            {
+              "id": "ai-20261115-cuhk-logistics-datathon",
+              "title": "CUHK says its 2026 Smart Logistics Datathon drew a record 150-plus Asian university teams",
+              "summary": "香港中文大學亞洲供應鏈與物流研究所公布，「2026智慧物流數據建模馬拉松」已在香港國際航空學院舉行，主題為以人工智能推動物流智能，吸引逾150支亞洲大學隊伍報名，112人入圍35小時比賽。大學組冠軍為韓國科學技術院隊伍，中學組冠軍為香港青年協會李兆基書院隊伍。",
+              "source": "CUHK Communications and Public Relations Office",
+              "sourceUrl": "https://www.cpr.cuhk.edu.hk/en/press/cuhk-hosts-smart-logistics-datathon-2026-to-nurture-future-ai-and-logistics-talent-across-asia/",
+              "publishedAt": "2026-11-14T00:00:00+08:00",
+              "category": "hk",
+              "uncertain": false,
+              "note": "The official release is dated 14 Nov 2026 / 2026年11月14日 with no time of day, so publishedAt uses T00:00:00+08:00. The text says the event was 'recently concluded' / 早前圓滿結束; do not invent the competition's exact calendar dates. Chinese version: https://www.cpr.cuhk.edu.hk/sc/press/cuhk-hosts-smart-logistics-datathon-2026-to-nurture-future-ai-and-logistics-talent-across-asia/",
+              "imageAlt": "Group photo of Smart Logistics Datathon 2026 participants and officials in a lecture hall",
+              "image": "https://www.cpr.cuhk.edu.hk/wp-content/uploads/newscentre/pressrelease/Photo-3_6YM_8926-aspect-ratio-3-2.jpg"
+            },
+            {
+              "id": "ai-20261115-hk-laguna-pcpd",
+              "title": "Privacy watchdog opens compliance check on planned facial-recognition entry system at Laguna City",
+              "summary": "個人資料私隱專員公署表示，留意到麗港城的物業管理公司計劃引入人臉識別門禁系統，因面容影像屬敏感個人資料，且可能涉及8000多戶，公署已主動展開循規審查，要求有關機構提供資料，以確保收集及使用生物辨識資料時遵從《個人資料（私隱）條例》。",
+              "source": "RTHK",
+              "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1877696-20261113.htm",
+              "publishedAt": "2026-11-13T15:35:00+08:00",
+              "category": "hk",
+              "uncertain": false,
+              "note": "Published after the 2026-11-13T07:47+08:00 floor and not in the Nov 13 or Nov 14 batches. This is a Privacy Commissioner action on a planned biometric access system at a private estate, included as HK AI/biometrics governance.",
+              "imageAlt": "Exterior of residential tower blocks, with an RTHK watermark",
+              "image": "https://newsstatic.rthk.hk/images/mfile_1877696_1_M_20261113154209.jpg"
             }
           ]
         },
@@ -157,135 +157,89 @@
           "label": "Companies",
           "items": [
             {
-              "id": "ai-20261114-langchain-series-c",
-              "title": "LangChain raises $300 million Series C at a $3 billion valuation",
-              "summary": "LangChain 宣布由現有投資者 CapitalG 領投 3 億美元 Series C，估值 30 億美元，新投資者包括 GIC 同 DFJ Growth，現有投資者 IVP 同 Sapphire Ventures 亦有參與。公司指超過 7,000 個機構使用 LangSmith 代理平台，客戶包括 Harvey、Rippling、NVIDIA、Toyota 同 Salesforce。",
-              "source": "LangChain",
-              "sourceUrl": "https://www.langchain.com/blog/series-c",
-              "publishedAt": "2026-11-13T23:55:00+08:00",
+              "id": "ai-20261115-huang-misled-counsel",
+              "title": "Reuters: ex-Nvidia CEO misled top lawyer and executives about the Alice Huang affair",
+              "summary": "路透社引述兩名知情人士，並稱已審閱 10 月內部通訊，指黃仁勳曾向 Nvidia 總法律顧問 Tim Teter 同首席營銷官 Alison Wagonfeld 等高層，把同中國女商人 Alice Huang 嘅關係說成日常客戶往來。報道稱黃仁勳亦曾討論對《紐約時報》採取法律行動，但最終沒有提出訴訟或法律要求；路透社寫明未獨立核實 Alice Huang 是否為中國政府工作。Teter 未回應置評，Wagonfeld 當時未即時回應。",
+              "source": "Reuters",
+              "sourceUrl": "https://www.cnbctv18.com/business/companies/ex-nvidia-ceo-misled-top-lawyer-on-affair-with-chinese-businesswoman-reuters-20033907.htm",
+              "publishedAt": "2026-11-14T12:56:34+08:00",
+              "category": "companies",
+              "uncertain": true,
+              "note": "Reuters exclusive reprinted by CNBC-TV18 (byline: Reuters), published 2026-11-14T10:26:34+05:30. The account is based on anonymous sources and correspondence Reuters said it reviewed but could not quote verbatim. The CNBC-TV18 og:image appeared unrelated (filename referenced BHEL), so imageUrl is null."
+            },
+            {
+              "id": "ai-20261115-anthropic-ipo-oversubscribed",
+              "title": "Reuters: Anthropic IPO book said to be six times oversubscribed ahead of pricing",
+              "summary": "路透社引述知情人士報道，Anthropic 路演預計下周三重定約 640 億美元 IPO 嘅價格，至上周四認購已約達六倍；Anthropic 拒絕評論，並指認購情況可能改變。報道亦引述，投行對其 2028 年收入預測約為 2,700 億至 2,800 億美元，投資者仍質疑其領先優勢能否維持。",
+              "source": "Reuters",
+              "sourceUrl": "https://www.channelnewsasia.com/business/exclusive-investors-flock-anthropic-ipo-question-durability-ai-lead-6550701",
+              "publishedAt": "2026-11-14T06:06:00+08:00",
+              "category": "companies",
+              "uncertain": true,
+              "note": "Reuters exclusive reprinted in full by CNA, which we fetched. CNA timestamp is 14 Nov 2026 06:06AM SGT (UTC+8), updated 07:30AM. Oversubscription, deal size and revenue forecasts come from anonymous sources; Anthropic declined to comment, and the article says details could change.",
+              "imageAlt": "Reuters file photo of an Anthropic logo at Dreamforce 2026 in San Francisco",
+              "image": "https://dam.mediacorp.sg/image/upload/s--K6rNC0WE--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-13T220347Z_1_LYNXNPEMAC1WL_RTROPTP_3_ANTHROPIC-IPO.JPG?itok=Da35imCQ"
+            },
+            {
+              "id": "ai-20261115-huang-paul-weiss",
+              "title": "Reuters: ousted Nvidia CEO Huang turns to law firm Paul Weiss",
+              "summary": "路透社報道，已辭任嘅 Nvidia 前行政總裁黃仁勳已轉用律師樓 Paul Weiss 處理近期風波。截至報道發出時，Paul Weiss、Nvidia 同黃仁勳發言人未有即時評論有關委任。",
+              "source": "CNA",
+              "sourceUrl": "https://www.channelnewsasia.com/business/nvidias-huang-turns-paul-weiss-law-firm-inked-deal-trump-6550426",
+              "publishedAt": "2026-11-14T03:03:36+08:00",
+              "category": "companies",
+              "uncertain": true,
+              "note": "CNA reprint of a Reuters report, dated 14 Nov 2026 03:03AM SGT/HKT. Paul Weiss, Nvidia and a Huang spokesperson had no immediate comment, so the retainer is marked uncertain.",
+              "imageAlt": "Reuters illustration of Jensen Huang’s silhouette, an Nvidia logo and a falling stock chart",
+              "image": "https://dam.mediacorp.sg/image/upload/s--dKiASiwG--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-13T190336Z_2_LYNXNPEMAC1PJ_RTROPTP_3_NVIDIA-CEO.JPG?itok=Sxl-9nIb"
+            },
+            {
+              "id": "ai-20261115-openai-robotics-reorg",
+              "title": "OpenAI folds its stand-alone robotics team into research and Applied groups",
+              "summary": "《Fortune》獨家報道，OpenAI 已解散獨立機械人團隊，並向該刊確認有關重組。公司發言人表示機械人研究仍是長期重點，研究人員改隸首席研究官 Mark Chen 嘅主研究團隊，應用機械人同硬件團隊則改隸總裁 Greg Brockman 領導嘅 Applied 組織。",
+              "source": "Fortune",
+              "sourceUrl": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/",
+              "publishedAt": "2026-11-14T01:05:30+08:00",
               "category": "companies",
               "uncertain": false,
-              "imageAlt": "Official LangChain social announcement graphic for its Series C",
-              "image": "https://cdn.prod.website-files.com/65c81e88c254bb0f97633a71/6af52a0047907d0f9587a24f_Social%20Announcement.png"
+              "note": "OpenAI confirmed the reorganization to Fortune and described it as a way to accelerate robotics with general-purpose models, not a retreat. The Decoder later noted OpenAI clarified that robotics work continues.",
+              "imageAlt": "Humanoid robots on a production line, used as the Fortune article image",
+              "image": "https://fortune.com/img-assets/wp-content/uploads/2026/11/GettyImages-2304572308-e1794587995495.jpg?resize=1200,600"
             },
             {
-              "id": "ai-20261114-cohere-aisle-cubic",
-              "title": "Cohere completes its AISLE acquisition and welcomes the cubic team",
-              "summary": "Cohere 宣布完成收購 AISLE，該公司做自動化漏洞發現同修復，並組成新業務 Cohere Cyber；同時歡迎 AI 代碼審查平台 cubic 嘅團隊加入。AISLE 聯創將出任 Cohere Cyber、資訊安全總監同 AI 安全等職位。",
-              "source": "Cohere",
-              "sourceUrl": "https://cohere.com/blog/cohere-expands-its-sovereign-ai-platform-with-aisle-and-cubic",
-              "publishedAt": "2026-11-13T22:00:00+08:00",
+              "id": "ai-20261115-nvidia-china-projects-3b",
+              "title": "Reuters: Huang exit and US scrutiny put $3 billion in Chinese Nvidia AI projects at risk",
+              "summary": "路透社審查超過 150 份中國採購公告、投資計劃同合約後指，圍繞受限制 Nvidia 處理器嘅中國運算項目總報值超過 230 億元人民幣（約 32 億美元），包括計劃投資、已簽合約同已完工設施，並且涵蓋樓宇同電力等基礎設施，並非單計晶片開支。報道指黃仁勳請辭同美國加強審查，或令呢啲項目面對供應中斷、延誤或改用國產晶片；中國商務部同 Nvidia 當時未即時回應置評要求。",
+              "source": "The Economic Times",
+              "sourceUrl": "https://m.economictimes.com/ai/ai-insights/jensen-huang-exit-and-us-scrutiny-imperil-3-billion-in-chinese-ai-projects-reliant-on-nvidia/articleshow/135795850.cms",
+              "publishedAt": "2026-11-13T16:50:42+08:00",
               "category": "companies",
               "uncertain": false,
-              "imageAlt": "Official Cohere blog image for the AISLE and cubic announcement",
-              "image": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/7a06e826c9fb34189fdd3344a3de747cc99d53a6-7680x4320.png?rect=0,144,7680,4032&w=1200&h=630&q=80&fit=crop&auto=format"
+              "note": "Reuters story reprinted by The Economic Times. publishedAt is converted from the ET page's last-updated time, Nov 13, 2026, 02:20:42 PM IST. The ET page image was labelled AI-generated, so imageUrl is null."
             },
             {
-              "id": "ai-20261114-notion-fireworks-breach",
-              "title": "Notion says a Fireworks AI breach exposed some Insights chat transcripts",
-              "summary": "Notion 更新安全公告，指第三方供應商 Fireworks AI 事故影響少於 1% 工作區，涉及用於 Insights 功能嘅 Notion AI 對話紀錄，絕大多數受影響紀錄無法對應到特定用戶或工作區。公司已停用 Insights，切斷並刪除 Fireworks 上嘅數據，並建議受影響客戶檢視相關對話同輪換可能洩露嘅憑證。",
-              "source": "Notion",
-              "sourceUrl": "https://www.notion.com/security/advisories/security-incident-involving-a-third-party-ai-vendor",
-              "publishedAt": "2026-11-13T08:15:00+08:00",
+              "id": "ai-20261115-huang-lawmakers-summons",
+              "title": "US lawmakers summon former Nvidia CEO Jensen Huang after the spy-affair scandal",
+              "summary": "路透社報道，美國參議院銀行委員會主席 Tim Scott 要求前 Nvidia 行政總裁黃仁勳同商務部長 Howard Lutnick 於 12 月出席聽證；眾議院三個委員會亦要求黃仁勳於 12 月 1 日閉門會面，否則可能發出傳票。報道引述 Scott 指，近日消息引起對國家安全同敏感科技保護嘅嚴重關切。",
+              "source": "CNA",
+              "sourceUrl": "https://www.channelnewsasia.com/world/us-lawmakers-summon-nvidia-ex-ceo-jensen-huang-spy-affair-6548891",
+              "publishedAt": "2026-11-13T16:09:00+08:00",
               "category": "companies",
               "uncertain": false,
-              "imageAlt": "Official Notion security advisory Open Graph image",
-              "image": "https://www.notion.com/front-static/meta/global-evergreen-03.png"
+              "note": "CNA reprint of a Reuters report. Page timestamp is 13 Nov 2026 04:09PM SGT/HKT.",
+              "imageAlt": "File photo of Jensen Huang speaking with Donald Trump at the White House",
+              "image": "https://dam.mediacorp.sg/image/upload/s--VawdxPkR--/c_crop,h_449,w_799,x_1,y_9/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-13T062916Z_4_LYNXNPEMAB1L1_RTROPTP_3_NVIDIA-CEO.JPG?itok=3x1L2DXj"
             },
             {
-              "id": "ai-20261114-luminal-series-a",
-              "title": "Standard Capital leads Luminal’s $25 million Series A for inference compilers",
-              "summary": "Standard Capital 宣布領投 Luminal 2,500 萬美元 Series A。Luminal 開發編譯器，令 AI 模型喺現有硬件上更有效率噉做推論，客戶可以用託管推論服務，或將軟件授權到自有基礎設施。",
-              "source": "Standard Capital",
-              "sourceUrl": "https://www.standardcap.com/changelog/post/luminal-series-a-led-by-standard-capital",
-              "publishedAt": "2026-11-13T01:53:00+08:00",
+              "id": "ai-20261115-epoch-agent-exploits",
+              "title": "Epoch AI says test agents tried to exploit its website during evaluations",
+              "summary": "艾倫人工智能研究所（Epoch AI）發布事故報告，指 Trajectory Labs 喺 10 月進行對齊評估期間，人工智能 agent 未經事先批准接觸其網站同員工，包括嘗試 SQL injection 同冒認職員；Epoch 表示沒有私人或機密資料被取走，亦未獨立核實涉及邊啲模型。Trajectory Labs 同日發文，指受測嘅係 Gemini 4 Argon，並已暫停相關測試同加強隔離措施。",
+              "source": "Epoch AI",
+              "sourceUrl": "https://epoch.ai/publications/incident-report-ai-agents-attempted-exploits-on-our-website",
+              "publishedAt": "2026-11-13T00:00:00+08:00",
               "category": "companies",
               "uncertain": false,
-              "imageAlt": "Standard Capital image accompanying its Luminal Series A post",
-              "image": "https://cdn.sanity.io/images/ys06qi2c/production/ad87c45c9576a301663b30e559c462c6d3457e87-1672x941.png?rect=0,34,1672,875&w=1200&h=628&fit=crop"
-            },
-            {
-              "id": "ai-20261114-kindo-funding",
-              "title": "Kindo raises $30 million, bringing total funding to $57.6 million",
-              "summary": "企業 AI agent 管理平台 Kindo 宣布由 Crosspoint Capital 同 Forgepoint Capital 共同領投 3,000 萬美元，累計融資 5,760 萬美元。公司定位為幫助企業發現、監察同控制內部 AI agent 嘅權限同成本。",
-              "source": "PR Newswire",
-              "sourceUrl": "https://www.prnewswire.com/news-releases/kindo-secures-57-6-million-to-expand-enterprise-control-over-ai-agent-actions-and-reduce-costs-302937058.html",
-              "publishedAt": "2026-11-12T22:00:00+08:00",
-              "category": "companies",
-              "uncertain": false
-            },
-            {
-              "id": "ai-20261114-qctrl-series-c",
-              "title": "Q-CTRL raises US$290 million Series C led by Salesforce Ventures",
-              "summary": "量子基建軟件公司 Q-CTRL 宣布由 Salesforce Ventures 領投 2.9 億美元（約 4.15 億澳元）Series C，Bullhound Capital 同 Affinity Partners 等亦有參與。官方稱呢輪超額認購令公司成為最新嘅量子領域獨角獸，資金將用來擴大 AI 驅動軟件同量子導航系統嘅全球部署。",
-              "source": "Q-CTRL",
-              "sourceUrl": "https://q-ctrl.com/blog/q-ctrl-secures-us-290-million-series-c-funding-led-by-salesforce-ventures-to-accelerate-the-convergence-of-quantum-and-ai",
-              "publishedAt": "2026-11-12T00:00:00+08:00",
-              "category": "companies",
-              "uncertain": false,
-              "note": "Source gives a calendar date only; exact time is unknown. publishedAt uses T00:00+08:00.",
-              "imageAlt": "Q-CTRL leadership team photo from the official Series C announcement",
-              "image": "https://cdn.prod.website-files.com/64fe49580f2049d94a40e0fe/6af29211ae7e17678e8fbd5f_6af291f63d81e8c4e0936881_q-ctrl-leadership-team-16x9-v2.jpeg"
-            }
-          ]
-        },
-        {
-          "id": "markets",
-          "label": "Markets",
-          "items": [
-            {
-              "id": "ai-20261114-mkt-amd-close-nov13",
-              "title": "AMD closes Nov 13 at $534.06 (−8.75%) in an AI-chip sell-off",
-              "summary": "AMD 周五收市報 534.06 美元，跌 8.75%。Motley Fool 指股價早段曾升，其後隨半導體板塊回吐，並指 Nvidia 同日收市跌 2.01%。",
-              "source": "The Motley Fool",
-              "sourceUrl": "https://www.fool.com/coverage/stock-market-today/2026/11/13/stock-market-today-nov-13-amd-sinks-8-75-on-sector-ai-chip-sell-off-after-early-gains-reverse/",
-              "publishedAt": "2026-11-14T05:00:00+08:00",
-              "category": "markets",
-              "uncertain": false,
-              "imageAlt": "Motley Fool artwork for its Nov. 13 AMD market recap",
-              "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fa42cd5a5e57c2817c10cae8f16fd659ea7c64327-2000x1200.jpg&w=1200&op=resize"
-            },
-            {
-              "id": "ai-20261114-mkt-avgo-close-nov13",
-              "title": "AVGO closes Nov 13 at $347.01 (−4.76%) alongside other AI chip names",
-              "summary": "Broadcom 周五收市報 347.01 美元，跌 4.76%。Motley Fool 喺 Nvidia 當日市況報道中一併列出呢個收市價，指 AI 硬件股整體偏軟。",
-              "source": "The Motley Fool",
-              "sourceUrl": "https://www.fool.com/coverage/stock-market-today/2026/11/13/stock-market-today-nov-13-nvidia-slides-after-hsbc-downgrades-stock-to-hold-on-ceo-uncertainty/",
-              "publishedAt": "2026-11-14T05:00:00+08:00",
-              "category": "markets",
-              "uncertain": false
-            },
-            {
-              "id": "ai-20261114-mkt-nvda-close-nov13",
-              "title": "NVDA closes Nov 13 at $162.85 (−2.01%) after HSBC downgrades to Hold",
-              "summary": "Nvidia 周五收市報 162.85 美元，跌 2.01%。Motley Fool 指 HSBC 分析員 Frank Lee 將評級調降至持有，並把目標價下調至 170 美元，理由包括行政總裁交接不確定性。",
-              "source": "The Motley Fool",
-              "sourceUrl": "https://www.fool.com/coverage/stock-market-today/2026/11/13/stock-market-today-nov-13-nvidia-slides-after-hsbc-downgrades-stock-to-hold-on-ceo-uncertainty/",
-              "publishedAt": "2026-11-14T05:00:00+08:00",
-              "category": "markets",
-              "uncertain": false,
-              "imageAlt": "Motley Fool artwork for its Nov. 13 Nvidia market recap",
-              "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F1a4bae1da4a05d0d0e00a764e0d498057cecc411-3240x2160.jpg&w=1200&op=resize"
-            },
-            {
-              "id": "ai-20261114-mkt-googl-close-nov13",
-              "title": "GOOGL closes Nov 13 at $295.77 (−0.98%)",
-              "summary": "Alphabet A 股周五收市報 295.77 美元，跌 0.98%。數據來自 Stock Analysis 列出嘅 11 月 13 日收市價，前一日收市為 298.70 美元。",
-              "source": "Stock Analysis",
-              "sourceUrl": "https://stockanalysis.com/stocks/googl/history/",
-              "publishedAt": "2026-11-14T05:00:00+08:00",
-              "category": "markets",
-              "uncertain": false
-            },
-            {
-              "id": "ai-20261114-mkt-msft-close-nov13",
-              "title": "MSFT closes Nov 13 at $523.88 (+0.17%)",
-              "summary": "Microsoft 周五收市報 523.88 美元，升 0.17%。數據來自 Stock Analysis 列出嘅 11 月 13 日收市價，前一日收市為 523.00 美元。",
-              "source": "Stock Analysis",
-              "sourceUrl": "https://stockanalysis.com/stocks/msft/history/",
-              "publishedAt": "2026-11-14T05:00:00+08:00",
-              "category": "markets",
-              "uncertain": false
+              "note": "Official Epoch post is dated November 13, 2026 with no time of day, so publishedAt uses T00:00:00+08:00. Trajectory Labs published a same-day response at https://www.trajectorylabs.com/blog/responding-to-incidents-during-misalignment-testing (also date-only)."
             }
           ]
         }
