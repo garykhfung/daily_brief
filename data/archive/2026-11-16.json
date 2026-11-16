@@ -1,0 +1,578 @@
+{
+  "updatedAt": "2026-11-16T08:19:47+08:00",
+  "timezone": "Asia/Hong_Kong",
+  "tabs": [
+    {
+      "id": "ai",
+      "label": "AI",
+      "sections": [
+        {
+          "id": "frontier",
+          "label": "Frontier models",
+          "items": [
+            {
+              "id": "ai-20261116-openai-science-blog",
+              "title": "OpenAI launches a new blog for science",
+              "summary": "OpenAI 喺 11 月 15 日開設科學網誌，話會刊出公司、合作者同更廣泛科學界用 AI 做研究嘅成果、方法同研究者親身經驗。公司指近期模型已用於數學證明、物理同生物數據分析等，希望呢個網誌幫更多人了解同使用呢啲工具。",
+              "source": "OpenAI",
+              "sourceUrl": "https://openai.com/index/our-new-blog-for-science/",
+              "publishedAt": "2026-11-15T00:00:00+08:00",
+              "category": "frontier",
+              "uncertain": false,
+              "note": "The OpenAI page shows only the date November 15, 2026, with no time; publishedAt uses T00:00:00+08:00 and the time is unknown.",
+              "imageAlt": "Social card for OpenAI’s announcement of its new science blog",
+              "image": "https://images.ctfassets.net/kftzwdyauwt9/ZyKta7ePADbiaWqX3EARs/81a2a593e66096fb001987910330e24e/our-new-blog-for-science-social.png?w=1600&h=900&fit=fill"
+            },
+            {
+              "id": "ai-20261116-openai-standard-model-lattice",
+              "title": "OpenAI science blog: a candidate lattice definition of the Standard Model",
+              "summary": "OpenAI 科學網誌首篇來稿由訪問科學家、加州大學聖塔芭芭拉分校物理學家 Nathaniel Craig 撰寫，講述佢同 GPT-6 Astra 合作，提出一個候選嘅標準模型非微擾格點定義。文章寫明呢個係原則上嘅構造，仍需專家審視，目前亦未證明喺有限格距下滿足反射正性，亦未完成連續時空上嘅完整定義。",
+              "source": "OpenAI",
+              "sourceUrl": "https://openai.com/index/step-toward-defining-the-standard-model/",
+              "publishedAt": "2026-11-15T00:00:00+08:00",
+              "category": "frontier",
+              "uncertain": false,
+              "note": "The OpenAI page shows only the date November 15, 2026, with no time; publishedAt uses T00:00:00+08:00 and the time is unknown. The post describes a candidate construction, not a completed settlement of the problem.",
+              "imageAlt": "Social card for OpenAI’s guest post on a candidate lattice definition of the Standard Model",
+              "image": "https://images.ctfassets.net/kftzwdyauwt9/1RdsG8XilINGFZUscLvAnj/b3bfb7912b44166e8075581574a7b777/toward-defining-the-standard-model-social.png?w=1600&h=900&fit=fill"
+            }
+          ]
+        },
+        {
+          "id": "hk",
+          "label": "Hong Kong",
+          "items": [
+            {
+              "id": "ai-20261116-smartview-activates",
+              "title": "Hong Kong police start SmartView AI facial recognition today, chief says it will not be abused",
+              "summary": "香港警方「銳眼計劃」今日（16日）起啟動人工智能人面識別功能。處長周一鳴前一日喺電視節目表示，功能主要用嚟刑事偵查同尋找失蹤人士，特別係患有認知障礙症嘅長者，使用前要有制衡同審批，強調唔會隨便濫用；警方亦話正推進接入私營商場閉路電視，首階段預計約有4間商場加入。",
+              "source": "Wen Wei Po",
+              "sourceUrl": "https://www.tkww.hk/epaper/view/newsDetail/2122021202640900096.html",
+              "publishedAt": "2026-11-16T00:00:00+08:00",
+              "category": "hk",
+              "uncertain": false,
+              "note": "Print edition dated 2026-11-16; exact time is unknown. The page og:image is a newspaper-page scan and the article photo is labelled a file photo, so imageUrl is omitted. This is an activation-day follow to the Nov 15 batch item on the scheduled start; new facts are the commissioner’s checks-and-balances remarks, use mainly for crime and missing persons (especially elderly with dementia), and about four malls in the first CCTV-integration phase. September’s “zero robberies” was attributed to the existing SmartView camera network, not to the new facial-recognition feature, and is not used as a claim about today’s launch."
+            },
+            {
+              "id": "ai-20261116-lingnan-elderly-ai-privacy",
+              "title": "Lingnan lecturer urges AI privacy guidelines for elderly care as companion robots collect conversations",
+              "summary": "嶺南大學高級講師蕭珮而指出，AI安老應用已由步態分析、健康監測同復康訓練，逐步伸延到生活支援同情感陪伴；大型語言模型雖然帶來更多對話同互動，但技術進步唔等於照顧質素提升，關鍵係產品可唔可以配合長者能力、生活習慣同實際需要。佢倡安老業訂立AI私隱指引，因為陪伴機械人會收集對話，長者未必知情。",
+              "source": "HKEJ",
+              "sourceUrl": "https://www.hkej.com/dailynews/ceoai/article/4565811/%E5%B6%BA%E5%A4%A7%E5%AD%B8%E8%80%85%E5%80%A1%E5%AE%89%E8%80%81%E6%A5%AD%E8%A8%ADAI%E7%A7%81%E9%9A%B1%E6%8C%87%E5%BC%95",
+              "publishedAt": "2026-11-16T00:00:00+08:00",
+              "category": "hk",
+              "uncertain": false,
+              "note": "Print edition dated 2026-11-16; site datePublished is 2026-11-16T00:00:00+08:00 and exact time is unknown. Summary uses the headline and the visible lead; the remainder of the article is paywalled.",
+              "imageAlt": "A woman stands beside a robotic companion cat on display",
+              "image": "https://static.hkej.com/hkej/images/2026/11/16/4565811_433d20227a374bee5dfd8d6c450e6614.jpg"
+            },
+            {
+              "id": "ai-20261116-cityu-ai-robot-lecture",
+              "title": "CityU hosts first ITC-funded science lecture on AI robots",
+              "summary": "由大公文匯傳媒集團主辦、獲創新科技署資助嘅「創新科技科普講堂」星期日喺香港城市大學舉行首場活動，主題係用AI機械人推動創科普及教育，主辦方指有逾300人報名。整個項目圍繞人工智能與機械人、智能健康科技、智慧城市與能源科技，合共籌辦4場主題活動同9場科技巡展。",
+              "source": "Wen Wei Po",
+              "sourceUrl": "https://www.wenweipo.com/a/202611/15/AP6af9a1d4e4b028ec01940ccd.html",
+              "publishedAt": "2026-11-15T20:13:06+08:00",
+              "category": "hk",
+              "uncertain": false,
+              "imageAlt": "A student shakes hands with a humanoid robot at City University of Hong Kong",
+              "image": "https://dw-media.wenweipo.com/dams/wwpproduct/image/202611/15/6af954cae4b0f8c5b41419a31.jpg"
+            },
+            {
+              "id": "ai-20261116-yau-ai-slowdown",
+              "title": "HK should prepare for an AI slowdown, commerce chief Algernon Yau says",
+              "summary": "商務及經濟發展局局長丘應樺星期日喺商業電台節目表示，近期出口升勢係由人工智能發展帶動，但各國對AI發展意見唔同，呢股熱潮有可能稍為放緩，香港要密切留意全球趨勢、調整策略同繼續擴展貿易網絡。佢又提到，9月香港出口按年升近65%，係四十多年嚟最快嘅單月按年升幅。",
+              "source": "RTHK",
+              "sourceUrl": "https://news.rthk.hk/rthk/en/component/k2/1877873-20261115.htm",
+              "publishedAt": "2026-11-15T13:10:00+08:00",
+              "category": "hk",
+              "uncertain": false,
+              "imageAlt": "Hong Kong commerce chief Algernon Yau speaking at a briefing",
+              "image": "https://newsstatic.rthk.hk/images/mfile_1877873_1_M_20261115113417.jpg"
+            },
+            {
+              "id": "ai-20261116-cuhk-iena-awards",
+              "title": "CUHK wins six iENA 2026 awards for AI robotics and smart healthcare projects",
+              "summary": "中文大學公布，旗下研究團隊喺德國紐倫堡舉行嘅iENA 2026國際發明展奪得六個獎項，包括兩面金獎同兩項特別大獎。得獎項目包括中大同衍生公司SOTA Robotics共同研發、具備全棧機械人技能學習技術嘅「具身管弦樂演奏人形機械人」，以及用於血管內治療嘅磁性微納機械人。",
+              "source": "CUHK",
+              "sourceUrl": "https://www.cpr.cuhk.edu.hk/en/press/cuhk-garners-6-major-accolades-at-iena-2026-in-germany-won-2-international-special-awards-showcasing-excellence-in-ai-robotics-and-smart-healthcare-innovation/",
+              "publishedAt": "2026-11-15T00:00:00+08:00",
+              "category": "hk",
+              "uncertain": false,
+              "note": "Official press release is dated 15 Nov 2026 only; time is unknown.",
+              "imageAlt": "CUHK researchers pose with university banners at iENA 2026 in Nuremberg",
+              "image": "https://www.cpr.cuhk.edu.hk/wp-content/uploads/20261102_141804000_iOS-R-1-aspect-ratio-3-2.jpg"
+            }
+          ]
+        },
+        {
+          "id": "companies",
+          "label": "Companies",
+          "items": [
+            {
+              "id": "ai-20261116-huang-comeback-ft",
+              "title": "Jensen Huang has discussed returning as Nvidia CEO, FT reports",
+              "summary": "《The Verge》引述《金融時報》報道，黃仁勳已同親信討論重返 Nvidia 行政總裁職位，部分矽谷人士同員工亦嘗試向董事會施壓；馬斯克同 Epic Games 行政總裁 Tim Sweeney 亦公開支持要求「請黃仁勳回來」嘅聯署。同一報道指 Megaspeed 發表聲明，稱 Alice Huang 已於 2025 年 8 月 30 日起離職，目前同公司再無職務關係。",
+              "source": "The Verge",
+              "sourceUrl": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
+              "publishedAt": "2026-11-16T04:43:49+08:00",
+              "category": "companies",
+              "uncertain": true,
+              "note": "The comeback discussion is attributed to the Financial Times citing people familiar with the matter. The Verge also notes that signatures on the public reinstatement letter are hard to verify. article:published_time is 2026-11-15T20:43:49+00:00.",
+              "imageAlt": "Portrait of former Nvidia CEO Jensen Huang",
+              "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_03.jpg?quality=90&strip=all&crop=0%2C12.339110464558%2C100%2C75.321779070884&w=1200"
+            },
+            {
+              "id": "ai-20261116-bessent-nvidia-shakeup",
+              "title": "Bessent calls for a 'dramatic shakeup' at Nvidia and an outside CEO",
+              "summary": "美國財政部長 Scott Bessent 周日接受 Fox News 訪問，呼籲 Nvidia 作出「大幅改組」，並建議董事會從公司以外物色新任行政總裁。佢質疑 Nvidia 嘅企業文化，以及公司是否為咗推高收入同盈利而推動疑似非法晶片銷售，並將情況比喻為若銀行未有合規，監管機構可能撤換多名高層。",
+              "source": "CNBC",
+              "sourceUrl": "https://www.cnbc.com/2026/11/15/bessent-nvidia-ceo-lutnick-megaspeed.html",
+              "publishedAt": "2026-11-16T00:49:11+08:00",
+              "category": "companies",
+              "uncertain": false,
+              "note": "article:published_time is 2026-11-15T16:49:11+0000. Bessent’s remarks were made on Fox News and reported by CNBC.",
+              "imageAlt": "U.S. Treasury Secretary Scott Bessent speaking at a press conference",
+              "image": "https://image.cnbcfm.com/api/v1/image/108487950-1793387874122-gettyimages-2302201596-lnb02366.jpeg?v=1793387920&w=1920&h=1080"
+            },
+            {
+              "id": "ai-20261116-microsoft-kuwait-mdic",
+              "title": "Microsoft opens a Digital Innovation Center in Kuwait to support AI adoption",
+              "summary": "Microsoft 宣布喺科威特開設 Microsoft Digital Innovation Center，同當地政府合作，為政府機構、企業、初創同學生提供 AI、雲端同網絡安全體驗同培訓，以配合「新科威特 2035」願景。科威特通訊及資訊科技國務大臣 Omar Saud Al-Omar 同 Microsoft 中東非洲總裁 Naim Yazbeck 均有就開幕發表講話。",
+              "source": "Microsoft",
+              "sourceUrl": "https://news.microsoft.com/source/emea/2026/11/microsoft-opens-its-digital-innovation-center-mdic-in-kuwait-to-accelerate-ai-innovation-and-advance-vision-2035/",
+              "publishedAt": "2026-11-15T20:37:17+08:00",
+              "category": "companies",
+              "uncertain": false,
+              "note": "Official article:published_time is 2026-11-15T12:37:17+00:00.",
+              "imageAlt": "Image from Microsoft’s announcement of its Digital Innovation Center in Kuwait",
+              "image": "https://news.microsoft.com/source/emea/wp-content/uploads/2026/11/Screenshot-2026-11-15-162640-1024x578.png"
+            }
+          ]
+        },
+        {
+          "id": "markets",
+          "label": "Markets",
+          "items": [
+            {
+              "id": "ai-20261116-bharat-semi-seed",
+              "title": "Indian chip startup Bharat Semi lands $24 million seed round for AI image sensors",
+              "summary": "TechCrunch 報道，印度半導體初創 Bharat Semi 完成 2,400 萬美元全股本種子輪，由 Info Edge Group、South Park Commons 同 Indus Bridge Ventures 領投，用來開發把影像擷取、處理同 AI 做喺同一塊晶片上嘅可編程感應器。公司仍未有收入，產品仍在開發，目標 2027 年開始商業量產；聯合創辦人稱已取得 General Atomics 同 Kaynes Semicon 嘅設計採用。",
+              "source": "TechCrunch",
+              "sourceUrl": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+              "publishedAt": "2026-11-16T07:30:00+08:00",
+              "category": "markets",
+              "uncertain": false,
+              "note": "Design wins and the 2027 production target are attributed to the company in the TechCrunch interview. article:published_time is 2026-11-15T23:30:00+00:00.",
+              "imageAlt": "Bharat Semi co-founders Vinayak Dalmia and Vrinda Kapoor",
+              "image": "https://techcrunch.com/wp-content/uploads/2026/11/bharat-semi-co-founders-vinayak-dalmia-vrinda-kapoor.jpg?resize=1200,800"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gaming",
+      "label": "Gaming",
+      "sections": [
+        {
+          "id": "pc-switch2",
+          "label": "PC / Switch 2",
+          "items": [
+            {
+              "id": "gaming-20261116-ck3-silk-silver-listed",
+              "title": "Crusader Kings III: Silk & Silver is listed to launch November 17",
+              "summary": "Paradox 為《Crusader Kings III》推出嘅大型資料片 Silk & Silver，已喺 Steam 標示 11 月 17 日推出，官方售價為 29.99 美元。內容加入商旅家族同共和國政體等玩法；截稿時商店仍顯示即將推出。",
+              "source": "Steam",
+              "sourceUrl": "https://store.steampowered.com/app/4232910/Crusader_Kings_III_Silk_Silver/",
+              "publishedAt": "2026-11-17T00:00:00+08:00",
+              "category": "pc-switch2",
+              "platforms": [
+                "PC"
+              ],
+              "releaseDate": "2026-11-17",
+              "uncertain": true,
+              "note": "Major expansion dated for 17 Nov; store still coming_soon as of 08:17 HKT on 16 Nov. Included as a dated listing, not a new announcement (Steam news first published 19 Oct). $29.99 / £25.99 / €29.99 comes from the official Paradox press release, not the Steam page, which had no price_overview while coming soon. publishedAt is date-only.",
+              "imageAlt": "Crusader Kings III: Silk & Silver Steam capsule art",
+              "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4232910/85e4b5af4602a6bc965ac2cddec2cb1347737ded/capsule_616x353.jpg?t=1792414632"
+            },
+            {
+              "id": "gaming-20261116-melvor-idle-2-listed",
+              "title": "Melvor Idle 2: A RuneScape Adventure is listed to enter Steam Early Access November 17",
+              "summary": "由 Jagex 發行嘅《Melvor Idle 2: A RuneScape Adventure》已喺 Steam 標示 11 月 17 日進入搶先體驗，支援 Windows、macOS 及 Linux。截稿時商店仍顯示即將推出。",
+              "source": "Steam",
+              "sourceUrl": "https://store.steampowered.com/app/3218350/Melvor_Idle_2_A_RuneScape_Adventure/",
+              "publishedAt": "2026-11-17T00:00:00+08:00",
+              "category": "pc-switch2",
+              "platforms": [
+                "PC"
+              ],
+              "releaseDate": "2026-11-17",
+              "uncertain": true,
+              "note": "Dated Early Access listing; store still coming_soon as of 08:17 HKT on 16 Nov. publishedAt is date-only.",
+              "imageAlt": "Melvor Idle 2: A RuneScape Adventure Steam capsule art",
+              "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3218350/fcd876e63dcf4b02d5ec98c95fae753dc211cca3/capsule_616x353.jpg?t=1794524310"
+            },
+            {
+              "id": "gaming-20261116-dawn-of-defense-listed",
+              "title": "Dawn of Defense is listed to launch November 17 on Steam",
+              "summary": "結合即時戰略、塔防同肉鴿進程嘅《Dawn of Defense》已喺 Steam 標示 11 月 17 日推出，並非搶先體驗。截稿時商店仍顯示即將推出。",
+              "source": "Steam",
+              "sourceUrl": "https://store.steampowered.com/app/2781660/Dawn_of_Defense/",
+              "publishedAt": "2026-11-17T00:00:00+08:00",
+              "category": "pc-switch2",
+              "platforms": [
+                "PC"
+              ],
+              "releaseDate": "2026-11-17",
+              "uncertain": true,
+              "note": "Dated 1.0 listing; store still coming_soon as of 08:17 HKT on 16 Nov. publishedAt is date-only.",
+              "imageAlt": "Dawn of Defense Steam capsule art",
+              "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2781660/66528406e45053c16b715ce5ee685203aeeb0a6b/capsule_616x353.jpg?t=1794495103"
+            },
+            {
+              "id": "gaming-20261116-spirit-crossing-listed",
+              "title": "Spirit Crossing is listed to launch November 16 on Steam, Switch 2 and Switch",
+              "summary": "Spry Fox 嘅溫馨建造同社交遊戲《Spirit Crossing》，Steam 已標示 11 月 16 日登陸 PC，任天堂英國官方頁亦列出同日登陸 Switch 2 同 Switch。截稿時商店仍顯示即將推出，美國時段解鎖前尚未確認已上線。",
+              "source": "Steam",
+              "sourceUrl": "https://store.steampowered.com/app/2321960/Spirit_Crossing/",
+              "publishedAt": "2026-11-16T00:00:00+08:00",
+              "category": "pc-switch2",
+              "platforms": [
+                "PC",
+                "Switch 2",
+                "Switch"
+              ],
+              "releaseDate": "2026-11-16",
+              "uncertain": true,
+              "note": "Steam API and store page still have coming_soon=true / date class '16 Nov, 2026' as of 08:17 HKT on 16 Nov, before a typical US unlock. Treat as a dated listing, not a confirmed live launch. Switch 2 and Switch dates independently confirmed on Nintendo UK official pages. publishedAt is date-only.",
+              "imageAlt": "Spirit Crossing Steam capsule art",
+              "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321960/371039d51cc7cca799327dcbcb3f2e92a4848ab9/capsule_616x353.jpg?t=1794773454"
+            },
+            {
+              "id": "gaming-20261116-harma-listed",
+              "title": "HARMA is listed to enter Steam Early Access November 16",
+              "summary": "復古黑暗奇幻卡牌肉鴿《HARMA》已喺 Steam 標示 11 月 16 日進入搶先體驗，由 IndirectShine 開發、Astrolabe Games 發行，並設劇情戰役同可重玩模式。截稿時商店仍顯示即將推出。",
+              "source": "Steam",
+              "sourceUrl": "https://store.steampowered.com/app/2483700/HARMA/",
+              "publishedAt": "2026-11-16T00:00:00+08:00",
+              "category": "pc-switch2",
+              "platforms": [
+                "PC"
+              ],
+              "releaseDate": "2026-11-16",
+              "uncertain": true,
+              "note": "Dated Early Access listing; store still coming_soon as of 08:17 HKT on 16 Nov, before a typical US unlock. publishedAt is date-only.",
+              "imageAlt": "HARMA Steam capsule art",
+              "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2483700/8205ecd35b9f046b3a37de44afa245f2642bee2d/capsule_616x353.jpg?t=1793780638"
+            },
+            {
+              "id": "gaming-20261116-trafficity-listed",
+              "title": "Trafficity is listed to launch November 16 on Steam",
+              "summary": "以交通為核心嘅城市建造遊戲《Trafficity》已喺 Steam 標示 11 月 16 日推出，主打無格線道路、迴旋處同可自訂交通燈。截稿時商店仍顯示即將推出。",
+              "source": "Steam",
+              "sourceUrl": "https://store.steampowered.com/app/5185750/Trafficity/",
+              "publishedAt": "2026-11-16T00:00:00+08:00",
+              "category": "pc-switch2",
+              "platforms": [
+                "PC"
+              ],
+              "releaseDate": "2026-11-16",
+              "uncertain": true,
+              "note": "Dated listing; store still coming_soon as of 08:17 HKT on 16 Nov, before a typical US unlock. Steam lists Windows and macOS. publishedAt is date-only.",
+              "imageAlt": "Trafficity Steam capsule art",
+              "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5185750/a5259ff8f41c106648afd7d96f9de071dbd47d65/capsule_616x353.jpg?t=1794652056"
+            },
+            {
+              "id": "gaming-20261116-motocross-the-game-listed",
+              "title": "Motocross The Game is listed to enter Steam Early Access November 16",
+              "summary": "寫實越野電單車模擬《Motocross The Game》已喺 Steam 標示 11 月 16 日進入搶先體驗，並支援線上對戰或私人房間。截稿時商店仍顯示即將推出。",
+              "source": "Steam",
+              "sourceUrl": "https://store.steampowered.com/app/3188660/Motocross_The_Game/",
+              "publishedAt": "2026-11-16T00:00:00+08:00",
+              "category": "pc-switch2",
+              "platforms": [
+                "PC"
+              ],
+              "releaseDate": "2026-11-16",
+              "uncertain": true,
+              "note": "Dated Early Access listing; store still coming_soon as of 08:17 HKT on 16 Nov. publishedAt is date-only.",
+              "imageAlt": "Motocross The Game Steam capsule art",
+              "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3188660/80f959a94421521973b8b92075af8d502870aad3/capsule_616x353.jpg?t=1793784401"
+            },
+            {
+              "id": "gaming-20261116-trees-hate-you-listed",
+              "title": "Trees Hate You is listed to launch November 16 on Steam",
+              "summary": "生存徒步遊戲《Trees Hate You》已喺 Steam 標示 11 月 16 日推出，玩家要喺充滿敵意嘅森林裡求生。截稿時商店仍顯示即將推出。",
+              "source": "Steam",
+              "sourceUrl": "https://store.steampowered.com/app/4171850/Trees_Hate_You/",
+              "publishedAt": "2026-11-16T00:00:00+08:00",
+              "category": "pc-switch2",
+              "platforms": [
+                "PC"
+              ],
+              "releaseDate": "2026-11-16",
+              "uncertain": true,
+              "note": "Dated listing; store still coming_soon as of 08:17 HKT on 16 Nov. Steam lists Windows and Linux. publishedAt is date-only.",
+              "imageAlt": "Trees Hate You Steam capsule art",
+              "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4171850/e91e9662ad67f01a965b1ea764629bd63cba7c32/capsule_616x353.jpg?t=1793641997"
+            },
+            {
+              "id": "gaming-20261116-littlelands-listed",
+              "title": "Littlelands is listed to enter Steam Early Access November 16",
+              "summary": "由 Apogee Entertainment 發行嘅探索冒險《Littlelands》已喺 Steam 標示 11 月 16 日進入搶先體驗。截稿時商店仍顯示即將推出。",
+              "source": "Steam",
+              "sourceUrl": "https://store.steampowered.com/app/2083660/Littlelands/",
+              "publishedAt": "2026-11-16T00:00:00+08:00",
+              "category": "pc-switch2",
+              "platforms": [
+                "PC"
+              ],
+              "releaseDate": "2026-11-16",
+              "uncertain": true,
+              "note": "Dated Early Access listing; store still coming_soon as of 08:17 HKT on 16 Nov. publishedAt is date-only.",
+              "imageAlt": "Littlelands Steam capsule art",
+              "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2083660/d0391b0fee5f69fa17e51dc0713c19460a6f3fd9/capsule_616x353.jpg?t=1794695466"
+            },
+            {
+              "id": "gaming-20261116-obey-me-sinners-choice-lucifer-listed",
+              "title": "Obey Me! Sinner's Choice: Lucifer is listed to launch November 16 on Steam",
+              "summary": "黑暗浪漫視覺小說《Obey Me! Sinner's Choice: Lucifer》已喺 Steam 標示 11 月 16 日推出，由 Frontwing 開發，NTT Solmare 同 GOOD SMILE COMPANY 發行。截稿時商店仍顯示即將推出。",
+              "source": "Steam",
+              "sourceUrl": "https://store.steampowered.com/app/4444800/Obey_Me_Sinners_Choice_Lucifer/",
+              "publishedAt": "2026-11-16T00:00:00+08:00",
+              "category": "pc-switch2",
+              "platforms": [
+                "PC"
+              ],
+              "releaseDate": "2026-11-16",
+              "uncertain": true,
+              "note": "Dated listing; store still coming_soon as of 08:17 HKT on 16 Nov. publishedAt is date-only.",
+              "imageAlt": "Obey Me! Sinner's Choice: Lucifer Steam capsule art",
+              "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4444800/4e58a089f32bc4b123f9e5f2eec88c97106fd88d/capsule_616x353.jpg?t=1794357637"
+            }
+          ]
+        },
+        {
+          "id": "news",
+          "label": "Game news",
+          "items": [
+            {
+              "id": "gaming-20261116-netcode-warriors-ps5-2027",
+              "title": "Netcode Warriors adds a PS5 version and is dated 2027 for PS5 and PC",
+              "summary": "開發商 Son Studios 宣布，動漫風格競技場格鬥遊戲《Netcode Warriors》將於 2027 年登陸 PS5 同 PC（Steam），當中 PS5 版為新公布。工作室同時釋出總覽預告，以及 Emilie 與 Datakarys、Anuarite 與 Bajilink 兩組角色嘅遊戲演示。",
+              "source": "Gematsu",
+              "sourceUrl": "https://www.gematsu.com/2026/11/netcode-warriors-adds-ps5-version-launches-in-2027",
+              "publishedAt": "2026-11-16T06:00:00+08:00",
+              "category": "news",
+              "platforms": [
+                "PS5",
+                "PC"
+              ],
+              "releaseDate": "TBA",
+              "uncertain": false,
+              "note": "Kept once as news because the story includes PC, as well as the newly announced PS5 version. Source only gives a 2027 launch year, not a calendar day.",
+              "imageAlt": "Netcode Warriors PS5 announcement artwork",
+              "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Netcode-Warriors-PS5_11-15-26.jpg"
+            },
+            {
+              "id": "gaming-20261116-mega-man-dual-override-cleanser-man",
+              "title": "Mega Man: Dual Override reveals contest-winning boss Cleanser Man",
+              "summary": "Capcom 公布《Mega Man: Dual Override》頭目設計比賽得獎角色 Cleanser Man，將作為遊戲 Robot Master 之一登場。遊戲預定 2027 年春季登陸 PS5、Xbox Series、Switch 2、PS4、Xbox One、Switch 及 PC。",
+              "source": "Gematsu",
+              "sourceUrl": "https://www.gematsu.com/2026/11/mega-man-dual-override-boss-design-contest-winner-cleanser-man-revealed",
+              "publishedAt": "2026-11-16T05:30:00+08:00",
+              "category": "news",
+              "platforms": [
+                "PS5",
+                "Xbox Series X|S",
+                "Switch 2",
+                "PS4",
+                "Xbox One",
+                "Switch",
+                "PC"
+              ],
+              "releaseDate": "TBA",
+              "uncertain": false,
+              "note": "Kept once as news because the game also launches on Switch 2 and PC. Gematsu gives a spring 2027 window, not an exact day.",
+              "imageAlt": "Cleanser Man, the Mega Man: Dual Override contest-winning Robot Master",
+              "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Mega-Man-Dual-Override_2026_11-15-26_002.jpg"
+            },
+            {
+              "id": "gaming-20261116-rivals-of-aether-ii-burnette",
+              "title": "Rivals of Aether II adds Burnette as a free character on December 1",
+              "summary": "Aether Studios 宣布，《Rivals of Aether II》將於 12 月 1 日免費加入新角色 Burnette，由 Hololive 虛擬主播 Elizabeth Rose Bloodflame 配音。是次更新亦會帶來新活動、新排位賽季同裝扮。",
+              "source": "Gematsu",
+              "sourceUrl": "https://www.gematsu.com/2026/11/rivals-of-aether-ii-adds-burnette-on-december-1",
+              "publishedAt": "2026-11-16T05:00:00+08:00",
+              "category": "news",
+              "platforms": [
+                "PC"
+              ],
+              "releaseDate": "2026-12-01",
+              "uncertain": false,
+              "note": "Gematsu dated Nov 15 2026 / 4:00 PM EST (mid-November EST / UTC-5), converted to 2026-11-16T05:00:00+08:00. Burnette is the eighth free character update.",
+              "imageAlt": "Burnette, the new Rivals of Aether II character",
+              "image": "https://www.gematsu.com/wp-content/uploads/2026/11/RoA2-Burnette_11-15-26.jpg"
+            },
+            {
+              "id": "gaming-20261116-lol-new-dawn",
+              "title": "League of Legends will get a New Dawn overhaul in 2027",
+              "summary": "Riot 公布《英雄聯盟》大型改版「New Dawn」，計劃 2027 年推出現代化用戶端、重製召喚峽谷畫面，以及新嘅英雄遊玩方式。更詳細情報將於 2027 年 1 月公布。",
+              "source": "PC Gamer",
+              "sourceUrl": "https://www.pcgamer.com/games/moba/league-of-legends-will-get-an-overhaul-called-new-dawn-with-new-visuals-build-options-and-an-updated-client/",
+              "publishedAt": "2026-11-16T01:45:48+08:00",
+              "category": "news",
+              "platforms": [
+                "PC"
+              ],
+              "releaseDate": "TBA",
+              "uncertain": false,
+              "note": "Kept once as news (PC). Used the later, precisely timestamped PC Gamer write-up (article:published_time 2026-11-15T17:45:48Z). The reveal itself was at Worlds 2026 on 14 Nov; GamesRadar (2026-11-15T13:14:45Z) and Riot's official New Dawn page also cover it. Sources say the overhaul is planned for 2027, with a full reveal in January 2027; no exact launch day.",
+              "imageAlt": "League of Legends New Dawn announcement art",
+              "image": "https://cdn.mos.cms.futurecdn.net/9ioSw2Gug8fVTiMxZ36YyA-2560-80.png"
+            },
+            {
+              "id": "gaming-20261116-slay-the-spire-2-the-fool",
+              "title": "Slay the Spire 2 is testing a new character, The Fool, plus two new modes",
+              "summary": "《Slay the Spire 2》公開測試分支已加入新角色 The Fool，以及較短嘅 Blitz 模式同高難度 Dread 模式。開發商 Mega Crit 表示，角色喺進入正式分支前仍會大幅調整內容同平衡。",
+              "source": "PC Gamer",
+              "sourceUrl": "https://www.pcgamer.com/games/roguelike/slay-the-spire-2-has-a-new-character-in-testing-and-shes-really-quite-busted/",
+              "publishedAt": "2026-11-16T00:00:00+08:00",
+              "category": "news",
+              "platforms": [
+                "PC"
+              ],
+              "uncertain": false,
+              "note": "The Fool and the new modes are on the public-beta / testing branch, not confirmed on the main branch. PC Gamer article:published_time 2026-11-15T16:00:00Z, converted to 2026-11-16T00:00:00+08:00.",
+              "imageAlt": "The Fool from Slay the Spire 2 drawing a bow",
+              "image": "https://cdn.mos.cms.futurecdn.net/u8CE4nwC7yPfoUuGx45ytR-1920-80.png"
+            },
+            {
+              "id": "gaming-20261116-zelda-notes-oot-play-data",
+              "title": "Zelda Notes shares first-week play data for the Ocarina of Time Switch 2 remake",
+              "summary": "任天堂透過 Zelda Notes 公布《薩爾達傳說 時之笛》Switch 2 重製版一週全球遊玩數據，最多令玩家 Game Over 嘅係 ReDead／Gibdo，最常用嘅特殊道具則係鉤索。報道指平均通關時間約喺 20 小時以上。",
+              "source": "Nintendo Life",
+              "sourceUrl": "https://www.nintendolife.com/news/2026/11/zelda-notes-reveals-top-game-over-causes-and-more-global-play-data-in-ocarina-of-time-remake",
+              "publishedAt": "2026-11-15T15:30:00+08:00",
+              "category": "news",
+              "platforms": [
+                "Switch 2"
+              ],
+              "uncertain": false,
+              "note": "Figures come from Nintendo Life's report of Zelda Notes app data; the article notes the numbers will change as more people finish the game. Average clear time is described as around the '20 hours+' mark, not a precise official statistic. Listed 7:30am on Sun 15 Nov 2026, treated as UK local / GMT, converted to 2026-11-15T15:30:00+08:00.",
+              "imageAlt": "Ocarina of Time Switch 2 remake artwork with Zelda Notes play data",
+              "image": "https://images.nintendolife.com/ed94ce12e7b94/1280x720.jpg"
+            },
+            {
+              "id": "gaming-20261116-minecraft-joycon2-mouse",
+              "title": "Minecraft is getting Joy-Con 2 mouse controls on Switch 2 in a future update",
+              "summary": "《Minecraft》Switch 2 版正計劃加入 Joy-Con 2 滑鼠操作，封閉測試版現已可試用，可用左或右 Joy-Con，並自訂游標同鏡頭靈敏度。正式推出日期尚未公布。",
+              "source": "Nintendo Life",
+              "sourceUrl": "https://www.nintendolife.com/news/2026/11/minecraft-is-getting-joy-con-mouse-controls-on-switch-2-in-a-future-update",
+              "publishedAt": "2026-11-15T14:30:00+08:00",
+              "category": "news",
+              "platforms": [
+                "Switch 2"
+              ],
+              "uncertain": false,
+              "note": "Public rollout has no date. Official Mojang Beta & Preview 26.70.24 notes, posted 10 November 2026, already list 'Added support for Joy-Con Mouse Mode' and a settings page; the Nintendo Life article is the in-window report after yesterday's batch. Listed 6:30am on Sun 15 Nov 2026, treated as UK local / GMT, converted to 2026-11-15T14:30:00+08:00.",
+              "imageAlt": "Minecraft artwork accompanying the Nintendo Life report",
+              "image": "https://images.nintendolife.com/96d300dd2c811/1280x720.jpg"
+            }
+          ]
+        },
+        {
+          "id": "other-consoles",
+          "label": "Other consoles",
+          "items": [
+            {
+              "id": "gaming-20261116-xbox-classic-startup-animations-rollout",
+              "title": "Classic Xbox and Xbox 360 startup animations begin rolling out on November 15",
+              "summary": "為慶祝 Xbox 25 周年，官方確認原版 Xbox 開機動畫，以及 2005 與 2010 年兩款 Xbox 360 開機動畫，已開始向 Xbox Series 及 Xbox One 玩家分批推送。玩家可喺主機設定嘅 Startup 選項中切換，未必會即時見到新選項。",
+              "source": "Pure Xbox",
+              "sourceUrl": "https://www.purexbox.com/news/2026/11/three-classic-startup-animations-are-rolling-out-today-on-xbox-november-15",
+              "publishedAt": "2026-11-16T03:17:00+08:00",
+              "category": "other-consoles",
+              "platforms": [
+                "Xbox Series X|S",
+                "Xbox One"
+              ],
+              "uncertain": false,
+              "note": "Genuine update on yesterday's uncertain patch-notes item (gaming-20261115-xbox-classic-startup-animations). Xbox officially confirmed the Nov 15 rollout and said it would go out throughout the day. Pure Xbox's 15 Nov 2026, 7:17pm UK update quotes the official @Xbox post; The Verge independently reported the same rollout at 19:21 UTC (03:21 HKT). Converted Pure Xbox's 19:17 GMT timestamp to 2026-11-16T03:17:00+08:00.",
+              "imageAlt": "Xbox 25th anniversary startup animation artwork",
+              "image": "https://images.purexbox.com/3840f440e9e26/1280x720.jpg"
+            },
+            {
+              "id": "gaming-20261116-xbox-project-helix-console",
+              "title": "Xbox says Project Helix is a console that can play PC games, not a PC",
+              "summary": "Xbox 喺 25 周年紀念雜誌中，由下一代主管 Jason Ronald 說明 Project Helix 嘅設計目標，係「一部都可以玩 PC 遊戲嘅主機，而唔係一部都可以玩主機遊戲嘅 PC」。佢形容 Helix 要即時取用橫跨四個世代嘅 Xbox 遊戲庫，並以神經渲染等技術提升沉浸感，而非只追求 8K 或 240Hz。",
+              "source": "Xbox Wire",
+              "sourceUrl": "https://news.xbox.com/en-us/2026/11/15/xbox-25th-anniversary-the-magazine/",
+              "publishedAt": "2026-11-16T01:01:00+08:00",
+              "category": "other-consoles",
+              "uncertain": false,
+              "note": "No release date, price or form factor is given in the magazine quotes. Handheld-in-2027 / console-in-2028 comments in secondary coverage are rumour and are not used here. Platforms are omitted because the source describes unreleased next-gen hardware design goals and does not name a current shipping SKU. Official Xbox Wire datePublished 2026-11-15T17:01:00+00:00; Helix quotes from VP of Next Generation Jason Ronald were corroborated in Pure Xbox and IGN write-ups.",
+              "imageAlt": "Xbox 25th Anniversary Magazine cover mockup",
+              "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/XBOX_Magazine_mockup_perspective-37cf15975daed19bb5dd.png"
+            },
+            {
+              "id": "gaming-20261116-game-pass-essential-classic-games",
+              "title": "Eight classic Xbox games join Game Pass Essential on November 15",
+              "summary": "為慶祝 Xbox 25 周年，Banjo-Kazooie 三部曲、Perfect Dark、Viva Piñata 兩作、Gears of War: Judgment 及 Halo: Spartan Assault 已加入 Game Pass Essential，可喺主機及雲端遊玩，Halo: Spartan Assault 亦支援 PC。Ultimate 與 Premium 會員本來已可玩呢啲作品，今次係首次向 Essential 檔開放。",
+              "source": "Pure Xbox",
+              "sourceUrl": "https://www.purexbox.com/news/2026/11/eight-classic-games-are-available-today-with-xbox-game-pass-essential-november-15",
+              "publishedAt": "2026-11-15T21:00:00+08:00",
+              "category": "other-consoles",
+              "platforms": [
+                "Xbox Series X|S",
+                "Xbox One",
+                "PC"
+              ],
+              "uncertain": false,
+              "note": "Exact store-unlock minute was not stated. publishedAt is estimated from Pure Xbox's '11 hours ago' stamp around a 07:45–08:00 HKT Nov 16 research fetch. The Nov 15 availability itself is confirmed by Pure Xbox and matches the official Xbox Wire Nov 3 lineup.",
+              "imageAlt": "Classic Xbox games added to Game Pass Essential",
+              "image": "https://images.purexbox.com/aa4d4bdf4adf5/1280x720.jpg"
+            },
+            {
+              "id": "gaming-20261116-playstation-black-friday-wave-two",
+              "title": "PlayStation Black Friday wave two adds PS Plus deals and up to $100 off PSVR2",
+              "summary": "索尼更新黑色星期五優惠，由 11 月 16 日當地午夜起至 11 月 30 日，新訂戶可買優惠 PlayStation Plus，現有 Essential 或 Extra 會員可優惠升級 Premium，已係 Premium 則沒有續期折扣。配件方面 DualSense 減 20 美元、DualSense Edge 減 30 美元、PS VR2 減 100 美元等，但 PS5 主機沒有減價；PlayStation Store 亦會加入 Marvel's Wolverine、007 First Light 等新折扣遊戲，實際折扣當日公布。",
+              "source": "PlayStation Blog",
+              "sourceUrl": "https://blog.playstation.com/2026/11/03/playstations-black-friday-deals-2026/",
+              "publishedAt": "2026-11-15T19:41:22+08:00",
+              "category": "other-consoles",
+              "platforms": [
+                "PS5",
+                "PS4"
+              ],
+              "uncertain": false,
+              "note": "Official post was first published 2026-11-03 and updated 2026-11-15 03:41 PT (19:41 HKT) with accessory, PS Plus and mid-sale game details. Discount amounts for new store titles and exact PS Plus percentages are not yet listed.",
+              "imageAlt": "PlayStation Black Friday 2026 official artwork",
+              "image": "https://blog.playstation.com/tachyon/2026/11/768da1bb068cced5fc8d2b4a306201c59ffc866d-scaled.png"
+            }
+          ]
+        },
+        {
+          "id": "other",
+          "label": "Other",
+          "items": [
+            {
+              "id": "gaming-20261116-sega-allnet-aime-partial-restore",
+              "title": "Sega partially restores ALL.Net and Aime arcade services after November breach",
+              "summary": "Sega Fave 宣布，11 月初因伺服器遭入侵而暫停嘅街機網路服務 ALL.Net 及 Aime，已有部分功能於 11 月 15 日恢復，《Ongeki》、《SEGA NET Mahjong MJ Arcade》等作品開始試驗性重開。其他未列明嘅 Sega 機種仍要繼續維修，下次報告預計 11 月 17 日上午公布。",
+              "source": "Automaton",
+              "sourceUrl": "https://automaton-media.com/articles/newsjp/20261115-479328/",
+              "publishedAt": "2026-11-15T09:31:16+08:00",
+              "category": "other",
+              "uncertain": false,
+              "note": "This arcade-network incident (access from Nov 1–2, partial restore Nov 15) is distinct from the already-covered vendor breach that exposed 2.196 million Sega newsletter emails (Nov 10 batch). Official Sega announcement was 09:00 JST (08:00 HKT), 18 minutes before yesterday's batch cutoff; Automaton's report at 10:31 JST is after that cutoff. Platforms are omitted because this is an arcade-network service restoration and the article does not name home platforms.",
+              "imageAlt": "Sega ALL.Net and Aime service restoration news image",
+              "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261115-479328-header.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
