@@ -1,0 +1,908 @@
+{
+  "updatedAt": "2026-11-17T08:03:52+08:00",
+  "timezone": "Asia/Hong_Kong",
+  "tabs": [
+    {
+      "id": "ai",
+      "label": "AI",
+      "sections": [
+        {
+          "id": "frontier",
+          "label": "Frontier models",
+          "items": [
+            {
+              "id": "ai-20261117-gemini-regional-voices",
+              "title": "Gemini app rolls out 66 new regional voices on Android and iOS",
+              "summary": "Google在Android及iOS版Gemini應用推出66種新的地區語音，包括美式、英式及印度英語，以及印地語、巴西葡萄牙語、印尼語和韓語等，並稱每種語音都按當地節奏與語調調整。用戶選定的語音會套用於整個應用，包括Gemini Live及聊天朗讀。",
+              "source": "Google",
+              "sourceUrl": "https://blog.google/innovation-and-ai/products/gemini-app/regional-voices/",
+              "publishedAt": "2026-11-17T02:45:00+08:00",
+              "category": "frontier",
+              "uncertain": false,
+              "note": "og:image is only the generic Google ‘G’ logo, so imageUrl is null."
+            },
+            {
+              "id": "ai-20261117-gemini-history-training-controls",
+              "title": "Gemini app adds a setting to keep chat history while opting out of model training",
+              "summary": "Google更新Gemini應用，讓用戶可保留聊天記錄，同時選擇退出把記錄用作訓練生成式人工智能模型。公司稱若關閉新的History設定，往後對話會保存約兩個月，用於回覆、處理意見及安全用途；相關改動將於未來數周在全球陸續推出。",
+              "source": "Google",
+              "sourceUrl": "https://blog.google/innovation-and-ai/products/gemini-app/updated-controls/",
+              "publishedAt": "2026-11-17T01:00:00+08:00",
+              "category": "frontier",
+              "uncertain": false,
+              "note": "og:image is only the generic Google ‘G’ logo, so imageUrl is null."
+            },
+            {
+              "id": "ai-20261117-gemini-notebook-sites",
+              "title": "Gemini Notebook can turn research sources into interactive sites, Google says",
+              "summary": "Google表示由即日起，Gemini Notebook可把資料來源轉成互動網站，用戶可在對話中輸入「make me a site」並描述需要的內容，例如互動周期表或數據儀表板。功能先在網頁版向18歲及以上的Gemini Notebook用戶（包括Google Workspace訂戶）全球推出，流動應用稍後推出。",
+              "source": "Google",
+              "sourceUrl": "https://blog.google/innovation-and-ai/products/gemini-notebook/interactive-sites/",
+              "publishedAt": "2026-11-17T00:00:00+08:00",
+              "category": "frontier",
+              "uncertain": false,
+              "imageAlt": "Gemini Notebook interface showing a generated interactive periodic table and a prompt that says Make me a site to help me understand the periodic table",
+              "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/blog_hero_periodic_table3_2784x1566.max-1440x810.png"
+            },
+            {
+              "id": "ai-20261117-openai-academic-researchers",
+              "title": "OpenAI expands free ChatGPT access to as many as 200,000 academic researchers",
+              "summary": "OpenAI宣布擴大「ChatGPT for Academic Researchers」計劃，目標向全球最多20萬名研究人員免費提供ChatGPT。下輪申請將於11月23日（星期一）開放，以先到先得方式向合資格者發放5萬個新資助，受助人連同最多兩名合作者可使用ChatGPT Plus；公司稱整體目標較7月試點公布時增加一倍。",
+              "source": "OpenAI",
+              "sourceUrl": "https://openai.com/index/expanding-chatgpt-for-academic-researchers/",
+              "publishedAt": "2026-11-16T00:00:00+08:00",
+              "category": "frontier",
+              "uncertain": false,
+              "note": "Official page gives the calendar date November 16, 2026 only; exact time is unknown. Direct curl to openai.com returned 403; page was read via WebFetch. New grants are ChatGPT Plus, not Pro, based on pilot usage.",
+              "imageAlt": "OpenAI social card reading Academic Research, with a monarch butterfly, botanical line drawings, a river aerial photo and a glowing yellow shape on a blue background",
+              "image": "https://images.ctfassets.net/kftzwdyauwt9/793p1h1iUmksoWkDep5NRR/580e87d687cea7ef8e8288bef51c7bd4/academic-researchers-seo-card.png?w=1600&h=900&fit=fill"
+            },
+            {
+              "id": "ai-20261117-openai-csam-classifier",
+              "title": "OpenAI releases a CSAM image classifier and ChatGPT warnings that pause accounts for 24 hours",
+              "summary": "OpenAI推出可偵測懷疑兒童性虐待內容（包括人工智能生成影像）的圖像分類器，經審核的機構可透過API免費使用。ChatGPT亦新增警示，會中斷尋找相關內容的嘗試、刪除該段對話，並暫停帳戶24小時，重複違規可導致更長限制，最終或關閉帳戶或向當局舉報。",
+              "source": "OpenAI",
+              "sourceUrl": "https://openai.com/index/strengthening-online-child-safety",
+              "publishedAt": "2026-11-16T00:00:00+08:00",
+              "category": "frontier",
+              "uncertain": false,
+              "note": "Official page gives the calendar date November 16, 2026 only; exact time is unknown. TechCrunch later posted at 2026-11-16T17:00:00+00:00 (2026-11-17T01:00:00+08:00) covering the same announcement. Direct curl to openai.com returned 403; page was read via WebFetch.",
+              "imageAlt": "OpenAI social card with the title Strengthening the fight against online child sexual abuse on a green and blue gradient",
+              "image": "https://images.ctfassets.net/kftzwdyauwt9/48yJpyhKNBj3OvZAAEeLWN/5a888045c242da8cc8f8dc539f5f92fe/strengthening-online-child-safety-social.png?w=1600&h=900&fit=fill"
+            },
+            {
+              "id": "ai-20261117-openai-science-at-frontier",
+              "title": "OpenAI study: surveyed scientists say the same research would take about 1.9 times as long without AI",
+              "summary": "OpenAI經濟研究團隊分析「ChatGPT for Academic Researchers」夏季試點中1,819名科學家的超過58萬則科學相關訊息，並調查251名參與者。受訪者估計，在同等質素下，若沒有人工智能，相同研究工作需時約為1.9倍；在回答發現時間問題的人當中，98%預期人工智能會加快其領域的發現。",
+              "source": "OpenAI",
+              "sourceUrl": "https://openai.com/index/science-at-the-frontier",
+              "publishedAt": "2026-11-16T00:00:00+08:00",
+              "category": "frontier",
+              "uncertain": false,
+              "note": "Official page gives the calendar date November 16, 2026 only; exact time is unknown. Companion to the Academic Researchers expansion post; this item is the research report and its figures. Direct curl to openai.com returned 403; page was read via WebFetch.",
+              "imageAlt": "OpenAI social card titled Science at the Frontier, with a jellyfish, frog, yellow light bulb, plant cells and other science motifs",
+              "image": "https://images.ctfassets.net/kftzwdyauwt9/r0NQL0JSQTS1Kzvpq9Fqm/6b10f87bd44e394bb04737e1ca00b017/science-at-the-frontier-social.png?w=1600&h=900&fit=fill"
+            },
+            {
+              "id": "ai-20261117-openai-healthcare-agents",
+              "title": "OpenAI adds computer-use agents, stronger clinical search and 20-plus plugins to ChatGPT for Healthcare",
+              "summary": "OpenAI為ChatGPT for Healthcare推出電腦操作代理、經改進的臨床搜尋，以及超過20個新的醫療插件，並稱電腦操作代理及改進後的臨床搜尋即日起在符合工作區設定的情況下提供。公司表示，與ChatGPT for Healthcare分享的內容不會用來訓練模型。",
+              "source": "OpenAI",
+              "sourceUrl": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+              "publishedAt": "2026-11-16T00:00:00+08:00",
+              "category": "frontier",
+              "uncertain": false,
+              "note": "Official page gives the calendar date November 16, 2026 only; exact time is unknown. A companion post, Advancing computer-use agents for healthcare teams, was published the same day. Direct curl to openai.com returned 403; page was read via WebFetch.",
+              "imageAlt": "OpenAI social card with the title More ways to move care forward with ChatGPT for Healthcare on a green and blue gradient",
+              "image": "https://images.ctfassets.net/kftzwdyauwt9/5vgplp4RJGXJ0luyMzW884/de0639288804ff265a54a4222cbac569/more-ways-to-move-care-forward-with-chatgpt-for-healthcare-social.png?w=1600&h=900&fit=fill"
+            },
+            {
+              "id": "ai-20261117-openai-embedded-assessments",
+              "title": "OpenAI signs embedded-assessment agreements with Apollo Research, METR, Transluce and Goodfire",
+              "summary": "OpenAI與Apollo Research、METR、Transluce及Goodfire四家獨立評估機構簽署協議，展開第一階段「嵌入式評估」，讓評估人員在較長時間內深入取用內部模型與系統，以評估對齊情況及安全措施成效。公司稱此安排亦配合其在白宮超級智能協議下接受獨立安全評估的承諾。",
+              "source": "OpenAI",
+              "sourceUrl": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+              "publishedAt": "2026-11-16T00:00:00+08:00",
+              "category": "frontier",
+              "uncertain": false,
+              "note": "Official page gives the calendar date November 16, 2026 only; exact time is unknown. Direct curl to openai.com returned 403; page was read via WebFetch.",
+              "imageAlt": "OpenAI social card with the title Our first phase of embedded assessments on a green gradient",
+              "image": "https://images.ctfassets.net/kftzwdyauwt9/1KkjAzVSr4nz5D67tGCxVH/8a47206051b698db4cbdad829eff241b/embedded-assessments-neutral-023-social-revised.png?w=1600&h=900&fit=fill"
+            }
+          ]
+        },
+        {
+          "id": "open-source",
+          "label": "Open-source models",
+          "items": [
+            {
+              "id": "ai-20261117-hf-openrouter",
+              "title": "Hugging Face routes language-model Inference Providers through OpenRouter",
+              "summary": "Hugging Face宣布把Inference Providers的語言模型請求改由OpenRouter路由，按即時價格、速度及可靠性選擇供應商，若首選失敗會在同一請求內改試另一家。現有程式碼及Hugging Face token仍可使用，公司稱不會在供應商價格之上加價；圖像、影片及音訊生成則維持直連，不經OpenRouter。",
+              "source": "Hugging Face",
+              "sourceUrl": "https://huggingface.co/blog/openrouter",
+              "publishedAt": "2026-11-16T00:00:00+08:00",
+              "category": "open-source",
+              "uncertain": false,
+              "note": "The article is dated November 16, 2026, but JSON-LD datePublished is 2026-11-16T00:00:00.771Z (date-level midnight UTC); exact time is unknown. OpenRouter’s companion post is also timestamped 2026-11-16T00:00:00.000Z. A breaking change: custom provider API keys can no longer be used for language models.",
+              "imageAlt": "Social card showing the purple OpenRouter logo and the Hugging Face hugging-face emoji separated by a multiplication sign",
+              "image": "https://huggingface.co/blog/assets/openrouter/thumbnail.jpg"
+            }
+          ]
+        },
+        {
+          "id": "hk",
+          "label": "Hong Kong",
+          "items": [
+            {
+              "id": "ai-20261117-hk-smart-silver-robots",
+              "title": "Hong Kong launches new Smart Silver round and Robots in the Community pilot",
+              "summary": "創新科技及工業局局長孫東11月16日喺數碼港主持啓動禮，數字政策辦公室宣布新一輪「友智識」社區數碼共融計劃同「機器人走入社區」試驗計劃，將分別於2026年12月及2027年1月展開。當局會向地區團體免費借出人形機器人「友智寶」，以提升公眾對具身智能嘅認識；新一輪「友智識」推行機構增至18個、支援點超過90個，並會覆蓋鄉郊同離島，期望惠及超過40萬人次。",
+              "source": "HKSAR Government",
+              "sourceUrl": "https://www.info.gov.hk/gia/general/202611/16/P2026111600591.htm",
+              "publishedAt": "2026-11-16T19:25:00+08:00",
+              "category": "hk",
+              "uncertain": false,
+              "note": "English GIA issued at HKT 19:25 on 16 Nov 2026; matching Chinese release is P2026111600590 (same time and photo). Official speech release P2026111600493 (issued HKT 16:20) adds that applications are already open and the first round closes on Friday 20 November. RTHK (1878006, 17:03 HKT) reports the opposite rollout order (robots in December, Smart Silver in January); this item follows the official GIA wording, which assigns December 2026 to the new Smart Silver round and January 2027 to the robot pilot. First-round Smart Silver figures (12 organisations, 40 help desks, over 250,000 elderly participants since 2024) are from the same official releases.",
+              "imageAlt": "Innovation and Technology Secretary Sun Dong speaking at a podium in front of a backdrop showing a humanoid robot illustration and his title",
+              "image": "https://gia.info.gov.hk/general/202611/16/P2026111600591_photo_1343737.jpg"
+            },
+            {
+              "id": "ai-20261117-hk-challenge-cup-awards",
+              "title": "Hong Kong university teams win 26 Challenge Cup awards, including AI and robotics projects",
+              "summary": "第十五屆「挑戰杯」中國大學生創業計劃競賽全國總決賽結束後，由本港七所資助大學及香港都會大學組成嘅香港代表隊合共奪得3項全國特等獎、7項一等獎同16項二等獎，範疇包括生物醫學、人工智能精準醫療、機器人及智慧建築科技。文匯報指當中理大「面向AI智算中心的Micro-LED超並行光互連」同城大「Hopcopter」飛跳混合機器人均屬特等獎項目；港大、中大、理大同城大並獲「優勝杯」。",
+              "source": "Wen Wei Po",
+              "sourceUrl": "https://www.wenweipo.com/a/202611/16/AP6afa165ce4b028ec019413a3.html",
+              "publishedAt": "2026-11-16T04:30:02+08:00",
+              "category": "hk",
+              "uncertain": false,
+              "note": "Page timestamp is 2026-11-16 04:30:02 (Hong Kong). The finals themselves ran 30 Oct–3 Nov in Dalian; this is the results write-up becoming public in the 48-hour window and was not in yesterday’s batch. HKU’s own 15 Nov page (https://lead.hku.hk/tc/article/2026/11/hku-teams-capture-one-grand-prize-and-three-second-prizes-at-national-finals-of-the-15th-challenge-cup-china-undergraduate-entrepreneurship-competition/) confirms HKU’s special prize plus three second prizes, including the AI organoid platform ModelBio and the multi-agent urban-planning project BuildMind AI; time on that HKU page is not stated.",
+              "imageAlt": "A University of Hong Kong student team posing with the university flag in front of a 15th Challenge Cup competition banner",
+              "image": "https://dw-media.wenweipo.com/dams/wwpproduct/image/202611/16/6afa1649e4b0f8c5b4144751.jpg"
+            }
+          ]
+        },
+        {
+          "id": "hardware-shipping",
+          "label": "Hardware shipping",
+          "items": [
+            {
+              "id": "ai-20261117-nvidia-dgx-spark-hpc-kit",
+              "title": "NVIDIA puts a four-node DGX Spark HPC Developer Kit on sale at SC26",
+              "summary": "NVIDIA喺芝加哥超級計算會議SC26推出DGX Spark HPC Developer Kit，由四部DGX Spark以ConnectX-7網絡組成環形叢集，合共提供512GB記憶體同20TB NVMe儲存，官方寫明展覽同期已經公開發售。公司表示，DGX Spark產品同線材可向Acer、ASUS、Dell、GIGABYTE、HP、Lenovo、MSI等OEM合作夥伴，以及NVIDIA Marketplace購買；用於科學計算嘅HPC SDK操作指引則仍屬「即將推出」，頁面並無標出套件售價。",
+              "source": "NVIDIA Blog",
+              "sourceUrl": "https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/",
+              "publishedAt": "2026-11-17T07:00:05+08:00",
+              "category": "hardware-shipping",
+              "uncertain": false,
+              "note": "article:published_time is 2026-11-16T23:00:05+00:00, which equals 2026-11-16T15:00:05-08:00 and 2026-11-17T07:00:05+08:00. Individual DGX Spark units were already on sale in earlier batches; what is new is the four-node HPC Developer Kit, described as on display at SC26 and available for sale. No price is stated on the page, so none is quoted. The HPC SDK playbook is explicitly 'coming soon' and is not treated as already shipping.",
+              "imageAlt": "Four compact beige computers stacked on a desk and linked by cables, beside a coffee mug and a pen",
+              "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/SC-Local-AI-DGX-Spark-Clusters-Blog-Header.jpg"
+            }
+          ]
+        },
+        {
+          "id": "companies",
+          "label": "Companies",
+          "items": [
+            {
+              "id": "ai-20261117-corma-series-a",
+              "title": "Cybersecurity AI startup Corma raises $125 million Series A at a $1 billion valuation",
+              "summary": "網絡安全人工智能初創Corma宣布獲得由NEA領投、估值達10億美元的1.25億美元A輪融資。TechCrunch引述公司稱，連同此輪共籌得1.85億美元，出資者包括Sequoia Capital、Khosla Ventures及Coatue；公司於8月走出隱身階段。",
+              "source": "TechCrunch",
+              "sourceUrl": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+              "publishedAt": "2026-11-17T07:32:32+08:00",
+              "category": "companies",
+              "uncertain": false,
+              "note": "article:published_time is 2026-11-16T23:32:32+00:00 (3:32 PM PST Nov 16 = 07:32:32 HKT Nov 17). The TechCrunch page og:image is credited as ‘TechCrunch / AI generated’ and is omitted. A BusinessWire release with the same figures was blocked (403) in this environment."
+            },
+            {
+              "id": "ai-20261117-nvidia-board-no-huang-return",
+              "title": "CNBC: Nvidia board is not considering bringing Jensen Huang back as CEO",
+              "summary": "CNBC引述一名知情人士指，Nvidia董事會目前並無考慮讓黃仁勳重返行政總裁職位，而是聚焦對其行為的調查，並已委託律師樓Wachtell Lipton了解有否損害國家安全或公司機密。報道並指特朗普周一表示對黃仁勳復職持開放態度；一項要求復職的網上請願已獲約18萬個簽名。",
+              "source": "CNBC",
+              "sourceUrl": "https://www.cnbc.com/2026/11/16/nvidia-ceo-jensen-huang.html",
+              "publishedAt": "2026-11-17T01:38:07+08:00",
+              "category": "companies",
+              "uncertain": true,
+              "note": "NEW vs yesterday’s FT ‘discussed returning’ and Bessent ‘dramatic shakeup’ items: the new facts are the board’s reported stance, the Wachtell Lipton probe, Trump saying he is open to a return, and the petition signature count. The board position comes from an unnamed person familiar with the matter, not an official Nvidia statement; a representative for Huang declined to comment. AP/PBS later reported Trump saying he ‘would certainly not mind’ and that Huang ‘learned a big lesson,’ and also said a person familiar with the board’s thinking told AP the board is not currently considering his return.",
+              "imageAlt": "Jensen Huang in a black leather jacket speaking into a handheld microphone against a pale blue background",
+              "image": "https://image.cnbcfm.com/api/v1/image/108548911-1794851429961-108548911-1794403050475-gettyimages-2299100584-_04a7661_f6gzfowp.jpeg?v=1794851457&w=1920&h=1080"
+            },
+            {
+              "id": "ai-20261117-amd-world-labs-close",
+              "title": "AMD completes World Labs acquisition; Fei-Fei Li joins as EVP and chief scientist",
+              "summary": "AMD宣布已完成收購World Labs，並任命李飛飛為執行副總裁兼首席科學家，直接向行政總裁蘇姿丰匯報。公司稱World Labs開發可創建及模擬互動三維環境的人工智能模型，以及機械人學習與模擬技術，團隊將繼續推進基礎模型研究，並與AMD工程師合作。",
+              "source": "AMD",
+              "sourceUrl": "https://newsroom.amd.com/news/amd-completes-acquisition-world-labs/",
+              "publishedAt": "2026-11-16T22:00:54+08:00",
+              "category": "companies",
+              "uncertain": false,
+              "note": "Follow-up to the Nov 4 item that AMD had announced deals to acquire World Labs and Taalas. What is new: the World Labs transaction has closed, and Fei-Fei Li’s AMD title (executive vice president and chief scientist, reporting to Lisa Su) is confirmed.",
+              "imageAlt": "Black social graphic with the AMD and World Labs logos over a network-like globe illustration",
+              "image": "https://newsroom.amd.com/images/2026/09/063180c6-5b1a-4200-b238-99d7083699ae.jpg"
+            },
+            {
+              "id": "ai-20261117-elevenlabs-kotoba",
+              "title": "ElevenLabs agrees to acquire Japanese voice-AI lab Kotoba",
+              "summary": "ElevenLabs宣布收購日本語音人工智能實驗室Kotoba，表示希望加快在日本這個全球第四大經濟體的語音代理及介面應用。Kotoba由Noriyuki Kojima及Jungo Kasai於2023年創立，其Koto模型用於日語語音合成、語音辨識及同聲傳譯；交易預計於2026年第四季稍後完成，仍須通過慣常監管審批。",
+              "source": "ElevenLabs",
+              "sourceUrl": "https://elevenlabs.io/blog/kotoba",
+              "publishedAt": "2026-11-16T20:00:00+08:00",
+              "category": "companies",
+              "uncertain": false,
+              "note": "JSON-LD datePublished is 2026-11-16T12:00:00.000Z. The acquisition is announced, not yet closed.",
+              "imageAlt": "Selfie of three smiling men standing in front of a brick wall, used as the ElevenLabs announcement social image",
+              "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/7bmftwo9yq5-Kotoba-and-ElevenLabs-2.webp"
+            },
+            {
+              "id": "ai-20261117-microsoft-nato-restricted",
+              "title": "Microsoft says it is the first provider approved to support NATO RESTRICTED cloud and AI workloads",
+              "summary": "Microsoft宣布成為首家其雲端與人工智能基礎設施及生產力服務，獲批准支援NATO RESTRICTED（NR）工作負載的供應商，涵蓋Azure與Microsoft 365。公司稱批准由西班牙國家安全當局發出，以符合須由成員國驗證的要求，並已正式向北約數碼政策委員會報告。",
+              "source": "Microsoft",
+              "sourceUrl": "https://news.microsoft.com/source/emea/features/microsoft-approved-to-support-nato-restricted-workloads-across-cloud-and-ai-infrastructure-and-productivity-services/",
+              "publishedAt": "2026-11-16T17:04:15+08:00",
+              "category": "companies",
+              "uncertain": false,
+              "note": "JSON-LD datePublished is 2026-11-16T09:04:15+00:00; dateModified is 2026-11-16T11:37:46+00:00. No usable article og:image (only a generic Microsoft logo), so imageUrl is null."
+            },
+            {
+              "id": "ai-20261117-bis-remote-access-rule",
+              "title": "U.S. Commerce BIS issues an interim rule on remote access to advanced AI chips and servers",
+              "summary": "美國商務部工業與安全局（BIS）11月16日公布臨時最終規則，指該規則由財政部及國家安全委員會撰寫並指示發布，旨在防止有關方面透過第三國數據中心的遠端運算安排，繞過對先進超級智能芯片與伺服器的現有限制。",
+              "source": "U.S. Bureau of Industry and Security",
+              "sourceUrl": "https://www.bis.gov/press-release/bis-issues-rule-addressing-remote-access-american-super-intelligence-technology",
+              "publishedAt": "2026-11-16T00:00:00+08:00",
+              "category": "companies",
+              "uncertain": false,
+              "note": "Official release is dated November 16, 2026, for immediate release; exact time is unknown. Page image is only a U.S. flag icon, so imageUrl is null. CNBC (published 2026-11-16T13:47:23+00:00 / 2026-11-16T21:47:23+08:00) quoted the rule as also requiring licenses for advanced semiconductors to Indonesia, Malaysia, Singapore, Thailand or Brazil. That country list is not in the short BIS press release and is not used in the summary."
+            },
+            {
+              "id": "ai-20261117-sap-techwolf",
+              "title": "SAP completes acquisition of AI work-intelligence company TechWolf",
+              "summary": "SAP宣布已完成收購人工智能工作智能平台TechWolf，預期TechWolf會成為SAP SuccessFactors產品組合的智能核心。公司稱TechWolf的專有context graph將作為有關工作、技能規劃及人才管理的代理查詢依據層。",
+              "source": "SAP",
+              "sourceUrl": "https://news.sap.com/2026/11/sap-completes-acquisition-of-techwolf/",
+              "publishedAt": "2026-11-16T00:00:00+08:00",
+              "category": "companies",
+              "uncertain": false,
+              "note": "Official SAP post is dated November 16, 2026 only; exact time is unknown. og:image is a generic Getty stock photo of a woman holding a laptop, so imageUrl is null. TechWolf’s own post (https://www.techwolf.ai/press/sap-completes-acquisition-of-techwolf) says the company remains an independent entity under CEO Andreas De Neve in Ghent; that detail is not in the short SAP release and is not used in the summary. The SAP page notes the press release was created with AI assistance and reviewed by editors. Deal price is not stated."
+            },
+            {
+              "id": "ai-20261117-lvmh-openai-partnership",
+              "title": "LVMH’s media division signs a strategic partnership with OpenAI",
+              "summary": "LVMH集團傳媒部門與OpenAI宣布達成戰略協議，將在該部門所有刊物部署OpenAI工具及ChatGPT Enterprise，並讓相關內容以摘要及節錄形式出現在ChatGPT，標明來源並附原文連結。該部門包括Les Echos、Le Parisien等17個品牌，每月在法國接觸超過2,700萬人。",
+              "source": "OpenAI",
+              "sourceUrl": "https://openai.com/index/lvmh-media-division-partnership",
+              "publishedAt": "2026-11-16T00:00:00+08:00",
+              "category": "companies",
+              "uncertain": false,
+              "note": "Official page gives the calendar date November 16, 2026, and the dateline ‘Paris, 16 November 2026’; exact clock time is unknown. OpenAI says the news was originally shared by LVMH’s Media Division. Direct curl to openai.com returned 403; page was read via WebFetch.",
+              "imageAlt": "OpenAI social card with the title LVMH’s Media Division announces partnership with OpenAI on a pink and blue gradient",
+              "image": "https://images.ctfassets.net/kftzwdyauwt9/34LfcwNBjpeCtav2XM8FhI/462f77d234875c50af8cc3368e9c529c/lvmh-media-division-partnership-seo-v2.png?w=1600&h=900&fit=fill"
+            }
+          ]
+        },
+        {
+          "id": "markets",
+          "label": "Markets",
+          "items": [
+            {
+              "id": "ai-20261117-mkt-nvda-close-nov16",
+              "title": "NVDA closes Nov 16 at $156.14 (−4.12%) after new U.S. AI-chip access rules",
+              "summary": "Nvidia星期一（11月16日）收市報156.14美元，跌6.71美元或4.12%。Motley Fool指美國加強先進人工智能芯片使用限制，加上分析員喺業績公布前下調目標價，芯片股普遍受壓；同期標普500跌1.92%報7416，納斯達克綜合指數跌2.49%報24510。",
+              "source": "The Motley Fool",
+              "sourceUrl": "https://www.fool.com/coverage/stock-market-today/2026/11/16/stock-market-today-nov-16-nvidia-sinks-as-u-s-tightens-ai-chip-restrictions-and-analysts-slash-price-targets/",
+              "publishedAt": "2026-11-17T05:00:00+08:00",
+              "category": "markets",
+              "uncertain": false,
+              "note": "Regular-session close time is 16 Nov 2026, 4:00 PM EST = 17 Nov 05:00 HKT; Fool article timestamp is 5:10 PM EST / article:published_time 2026-11-16T22:10:02Z. Yahoo Finance history confirms the same official close: $156.14, −$6.71 (−4.12%), at close 4:00:01 PM EST (https://finance.yahoo.com/quote/NVDA/history/). CNBC’s 16 Nov live blog likewise said Nvidia pulled back 4.1%, the S&P 500 lost 1.9% and the Nasdaq Composite dropped 2.5%. Official BIS interim final rule issued 16 Nov 2026 (https://media.bis.gov/press-release/bis-issues-rule-addressing-remote-access-american-super-intelligence-technology) addresses remote access to advanced super-intelligence chips and servers via third-country data centers. Stock Analysis listed a different NVDA close of $156.37 (−3.98%) and is not used.",
+              "imageAlt": "A black Nvidia sign outside a building with a white steel canopy and solar panels overhead",
+              "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F1a4bae1da4a05d0d0e00a764e0d498057cecc411-3240x2160.jpg&w=1200&op=resize"
+            },
+            {
+              "id": "ai-20261117-mkt-amd-close-nov16",
+              "title": "AMD closes Nov 16 at $504.28 (−5.58%) as chip stocks fall",
+              "summary": "AMD星期一收市報504.28美元，跌29.78美元或5.58%。Motley Fool喺當日市況報道中列出呢個收市價，指半導體股隨美國新限制消息下跌，投資者重新評估更廣泛嘅人工智能投資佈局。",
+              "source": "The Motley Fool",
+              "sourceUrl": "https://www.fool.com/coverage/stock-market-today/2026/11/16/stock-market-today-nov-16-nvidia-sinks-as-u-s-tightens-ai-chip-restrictions-and-analysts-slash-price-targets/",
+              "publishedAt": "2026-11-17T05:00:00+08:00",
+              "category": "markets",
+              "uncertain": false,
+              "note": "Close confirmed on Yahoo Finance history: $504.28, −$29.78 (−5.58%), at close 4:00:01 PM EST, Nov 16 2026 (https://finance.yahoo.com/quote/AMD/history/). The Motley Fool wrap’s og:image is an Nvidia campus photo, so it is not used on this AMD item. Stock Analysis listed a different close of $509.04 (−4.68%) and is not used."
+            },
+            {
+              "id": "ai-20261117-mkt-avgo-close-nov16",
+              "title": "AVGO closes Nov 16 at $333.40 (−3.92%) with other AI chip names",
+              "summary": "Broadcom星期一收市報333.40美元，跌13.61美元或3.92%。Motley Fool喺同一篇芯片股下跌總結中列出呢個收市價，指板塊跌勢並非只反映Nvidia個別消息。",
+              "source": "The Motley Fool",
+              "sourceUrl": "https://www.fool.com/coverage/stock-market-today/2026/11/16/stock-market-today-nov-16-nvidia-sinks-as-u-s-tightens-ai-chip-restrictions-and-analysts-slash-price-targets/",
+              "publishedAt": "2026-11-17T05:00:00+08:00",
+              "category": "markets",
+              "uncertain": false,
+              "note": "Close confirmed on Yahoo Finance history: $333.40, −$13.61 (−3.92%), at close 4:00:01 PM EST, Nov 16 2026 (https://finance.yahoo.com/quote/AVGO/history/). The Fool og:image is an Nvidia campus photo, so it is not reused on this Broadcom item. Stock Analysis still showed a mid-session-style quote of $332.24 (−4.26%) labelled 'Market open' and is not used."
+            },
+            {
+              "id": "ai-20261117-mkt-arm-close-nov16",
+              "title": "ARM closes Nov 16 at $175.05 (−8.12%)",
+              "summary": "Arm Holdings星期一收市報175.05美元，跌15.48美元或8.12%。數據來自Yahoo Finance列出嘅11月16日官方收市價，前一交易日收市為190.53美元。",
+              "source": "Yahoo Finance",
+              "sourceUrl": "https://finance.yahoo.com/quote/ARM/history/",
+              "publishedAt": "2026-11-17T05:00:00+08:00",
+              "category": "markets",
+              "uncertain": false,
+              "note": "Regular-session close is 16 Nov 2026, 4:00:01 PM EST = 17 Nov 05:00 HKT. Previous close in the same Yahoo history table is $190.53 on Nov 13. The page og:image is a pinhole chart screenshot that did not download as a valid image file, so imageUrl is omitted."
+            },
+            {
+              "id": "ai-20261117-mkt-tsm-close-nov16",
+              "title": "TSM closes Nov 16 at $373.45 (−6.34%)",
+              "summary": "台積電美國預託證券星期一收市報373.45美元，跌25.28美元或6.34%。數據來自Yahoo Finance列出嘅11月16日官方收市價，前一交易日（13日）收市為398.73美元。",
+              "source": "Yahoo Finance",
+              "sourceUrl": "https://finance.yahoo.com/quote/TSM/history/",
+              "publishedAt": "2026-11-17T05:00:00+08:00",
+              "category": "markets",
+              "uncertain": false,
+              "note": "Regular-session close is 16 Nov 2026, 4:00:02 PM EST = 17 Nov 05:00 HKT. Previous close in the same Yahoo history table is $398.73 on Nov 13. The page og:image is a pinhole chart screenshot that did not download as a valid image file, so imageUrl is omitted."
+            },
+            {
+              "id": "ai-20261117-mkt-googl-close-nov16",
+              "title": "GOOGL closes Nov 16 at $283.72 (−4.07%)",
+              "summary": "Alphabet A股星期一收市報283.72美元，跌12.05美元或4.07%。數據來自Yahoo Finance列出嘅11月16日官方收市價，前一交易日收市為295.77美元。",
+              "source": "Yahoo Finance",
+              "sourceUrl": "https://finance.yahoo.com/quote/GOOGL/history/",
+              "publishedAt": "2026-11-17T05:00:00+08:00",
+              "category": "markets",
+              "uncertain": false,
+              "note": "Regular-session close is 16 Nov 2026, 4:00:01 PM EST = 17 Nov 05:00 HKT. Previous close in the same Yahoo history table is $295.77 on Nov 13. The page og:image is a pinhole chart screenshot that did not download as a valid image file, so imageUrl is omitted. Stock Analysis showed a slightly different figure and/or a 'Market open' label on some tickers and is not used."
+            },
+            {
+              "id": "ai-20261117-mkt-msft-close-nov16",
+              "title": "MSFT closes Nov 16 at $517.99 (−1.12%)",
+              "summary": "Microsoft星期一收市報517.99美元，跌5.89美元或1.12%。數據來自Yahoo Finance列出嘅11月16日官方收市價，前一交易日收市為523.88美元。",
+              "source": "Yahoo Finance",
+              "sourceUrl": "https://finance.yahoo.com/quote/MSFT/history/",
+              "publishedAt": "2026-11-17T05:00:00+08:00",
+              "category": "markets",
+              "uncertain": false,
+              "note": "Regular-session close is 16 Nov 2026, 4:00:01 PM EST = 17 Nov 05:00 HKT. Previous close in the same Yahoo history table is $523.88 on Nov 13. The page og:image is a pinhole chart screenshot that did not download as a valid image file, so imageUrl is omitted. Stock Analysis showed a slightly different figure and/or a 'Market open' label on some tickers and is not used."
+            },
+            {
+              "id": "ai-20261117-mkt-anthropic-ipo-dates",
+              "title": "Anthropic expects to price its IPO on Nov. 18 and debut on Nasdaq Nov. 19 as ANT",
+              "summary": "CNBC報道，Anthropic預計喺11月18日（星期三）傍晚為首次公開招股定價，並於11月19日（星期四）喺納斯達克以代號ANT開始買賣。是次擬發行8.25億股A類股份，暫定每股70至78美元；按現時價格區間，集資額將超過640億美元，公司估值約1.405萬億美元，最多兩成股份擬面向零售投資者。",
+              "source": "CNBC",
+              "sourceUrl": "https://www.cnbc.com/2026/11/16/anthropic-ipo-date-price-range.html",
+              "publishedAt": "2026-11-16T22:22:24+08:00",
+              "category": "markets",
+              "uncertain": false,
+              "note": "article:published_time 2026-11-16T14:22:24+0000 equals 9:22 AM EST / 22:22 HKT on 16 Nov, after yesterday’s batch. This is a follow-up to the Nov 15 item on the book being six times oversubscribed and the earlier $70–$78 / 825 million share range: what is new here is the expected pricing evening (18 Nov), Nasdaq debut date (19 Nov), ticker ANT, up to 20% retail, and CNBC’s range-based figures of more than $64 billion proceeds and a $1.405 trillion valuation. The IPO has not yet priced; dates and valuation are as CNBC stated ('expects' / 'at the current range'). Investopedia the same day also said the price is expected Wednesday evening with trading Thursday; its Bloomberg-attributed 'seven times' demand figure is not used because it conflicts with the earlier Reuters 'six times' report and was not in the CNBC key facts relied on here.",
+              "imageAlt": "A smartphone displaying the Anthropic name, held in front of a screen with the letters IPO",
+              "image": "https://image.cnbcfm.com/api/v1/image/108551332-1794597964771-gettyimages-2304545537-vcg111681342025.jpeg?v=1794597984&w=1920&h=1080"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gaming",
+      "label": "Gaming",
+      "sections": [
+        {
+          "id": "pc-switch2",
+          "label": "PC / Switch 2",
+          "items": [
+            {
+              "id": "gaming-20261117-high-roller-penny-january-12",
+              "title": "High Roller Penny dated January 12, 2027 for PC",
+              "summary": "開發商 Kniv Studio 宣布，彈珠台風格 roguelike《High Roller Penny》將於 2027 年 1 月 12 日登陸 Steam。玩家要在配額之內靠彈珠得分，並購買強化釘同球來組 Build。",
+              "source": "Gematsu",
+              "sourceUrl": "https://www.gematsu.com/2026/11/high-roller-penny-launches-january-12-2027",
+              "publishedAt": "2026-11-17T07:27:00+08:00",
+              "category": "pc-switch2",
+              "platforms": [
+                "PC"
+              ],
+              "releaseDate": "2027-01-12",
+              "uncertain": false,
+              "note": "Gematsu timestamp Nov 16, 2026, 6:27 PM EST, converted to HKT.",
+              "imageAlt": "High Roller Penny announcement artwork of a pachinko-style roguelike",
+              "image": "https://www.gematsu.com/wp-content/uploads/2026/11/High-Roller-Penny-Date_11-16-26.jpg"
+            },
+            {
+              "id": "gaming-20261117-bad-house-january-11",
+              "title": "Bad House dated January 11, 2027 for PC",
+              "summary": "發行商 Dotemu 同開發者 Andrew Morrish 宣布，自動戰鬥地城探索遊戲《Bad House》將於 2027 年 1 月 11 日登陸 Steam。玩家會喺一間神秘房屋嘅地庫房間戰鬥，並可選 Blake、Rory 或 Lou 等角色。",
+              "source": "Gematsu",
+              "sourceUrl": "https://www.gematsu.com/2026/11/bad-house-launches-january-11-2027",
+              "publishedAt": "2026-11-17T00:09:00+08:00",
+              "category": "pc-switch2",
+              "platforms": [
+                "PC"
+              ],
+              "releaseDate": "2027-01-11",
+              "uncertain": false,
+              "note": "Gematsu timestamp Nov 16, 2026, 11:09 AM EST, converted to HKT.",
+              "imageAlt": "Bad House announcement artwork of a eerie house and basement",
+              "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Bad-House-Date_11-16-26.jpg"
+            },
+            {
+              "id": "gaming-20261117-rangers-path-1-0-listed",
+              "title": "Ranger’s Path: National Park Simulator is listed to leave Early Access November 17 on PC, PS5 and Xbox",
+              "summary": "發行商 astragon 宣布，《Ranger’s Path: National Park Simulator》將於 11 月 17 日結束早期測試並推出完整版，同步登陸 PS5 同 Xbox Series，並加入兩人跨平台合作。PC 完整版定價 19.99 美元，主機版 24.99 美元；截稿時 Steam 頁仍顯示既有早期測試狀態，尚未獨立確認 1.0 已解鎖。",
+              "source": "astragon",
+              "sourceUrl": "https://www.astragon.com/press-releases/detail/get-your-tickets-now-the-full-version-of-rangers-path-national-park-simulator-arrives-on-pc-and-consoles-on-november-17",
+              "publishedAt": "2026-11-17T00:00:00+08:00",
+              "category": "pc-switch2",
+              "platforms": [
+                "PC",
+                "PS5",
+                "Xbox Series X|S"
+              ],
+              "releaseDate": "2026-11-17",
+              "uncertain": true,
+              "note": "Dated 1.0/console listing for Nov 17. Steam API still reports the March 10, 2026 Early Access release and coming_soon=false, so the 1.0 and console unlocks were not independently confirmed live as of cutoff. publishedAt is the listed launch date (date-only). The official press page itself is an earlier announcement of this date. imageUrl is the Steam header, used because the astragon press page hero was a generic company logo."
+            },
+            {
+              "id": "gaming-20261117-drg-survivor-knockout-listed",
+              "title": "Deep Rock Galactic: Survivor Knockout Expansion is listed to launch November 17 on Steam",
+              "summary": "《Deep Rock Galactic: Survivor》付費資料片 Knockout Expansion 喺 Steam 已標示 11 月 17 日推出，將加入近戰職業 Brawler、新生態同四階段任務。截稿時商店仍顯示即將推出，尚未確認已上線。",
+              "source": "Steam",
+              "sourceUrl": "https://store.steampowered.com/app/5269530/Deep_Rock_Galactic_Survivor_Knockout_Expansion/",
+              "publishedAt": "2026-11-17T00:00:00+08:00",
+              "category": "pc-switch2",
+              "platforms": [
+                "PC"
+              ],
+              "releaseDate": "2026-11-17",
+              "uncertain": true,
+              "note": "Steam API coming_soon=true / date Nov 17, 2026 as of the morning of Nov 17 HKT. Some week-ahead calendars also list Xbox; not used as a confirmed platform here because it was not verified on an official Xbox or publisher store page during this pass. publishedAt is date-only.",
+              "imageAlt": "Deep Rock Galactic: Survivor Knockout Expansion Steam header art",
+              "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5269530/0e9f430a82924fc67ac9c3dc0fdadadfeaff8cde/header.jpg?t=1794590942"
+            },
+            {
+              "id": "gaming-20261117-unicorn-academy-listed",
+              "title": "Unicorn Academy: Island of Magic is listed to launch November 17 on PC, Switch, PlayStation and Xbox",
+              "summary": "Mindscape 發行、Aesir Interactive 開發嘅《Unicorn Academy: Island of Magic》，官方已定 11 月 17 日登陸 Steam、Switch、PS5、PS4、Xbox Series 同 Xbox One。玩家會以一年級生身份同獨角獸建立羈絆，並同動畫角色一起對抗 Ravenzella；截稿時 Steam 仍顯示即將推出。",
+              "source": "Steam",
+              "sourceUrl": "https://store.steampowered.com/app/4380910/Unicorn_Academy_Island_of_Magic/",
+              "publishedAt": "2026-11-17T00:00:00+08:00",
+              "category": "pc-switch2",
+              "platforms": [
+                "PC",
+                "Switch",
+                "PS5",
+                "PS4",
+                "Xbox Series X|S",
+                "Xbox One"
+              ],
+              "releaseDate": "2026-11-17",
+              "uncertain": true,
+              "note": "Steam API coming_soon=true / date Nov 17, 2026 as of cutoff. Platform list also confirmed on Mindscape’s official page (dated 10-09-2026) and Xbox Wire’s Nov 13 weekly lineup. No separate Switch 2 edition was stated. publishedAt is the listed launch date (date-only).",
+              "imageAlt": "Unicorn Academy: Island of Magic Steam header art of students with unicorns",
+              "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4380910/c7e1e9a3b5dc596e4d7c46ab9a60ee116eca5995/header.jpg?t=1794405481"
+            },
+            {
+              "id": "gaming-20261117-gold-mining-sim-definitive-listed",
+              "title": "Gold Mining Simulator: Definitive Edition is listed to launch November 17 on Steam",
+              "summary": "Code Horizon 同 PlayWay 嘅《Gold Mining Simulator: Definitive Edition》喺 Steam 已標示 11 月 17 日推出，頁面寫明會收錄先前擴充包，並加入新內容同畫質、操作改善。截稿時商店仍顯示即將推出，售價現列 29.99 美元。",
+              "source": "Steam",
+              "sourceUrl": "https://store.steampowered.com/app/4707700/Gold_Mining_Simulator_Definitive_Edition/",
+              "publishedAt": "2026-11-17T00:00:00+08:00",
+              "category": "pc-switch2",
+              "platforms": [
+                "PC"
+              ],
+              "releaseDate": "2026-11-17",
+              "uncertain": true,
+              "note": "Steam API coming_soon=true / date Nov 17, 2026, with a listed price of $29.99, as of the morning of Nov 17 HKT. publishedAt is date-only.",
+              "imageAlt": "Gold Mining Simulator Definitive Edition Steam header art",
+              "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4707700/e25d301bd345da1734990375d2669e9f34f438fb/header.jpg?t=1794844575"
+            },
+            {
+              "id": "gaming-20261117-burning-sword-death-sun-listed",
+              "title": "Burning Sword: Death Sun is listed to enter Steam Early Access November 17",
+              "summary": "Nomadic Games 開發、Rising Tide 發行嘅武俠動作遊戲《Burning Sword: Death Sun》，Steam 已標示 11 月 17 日進入早期測試。截稿時商店仍顯示即將推出，尚未確認已上線。",
+              "source": "Steam",
+              "sourceUrl": "https://store.steampowered.com/app/2561460/Burning_Sword_Death_Sun/",
+              "publishedAt": "2026-11-17T00:00:00+08:00",
+              "category": "pc-switch2",
+              "platforms": [
+                "PC"
+              ],
+              "releaseDate": "2026-11-17",
+              "uncertain": true,
+              "note": "Steam API coming_soon=true / date Nov 17, 2026 as of cutoff. publishedAt is date-only.",
+              "imageAlt": "Burning Sword: Death Sun Steam header art",
+              "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2561460/4c636b98f8dc1efce23d147a818bcb779d89b743/header.jpg?t=1794465804"
+            },
+            {
+              "id": "gaming-20261117-book-nook-december-1",
+              "title": "Book Nook dated December 1 for PC, later for Switch",
+              "summary": "發行商 WINGS 同開發商 Malapata Studio 宣布，溫馨立體書場景拼裝遊戲《Book Nook》將於 12 月 1 日登陸 Steam，Switch 版稍後推出。遊戲沒有時限，玩家要一件件擺放微型家具同裝飾，砌出書檔場景。",
+              "source": "Gematsu",
+              "sourceUrl": "https://www.gematsu.com/2026/11/book-nook-launches-december-1-for-pc-later-for-switch",
+              "publishedAt": "2026-11-16T23:37:00+08:00",
+              "category": "pc-switch2",
+              "platforms": [
+                "PC",
+                "Switch"
+              ],
+              "releaseDate": "2026-12-01",
+              "uncertain": false,
+              "note": "Gematsu timestamp Nov 16, 2026, 10:37 AM EST, converted to HKT. Switch date is only 'later', so releaseDate is the PC date.",
+              "imageAlt": "Book Nook announcement artwork of a miniature book-nook diorama",
+              "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Book-Nook-Date_11-16-26.jpg"
+            },
+            {
+              "id": "gaming-20261117-spirit-crossing-out-now",
+              "title": "Spirit Crossing is out now on Steam, Switch 2 and Switch",
+              "summary": "Spry Fox 正式推出溫馨多人遊戲《Spirit Crossing》，已登陸 PC（Steam 同 Epic Games Store）、Switch 2 同 Switch，售價 29.99 美元，推出期間有九折。官方新聞稿確認各平台均已上線；Steam 商店亦已由即將推出改為正式發售。",
+              "source": "GamesPress",
+              "sourceUrl": "https://www.gamespress.com/Cozy-MMO-Spirit-Crossing-is-now-available",
+              "publishedAt": "2026-11-16T00:00:00+08:00",
+              "category": "pc-switch2",
+              "platforms": [
+                "PC",
+                "Switch 2",
+                "Switch"
+              ],
+              "releaseDate": "2026-11-16",
+              "uncertain": false,
+              "note": "Update to the Nov 16 listed/uncertain item: GamesPress launch release dated Nov 16 (time not given, so publishedAt is date-only) and Steam API coming_soon=false as of the morning of Nov 17 HKT.",
+              "imageAlt": "Spirit Crossing key art of characters in a colorful landscape",
+              "image": "https://fserveu20221222.blob.core.windows.net/files/Games%20Press/2026/11/161712-6dd1f640/header.jpg?sv=2026-06-06&se=2051-12-31T00:00:00Z&sr=b&sp=r&sig=LPvi9EmhewZhyobdTOEnCNJnc72NJwRhNeezicfVyOc%3D&otf=y&sky=1e6ac14f8a36a7c76de96c030bae318d5dede384fdd64a04c00b37a5827c3cee"
+            },
+            {
+              "id": "gaming-20261117-sol-one-early-access",
+              "title": "Sol One is out now in Steam Early Access",
+              "summary": "獨立開發嘅火星開放世界生存建造遊戲《Sol One》已於 Steam 開啟早期測試，售價現顯示為 11.89 美元。玩家要喺紅色星球上開採資源、維持氧氣同電力，並建造火箭返地球。",
+              "source": "Steam",
+              "sourceUrl": "https://store.steampowered.com/app/4528040/Sol_One/",
+              "publishedAt": "2026-11-16T00:00:00+08:00",
+              "category": "pc-switch2",
+              "platforms": [
+                "PC"
+              ],
+              "releaseDate": "2026-11-16",
+              "uncertain": false,
+              "note": "Steam API coming_soon=false with release date Nov 16, 2026 as of the morning of Nov 17 HKT. publishedAt is date-only from the store page.",
+              "imageAlt": "Sol One Steam header art of a lone astronaut on Mars",
+              "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4528040/11a329c17dd618cc32ac583ed50f94bae454d7cb/header.jpg?t=1794861913"
+            }
+          ]
+        },
+        {
+          "id": "news",
+          "label": "Game news",
+          "items": [
+            {
+              "id": "gaming-20261117-uk-charts-oot-second",
+              "title": "Ocarina of Time slips to second in the UK physical charts, behind EA Sports FC 27",
+              "summary": "據 Nintendo Life 引述 GfK 最新英國實體榜，《薩爾達傳說 時之笛》Switch 2 重製版由上週冠軍跌至第 2，《EA Sports FC 27》升上首位。《Call of Duty: Modern Warfare 4》排第 3，《Mario Kart World》同《Nintendo Switch Sports Resort》守住第 4、第 5。",
+              "source": "Nintendo Life",
+              "sourceUrl": "https://www.nintendolife.com/news/2026/11/uk-charts-after-a-stellar-start-zelda-ocarina-of-time-slips-from-the-top-spot",
+              "publishedAt": "2026-11-17T01:15:00+08:00",
+              "category": "news",
+              "platforms": [
+                "Switch 2",
+                "PS5",
+                "Xbox Series X|S",
+                "Switch"
+              ],
+              "uncertain": false,
+              "note": "Nintendo Life / GfK UK physical charts. publishedAt converted from 2026-11-16T17:15:00+00:00 extracted from the article page. The article does not give unit sales for this week, only rankings and some platform splits.",
+              "imageAlt": "The Legend of Zelda: Ocarina of Time Switch 2 remake artwork",
+              "image": "https://images.nintendolife.com/7b640ca4e51d6/1280x720.jpg"
+            },
+            {
+              "id": "gaming-20261117-nba-2k27-vice-city-gta6",
+              "title": "NBA 2K27 gets a Vice City Edition and GTA 6-themed Season 3, including on Switch 2 and PC",
+              "summary": "2K 同 Visual Concepts 聯同 Rockstar 宣布，《NBA 2K27》第 3 季將於 11 月 27 日至 1 月 15 日以 Vice City 為主題，並推出售價 39.99 美元嘅 Vice City Edition，登陸 PS5、Xbox Series、Switch 2 同 PC。VGC 引述，同期 GTA+ 會員可遊玩標準版《NBA 2K27》。",
+              "source": "VGC",
+              "sourceUrl": "https://www.videogameschronicle.com/news/nba-2k27-is-getting-a-vice-city-edition-as-well-as-numerous-gta-6-themed-items-in-season-3/",
+              "publishedAt": "2026-11-17T00:45:00+08:00",
+              "category": "news",
+              "platforms": [
+                "PS5",
+                "Xbox Series X|S",
+                "Switch 2",
+                "PC"
+              ],
+              "releaseDate": "2026-11-27",
+              "uncertain": false,
+              "note": "VGC dateline is 16th Nov 2026 / 4:45 pm; treated as UK GMT and converted to HKT. Season 3 and the Vice City Edition window run Nov 27, 2026 to Jan 15, 2027. releaseDate is the start of that window. Also reported by Gematsu.",
+              "imageAlt": "NBA 2K27 Vice City Edition cover art featuring Bam Adebayo",
+              "image": "https://www.videogameschronicle.com/files/2026/11/nba-2k27-vice-city-edition.jpg"
+            },
+            {
+              "id": "gaming-20261117-dave-the-diver-core-keeper-crossover",
+              "title": "DAVE THE DIVER and Core Keeper get a free two-way crossover on November 30",
+              "summary": "MINTROCKET、Pugstorm 同 Fireshine Games 宣布，《DAVE THE DIVER》同《Core Keeper》將於 11 月 30 日推出免費雙向聯動，啟動後會永久保留。潛水員篇先喺 Steam 上線、主機稍後跟進；《Core Keeper》則於當日在全平台更新，可收養 Momo、Mini Dave 等內容。",
+              "source": "Gematsu",
+              "sourceUrl": "https://www.gematsu.com/2026/11/dave-the-diver-x-core-keeper-crossover-updates-announced",
+              "publishedAt": "2026-11-16T22:46:00+08:00",
+              "category": "news",
+              "platforms": [
+                "PC",
+                "Switch 2",
+                "Switch",
+                "PS5",
+                "PS4",
+                "Xbox Series X|S",
+                "Xbox One"
+              ],
+              "releaseDate": "2026-11-30",
+              "uncertain": false,
+              "note": "Gematsu timestamp Nov 16, 2026, 9:46 AM EST, converted to HKT. Gematsu also lists DAVE THE DIVER on iOS and Android; those mobile platforms are omitted here because the Nov 30 staggered rollout is described for Steam first, then consoles, with Core Keeper on all of its existing platforms.",
+              "imageAlt": "DAVE THE DIVER screenshot from the Core Keeper crossover announcement",
+              "image": "https://www.gematsu.com/wp-content/uploads/2026/11/DAVE-THE-DIVER_2026_11-16-26_005.jpg"
+            },
+            {
+              "id": "gaming-20261117-parcel-simulator-consoles-dec-9",
+              "title": "Parcel Simulator coming to Switch 2, PS5 and Xbox Series on December 9",
+              "summary": "開發商 Dansan Digital 宣布，已在 Steam 推出嘅倉庫物流模擬遊戲《Parcel Simulator》，將於 12 月 9 日登陸 Switch 2、PS5 同 Xbox Series。玩家要檢查包裹、批核出貨，並建造輸送帶同檢測系統來擴大倉庫。",
+              "source": "GamesPress",
+              "sourceUrl": "https://www.gamespress.com/Special-Delivery-Parcel-Simulator-expands-its-shipping-network-to-cons",
+              "publishedAt": "2026-11-16T00:00:00+08:00",
+              "category": "news",
+              "platforms": [
+                "Switch 2",
+                "PS5",
+                "Xbox Series X|S",
+                "PC"
+              ],
+              "releaseDate": "2026-12-09",
+              "uncertain": false,
+              "note": "GamesPress release is dated 16/11/2026 with no clock time, so publishedAt is date-only. imageUrl is null because the press page keeps artwork behind a login. Surprise Attack Games is named as the publishing label in the release."
+            },
+            {
+              "id": "gaming-20261117-minecraft-dungeons-ii-humblers-awaken",
+              "title": "Minecraft Dungeons II DLC The Humblers Awaken, plus a free update, is dated December 1",
+              "summary": "Mojang 宣布，《Minecraft Dungeons II》首個付費 DLC《The Humblers Awaken》將於 12 月 1 日推出，舞台設喺 The Sift，加入新任務、三件新神器同四件護符，以及 Pearl 造型等裝飾。同日仲有免費更新，加入 Brave Haven 試煉地城，並讓原作英雄 Hal、Hex、Adrienne 同 Valorie 以造型回歸；另外會送出可在本遊戲同《Minecraft》使用嘅 Snow Golem 披風兌換碼。",
+              "source": "Minecraft.net",
+              "sourceUrl": "https://www.minecraft.net/en-us/article/the-humblers-awaken",
+              "publishedAt": "2026-11-15T00:00:00+08:00",
+              "category": "news",
+              "platforms": [
+                "PC",
+                "Switch 2",
+                "Switch",
+                "PS5",
+                "Xbox Series X|S"
+              ],
+              "releaseDate": "2026-12-01",
+              "uncertain": false,
+              "note": "Minecraft.net only prints Published: 11/15/26, so publishedAt is date-only. The official article does not restate a store platform list; platforms follow the existing Minecraft Dungeons II lineup as also covered in the Xbox Wire follow-up on Nov 16 (https://news.xbox.com/en-us/2026/11/16/minecraft-dungeons-ii-the-humblers-awaken-arrives-on-december-1/).",
+              "imageAlt": "Minecraft Dungeons II The Humblers Awaken key art",
+              "image": "https://www.minecraft.net/content/dam/minecraftnet/games/spicewood/key-art/DLC1_Header_1170x500.jpg"
+            }
+          ]
+        },
+        {
+          "id": "other-consoles",
+          "label": "Other consoles",
+          "items": [
+            {
+              "id": "gaming-20261117-mercenaries-grace-dates",
+              "title": "Mercenaries Grace dated November 25 for PS5 in Japan, December for Switch, and early 2027 for PC",
+              "summary": "開發商 RideonJapan 宣布，戰術角色扮演遊戲《Mercenaries Grace》將於 11 月 25 日在日本推出 PS5 版，售價 3,850 日圓，Switch 版定於 12 月，Steam 版則預計 2027 年初。今作改用輪流行動制，並加入可跨系轉職嘅 Ladder Class 系統。",
+              "source": "Gematsu",
+              "sourceUrl": "https://www.gematsu.com/2026/11/mercenaries-grace-launches-november-25-for-ps5-in-japan-in-december-for-switch-and-in-early-2027-for-pc",
+              "publishedAt": "2026-11-17T06:19:00+08:00",
+              "category": "other-consoles",
+              "platforms": [
+                "PS5",
+                "Switch",
+                "PC"
+              ],
+              "releaseDate": "2026-11-25",
+              "uncertain": false,
+              "note": "Gematsu timestamp Nov 16, 2026, 5:19 PM EST, converted to HKT. releaseDate is the Japan PS5 date. Switch is month-only (December) and PC is 'early 2027'. The article does not specify Switch 2.",
+              "imageAlt": "Mercenaries Grace announcement artwork",
+              "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Mercenaries-Grace_11-16-26.jpg"
+            },
+            {
+              "id": "gaming-20261117-control-resonant-ps-plus-trial",
+              "title": "Control Resonant gets a four-hour PlayStation Plus Premium Game Trial on PS5",
+              "summary": "Remedy 已將《Control Resonant》頭四個鐘設為 PS Plus Premium 嘅 Game Trial，官方帳號於 11 月 16 日宣布，Push Square 指而家已經可以玩。同一篇文章提到，遊戲現正參與 PS Store Black Friday，至 11 月 30 日有八折，折扣價為 39.99 英鎊／47.99 美元。",
+              "source": "Push Square",
+              "sourceUrl": "https://www.pushsquare.com/news/2026/11/play-4-hours-of-the-fantastic-control-resonant-on-ps-plus-premium",
+              "publishedAt": "2026-11-17T06:00:00+08:00",
+              "category": "other-consoles",
+              "platforms": [
+                "PS5"
+              ],
+              "uncertain": false,
+              "note": "Push Square displayed a relative '2 hours ago' stamp when fetched around 08:00 HKT on Nov 17; publishedAt is that estimate. The official @ControlRemedy announcement is dated November 16, 2026. The article does not say whether trial progress carries over to a purchase.",
+              "imageAlt": "Control Resonant artwork of the player in Altered Manhattan",
+              "image": "https://images.pushsquare.com/85dc8ab746ad4/1280x720.jpg"
+            },
+            {
+              "id": "gaming-20261117-gta6-prelaunch-patch",
+              "title": "GTA 6 gets a second pre-launch patch, reported larger on Xbox than on PS5",
+              "summary": "IGN 報道，《GTA 6》第二個發行前更新已開始分批推出，PS5 版標示為 01.002.001、下載量約 602MB，Xbox 版據報大約再大 1GB。Rockstar 未公布更新說明；有玩家已看到更新，但 IGN 指推出通常會分時段進行。",
+              "source": "IGN",
+              "sourceUrl": "https://in.ign.com/grand-theft-auto-vi/277131/gta-6-gets-another-day-one-patch-and-its-1gb-bigger-on-xbox",
+              "publishedAt": "2026-11-17T04:26:00+08:00",
+              "category": "other-consoles",
+              "platforms": [
+                "PS5",
+                "Xbox Series X|S"
+              ],
+              "releaseDate": "2026-11-19",
+              "uncertain": true,
+              "note": "IGN’s stamp is 'Updated: Nov. 16, 2026, 8:26 p.m.' with no timezone; converted as UTC to HKT. uncertain=true because there are no official patch notes, the rollout is described as staggered, and the Xbox 'about 1GB larger' figure is IGN’s reporting rather than a Rockstar breakdown. The game itself still launches Nov 19.",
+              "imageAlt": "Grand Theft Auto VI promotional artwork",
+              "image": "https://sm.ign.com/t/ign_ap/news/g/gta-6-gets/gta-6-gets-another-day-one-patch-and-its-1gb-bigger-on-xbox_npfe.1200.jpg"
+            },
+            {
+              "id": "gaming-20261117-star-wars-galactic-racer-free-play",
+              "title": "Star Wars: Galactic Racer to add a split-screen Free Play mode in early 2027",
+              "summary": "發行商 Secret Mode 同開發商 Fuse Games 宣布，《Star Wars: Galactic Racer》將於 2027 年初加入支援分割畫面嘅 Free Play 模式，最多四名玩家可自選載具、角色、行星同賽道，可單人或本地同樂。遊戲現已登陸 PS5、Xbox Series 同 PC。",
+              "source": "Gematsu",
+              "sourceUrl": "https://www.gematsu.com/2026/11/star-wars-galactic-racer-to-add-split-screen-supported-free-play-mode-in-early-2027",
+              "publishedAt": "2026-11-17T01:00:00+08:00",
+              "category": "other-consoles",
+              "platforms": [
+                "PS5",
+                "Xbox Series X|S",
+                "PC"
+              ],
+              "releaseDate": "TBA",
+              "uncertain": false,
+              "note": "Gematsu timestamp Nov 16, 2026, 12:00 PM EST, converted to HKT. Source only gives early 2027 for the mode, not a calendar day. This is a new mode announcement after the Nov 15 sales-milestone item.",
+              "imageAlt": "Star Wars: Galactic Racer artwork of podracing on an alien world",
+              "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Star-Wars-Galactic-Racer_11-16-26.webp"
+            },
+            {
+              "id": "gaming-20261117-moonlight-peaks-ps5-listed",
+              "title": "Moonlight Peaks is listed to launch on PS5 on November 17",
+              "summary": "Marvelous Games 早前宣布，吸血鬼生活模擬遊戲《Moonlight Peaks》將於 11 月 17 日以數位形式登陸 PS5；遊戲已於 PC、Switch、Switch 2 推出，官方稱全球銷量超過 30 萬套。PS Plus 會員可於 11 月 17 至 24 日享八折，Premium 會員仲有兩小時試玩，進度可轉入完整版。截稿時尚未獨立確認 PS5 店面已解鎖。",
+              "source": "Marvelous Games",
+              "sourceUrl": "https://marvelousgames.com/news/moonlight-peaks-conjures-up-a-playstation-5-version-this-november",
+              "publishedAt": "2026-11-17T00:00:00+08:00",
+              "category": "other-consoles",
+              "platforms": [
+                "PS5",
+                "PC",
+                "Switch 2",
+                "Switch"
+              ],
+              "releaseDate": "2026-11-17",
+              "uncertain": true,
+              "note": "Official Marvelous post is dated 27 Oct 2026 and still lists a 17 Nov 2026 digital PS5 launch, plus the PS Plus week-one discount and two-hour Premium trial. Treated as a dated launch listing; not confirmed live in the PlayStation Store as of cutoff. publishedAt is the listed launch date (date-only). imageUrl is null because the page hero was a generic brand logo."
+            },
+            {
+              "id": "gaming-20261117-machine-party-consoles-nov-26",
+              "title": "Machine Party coming to PS5, Xbox Series and Switch on November 26 after 2.5 million Steam sales",
+              "summary": "發行商 Oro Interactive 同開發者 Mike Klubnika 宣布，暴力派對遊戲合集《Machine Party》將於 11 月 26 日登陸 PS5、Xbox Series、Switch，以及 Microsoft Store 嘅 PC 版。遊戲 7 月 30 日先在 Steam 推出，官方稱銷量已超過 250 萬份。",
+              "source": "Gematsu",
+              "sourceUrl": "https://www.gematsu.com/2026/11/machine-party-coming-to-ps5-xbox-series-and-switch-on-november-26",
+              "publishedAt": "2026-11-16T23:07:00+08:00",
+              "category": "other-consoles",
+              "platforms": [
+                "PS5",
+                "Xbox Series X|S",
+                "Switch",
+                "PC"
+              ],
+              "releaseDate": "2026-11-26",
+              "uncertain": false,
+              "note": "Gematsu timestamp Nov 16, 2026, 10:07 AM EST, converted to HKT. Steam PC version already launched July 30; Nov 26 is the new console / Microsoft Store date.",
+              "imageAlt": "Machine Party console announcement artwork",
+              "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Machine-Party-Consoles_11-16-26.jpg"
+            },
+            {
+              "id": "gaming-20261117-gow-sons-of-sparta-ps4",
+              "title": "God of War: Sons of Sparta is out now on PS4, with Hermes and Erebus modes on PS4 and PS5",
+              "summary": "《God of War: Sons of Sparta》PS4 版已上線，購買 PS4 版亦包含 PS5 版。同日更新為 PS4 同 PS5 加入 Hermes（速通）同 Erebus（一擊即死挑戰）兩種後期模式。",
+              "source": "Push Square",
+              "sourceUrl": "https://www.pushsquare.com/news/2026/11/god-of-war-sons-of-sparta-out-now-on-ps4-new-modes-for-ps5-too",
+              "publishedAt": "2026-11-16T23:00:00+08:00",
+              "category": "other-consoles",
+              "platforms": [
+                "PS4",
+                "PS5"
+              ],
+              "releaseDate": "2026-11-16",
+              "uncertain": false,
+              "note": "Push Square’s update line is 'Mon 16th Nov 2026, 3pm' without an explicit timezone; treated as UK GMT and converted to HKT.",
+              "imageAlt": "God of War: Sons of Sparta artwork of young Kratos and Deimos",
+              "image": "https://images.pushsquare.com/72ae063cbb885/1280x720.jpg"
+            },
+            {
+              "id": "gaming-20261117-ufc-6-pride-fc-expansion",
+              "title": "EA Sports UFC 6 PRIDE FC Expansion dated December 11",
+              "summary": "EA 宣布，《EA Sports UFC 6》嘅 PRIDE FC 資料片將於 12 月 11 日推出，加入四角擂台、傳統 PRIDE 賽制（包括首局 10 分鐘、整場計分），以及開腳踢、踏擊等攻擊，並有無差別級賽事同新嘅大賽模式。目前資料只點名 PS5 同 Xbox Series。",
+              "source": "Electronic Arts",
+              "sourceUrl": "https://www.ea.com/games/ufc/ufc-6/news/ufc-6-pride-fc-reveal",
+              "publishedAt": "2026-11-16T00:00:00+08:00",
+              "category": "other-consoles",
+              "platforms": [
+                "PS5",
+                "Xbox Series X|S"
+              ],
+              "releaseDate": "2026-12-11",
+              "uncertain": false,
+              "note": "Official EA page displays the date November 16, 2026 but no clock time in the visible article header, so publishedAt is date-only. The page names the expansion for UFC 6 and does not mention a PC version in the fetched text.",
+              "imageAlt": "EA Sports UFC 6 PRIDE FC Expansion key art",
+              "image": "https://drop-assets.ea.com/images/4Xl9kq3FdIE6AlqWCJGBP8/f04e6bcd00bd3db2f692286e5a57c3b9/EAS_UFC6-PrideExpansion_ULT_KeyArt_RGB_16-9_3840x2160.jpg?im=AspectCrop=(16,9),xPosition=0.6856770833333333,yPosition=0.4546296296296296"
+            }
+          ]
+        },
+        {
+          "id": "other",
+          "label": "Other",
+          "items": [
+            {
+              "id": "gaming-20261117-miyamoto-dice-legend-award",
+              "title": "Shigeru Miyamoto to receive the inaugural D.I.C.E. Legend Award on February 18, 2027",
+              "summary": "互動藝術與科學學院（AIAS）宣布，任天堂代表取締役暨 Fellow 宮本茂，將於 2027 年 2 月 18 日在拉斯維加斯 Cosmopolitan 舉行嘅第 30 屆 D.I.C.E. Awards，獲頒首屆 Legend Award。呢個獎項表揚對互動娛樂有深遠影響嘅業界人物，最多每十年頒一次。",
+              "source": "PR Newswire",
+              "sourceUrl": "https://www.prnewswire.com/news-releases/shigeru-miyamoto-critically-acclaimed-nintendo-director-and-fellow-selected-as-inaugural-legend-award-inductee-at-30th-annual-dice-awards-302940899.html",
+              "publishedAt": "2026-11-17T03:23:00+08:00",
+              "category": "other",
+              "uncertain": false,
+              "note": "PR Newswire datePublished 2026-11-16T19:23:00Z, converted to HKT. Ceremony is Feb 18, 2027 at 8:00 PM PT.",
+              "imageAlt": "Shigeru Miyamoto and the 30th D.I.C.E. Awards Legend Award announcement graphic",
+              "image": "https://mmx.prnewswire.com/media/MS2036797/1200-30th-DICE-Awards-Legend-Award-Shigeru-Miyamoto.jpg?id=OA3082204&p=facebook"
+            },
+            {
+              "id": "gaming-20261117-ram-antitrust-lawsuit-proceeds",
+              "title": "US judge denies Samsung, SK Hynix and Micron bid to dismiss DRAM price-fixing lawsuit",
+              "summary": "VGC 報道，美國法官 Noël Wise 拒絕三星、SK Hynix 同 Micron 撤銷集體訴訟嘅申請，指有關 DRAM 供應同價格被操控嘅指控足以繼續審理。呢個裁決並非定罪；VGC 並提到零件成本上升下，PS5 Pro 現售 899 美元，較推出時 699 美元為高。",
+              "source": "VGC",
+              "sourceUrl": "https://www.videogameschronicle.com/news/judge-throws-out-ram-makers-attempt-to-dismiss-lawsuit-accusing-them-of-fixing-prices-and-supply/",
+              "publishedAt": "2026-11-17T00:20:00+08:00",
+              "category": "other",
+              "uncertain": false,
+              "note": "VGC dateline is 16th Nov 2026 / 4:20 pm; treated as UK GMT and converted to HKT. imageUrl is null because the page’s social image was a generic 2021 VGC consoles graphic, not an article-specific thumb. The $899 PS5 Pro figure is reported by VGC in this article."
+            },
+            {
+              "id": "gaming-20261117-enthusiast-gaming-ccaa",
+              "title": "Enthusiast Gaming begins CCAA restructuring, with a stay through November 26",
+              "summary": "加拿大遊戲媒體公司 Enthusiast Gaming 宣布，已獲安大略省高等法院按《公司債權人安排法》（CCAA）頒發初步命令，暫停訴訟至 11 月 26 日，期間業務照常運作。多名董事即時辭任，Alvarez & Marsal 獲委任為監察人；法院亦批准最多 50 萬美元嘅 DIP 貸款，公司將於覆核聆訊申請提高至 350 萬美元。",
+              "source": "Newsfile",
+              "sourceUrl": "https://www.newsfilecorp.com/release/324153/Enthusiast-Gaming-Commences-Restructuring-Process-Under-the-CCAA",
+              "publishedAt": "2026-11-16T23:23:00+08:00",
+              "category": "other",
+              "uncertain": false,
+              "note": "Official release timestamp is November 16, 2026, 10:23 AM EST, converted to HKT. imageUrl is null because the Newsfile social image could not be confirmed as a clear article-specific thumb."
+            },
+            {
+              "id": "gaming-20261117-grammy-2027-game-score-nominees",
+              "title": "Grammy game-score nominees include 007 First Light, Ghost of Yōtei, Wolverine and Star Wars: Zero Company",
+              "summary": "2027 年格萊美「Best Score Soundtrack For Video Games and Other Interactive Media」提名已經公布，五款作品分別係《Avatar: Frontiers of Pandora – From the Ashes》（John Paesano）、《007: First Light》（Joe Henson、Alexis Leon Smith）、《Ghost of Yōtei》（Toma Otowa）、《Marvel's Wolverine》（David Fleming），以及《Star Wars: Zero Company》（Gordy Haab）。頒獎典禮定於 2027 年 2 月 7 日舉行。",
+              "source": "VGC",
+              "sourceUrl": "https://www.videogameschronicle.com/news/this-years-video-game-soundtrack-grammy-nominations-include-bond-star-wars-and-wolverine/",
+              "publishedAt": "2026-11-16T21:40:00+08:00",
+              "category": "other",
+              "platforms": [
+                "PS5",
+                "Xbox Series X|S",
+                "PC"
+              ],
+              "uncertain": false,
+              "note": "VGC dateline is 16th Nov 2026 / 1:40 pm; treated as UK GMT and converted to HKT. Nominee list checked against coverage of the official Recording Academy announcement dated Nov 16, 2026. The ceremony date (Feb 7, 2027) is from the official Grammy nominations announcement. imageUrl is null because the VGC social image was a generic older Grammys graphic. platforms are a partial set for the nominated games and are not exhaustive."
+            },
+            {
+              "id": "gaming-20261117-gta6-leak-kurtaj-guilty-plea",
+              "title": "Lapsus$ hacker Arion Kurtaj pleads guilty over the 2022 GTA VI leak",
+              "summary": "英國皇家檢察署宣布，21 歲嘅 Arion Kurtaj 11 月 16 日在 Woolwich Crown Court 認罪，承認入侵 Rockstar Games 並洩露 90 段《GTA VI》遊戲片段，同時亦承認涉及 BT/EE、Revolut 同 Uber 等攻擊。案件將於 11 月 23 日在同一法院宣判。",
+              "source": "Crown Prosecution Service",
+              "sourceUrl": "https://www.cps.gov.uk/london-south/news/lapsus-hacker-who-leaked-gta-vi-gameplay-videos-convicted",
+              "publishedAt": "2026-11-16T00:00:00+08:00",
+              "category": "other",
+              "platforms": [
+                "PS5",
+                "Xbox Series X|S"
+              ],
+              "uncertain": false,
+              "note": "Official CPS release is dated 16 November 2026 with no clock time, so publishedAt is date-only. imageUrl is null because the page social image is a generic CPS graphic. platforms refer to the leaked game’s current platforms, not to a new release."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
