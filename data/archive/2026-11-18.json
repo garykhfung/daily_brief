@@ -1,0 +1,853 @@
+{
+  "updatedAt": "2026-11-18T08:04:02+08:00",
+  "timezone": "Asia/Hong_Kong",
+  "tabs": [
+    {
+      "id": "ai",
+      "label": "AI",
+      "sections": [
+        {
+          "id": "frontier",
+          "label": "Frontier models",
+          "items": [
+            {
+              "id": "ai-20261118-microsoft-ignite-copilot-workspaces",
+              "title": "Microsoft adds Copilot Workspaces and Autopilot at Ignite 2026, and makes Code 2 and Decision-1.1 generally available",
+              "summary": "微軟喺Ignite 2026推出多人協作嘅Copilot Workspaces，以及可全日運行、推動工作前進嘅Autopilot代理。官方網誌亦宣布編碼模型Code 2同Microsoft-Decision-1.1已一般供應，安全系統Perception亦已正式推出。",
+              "source": "The Official Microsoft Blog",
+              "sourceUrl": "https://blogs.microsoft.com/blog/2026/11/17/ignite-2026-building-the-frontier-ecosystem/",
+              "publishedAt": "2026-11-18T02:36:03+08:00",
+              "category": "frontier",
+              "uncertain": false,
+              "imageAlt": "Satya Nadella speaking at Microsoft Ignite 2026",
+              "image": "https://blogs.microsoft.com/wp-content/uploads/2026/11/Nadella_11172026_Ignite_OMB_FrontierEcosystem_v01-1024x576.jpg"
+            },
+            {
+              "id": "ai-20261118-meta-muse-australia",
+              "title": "Meta’s Muse personal AI agent is now available in Australia",
+              "summary": "Meta宣布個人AI代理Muse即日起喺澳洲透過iOS、Android同muse.ai（Mac應用）提供，並會逐步接入Canva、Domain、Kogan等本地服務。公司稱用戶可自訂連接權限，發送電郵或購物等敏感操作前需要確認；基本功能免費，另有訂閱計劃。",
+              "source": "Meta",
+              "sourceUrl": "https://about.fb.com/news/2026/11/muse-is-now-available-in-australia/",
+              "publishedAt": "2026-11-18T02:00:31+08:00",
+              "category": "frontier",
+              "uncertain": false,
+              "imageAlt": "Meta promotional image for the Muse Australia launch",
+              "image": "https://about.fb.com/wp-content/uploads/2026/11/AU_Jolly_Surfer_Horizontal.png?w=1200"
+            },
+            {
+              "id": "ai-20261118-openai-gpt-62-astra-sol",
+              "title": "OpenAI releases GPT-6.2 Astra and Sol for professional and everyday work",
+              "summary": "OpenAI推出新模型GPT-6.2 Astra同GPT-6.2 Sol，前者定位處理複雜專業工作，後者偏向日常任務；即日起向ChatGPT Plus、Pro、Enterprise同Edu用戶喺ChatGPT Work同Codex提供，開發者亦可經API使用（Enterprise同Edu須由工作區管理員開啟）。Astra嘅API輸入同輸出代幣價較GPT-6 Astra低20%，標準價為每百萬代幣輸入8美元、緩存輸入0.40美元、輸出40美元。",
+              "source": "OpenAI",
+              "sourceUrl": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+              "publishedAt": "2026-11-17T00:00:00+08:00",
+              "category": "frontier",
+              "uncertain": false,
+              "note": "OpenAI News lists the post under Nov 17, 2026; the article page does not show an exact publish time.",
+              "imageAlt": "OpenAI promotional graphic for GPT-6.2 Astra and Sol",
+              "image": "https://cdn.openai.com/mdx-assets/e193aefe-5e58-431c-8cd2-adadac0c1496/44573edd-9653-49b3-ba07-7b3643545ef9.d3072be3.png"
+            },
+            {
+              "id": "ai-20261118-openai-chatgpt-for-sales",
+              "title": "OpenAI introduces ChatGPT for Sales with a Sales plugin and 30-plus partner plugins",
+              "summary": "OpenAI推出ChatGPT for Sales，內置新嘅Sales插件，並加入超過30個新或加強嘅合作夥伴插件，可連接Salesforce、HubSpot等CRM同銷售工具，協助準備通話、撰寫方案同跟進客戶。",
+              "source": "OpenAI",
+              "sourceUrl": "https://openai.com/index/introducing-chatgpt-for-sales",
+              "publishedAt": "2026-11-17T00:00:00+08:00",
+              "category": "frontier",
+              "uncertain": false,
+              "note": "The article page lists November 17, 2026; exact publish time is unknown.",
+              "imageAlt": "OpenAI social card for Introducing ChatGPT for Sales",
+              "image": "https://images.ctfassets.net/kftzwdyauwt9/5RAGjSlTriroeiI3udypQ4/ae6ec1acddc323df91930bd63f30ddd4/introducing-chatgpt-for-sales-social.png?w=1600&h=900&fit=fill"
+            },
+            {
+              "id": "ai-20261118-openai-astra-for-law",
+              "title": "OpenAI updates Astra for Law and opens requests to all ChatGPT Enterprise customers",
+              "summary": "OpenAI發布建基於GPT-6.2 Astra嘅更新版Astra for Law，並開放所有ChatGPT Enterprise客戶經Trusted Access Program申請，亦包括API。公司稱佢喺Harvey LAB-AA 120項任務中有20.8%取得滿分；法律搜索索引較9月擴大34%，現涵蓋超過3.1億個URL。",
+              "source": "OpenAI",
+              "sourceUrl": "https://openai.com/index/astra-law-6-2/",
+              "publishedAt": "2026-11-17T00:00:00+08:00",
+              "category": "frontier",
+              "uncertain": false,
+              "note": "The article page lists November 17, 2026; exact publish time is unknown.",
+              "imageAlt": "OpenAI social card for Astra for Law legal intelligence",
+              "image": "https://images.ctfassets.net/kftzwdyauwt9/3MwSwa1GcJHdJGeOy7u0LZ/7ecfaba7da6555bc46c1e85f50c13bdb/astra-law-legal-intelligence-social-smooth.png?w=1600&h=900&fit=fill"
+            }
+          ]
+        },
+        {
+          "id": "open-source",
+          "label": "Open-source models",
+          "items": [
+            {
+              "id": "ai-20261118-ovh-olala-mini",
+              "title": "OVH announces Olala mini 7A1B, an Apache 2.0 open-weight model",
+              "summary": "法國雲端商OVH宣布推出自家首個語言模型系列Olala，其中Olala mini 7A1B為70億參數混合專家模型（約10億活躍參數），採用Apache 2.0授權。公司稱會一併發布權重、預訓練底模同技術報告，並計劃於11月19日OVHcloud AI Summit作正式發布。",
+              "source": "OVHcloud",
+              "sourceUrl": "https://corporate.ovhcloud.com/en/newsroom/news/ovh-olala-mini/",
+              "publishedAt": "2026-11-17T00:00:00+08:00",
+              "category": "open-source",
+              "uncertain": false,
+              "note": "Official page timestamp is 'Tue, 11/17/2026 - 12:00' without a timezone, so publishedAt is date-only (T00:00+08:00) and the exact HKT time is unknown. The release says weights will be available on Hugging Face under Apache 2.0, and the official launch is at the OVHcloud AI Summit on 19 November. A Hugging Face model card was not independently found at assemble time. The page og:image is the company logo and was omitted."
+            }
+          ]
+        },
+        {
+          "id": "hk",
+          "label": "Hong Kong",
+          "items": [
+            {
+              "id": "ai-20261118-hk-hkma-agentic-ai-aml",
+              "title": "HKMA is studying agentic AI to track abnormal digital-asset transactions, official says",
+              "summary": "文匯報報道，金管局助理總裁（法規及打擊清洗黑錢）陳景宏表示，當局正研究利用代理式人工智能，作多層次追蹤數字資產同法定貨幣之間嘅異常交易，以打擊洗錢等高風險渠道。佢引述Chainalysis研究，指2025年非法地址收款逾1,500億美元，當中穩定幣佔84%。",
+              "source": "Wen Wei Po",
+              "sourceUrl": "https://www.wenweipo.com/a/202611/18/AP6afcb415e4b028ec0194605c.html",
+              "publishedAt": "2026-11-18T04:07:31+08:00",
+              "category": "hk",
+              "uncertain": false,
+              "note": "Article timestamp is 2026-11-18 04:07:31. The $150 billion / 84% stablecoin figures are attributed in the article to a Chainalysis report cited by the official, not to an HKMA primary dataset. The page image is labelled 資料圖片 (file photo) and was omitted."
+            },
+            {
+              "id": "ai-20261118-hk-legco-ha-ai-lab",
+              "title": "LegCo AI and robotics subcommittee visits Hospital Authority AI Lab",
+              "summary": "立法會人工智能及機械人發展事宜小組委員會於11月17日參觀醫管局AI實驗室，了解人工智能同機械人喺醫療體系嘅應用。醫管局展示住院病人病情惡化預測系統，分析逾20項臨床特徵，預測入院後48小時內出現不良結果嘅風險，以便及早介入。",
+              "source": "HKSAR Government",
+              "sourceUrl": "https://www.info.gov.hk/gia/general/202611/17/P2026111700629.htm",
+              "publishedAt": "2026-11-17T19:50:00+08:00",
+              "category": "hk",
+              "uncertain": false,
+              "note": "GIA issued at HKT 19:50 on 17 Nov 2026, issued on behalf of the Legislative Council Secretariat.",
+              "imageAlt": "Official photo from the LegCo subcommittee visit to the Hospital Authority AI Lab",
+              "image": "https://gia.info.gov.hk/general/202611/17/P2026111700629_photo_1343996.jpg"
+            },
+            {
+              "id": "ai-20261118-hk-td-drone-ai-parking",
+              "title": "Hong Kong Transport Department tests drones and AI to map brownfield parking",
+              "summary": "運輸署表示，策略專案部人員介紹「監管沙盒X」試點，以超視距無人機配合人工智能影像分析，掌握新界及偏遠地區棕地同私人臨時停車場嘅泊車實況。署方稱傳統實地調查費時費力，新方法可將航拍資料轉化為更全面嘅泊車數據。",
+              "source": "RTHK",
+              "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1878123-20261117.htm",
+              "publishedAt": "2026-11-17T14:59:00+08:00",
+              "category": "hk",
+              "uncertain": false,
+              "note": "RTHK timestamp is 2026-11-17 HKT 14:59. The report relies on a Transport Department social post as relayed by RTHK; no matching GIA release was found.",
+              "imageAlt": "Transport Department officers briefing a Low-altitude Economy Regulatory Sandbox activity, as shown in an RTHK news photo",
+              "image": "https://newsstatic.rthk.hk/images/mfile_1878123_1_M_20261117151402.jpg"
+            },
+            {
+              "id": "ai-20261118-hk-hkimr-ai-finance-report",
+              "title": "HKIMR report: 90% of Hong Kong financial firms have adopted or plan to adopt generative AI",
+              "summary": "金管局轄下香港金融學院研究部門HKIMR於11月17日發表報告，指香港金融服務業目前或計劃採用生成式人工智能嘅比例達90%，高於2025年嘅75%；已實施代理式人工智能嘅機構佔13%，另有56%計劃採用。合規範疇方面，86%已採用或計劃採用生成式人工智能方案，超過七成表示未來三至五年有興趣探索代理式人工智能，報告亦提到可解釋性同安全仍係主要挑戰。",
+              "source": "Hong Kong Monetary Authority",
+              "sourceUrl": "https://www.info.gov.hk/gia/general/202611/17/P2026111600666.htm",
+              "publishedAt": "2026-11-17T11:20:00+08:00",
+              "category": "hk",
+              "uncertain": false,
+              "note": "English GIA issued at HKT 11:20 on 17 Nov 2026, issued on behalf of the Hong Kong Monetary Authority. A matching Chinese GIA (P2026111600684) was issued at the same time.",
+              "imageAlt": "Official briefing photo for the HKIMR report on AI adoption in Hong Kong financial services",
+              "image": "https://gia.info.gov.hk/general/202611/17/P2026111600666_photo_1343990.jpg"
+            }
+          ]
+        },
+        {
+          "id": "companies",
+          "label": "Companies",
+          "items": [
+            {
+              "id": "ai-20261118-nvidia-q3-fy27-earnings",
+              "title": "NVIDIA posts $115.8 billion Q3 FY2027 revenue and guides Q4 to $130 billion ±3%",
+              "summary": "英偉達公布截至2026年10月25日嘅2027財年第三季收入1158億美元，按年升103%，其中數據中心收入1076億美元、按年升110%；GAAP每股攤薄盈利為2.70美元。公司預測第四季收入為1300億美元（上下3%），指引並無計入中國數據中心運算收入，並稱Vera Rubin NVL72已開始出貨。",
+              "source": "NVIDIA Newsroom",
+              "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027",
+              "publishedAt": "2026-11-18T06:00:00+08:00",
+              "category": "companies",
+              "uncertain": false,
+              "note": "Newsroom page lists only the calendar date November 17, 2026. publishedAt uses the stated conference-call time of 2 p.m. Pacific / 5 p.m. Eastern on Nov 17 (06:00 HKT on Nov 18). Figures are from the official written PR only. The page og:image is a generic Voyager building-sign asset and was omitted."
+            },
+            {
+              "id": "ai-20261118-model-ml-series-b",
+              "title": "Model ML raises $250 million Series B at a $1.5 billion valuation",
+              "summary": "金融AI公司Model ML宣布完成2.5億美元B輪融資，估值15億美元，由General Atlantic同QED Investors共同領投，累計融資額達3.5億美元。公司為銀行、顧問同資產管理公司提供個人AI代理，並稱可按客戶基礎設施部署，客戶數據不會用來訓練模型。",
+              "source": "Model ML",
+              "sourceUrl": "https://modelml.com/articles/model-ml-raises-250-million-at-1.5-billion-valuation-18-months-after-launching-from-stealth",
+              "publishedAt": "2026-11-18T03:32:11+08:00",
+              "category": "companies",
+              "uncertain": false,
+              "note": "Company page lists Nov 17, 2026 only. Timestamp is from TechCrunch's report of the same announcement (article:published_time 2026-11-17T19:32:11+00:00).",
+              "imageAlt": "Model ML graphic from the company's Series B announcement",
+              "image": "https://framerusercontent.com/images/lFmk5djlpSz9mmi11jnlbVn4rY.png?width=2048&height=1365"
+            },
+            {
+              "id": "ai-20261118-microsoft-salesforce-copilotforce",
+              "title": "Microsoft and Salesforce announce Copilotforce, with Salesforce in Copilot in public preview",
+              "summary": "微軟同Salesforce宣布Copilotforce合作，將Salesforce客戶數據同流程接入Microsoft Copilot、Teams同Fabric；Salesforce in Copilot插件即日起公開預覽，並提供38項以上預建銷售技能。由Fabric OneLake到Salesforce Data 360嘅數據聯合已一般供應，反向共享則處於公開預覽。",
+              "source": "Microsoft Source",
+              "sourceUrl": "https://news.microsoft.com/source/2026/11/17/microsoft-and-salesforce-announce-copilotforce-bringing-trusted-customer-context-and-action-into-microsoft-ai-experiences/",
+              "publishedAt": "2026-11-18T02:10:16+08:00",
+              "category": "companies",
+              "uncertain": false,
+              "imageAlt": "Microsoft and Salesforce Copilotforce announcement graphic",
+              "image": "https://news.microsoft.com/source/wp-content/uploads/2026/11/Microsoft_salesforce_1024x576.png"
+            },
+            {
+              "id": "ai-20261118-oregon-ag-openai-lawsuit",
+              "title": "Oregon attorney general sues OpenAI, seeking $2.035 billion over ChatGPT child-safety claims",
+              "summary": "俄勒岡州總檢察長Dan Rayfield喺州巡迴法院對OpenAI提起訴訟，要求約20.35億美元，指控公司違反州消費者保護法，向公眾誤稱ChatGPT對兒童安全。當局要求法庭下令停止誤導並落實有效保護措施；有關指控仍待法院審理。",
+              "source": "Oregon Department of Justice",
+              "sourceUrl": "https://www.doj.state.or.us/media-home/news-media-releases/ag-rayfield-files-2b-lawsuit-against-open-ai-launches-keeping-kids-safe-initiative/",
+              "publishedAt": "2026-11-18T01:34:38+08:00",
+              "category": "companies",
+              "uncertain": false,
+              "note": "article:published_time 2026-11-17T17:34:38+00:00. The summary reports the filing and the state's allegations, not adjudicated findings. No suitable article og:image was found."
+            },
+            {
+              "id": "ai-20261118-genesis-ai-series-a",
+              "title": "Genesis AI raises $500 million Series A at a $3.5 billion valuation",
+              "summary": "機器人公司Genesis AI宣布完成5億美元A輪融資，投後估值35億美元，由Premji Invest、Khosla Ventures同Eclipse共同領投，NVIDIA同AMD Ventures等亦有參與。資金將用於擴大訓練數據、提升機械操作能力，以及規模化部署其通用機器人Eno。",
+              "source": "PR Newswire (Genesis AI)",
+              "sourceUrl": "https://www.prnewswire.com/news-releases/genesis-ai-raises-500m-series-a-at-3-5b-valuation-to-master-human-level-dexterity-in-general-purpose-robots-and-deploy-at-scale-302941249.html",
+              "publishedAt": "2026-11-17T22:00:00+08:00",
+              "category": "companies",
+              "uncertain": false,
+              "note": "Official company release via PR Newswire; the page states Nov 17, 2026, 09:00 ET (22:00 HKT). The og:image is a YouTube thumbnail and was omitted."
+            },
+            {
+              "id": "ai-20261118-isomorphic-labs-series-c",
+              "title": "Isomorphic Labs raises $5 billion Series C to advance AI drug design",
+              "summary": "Isomorphic Labs宣布完成50億美元C輪融資，由Greenoaks同Sequoia Capital共同領投，Alphabet繼續大額出資，Andreessen Horowitz等新投資者亦有參與。公司稱資金將用來擴展其藥物設計引擎IsoDDE同人工智能設計嘅候選藥物管線；估值未有披露。",
+              "source": "Isomorphic Labs",
+              "sourceUrl": "https://www.isomorphiclabs.com/articles/isomorphic-labs-announces-series-c-investment-round",
+              "publishedAt": "2026-11-17T20:17:00+08:00",
+              "category": "companies",
+              "uncertain": false,
+              "note": "Company page lists November 17, 2026 only. Timestamp is from the firm's simultaneous PR Newswire release (datePublished 2026-11-17T12:17:00Z = 20:17 HKT).",
+              "imageAlt": "Isomorphic Labs artwork from the company's Series C announcement",
+              "image": "https://cdn.prod.website-files.com/6846c7b5a78f3e9225c64f10/6afc440c8b4fc64d82c8d851_6afc2c7f673a113273db42d4_ISO_MonumentalPost_Landscape%201.jpg"
+            }
+          ]
+        },
+        {
+          "id": "markets",
+          "label": "Markets",
+          "items": [
+            {
+              "id": "ai-20261118-mkt-nvda-close-nov17",
+              "title": "NVDA closes Nov 17 at $155.46 (−0.44%) ahead of after-hours earnings",
+              "summary": "Nvidia星期二（11月17日）正規交易收市報155.46美元，跌0.68美元或0.44%，當時業績尚未公布。Motley Fool指股價仍受行政總裁黃仁勳11月12日辭職影響；同期標普500跌1.03%報7341，納斯達克綜合指數跌0.74%報24328。收市後業績見同日公司新聞，盤後報價因延時交易仍未完結，本批不引用單一數字。",
+              "source": "The Motley Fool",
+              "sourceUrl": "https://www.fool.com/coverage/stock-market-today/2026/11/17/stock-market-today-nov-17-nvidia-slides-ahead-of-earnings-but-soars-in-after-hours-trading/",
+              "publishedAt": "2026-11-18T05:00:00+08:00",
+              "category": "markets",
+              "uncertain": false,
+              "note": "Regular-session close time is 17 Nov 2026, 4:00 PM EST = 18 Nov 05:00 HKT. Fool article timestamp is 2026-11-17T22:03:10Z. Yahoo Finance daily close confirms $155.46, −$0.68 (−0.44%), previous close $156.14 on 16 Nov. After-hours trading was still open at assemble time (session ends 8:00 PM EST / 09:00 HKT), so no extended-hours print is cited as final.",
+              "imageAlt": "Nvidia logo on the corner of a grey stone building, from the Motley Fool market recap",
+              "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F5129cc85e67acf9267c99f604e89668cf96e455d-1290x860.jpg&w=1200&op=resize"
+            },
+            {
+              "id": "ai-20261118-mkt-amd-close-nov17",
+              "title": "AMD closes Nov 17 at $503.41 (−0.17%)",
+              "summary": "AMD星期二正規交易收市報503.41美元，跌0.87美元或0.17%。Motley Fool喺當日市況報道中列出呢個收市價，指半導體股喺Nvidia業績公布前表現分歧。",
+              "source": "The Motley Fool",
+              "sourceUrl": "https://www.fool.com/coverage/stock-market-today/2026/11/17/stock-market-today-nov-17-nvidia-slides-ahead-of-earnings-but-soars-in-after-hours-trading/",
+              "publishedAt": "2026-11-18T05:00:00+08:00",
+              "category": "markets",
+              "uncertain": false,
+              "note": "Regular-session close time is 17 Nov 2026, 4:00 PM EST = 18 Nov 05:00 HKT. Yahoo Finance daily close confirms $503.41, −$0.87 (−0.17%), previous close $504.28 on 16 Nov.",
+              "imageAlt": "Nvidia building sign used as the hero image on the Motley Fool Nov 17 market recap",
+              "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F5129cc85e67acf9267c99f604e89668cf96e455d-1290x860.jpg&w=1200&op=resize"
+            },
+            {
+              "id": "ai-20261118-mkt-avgo-close-nov17",
+              "title": "AVGO closes Nov 17 at $341.60 (+2.46%)",
+              "summary": "Broadcom星期二正規交易收市報341.60美元，升8.20美元或2.46%。Motley Fool喺當日市況報道中列出呢個收市價，指人工智能芯片股當日表現並不一致。",
+              "source": "The Motley Fool",
+              "sourceUrl": "https://www.fool.com/coverage/stock-market-today/2026/11/17/stock-market-today-nov-17-nvidia-slides-ahead-of-earnings-but-soars-in-after-hours-trading/",
+              "publishedAt": "2026-11-18T05:00:00+08:00",
+              "category": "markets",
+              "uncertain": false,
+              "note": "Regular-session close time is 17 Nov 2026, 4:00 PM EST = 18 Nov 05:00 HKT. Yahoo Finance daily close confirms $341.60, +$8.20 (+2.46%), previous close $333.40 on 16 Nov.",
+              "imageAlt": "Nvidia building sign used as the hero image on the Motley Fool Nov 17 market recap",
+              "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F5129cc85e67acf9267c99f604e89668cf96e455d-1290x860.jpg&w=1200&op=resize"
+            },
+            {
+              "id": "ai-20261118-mkt-arm-close-nov17",
+              "title": "ARM closes Nov 17 at $183.39 (+4.76%)",
+              "summary": "Arm Holdings星期二收市報183.39美元，升8.34美元或4.76%。數據來自Yahoo Finance列出嘅11月17日官方收市價，前一交易日收市為175.05美元。",
+              "source": "Yahoo Finance",
+              "sourceUrl": "https://finance.yahoo.com/quote/ARM/history/",
+              "publishedAt": "2026-11-18T05:00:00+08:00",
+              "category": "markets",
+              "uncertain": false,
+              "note": "Regular-session close is 17 Nov 2026, 4:00 PM EST = 18 Nov 05:00 HKT. Yahoo Finance official close $183.39 versus previous close $175.05 on Nov 16. Chart-screenshot og:image omitted, consistent with yesterday’s Yahoo-sourced close items."
+            },
+            {
+              "id": "ai-20261118-mkt-tsm-close-nov17",
+              "title": "TSM closes Nov 17 at $359.69 (−3.68%)",
+              "summary": "台積電美國預託證券星期二收市報359.69美元，跌13.76美元或3.68%。數據來自Yahoo Finance列出嘅11月17日官方收市價，前一交易日收市為373.45美元。",
+              "source": "Yahoo Finance",
+              "sourceUrl": "https://finance.yahoo.com/quote/TSM/history/",
+              "publishedAt": "2026-11-18T05:00:00+08:00",
+              "category": "markets",
+              "uncertain": false,
+              "note": "Regular-session close is 17 Nov 2026, 4:00 PM EST = 18 Nov 05:00 HKT. Yahoo Finance official close $359.69 versus previous close $373.45 on Nov 16. Chart-screenshot og:image omitted."
+            },
+            {
+              "id": "ai-20261118-mkt-googl-close-nov17",
+              "title": "GOOGL closes Nov 17 at $280.20 (−1.24%)",
+              "summary": "Alphabet A股星期二收市報280.20美元，跌3.52美元或1.24%。數據來自Yahoo Finance列出嘅11月17日官方收市價，前一交易日收市為283.72美元。",
+              "source": "Yahoo Finance",
+              "sourceUrl": "https://finance.yahoo.com/quote/GOOGL/history/",
+              "publishedAt": "2026-11-18T05:00:00+08:00",
+              "category": "markets",
+              "uncertain": false,
+              "note": "Regular-session close is 17 Nov 2026, 4:00 PM EST = 18 Nov 05:00 HKT. Yahoo Finance official close $280.20 versus previous close $283.72 on Nov 16. Chart-screenshot og:image omitted."
+            },
+            {
+              "id": "ai-20261118-mkt-msft-close-nov17",
+              "title": "MSFT closes Nov 17 at $506.24 (−2.27%)",
+              "summary": "Microsoft星期二收市報506.24美元，跌11.75美元或2.27%。數據來自Yahoo Finance列出嘅11月17日官方收市價，前一交易日收市為517.99美元。",
+              "source": "Yahoo Finance",
+              "sourceUrl": "https://finance.yahoo.com/quote/MSFT/history/",
+              "publishedAt": "2026-11-18T05:00:00+08:00",
+              "category": "markets",
+              "uncertain": false,
+              "note": "Regular-session close is 17 Nov 2026, 4:00 PM EST = 18 Nov 05:00 HKT. Yahoo Finance official close $506.24 versus previous close $517.99 on Nov 16. Chart-screenshot og:image omitted."
+            },
+            {
+              "id": "ai-20261118-mkt-anthropic-ipo-above-range",
+              "title": "CNBC sources: Anthropic likely to price its IPO above the $70–$78 range",
+              "summary": "CNBC援引多名匿名消息人士報道，Anthropic首次公開招股很大機會以高於現時70至78美元嘅價格區間定價，並計劃於周二下午4時（美東時間）截止訂單簿。公司仍計劃11月19日以代號ANT喺納斯達克上市；截至該報道發出時，最終發行價尚未公布。",
+              "source": "CNBC",
+              "sourceUrl": "https://www.cnbc.com/2026/11/17/anthropic-ipo-price.html",
+              "publishedAt": "2026-11-17T22:13:03+08:00",
+              "category": "markets",
+              "uncertain": true,
+              "note": "article:published_time 2026-11-17T14:13:03+0000 (9:13 AM EST). This is new versus yesterday's item on the expected Nov 18 pricing / Nov 19 ANT debut. The 'above the range' and 4 p.m. ET Tuesday book-close details are attributed to unnamed sources speaking to CNBC, so uncertain is true. Official pricing had not been announced as of this batch (still Tuesday evening in the US at research time). The page og:image is a Getty photo and was omitted."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gaming",
+      "label": "Gaming",
+      "sections": [
+        {
+          "id": "pc-switch2",
+          "label": "PC / Switch 2",
+          "items": [
+            {
+              "id": "gaming-20261118-calame-feb-2027",
+              "title": "Calame is dated February 2027 for PC, PS5 and Xbox Series",
+              "summary": "Gematsu 報道，Nextale Games 嘅單人等距策略 RPG《Calame》將於 2027 年 2 月登陸 PS5、Xbox Series 同 Steam，暫未公布具體日期。PC 版目前已有試玩；戰鬥以格子戰術為主，並有可喺戰鬥中改寫地形嘅 Correction 機制。",
+              "source": "Gematsu",
+              "sourceUrl": "https://www.gematsu.com/2026/11/calame-launches-in-february-2027",
+              "publishedAt": "2026-11-18T01:41:00+08:00",
+              "category": "pc-switch2",
+              "platforms": [
+                "PC",
+                "PS5",
+                "Xbox Series"
+              ],
+              "releaseDate": "TBA",
+              "uncertain": false,
+              "note": "Gematsu stamp is November 17, 2026, 12:41 PM EST, converted to HKT. releaseDate is TBA because the source only gives a February 2027 window, not a calendar day. Gematsu hero image returned 403 to automated checks, so imageUrl is null."
+            },
+            {
+              "id": "gaming-20261118-gold-mining-sim-definitive-out",
+              "title": "Gold Mining Simulator: Definitive Edition is out now on Steam",
+              "summary": "Code Horizon 同 PlayWay 嘅《Gold Mining Simulator: Definitive Edition》已於 11 月 17 日喺 Steam 推出。官方形容呢個係原作嘅刷新擴充版，包括無讀取區嘅連續礦場、新機械同改善天氣同光影；Steam API 確認已出，今早美國區售價 33.99 美元（原價 39.99 美元，八五折）。",
+              "source": "Steam",
+              "sourceUrl": "https://store.steampowered.com/app/4707700/Gold_Mining_Simulator_Definitive_Edition/",
+              "publishedAt": "2026-11-17T22:00:05+08:00",
+              "category": "pc-switch2",
+              "platforms": [
+                "PC"
+              ],
+              "releaseDate": "2026-11-17",
+              "uncertain": false,
+              "note": "Update to the Nov 17 listed item. Steam appdetails (app 4707700) returns coming_soon=false and date Nov 17, 2026. publishedAt is the official Steam community announcement timestamp. The 15% discount is from the live Steam API this morning.",
+              "imageAlt": "Gold Mining Simulator: Definitive Edition Steam header art",
+              "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4707700/e25d301bd345da1734990375d2669e9f34f438fb/header.jpg?t=1794923888"
+            },
+            {
+              "id": "gaming-20261118-melvor-idle-2-ea",
+              "title": "Melvor Idle 2: A RuneScape Adventure is out now in Steam Early Access",
+              "summary": "Games by Malcs 開發、Jagex 發行嘅《Melvor Idle 2: A RuneScape Adventure》已於 11 月 17 日登陸 Steam 搶先體驗。官方售價 14.99 美元，今早檢查時美國區為 13.49 美元（九折）；官方表示搶先體驗路線圖會喺下周公布，原聲帶另售 4.99 美元。",
+              "source": "Steam",
+              "sourceUrl": "https://store.steampowered.com/app/3218350/Melvor_Idle_2_A_RuneScape_Adventure/",
+              "publishedAt": "2026-11-17T17:02:30+08:00",
+              "category": "pc-switch2",
+              "platforms": [
+                "PC"
+              ],
+              "releaseDate": "2026-11-17",
+              "uncertain": false,
+              "note": "Update to the Nov 16 listed item. Steam appdetails (app 3218350) returns coming_soon=false and date Nov 17, 2026. publishedAt is the official Steam community announcement timestamp. The $13.49 sale price is from the live Steam API this morning; no official sale end date was stated in the launch post.",
+              "imageAlt": "Melvor Idle 2: A RuneScape Adventure Steam header art",
+              "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3218350/21b3f6881a12eef86b7c17b21640b396f3510f92/header.jpg?t=1794955439"
+            },
+            {
+              "id": "gaming-20261118-rangers-path-1-0-out",
+              "title": "Ranger’s Path: National Park Simulator leaves Early Access and is out now on PC, PS5 and Xbox",
+              "summary": "astragon 同 To-Go Games 嘅自然公園模擬《Ranger’s Path: National Park Simulator》已結束搶先體驗，11 月 17 日以 1.0 正式版登陸 PC（Steam 同 Epic Games Store）、PS5 同 Xbox Series。Steam API 顯示 coming_soon 為否，美國區售價 19.99 美元；1.0 更新加入雙人合作同新任務，主機版一併推出。",
+              "source": "Steam",
+              "sourceUrl": "https://store.steampowered.com/app/2502780/Rangers_Path_National_Park_Simulator/",
+              "publishedAt": "2026-11-17T00:00:00+08:00",
+              "category": "pc-switch2",
+              "platforms": [
+                "PC",
+                "PS5",
+                "Xbox Series"
+              ],
+              "releaseDate": "2026-11-17",
+              "uncertain": false,
+              "note": "Update to the Nov 17 listed item. Steam appdetails (app 2502780) returns coming_soon=false and date Nov 17, 2026. publishedAt is date-only because no official clock time was used for this source.",
+              "imageAlt": "Ranger’s Path: National Park Simulator Steam header art",
+              "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2502780/d12c19a4a747604ac679cc83b5066de50f879b83/header.jpg?t=1794935809"
+            },
+            {
+              "id": "gaming-20261118-ck3-silk-silver-out",
+              "title": "Crusader Kings III: Silk & Silver and the free 1.21 Florin update are out now",
+              "summary": "Paradox Interactive 為《Crusader Kings III》推出大型資料片《Silk & Silver》，並同步提供免費 1.21 Florin 更新。資料片加入無地商人家族、威尼斯同熱那亞等可玩共和國，同埋兩組新開局；Steam API 顯示已於 11 月 17 日上架，美國區售價 29.99 美元。",
+              "source": "Paradox Interactive",
+              "sourceUrl": "https://www.paradoxinteractive.com/media/press-releases/paradox-interactive/find-your-fortune-in-new-crusader-kings-iii-expansion",
+              "publishedAt": "2026-11-17T00:00:00+08:00",
+              "category": "pc-switch2",
+              "platforms": [
+                "PC"
+              ],
+              "releaseDate": "2026-11-17",
+              "uncertain": false,
+              "note": "Update to the Nov 16 listed item. Steam appdetails (app 4232910) returns coming_soon=false, date Nov 17, 2026, and a $29.99 US price. Paradox press page is dated November 17, 2026 with no clock time, so publishedAt is date-only.",
+              "imageAlt": "Crusader Kings III: Silk & Silver Steam header art",
+              "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4232910/cc86db7eb82ed26c62277261fc21f2892d5a5659/header.jpg?t=1794935063"
+            },
+            {
+              "id": "gaming-20261118-drg-survivor-knockout-out",
+              "title": "Deep Rock Galactic: Survivor Knockout Expansion is out now on PC and Xbox Series",
+              "summary": "Funday Games 同 Ghost Ship Publishing 嘅《Deep Rock Galactic: Survivor》第二個大型 DLC《Knockout Expansion》已登陸 PC 同 Xbox Series，並支援 Xbox Play Anywhere。內容包括 Brawler 職業、11 件新武器、Sandblasted Corridors 生態同 Dreadnought Empress 首領戰；Steam 美國區售價 9.99 美元。TheXboxHub 指 PS5 同 Switch 版稍後推出。",
+              "source": "TheXboxHub",
+              "sourceUrl": "https://www.thexboxhub.com/deep-rock-galactic-survivor-knockout-expansion-adds-a-brawler-new-biome-and-boss/",
+              "publishedAt": "2026-11-17T00:00:00+08:00",
+              "category": "pc-switch2",
+              "platforms": [
+                "PC",
+                "Xbox Series"
+              ],
+              "releaseDate": "2026-11-17",
+              "uncertain": false,
+              "note": "Update to the Nov 17 listed item. Steam appdetails (app 5269530) returns coming_soon=false and date Nov 17, 2026. TheXboxHub byline is November 17, 2026 with no clock time, so publishedAt is date-only. The later version is described as Switch, not Switch 2.",
+              "imageAlt": "Deep Rock Galactic: Survivor Knockout Expansion key art",
+              "image": "https://www.thexboxhub.com/wp-content/uploads/2026/11/Deep-Rock-Galactic-Survivor-Knockout-Expansion-KeyArt-640x360.png"
+            },
+            {
+              "id": "gaming-20261118-unicorn-academy-out",
+              "title": "Unicorn Academy: Island of Magic is out now on PC, Switch, PlayStation and Xbox",
+              "summary": "Mindscape、Aesir Interactive 同 Spin Master 嘅《Unicorn Academy: Island of Magic》已於 11 月 17 日登陸 Steam、Switch、PS5、PS4、Xbox Series 同 Xbox One。遊戲改編自 Unicorn Academy 系列，玩家會扮演一年級生同獨角獸建立羈絆；Steam API 確認已出，美國區售價 39.99 美元。新聞稿未有提及 Switch 2。",
+              "source": "Games Press",
+              "sourceUrl": "https://www.gamespress.com/Saddle-Up-Unicorn-Academy-Island-of-Magic-Out-Now-on-All-Major-Platfor",
+              "publishedAt": "2026-11-17T00:00:00+08:00",
+              "category": "pc-switch2",
+              "platforms": [
+                "PC",
+                "Switch",
+                "PS5",
+                "PS4",
+                "Xbox Series",
+                "Xbox One"
+              ],
+              "releaseDate": "2026-11-17",
+              "uncertain": false,
+              "note": "Update to the Nov 17 listed item. Steam appdetails (app 4380910) returns coming_soon=false and date Nov 17, 2026. Press dateline has no clock time, so publishedAt is date-only. Switch 2 is not sourced.",
+              "imageAlt": "Unicorn Academy: Island of Magic Steam header art",
+              "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4380910/c7e1e9a3b5dc596e4d7c46ab9a60ee116eca5995/header.jpg?t=1794927488"
+            },
+            {
+              "id": "gaming-20261118-australia-did-it-out",
+              "title": "Australia Did It: End-of-the-World Railway Defense Business is out now on Steam",
+              "summary": "Rami Ismail、Aesthetician Labs 同 Dreams Uncorporated 嘅策略遊戲《Australia Did It: End-of-the-World Railway Defense Business》已於 11 月 17 日登陸 Steam。遊戲結合車站防守同軌道自動戰鬥；官方定價 14.99 美元，今早美國區為 13.49 美元（九折）。官方指原訂 11 月 10 日推出，因 Steam 審查發行版而延後。",
+              "source": "Games Press",
+              "sourceUrl": "https://www.gamespress.com/RAMI-ISMAILS-GENRE-BENDING-STRATEGY-GAME-AUSTRALIA-DID-IT-END-OF-THE-W",
+              "publishedAt": "2026-11-17T00:00:00+08:00",
+              "category": "pc-switch2",
+              "platforms": [
+                "PC"
+              ],
+              "releaseDate": "2026-11-17",
+              "uncertain": false,
+              "note": "Not in the Nov 16 or 17 official batches. Steam appdetails (app 2396130) returns coming_soon=false and date Nov 17, 2026. Games Press dateline has no clock time, so publishedAt is date-only.",
+              "imageAlt": "Australia Did It: End-of-the-World Railway Defense Business Steam header art",
+              "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2396130/539d31e1e3a5c49971cae9fdeb7fc0a79a4bc5d4/header.jpg?t=1794938777"
+            },
+            {
+              "id": "gaming-20261118-dreamlight-keepsake-sea-listed",
+              "title": "Disney Dreamlight Valley: The Keepsake Sea is listed to launch November 18",
+              "summary": "Gameloft 官方更新說明指，《Disney Dreamlight Valley》擴充內容 The Keepsake Sea 將於 11 月 18 日推出，並伴隨本體修復同 Premium Shop 更新。新內容包括 Merfolk 型態，以及 Shipwreck Shores、Candy Cove 同 Kingdom of Oublié 三個島嶼生態。官方客服中心列出平台包括 PC（Epic、Steam、macOS）、Switch、Switch 2、PS5、PS4、Xbox Series 同 Xbox One。今早 Steam API 仍顯示 coming_soon，故尚未確認已上線。",
+              "source": "Disney Dreamlight Valley",
+              "sourceUrl": "https://disneydreamlightvalley.com/news/update-nov-18-2026",
+              "publishedAt": "2026-11-16T00:00:00+08:00",
+              "category": "pc-switch2",
+              "platforms": [
+                "PC",
+                "Switch 2",
+                "Switch",
+                "PS5",
+                "PS4",
+                "Xbox Series",
+                "Xbox One"
+              ],
+              "releaseDate": "2026-11-18",
+              "uncertain": true,
+              "note": "Do not describe as out now. Steam DLC app 5090170 still returned coming_soon=true with date Nov 18, 2026, as of the morning of Nov 18 HKT. Patch notes are dated ‘16 Nov 2026 5:30 PM’ with no timezone, so publishedAt is date-only. Platform list is from the official help center. The patch-notes og:image looked like a reused July asset, so imageUrl is the official Steam DLC header.",
+              "imageAlt": "Disney Dreamlight Valley: The Keepsake Sea Steam header art",
+              "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5090170/c8d287e09b483ced63b548adb4625a7936452ff4/header.jpg?t=1794508116"
+            }
+          ]
+        },
+        {
+          "id": "news",
+          "label": "Game news",
+          "items": [
+            {
+              "id": "gaming-20261118-splatoon-raiders-demo",
+              "title": "A free Splatoon Raiders demo is out now on Switch 2",
+              "summary": "VGC 報道，任天堂已喺 Switch 2 eShop 推出《Splatoon Raiders》免費試玩版。官方指試玩包括三個關卡同三套預設裝備；呢款 7 月推出嘅單人衍生作當初未有試玩。Splatoon North America 喺 11 月 17 日發文確認而家已經可以下載。",
+              "source": "VGC",
+              "sourceUrl": "https://www.videogameschronicle.com/news/a-free-demo-for-splatoon-raiders-is-now-available-on-switch-2/",
+              "publishedAt": "2026-11-17T18:35:00+08:00",
+              "category": "news",
+              "platforms": [
+                "Switch 2"
+              ],
+              "uncertain": false,
+              "note": "VGC byline is 17 November 2026, 10:35 am UK time (GMT), converted to HKT.",
+              "imageAlt": "Splatoon Raiders screenshot used by VGC",
+              "image": "https://www.videogameschronicle.com/files/2026/07/splatoon-raiders-pic-1.jpeg"
+            },
+            {
+              "id": "gaming-20261118-ocarina-circana-1m-us",
+              "title": "Ocarina of Time remake sold over 1 million US physical copies in week one, Circana says",
+              "summary": "VGC 引述 Circana 高級總監 Mat Piscatella，指《The Legend of Zelda: Ocarina of Time》Switch 2 重製版首週美國實體銷量超過 100 萬套，成為 2026 年迄今美國最暢銷實體遊戲，亦係自 2023 年《Tears of the Kingdom》以來首款首週實體破百萬嘅作品。Piscatella 並確認 Circana 會將 GTA 6 盒裝下載碼計算為實體銷量。文章亦提及任天堂早前公布全球首四日軟硬體合計 520 萬套。",
+              "source": "VGC",
+              "sourceUrl": "https://www.videogameschronicle.com/news/zelda-ocarina-of-time-remake-is-the-best-selling-physical-game-in-the-us-in-2026-so-far-passing-1-million-in-its-first-week/",
+              "publishedAt": "2026-11-17T17:24:00+08:00",
+              "category": "news",
+              "platforms": [
+                "Switch 2"
+              ],
+              "uncertain": false,
+              "note": "VGC byline is 17 November 2026, 9:24 am UK time (GMT), converted to HKT. This is new Circana US physical data, not a repeat of the already-batched worldwide 5.2 million figure.",
+              "imageAlt": "The Legend of Zelda: Ocarina of Time Switch 2 remake screenshot",
+              "image": "https://www.videogameschronicle.com/files/2026/11/NS2_TheLegendofZeldaOcarinaofTime_scrn_02.jpg"
+            },
+            {
+              "id": "gaming-20261118-black-mesa-anomalous-improvements",
+              "title": "Black Mesa’s Anomalous Improvements update is out now and the game is Steam Deck Verified",
+              "summary": "GamingOnLinux 報道，Crowbar Collective 嘅《Half-Life》重製版《Black Mesa》已推出名為 Anomalous Improvements 嘅大型免費更新，並取得 Steam Deck Verified。更新包括重建選單同完整控制器支援、改善光影同反射、提升穩定性，以及可喺選單啟動模組。",
+              "source": "GamingOnLinux",
+              "sourceUrl": "https://www.gamingonlinux.com/2026/11/half-life-remake-black-mesa-gets-a-huge-update-and-now-steam-deck-verified/",
+              "publishedAt": "2026-11-17T16:30:00+08:00",
+              "category": "news",
+              "platforms": [
+                "PC",
+                "Steam Deck"
+              ],
+              "uncertain": false,
+              "note": "GamingOnLinux stamp is 17 November 2026, 8:30 am UTC, converted to HKT.",
+              "imageAlt": "Black Mesa artwork from GamingOnLinux’s Anomalous Improvements report",
+              "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/739550330id30210gol_og.jpg"
+            },
+            {
+              "id": "gaming-20261118-steamos-3-10-1-preview",
+              "title": "SteamOS 3.10.1 Preview fixes display and game-launch regressions from 3.10.0",
+              "summary": "GamingOnLinux 報道，Valve 已推出 SteamOS 3.10.1 Preview，修復 3.10.0 Preview 引入嘅問題，包括部分《Forza Horizon》系列無法啟動，以及部分顯示器出現 invalid signal 錯誤。呢次係針對 3.10.0 迴歸嘅修正版，並非早前已報道過嘅 3.10.0 新功能本身。",
+              "source": "GamingOnLinux",
+              "sourceUrl": "https://www.gamingonlinux.com/2026/11/steamos-3-10-1-preview-released-to-fix-display-issues/",
+              "publishedAt": "2026-11-17T16:03:00+08:00",
+              "category": "news",
+              "platforms": [
+                "PC",
+                "Steam Deck"
+              ],
+              "uncertain": false,
+              "note": "This is a new 3.10.1 point release, not a repeat of the already-covered 3.10.0 Preview feature story. GamingOnLinux stamp is 17 November 2026, 8:03 am UTC, converted to HKT.",
+              "imageAlt": "SteamOS artwork from GamingOnLinux",
+              "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/steamos_gol2_og.jpg"
+            },
+            {
+              "id": "gaming-20261118-momotetsu-2-switch2-demo",
+              "title": "Momotetsu 2’s free Switch 2 demo is out now in Japan",
+              "summary": "Konami 於 11 月 17 日上午 10 時（日本時間）宣布，《桃太郎電鉄2 ～あなたの町も きっとある～》免費體驗版已喺日本 Switch 2 上線，Switch 版無法遊玩。玩家可選東日本或西日本地圖，遊玩「桃鉄3年決戦」嘅第一年，支援 1 至 4 人，開局資金 3 億日元；體驗版無存檔、無線上對戰，亦不能將進度轉到完整版。",
+              "source": "Konami",
+              "sourceUrl": "https://www.konami.com/games/corporate/ja/news/topics/20261117/",
+              "publishedAt": "2026-11-17T09:00:00+08:00",
+              "category": "news",
+              "platforms": [
+                "Switch 2"
+              ],
+              "uncertain": false,
+              "note": "publishedAt converts the official 10:00 JST dateline to HKT. The page’s og:image is a generic Konami site image, so imageUrl is null. Japan-only demo."
+            },
+            {
+              "id": "gaming-20261118-switch2-holiday-experience",
+              "title": "Nintendo’s Switch 2 Holiday Experience will tour 10 US malls from November 25 to December 23",
+              "summary": "任天堂官方美國活動頁同 11 月 17 日新聞稿指，免費 Nintendo Switch 2 Holiday Experience 將於 11 月 25 日至 12 月 23 日喺 10 間美國商場舉行（感恩節休息），唔使預約，現場亦唔會售賣主機。訪客可以試玩《Mario Kart World》、《Nintendo Switch Sports Resort》、《The Legend of Zelda: Ocarina of Time》等遊戲。",
+              "source": "Nintendo",
+              "sourceUrl": "https://www.nintendo.com/us/whatsnew/events/nintendo-switch-2-holiday-experience/",
+              "publishedAt": "2026-11-17T00:00:00+08:00",
+              "category": "news",
+              "platforms": [
+                "Switch 2"
+              ],
+              "uncertain": false,
+              "note": "Official page and November 17 press materials use a date-only dateline, so publishedAt is date-only. Official og:image is a generic Nintendo share image, and the Business Wire press photo timed out, so imageUrl is null."
+            },
+            {
+              "id": "gaming-20261118-phasmophobia-resonance-nov24",
+              "title": "Phasmophobia’s Resonance update is dated November 24",
+              "summary": "Kinetic Games 宣布，《Phasmophobia》下次大型更新 Resonance 將於 11 月 24 日喺所有現行平台推出，內容包括改用 Unity 6、新道具 Dowsing Rods、新語音辨識功能、改善光影同大量修復，完整更新說明會喺推出當日公布。官方短稿未有單獨點名 Switch 2。",
+              "source": "Kinetic Games",
+              "sourceUrl": "https://www.kineticgames.co.uk/news/resonance-releasedate",
+              "publishedAt": "2026-11-17T00:00:00+08:00",
+              "category": "news",
+              "platforms": [
+                "PC",
+                "PS5",
+                "Xbox Series"
+              ],
+              "releaseDate": "2026-11-24",
+              "uncertain": false,
+              "note": "Official Kinetic page has no clock time, so publishedAt is date-only. Platforms listed are the currently supported ones; the official post says the update launches ‘across all platforms’ but does not name Switch 2, which remains a separately announced future version.",
+              "imageAlt": "Phasmophobia Resonance update key art announcing the November 24 date",
+              "image": "https://kineticgames.co.uk/payload-api/media/file/resonance_ka_date_16x9.webp"
+            },
+            {
+              "id": "gaming-20261118-sea-of-stars-sunset-edition",
+              "title": "Sea of Stars Sunset Edition physical is dated to ship April 2, 2027 for Switch 2 and PS5",
+              "summary": "RPG Site 報道，iam8bit 同 Sabotage Studio 宣布《Sea of Stars: Sunset Edition》實體版，零售 Switch 2 版售價 49.99 美元，卡帶包含完整遊戲，並附角色貼紙同原聲帶下載碼。iam8bit Exclusive 同 Collector’s Edition 會同時提供 Switch 2 同 PS5 版本，預購截至 2027 年 1 月 11 日，並由 2027 年 4 月 2 日開始出貨。Collector’s Edition 售價為 Switch 2 版 129.99 美元、PS5 版 119.99 美元。",
+              "source": "RPG Site",
+              "sourceUrl": "https://www.rpgsite.net/news/21773-sea-of-stars-sunset-edition-physical-release-iam8bit-vinyl-preorder-collectors-edition",
+              "publishedAt": "2026-11-17T00:00:00+08:00",
+              "category": "news",
+              "platforms": [
+                "Switch 2",
+                "PS5"
+              ],
+              "releaseDate": "2027-04-02",
+              "uncertain": false,
+              "note": "RPG Site byline is 17 November 2026 with no clock time, so publishedAt is date-only. Retail $49.99 edition is described as Switch 2; iam8bit Exclusive and Collector’s editions are for Switch 2 and PS5. Shipping starts April 2, 2027.",
+              "imageAlt": "Sea of Stars Sunset Edition physical release artwork",
+              "image": "https://images.rpgsite.net/articles/thumbnail/a3ecf1c/21773/original/sea-of-stars-sunset-edition-physical-release-switch-2.png"
+            }
+          ]
+        },
+        {
+          "id": "other-consoles",
+          "label": "Other consoles",
+          "items": [
+            {
+              "id": "gaming-20261118-game-pass-late-nov",
+              "title": "Xbox Game Pass adds High on Life 2, The Outlast Trials, Hela and more from November 18 to December 1",
+              "summary": "Xbox Wire 公布 11 月下旬 Game Pass 名單：11 月 18 日加入《Call of the Elder Gods》、《High on Life 2》同《Roadside Research》（Game Preview）；之後仲有 11 月 19 日嘅《Black Jacket》、11 月 24 日嘅《Sniper Ghost Warrior Contracts 2》，以及 12 月 1 日嘅《The Outlast Trials》同《Hela: of Mice & Magic》。部分遊戲會喺 11 月 30 日離開服務。",
+              "source": "Xbox Wire",
+              "sourceUrl": "https://news.xbox.com/en-us/2026/11/17/xbox-game-pass-november-2026-wave-2/",
+              "publishedAt": "2026-11-18T01:00:00+08:00",
+              "category": "other-consoles",
+              "platforms": [
+                "Xbox Series",
+                "PC"
+              ],
+              "uncertain": false,
+              "note": "Official published_time is 2026-11-17T17:00:00+00:00, converted to HKT.",
+              "imageAlt": "Xbox Game Pass artwork for the late November 2026 incoming games",
+              "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/XGP_ComingSoon171126_16x9_FBXTH_N_CW90_GBL_MGP_N_N_1_EN-US-2b3ccff528820c96b6f9.jpg"
+            },
+            {
+              "id": "gaming-20261118-hounded-ps5-2027",
+              "title": "Hounded is coming to PS5 in 2027",
+              "summary": "Imprnt Studios 同發行商 Silver Lining Interactive 喺 PlayStation Blog 宣布，第三人稱故事冒險《Hounded》將於 2027 年登陸 PS5，而家可以加入願望清單。玩家會操控邊境牧羊犬 Duke，喺火槍奇幻世界 Anglodia 尋找失蹤主人；作品用 Unreal Engine 開發，已製作兩年多。",
+              "source": "PlayStation Blog",
+              "sourceUrl": "https://blog.playstation.com/2026/11/17/introducing-hounded-crafting-the-dog-adventure-coming-to-ps5-in-2027/",
+              "publishedAt": "2026-11-17T23:00:56+08:00",
+              "category": "other-consoles",
+              "platforms": [
+                "PS5"
+              ],
+              "releaseDate": "TBA",
+              "uncertain": false,
+              "note": "Release window is 2027 with no exact date. Official PS Blog post is PS5-focused.",
+              "imageAlt": "Hounded protagonist Duke the Border Collie in a grassy landscape",
+              "image": "https://blog.playstation.com/tachyon/2048/11/35ee932cfac0044b7c4d4d1d41f95533dd2f3202-scaled.jpg"
+            },
+            {
+              "id": "gaming-20261118-mlb-the-show-27",
+              "title": "MLB The Show 27 is officially announced, with the Tech Test returning",
+              "summary": "Sony San Diego Studio 喺 PlayStation Blog 公布《MLB The Show 27》首批消息，但指現階段仍太早公開新功能，詳情稍後再談。官方確認自《MLB The Show 23》之後再次舉辦 Tech Test，細節會喺新年公布。Now & Later Packs 亦會回歸：喺《MLB The Show 26》主機版 Diamond Dynasty 取得嘅包，可喺 27 代正式推出後用同一帳戶兌換。",
+              "source": "PlayStation Blog",
+              "sourceUrl": "https://blog.playstation.com/2026/11/17/first-details-on-mlb-the-show-27/",
+              "publishedAt": "2026-11-17T22:00:23+08:00",
+              "category": "other-consoles",
+              "platforms": [
+                "PS5"
+              ],
+              "uncertain": false,
+              "note": "Official PlayStation Blog post is PS5-focused and does not name Xbox or Nintendo platforms.",
+              "imageAlt": "Promotional key art for MLB The Show 27",
+              "image": "https://blog.playstation.com/tachyon/2048/11/b629a310e4bac8288f76e56b99624cb57b67037e-scaled.jpg"
+            },
+            {
+              "id": "gaming-20261118-xbox-black-friday",
+              "title": "Xbox Black Friday sale starts November 19, with up to 80% off select games through December 2",
+              "summary": "Xbox Wire 宣布 Xbox Black Friday 優惠將於 11 月 19 日下午 9 時（太平洋時間）開始，至 12 月 2 日結束，超過 2,000 款 Xbox 同 PC 遊戲參與，部分最高減 80%，仲有配件折扣。同期 Xbox Design Lab 手掣最高減 15%，並提供免費刻字。文中折扣以美國為準，各地同零售商優惠或有不同。",
+              "source": "Xbox Wire",
+              "sourceUrl": "https://news.xbox.com/en-us/2026/11/16/xbox-black-friday-sale-2026/",
+              "publishedAt": "2026-11-17T07:57:43+08:00",
+              "category": "other-consoles",
+              "platforms": [
+                "Xbox Series",
+                "PC"
+              ],
+              "uncertain": false,
+              "note": "Official published_time is 2026-11-16T23:57:43+00:00, which is 07:57 HKT on November 17, after yesterday morning’s official batch.",
+              "imageAlt": "Xbox Black Friday 2026 promotional artwork for games and accessories on sale",
+              "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/BF-CM-2027_Comp_Wire-Collection-B-RGB_1920x1080_02-34da270902fc95df2602.jpg"
+            },
+            {
+              "id": "gaming-20261118-moonlight-peaks-ps5-out",
+              "title": "Moonlight Peaks is out now on PS5, priced at $34.99",
+              "summary": "XSEED Games（Marvelous USA）同 Little Chicken Game Company 喺 11 月 17 日新聞稿確認，超自然農場生活模擬《Moonlight Peaks》已登陸 PS5，售價 34.99 美元。PlayStation Plus 會員至 11 月 23 日可享八折，Premium 會員可玩兩小時試玩，進度可喺買入後保留。PS5 版包含其他平台已有嘅最新更新；遊戲早前已於 2026 年 7 月 7 日登陸 PC、Switch、Switch 2 同 Google Play Games。",
+              "source": "Games Press",
+              "sourceUrl": "https://www.gamespress.com/en-US/Moonlight-Peaks-Launches-on-PlayStation5-Inviting-New-Players-to-Enjoy",
+              "publishedAt": "2026-11-17T00:00:00+08:00",
+              "category": "other-consoles",
+              "platforms": [
+                "PS5",
+                "PC",
+                "Switch 2",
+                "Switch",
+                "Mobile"
+              ],
+              "releaseDate": "2026-11-17",
+              "uncertain": false,
+              "note": "Update to the Nov 17 official batch item that only said the PS5 version was listed to launch November 17. publishedAt is date-only from the press release dateline. Games Press image could not be verified, so imageUrl is null."
+            },
+            {
+              "id": "gaming-20261118-sea-of-thieves-install-size",
+              "title": "Sea of Thieves November 19 update cuts the PS5 install to 57.4 GB after a full reinstall",
+              "summary": "Push Square 引述 Rare 官方帳號指，11 月 19 日（周四）更新會觸發《Sea of Thieves》完整重新安裝，新檔案體積最多可細一半，並適用於所有平台。PS5 版將由約 102.7 GB 減至 57.4 GB，大約少 45%。更新亦包括新時裝、船歌、12 月活動同修復。",
+              "source": "Push Square",
+              "sourceUrl": "https://www.pushsquare.com/news/2026/11/sea-of-thieves-nearly-halves-install-size-in-latest-update-on-ps5",
+              "publishedAt": "2026-11-17T00:00:00+08:00",
+              "category": "other-consoles",
+              "platforms": [
+                "PS5",
+                "Xbox Series",
+                "Xbox One",
+                "PC"
+              ],
+              "uncertain": false,
+              "note": "publishedAt is date-only. Rare’s official post is dated November 16 and Push Square’s write-up was fetched on the morning of November 18 without a precise datePublished tag. PS5 figures are from Push Square; the article says the cut applies across all platforms.",
+              "imageAlt": "Sea of Thieves pirates on a ship at sea",
+              "image": "https://images.pushsquare.com/7d61993a2809a/1280x720.jpg"
+            }
+          ]
+        },
+        {
+          "id": "other",
+          "label": "Other",
+          "items": [
+            {
+              "id": "gaming-20261118-crystal-dynamics-layoffs",
+              "title": "Crystal Dynamics confirms eight layoffs, its fifth round in less than two years",
+              "summary": "PC Gamer 報道，Tomb Raider 開發商 Crystal Dynamics 向該刊證實，工作室最近裁減 8 名員工，並稱為必要商業決定，受影響員工會獲遣散費同求職協助，進行中專案不受影響。PC Gamer 指呢次係不足兩年內至少第五輪裁員，距離上一輪只約八個月。",
+              "source": "PC Gamer",
+              "sourceUrl": "https://www.pcgamer.com/gaming-industry/tomb-raider-developer-makes-fifth-round-of-layoffs-in-less-than-2-years/",
+              "publishedAt": "2026-11-18T04:57:44+08:00",
+              "category": "other",
+              "uncertain": false,
+              "note": "PC Gamer published_time is 2026-11-17T20:57:44Z, converted to HKT. The article discusses Tomb Raider: Legacy of Atlantis and Catalyst as earlier delays, not as new dating news, so those dates are not used as a releaseDate. Platforms omitted because the article does not list SKUs.",
+              "imageAlt": "Crystal Dynamics and Tomb Raider branding",
+              "image": "https://cdn.mos.cms.futurecdn.net/Lbizrv9fd5HBKk8EnRW29C-2560-80.jpg"
+            },
+            {
+              "id": "gaming-20261118-firaxis-layoffs",
+              "title": "2K confirms Firaxis layoffs as studio head Heather Hazen steps down",
+              "summary": "PC Gamer 引述 Bloomberg 報道，指《Civilization》同《XCOM》開發商 Firaxis 裁減大約 60 人，約佔員工三分之一；2K 向 PC Gamer 證實確有裁員，但未有評論呢個數字。2K 並確認工作室負責人 Heather Hazen 已離任，指工作室會重新聚焦策略遊戲。Bloomberg 還稱一款未公布嘅新《XCOM》今年初未達重大里程碑，預計開發會繼續但或有調整；呢點同樣未獲 2K 獨立確認。",
+              "source": "PC Gamer",
+              "sourceUrl": "https://www.pcgamer.com/gaming-industry/civilization-dev-firaxis-reportedly-lays-off-a-third-of-its-staff-studio-head-departs/",
+              "publishedAt": "2026-11-18T01:27:39+08:00",
+              "category": "other",
+              "platforms": [
+                "PC"
+              ],
+              "uncertain": false,
+              "note": "PC Gamer published_time is 2026-11-17T17:27:39Z, converted to HKT. The roughly 60-person / one-third figure and the unannounced XCOM milestone report come from Bloomberg; 2K confirmed layoffs and Hazen’s departure but did not confirm the headcount.",
+              "imageAlt": "Firaxis Games studio branding",
+              "image": "https://cdn.mos.cms.futurecdn.net/V4dgv2YNB3gESELLNoEvna-2560-80.jpg"
+            },
+            {
+              "id": "gaming-20261118-tga-2026-nominees",
+              "title": "The Game Awards 2026 nominees are in, with GTA VI among six Game of the Year finalists",
+              "summary": "Geoff Keighley 於 11 月 17 日公布 The Game Awards 2026 提名。年度遊戲候選為《007 First Light》、《Control Resonant》、《Grand Theft Auto VI》、《Phantom Blade Zero》、《Resident Evil Requiem》同《The Legend of Zelda: Ocarina of Time》。Variety 指《GTA VI》共獲八項提名，並將於 11 月 19 日發售，剛好趕及 11 月 20 日截止嘅資格期。頒獎禮 12 月 10 日喺洛杉磯 Peacock Theater 舉行，粉絲可到 TheGameAwards.com 投票。",
+              "source": "Variety",
+              "sourceUrl": "https://variety.com/2026/gaming/news/game-awards-nominations-2026-list-1236949480/",
+              "publishedAt": "2026-11-18T01:10:00+08:00",
+              "category": "other",
+              "uncertain": false,
+              "note": "This is the actual nominee list, an update to the already-covered November 17 reveal date. Variety stamp is November 17, 2026, 9:10 am PT, converted to HKT. Platforms omitted because the article does not list them for the nominees.",
+              "imageAlt": "Grand Theft Auto VI promotional still used with The Game Awards nominations coverage",
+              "image": "https://variety.com/wp-content/uploads/2026/08/GTA-6-2.png?w=1000&h=563&crop=1"
+            },
+            {
+              "id": "gaming-20261118-sony-ps-store-tribunal",
+              "title": "UK tribunal dismisses the £2 billion PlayStation Store pricing class action against Sony",
+              "summary": "GamesIndustry.biz 報道，英國競爭上訴審裁處（Competition Appeal Tribunal）於 11 月 17 日全部駁回 Alex Neill 2022 年對 Sony PlayStation Store 定價提起嘅集體訴訟。申索涵蓋約 1,220 萬用戶、總額約 20 億英鎊（約 26 億美元），指數碼遊戲本應平約 20%、每人或獲 162 英鎊。審裁處認為玩家有實體版同其他主機等替代選擇，20% 較低競爭價格嘅主張亦不成立。",
+              "source": "GamesIndustry.biz",
+              "sourceUrl": "https://www.gamesindustry.biz/uk-tribunal-dismisses-2bn-playstation-class-action-suit-which-alleged-unfair-pricing-over-30-cut-on-playstation-store",
+              "publishedAt": "2026-11-18T00:17:40+08:00",
+              "category": "other",
+              "platforms": [
+                "PS5",
+                "PS4"
+              ],
+              "uncertain": false,
+              "note": "Official published_time is 2026-11-17T16:17:40+00:00, converted to HKT. The judgment was issued November 17, 2026.",
+              "imageAlt": "A PlayStation 5 console photographed on a desk",
+              "image": "https://assetsio.gnwcdn.com/playstation-5-reet-talreja-unsplash.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+            },
+            {
+              "id": "gaming-20261118-sensor-tower-gta6-1-4bn",
+              "title": "Sensor Tower estimates GTA 6 pre-orders have topped $1.4 billion, with 87% on Ultimate Edition",
+              "summary": "GamesIndustry.biz 報道，Sensor Tower 估計《Grand Theft Auto VI》預購收入已超過 14 億美元，其中 87% 為 Ultimate Edition。該公司指 8 月大部分時間 PlayStation 同 Xbox 每日預購收入約 240 萬至 380 萬美元，Netflix 8 月 27 日播出 Extended Look 後翌日升至 1,630 萬美元。呢啲係 Sensor Tower 估算，並非 Take-Two 或 Rockstar 官方數字；早前 11 月 13 日批次已報道過 10.9 億美元嘅較早估計。",
+              "source": "GamesIndustry.biz",
+              "sourceUrl": "https://www.gamesindustry.biz/sensor-tower-gta-6-pre-orders-exceed-14bn-with-87-for-the-ultimate-edition",
+              "publishedAt": "2026-11-17T09:00:00+08:00",
+              "category": "other",
+              "platforms": [
+                "PS5",
+                "Xbox Series"
+              ],
+              "uncertain": false,
+              "note": "These are Sensor Tower estimates, not official Take-Two or Rockstar figures. GamesIndustry.biz published at 1:00 a.m. on November 17, treated as 01:00 UTC / 09:00 HKT, after yesterday morning’s official batch.",
+              "imageAlt": "Grand Theft Auto VI promotional artwork",
+              "image": "https://assetsio.gnwcdn.com/gta-6-headline-launch-gallery-30.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+            },
+            {
+              "id": "gaming-20261118-unity-acquires-synty",
+              "title": "Unity acquires Synty Studios and will bring its asset library to Unity Spark",
+              "summary": "Unity 宣布收購紐西蘭資產工作室 Synty Studios，其創辦人同藝術家將加入 Unity，資產庫會進入即將推出嘅 AI 原生創作平台 Unity Spark，並由今年稍後嘅封閉測試開始提供。官方指 Synty 自 2014 年成立，現有超過 6 萬件低面數風格化 3D 資產；現有包裝、授權同工作流程不變，免費資產維持免費，Synty Store 同 Synty Pass 會繼續運作，亦暫時無意改價。",
+              "source": "Unity",
+              "sourceUrl": "https://unity.com/blog/synty-studios-acquisition",
+              "publishedAt": "2026-11-16T00:00:00+08:00",
+              "category": "other",
+              "uncertain": false,
+              "note": "Official Unity blog is dated November 16, 2026 without a time, so publishedAt is date-only. The deal was not in earlier official batches. Platforms omitted because this is an engine/tools acquisition.",
+              "imageAlt": "Promotional graphic for Unity’s acquisition of Synty Studios",
+              "image": "https://cdn.sanity.io/images/fuvbjjlp/production/671cd625bdad90ccb14c270136241032c11a3e4e-1920x1080.png"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
