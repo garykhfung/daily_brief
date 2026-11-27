@@ -1,0 +1,673 @@
+{
+  "updatedAt": "2026-11-28T07:55:47+08:00",
+  "timezone": "Asia/Hong_Kong",
+  "tabs": [
+    {
+      "id": "ai",
+      "label": "AI",
+      "sections": [
+        {
+          "id": "frontier",
+          "label": "Frontier models",
+          "items": [
+            {
+              "id": "ai-20261128-tencent-hy3d-36",
+              "title": "Tencent Hunyuan releases Hy3D 3.6 for professional 3D assets",
+              "summary": "騰訊混元喺11月27日發布新一代3D生成模型 Hy3D 3.6，重點提升高模幾何同 PBR 材質貼圖，宣稱更適合角色、生物、服裝同複雜道具。模型已上線騰訊雲 Token Hub API，並接入 Miora、遊戲資產生成平台 LAP 同影視平台 WorkRally。",
+              "source": "Tencent Cloud",
+              "sourceUrl": "https://news.qq.com/rain/a/20261127A075JG00",
+              "publishedAt": "2026-11-27T11:02:00+08:00",
+              "category": "frontier",
+              "uncertain": false,
+              "imageAlt": "Promotional image for Tencent Hunyuan Hy3D 3.6",
+              "image": "https://inews.gtimg.com/om_ls/O12GB_QybBCEiD1V5Quwkjb-LoDw4flFLq19n5WZtwrXYAA_330330/0"
+            },
+            {
+              "id": "ai-20261128-deepseek-usage-display",
+              "title": "DeepSeek begins testing a per-turn usage and cost display",
+              "summary": "多間媒體引述用戶回饋，指 DeepSeek 由11月26日起喺網頁版同部分手機 App 灰度測試「顯示本輪消耗額度」，對話後會列出 token 用量，並按 API 價格估算費用，同時顯示上下文已佔用比例。報道強調個人對話目前仍然免費，金額只係成本展示；目前未見 DeepSeek 官方新聞稿。",
+              "source": "IT之家",
+              "sourceUrl": "https://www.ithome.com/0/103/3157.htm",
+              "publishedAt": "2026-11-27T08:21:03+08:00",
+              "category": "frontier",
+              "uncertain": true,
+              "note": "功能屬灰度測試，來源為用戶回饋及媒體報道，未見官方公告。"
+            }
+          ]
+        },
+        {
+          "id": "open-source",
+          "label": "Open-source models",
+          "items": [
+            {
+              "id": "ai-20261128-sber-gigachat-4",
+              "title": "Sber releases GigaChat 4 open-weight models under the MIT license",
+              "summary": "俄羅斯 Sber 喺11月26日發布 GigaChat 4，包括 37B 同 708B 兩款模型，官方技術報告指旗艦 708B 為混合 MoE、每 token 啟動 41B 參數，原生上下文長達 100 萬 tokens，並喺單一權重支援 Instant 同 Reasoning 模式。權重已放上 Hugging Face，以 MIT 授權開源。",
+              "source": "GigaChat",
+              "sourceUrl": "https://giga.chat/blog/posts/gigachat-4",
+              "publishedAt": "2026-11-26T00:00:00+08:00",
+              "category": "open-source",
+              "uncertain": false,
+              "note": "官方稿只有日期，具體發布時間不詳。",
+              "imageAlt": "GigaChat 4 announcement graphic from Sber",
+              "image": "https://cdn-app.sberdevices.ru/misc/0.0.0/assets/common/534f4b6b_gigachat4-habr-1.jpg"
+            }
+          ]
+        },
+        {
+          "id": "hk",
+          "label": "Hong Kong",
+          "items": [
+            {
+              "id": "ai-20261128-hkust-impact-fiesta",
+              "title": "HKUST opens its 35th anniversary Impact Fiesta on the Central harbourfront",
+              "summary": "香港科技大學11月27日起一連兩日喺中環海濱 AIA Vitality 公園舉辦35周年成果共享節，免費開放，展出AI機械狗、人形機械人、視覺-語言-行動機械臂，以及AI影院同阿茲海默症血液檢測等科研項目。活動由署理校長郭毅可、立法會主席李慧琼同創科及工業局副局長張曼莉等主禮，收益撥捐兒童癌病基金，28日續辦至晚上7時。",
+              "source": "HK01",
+              "sourceUrl": "https://www.hk01.com/%E5%B0%88%E4%B8%8A%E6%95%99%E8%82%B2/60415548/%E7%A7%91%E5%A4%A7%E6%88%90%E6%9E%9C%E5%85%B1%E4%BA%AB%E7%AF%80%E4%BB%8A%E4%B8%AD%E7%92%B0%E6%B5%B7%E6%BF%B1%E6%8F%AD%E5%B9%95-%E5%85%8D%E8%B2%BB%E7%9D%87%E5%A4%A9%E5%AE%AE%E8%BC%89%E8%8D%B7-ai%E6%A9%9F%E6%A2%B0%E4%BA%BA%E8%A1%A8%E6%BC%94",
+              "publishedAt": "2026-11-27T16:51:00+08:00",
+              "category": "hk",
+              "uncertain": false,
+              "imageAlt": "Guests at the opening of HKUST's 35th anniversary Impact Fiesta",
+              "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1203018890750201856485619.jpeg/3poL6L6ggNq2XrflSBv_pb3cO2NqDagD8tjy1fLY8tU?v=w1280r16_9"
+            },
+            {
+              "id": "ai-20261128-hk-ai-science-week",
+              "title": "Hong Kong opens AI Science Week and Future Life Festival at Hung Hom",
+              "summary": "2026香港AI科普周暨AI未來生活節11月27日喺紅磡新海濱開幕，主題為「讓AI走進生活」。創新科技及工業局常任秘書長蔡傑銘致辭時提到，政府透過「全民AI」計劃，由數碼港、科技園同生產力局協作，今明兩年會舉辦超過200項活動，並指 iAM Smart 已加入AI助手、AIR@InnoHK 匯聚16間AI及機械人實驗室。",
+              "source": "GovHK",
+              "sourceUrl": "https://www.info.gov.hk/gia/general/202611/27/P2026112700547.htm",
+              "publishedAt": "2026-11-27T16:30:00+08:00",
+              "category": "hk",
+              "uncertain": false,
+              "imageAlt": "Officials speaking at the opening of Hong Kong AI Science Week",
+              "image": "https://gia.info.gov.hk/general/202611/27/P2026112700547_photo_1344951.jpg"
+            },
+            {
+              "id": "ai-20261128-hk-sun-dong-hefei",
+              "title": "Hong Kong's innovation chief wraps up a Hefei visit focused on research translation",
+              "summary": "創新科技及工業局局長孫東教授11月26至27日繼續訪問合肥，參觀中國科學技術大學科學智能物質創制中心，並到訪聚焦人工智能等產業的安徽中安創谷科技園，該園區已累計引進超過1,400家科創企業。孫東表示香港正推進「三大創科園區、五大研發機構」，並於27日晚上返港。",
+              "source": "GovHK",
+              "sourceUrl": "https://www.info.gov.hk/gia/general/202611/27/P2026112700357.htm",
+              "publishedAt": "2026-11-27T14:09:00+08:00",
+              "category": "hk",
+              "uncertain": false,
+              "imageAlt": "Hong Kong innovation officials visiting a research site in Hefei",
+              "image": "https://gia.info.gov.hk/general/202611/27/P2026112700357_photo_1344929.jpg"
+            }
+          ]
+        },
+        {
+          "id": "companies",
+          "label": "Companies",
+          "items": [
+            {
+              "id": "ai-20261128-openai-countersues-apple",
+              "title": "OpenAI countersues Apple, alleging trade-secret theft and supplier pressure",
+              "summary": "OpenAI 星期五喺加州法院反訴蘋果，據《金融時報》報道，指控蘋果竊取其商業秘密，並「脅迫及威脅」同時為兩家公司工作的供應商。蘋果向 9to5Mac 回應，指案件核心是 OpenAI 員工盜用蘋果機密，反訴只係轉移視線；蘋果原訟定於2027年7月19日開審。",
+              "source": "9to5Mac",
+              "sourceUrl": "https://9to5mac.com/2026/11/27/openai-countersues-apple-alleging-trade-secret-theft-and-supplier-threats/",
+              "publishedAt": "2026-11-28T02:42:00+08:00",
+              "category": "companies",
+              "uncertain": false,
+              "imageAlt": "Illustration of the legal dispute between Apple and OpenAI",
+              "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-vs-openai-01.jpg?quality=82&strip=all&resize=1200,628"
+            },
+            {
+              "id": "ai-20261128-huawei-hbm-isscc",
+              "title": "Huawei lists a 4,096-pin custom HBM design for ISSCC 2027",
+              "summary": "IEEE ISSCC 會議議程列出華為將於2027年2月16日發表一篇自訂高頻寬記憶體論文，標題為64通道、4,096資料腳位，並包含記憶體控制器同五層晶圓對晶圓混合鍵合，針腳數為 HBM4 標準 2,048 位元介面的兩倍。TechTimes 指議程未披露速度、容量或良率，呢個係會議論文而非已量產產品。",
+              "source": "TechTimes",
+              "sourceUrl": "https://www.techtimes.com/articles/331658/20261127/huawei-lists-4096-pin-hbm-memory-chip-conference-twice-hbm4-width-no-speed-disclosed.htm",
+              "publishedAt": "2026-11-27T13:55:00+08:00",
+              "category": "companies",
+              "uncertain": false,
+              "imageAlt": "Huawei branding used to illustrate its ISSCC HBM paper listing",
+              "image": "https://d.techtimes.com/en/full/453955/huawei.jpg"
+            },
+            {
+              "id": "ai-20261128-singapore-nvidia-chip-halt",
+              "title": "Singapore says it is engaging firms over reports of an Nvidia shipment halt",
+              "summary": "新加坡副總理顏金勇星期五表示，政府正就美國收緊先進AI晶片出口管制「接觸」本地企業，但未能確認有關 Nvidia 已暫停向四個東南亞國家付運伺服器晶片的報道。呢個係繼昨日 Nvidia 暫停東南亞出貨報道之後，新加坡官方的初步回應。",
+              "source": "South China Morning Post",
+              "sourceUrl": "https://www.scmp.com/news/asia/southeast-asia/article/3375994/singapore-reaches-out-local-firms-amid-reports-nvidia-chip-shipment-halt",
+              "publishedAt": "2026-11-27T13:13:00+08:00",
+              "category": "companies",
+              "uncertain": false,
+              "imageAlt": "Image accompanying SCMP coverage of Singapore's response to Nvidia chip reports",
+              "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/11/27/b63f21e2-8ce8-4279-8335-988267de3c38_72d2b751.jpg?itok=-PvdqokZ&v=1795756380"
+            },
+            {
+              "id": "ai-20261128-xebo-series-a-egf",
+              "title": "Emirates Growth Fund agrees to invest $10.5 million in XEBO.ai",
+              "summary": "阿聯酋成長基金（EGF）11月26日宣布，簽署協議向杜拜 AI 客戶體驗公司 XEBO.ai 的 A 輪投資 1,050 萬美元，作為其首個機構投資者，資金將用於產品開發、海灣地區擴張同計劃進入美國市場。官方稿指 XEBO.ai 已服務超過 350 個企業同政府客戶，員工逾 100 人。",
+              "source": "Emirates Growth Fund",
+              "sourceUrl": "https://www.egf.gov.ae/en/news/emirates-growth-fund-invests-$10.5-million-in-uae-built-ai-company-xebo.ai",
+              "publishedAt": "2026-11-26T00:00:00+08:00",
+              "category": "companies",
+              "uncertain": false,
+              "note": "官方稿只有日期，具體發布時間不詳。",
+              "imageAlt": "Signing ceremony for Emirates Growth Fund's investment in XEBO.ai",
+              "image": "https://cms.egf.gov.ae/storage/media/641/hr---20261111-egf-deal-signing-ceremony-32_v3.jpg"
+            }
+          ]
+        },
+        {
+          "id": "markets",
+          "label": "Markets",
+          "items": [
+            {
+              "id": "ai-20261128-mkt-nasdaq-sp-nov27",
+              "title": "Nasdaq closes 2.31% higher and the S&P 500 gains 1.60% in a short Black Friday session",
+              "summary": "美國股市11月27日感恩節後縮短交易日，納斯達克綜合指數收報 24,129.50 點，升 543.70 點或 2.31%；標普 500 收報 7,297.49 點，升 114.71 點或 1.60%。交易喺美東時間下午1時結束。",
+              "source": "Yahoo Finance",
+              "sourceUrl": "https://finance.yahoo.com/quote/%5EIXIC/history/",
+              "publishedAt": "2026-11-28T02:00:00+08:00",
+              "category": "markets",
+              "uncertain": false
+            },
+            {
+              "id": "ai-20261128-mkt-nvda-close-nov27",
+              "title": "NVDA closes Nov 27 at $150.49 (+0.80%)",
+              "summary": "Nvidia（NVDA）喺11月27日感恩節後縮短交易日收報 150.49 美元，升 1.19 美元或 0.80%，成交約 1.86 億股。盤後報 149.80 美元，微跌 0.46%。",
+              "source": "Yahoo Finance",
+              "sourceUrl": "https://finance.yahoo.com/quote/NVDA/history/",
+              "publishedAt": "2026-11-28T02:00:00+08:00",
+              "category": "markets",
+              "uncertain": false
+            },
+            {
+              "id": "ai-20261128-mkt-ant-close-nov27",
+              "title": "ANT closes Nov 27 at $91.88 (+10.98%)",
+              "summary": "Anthropic（ANT）11月27日收報 91.88 美元，升 9.09 美元或 10.98%，收市價重上其 83 美元 IPO 價之上；當日最高 93.22 美元。盤後報 91.41 美元，微跌 0.51%。",
+              "source": "Yahoo Finance",
+              "sourceUrl": "https://finance.yahoo.com/quote/ANT/history/",
+              "publishedAt": "2026-11-28T02:00:00+08:00",
+              "category": "markets",
+              "uncertain": false
+            },
+            {
+              "id": "ai-20261128-mkt-hang-seng-nov27",
+              "title": "Hang Seng closes 2.1% higher; Hang Seng Tech jumps nearly 6.5%",
+              "summary": "港股11月27日期指結算日造好，恒生指數收報 22,694 點，升 467 點或 2.1%；恒生科技指數收報 3,637 點，急升近 6.5%，創逾一年半以來最大單日升幅。港台指人工智能概念及晶片股急升，MINIMAX 及智譜急升逾 17% 至近 19%。",
+              "source": "RTHK",
+              "sourceUrl": "https://news.rthk.hk/rthk/ch/component/k2/1879507-20261127.htm",
+              "publishedAt": "2026-11-27T16:34:00+08:00",
+              "category": "markets",
+              "uncertain": false,
+              "imageAlt": "Hang Seng Index board as Hong Kong stocks close higher on 27 November 2026",
+              "image": "https://newsstatic.rthk.hk/images/mfile_1879507_1_M_20261127165026.jpg"
+            },
+            {
+              "id": "ai-20261128-mkt-minimax-close-nov27",
+              "title": "MiniMax closes Nov 27 at HK$110.10 (+17.19%)",
+              "summary": "MiniMax（0100.HK）11月27日收報 110.10 港元，升 16.15 港元或 17.19%，盤中最高 114.30 港元，成交約 2,228 萬股。",
+              "source": "Yahoo Finance",
+              "sourceUrl": "https://sg.finance.yahoo.com/quote/0100.HK/history/",
+              "publishedAt": "2026-11-27T16:08:56+08:00",
+              "category": "markets",
+              "uncertain": false
+            },
+            {
+              "id": "ai-20261128-mkt-zai-close-nov27",
+              "title": "Z.AI closes Nov 27 at HK$347.40 (+18.57%)",
+              "summary": "智譜 Z.AI（2513.HK）11月27日收報 347.40 港元，升 54.40 港元或 18.57%，盤中最高 362.20 港元，成交約 1,761 萬股。",
+              "source": "Stock Analysis",
+              "sourceUrl": "https://stockanalysis.com/quote/hkg/2513/history/",
+              "publishedAt": "2026-11-27T16:08:00+08:00",
+              "category": "markets",
+              "uncertain": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gaming",
+      "label": "Gaming",
+      "sections": [
+        {
+          "id": "pc-switch2",
+          "label": "PC / Switch 2",
+          "items": [
+            {
+              "id": "gaming-20261128-silksong-sea-of-sorrow",
+              "title": "Hollow Knight: Silksong free expansion Sea of Sorrow is dated December 11",
+              "summary": "Team Cherry 宣布，《Hollow Knight: Silksong》免費擴充《Sea of Sorrow》將於 12 月 11 日推出，玩家會喺 Pharloom 被遺忘嘅海洋上下探索島嶼、堡壘同海下洞穴，並有 Christopher Larkin 嘅新音樂。遊戲已登陸 PS5、Xbox Series、Switch 2、PS4、Xbox One、Switch 同 PC。",
+              "source": "Gematsu",
+              "sourceUrl": "https://www.gematsu.com/2026/11/hollow-knight-silksong-free-expansion-sea-of-sorrow-launches-december-11",
+              "publishedAt": "2026-11-27T23:11:00+08:00",
+              "category": "pc-switch2",
+              "platforms": [
+                "PlayStation 5",
+                "Xbox Series",
+                "Switch 2",
+                "PlayStation 4",
+                "Xbox One",
+                "Switch",
+                "PC"
+              ],
+              "releaseDate": "2026-12-11",
+              "uncertain": false,
+              "imageAlt": "Hollow Knight: Silksong Sea of Sorrow announcement artwork",
+              "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Sea-of-Sorrow-Date_11-27-26.jpg"
+            },
+            {
+              "id": "gaming-20261128-streamer-alt-account-labyrinth",
+              "title": "The Streamer's Alt Account Labyrinth is dated January 29, 2027 for PC, later for Switch",
+              "summary": "G-MODE 同開發商 Acacia 宣布，地牢 RPG 兼視覺小說《The Streamer's Alt Account Labyrinth》將於 2027 年 1 月 29 日登陸 Steam，之後再出 Switch 版，並支援英、日同繁簡中文。呢個係繼早前取消檔期、未定新期之後公布嘅新日期。",
+              "source": "Gematsu",
+              "sourceUrl": "https://www.gematsu.com/2026/11/the-streamers-alt-account-labyrinth-launches-january-29-2027-for-pc-later-for-switch",
+              "publishedAt": "2026-11-27T20:15:00+08:00",
+              "category": "pc-switch2",
+              "platforms": [
+                "PC",
+                "Switch"
+              ],
+              "releaseDate": "2027-01-29",
+              "uncertain": false,
+              "note": "Switch version is planned for a later, unannounced date.",
+              "imageAlt": "The Streamer's Alt Account Labyrinth announcement artwork",
+              "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Streamer-Alt-Account_11-27-26.jpg"
+            },
+            {
+              "id": "gaming-20261128-tin-coffins",
+              "title": "Tin Coffins is dated December 7 for PC, with Linux support",
+              "summary": "獨立開發者 Nathaniel Voorhies（工作室 Hexmonger）宣布，機甲 roguelite 射擊遊戲《Tin Coffins》將於 12 月 7 日推出，並支援 Linux。遊戲最多 4 人線上合作。",
+              "source": "GamingOnLinux",
+              "sourceUrl": "https://www.gamingonlinux.com/2026/11/mech-roguelite-shooter-tin-coffins-arrives-on-december-7/",
+              "publishedAt": "2026-11-27T17:06:00+08:00",
+              "category": "pc-switch2",
+              "platforms": [
+                "PC"
+              ],
+              "releaseDate": "2026-12-07",
+              "uncertain": false,
+              "imageAlt": "Tin Coffins mech roguelite announcement artwork",
+              "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/22247139id30288gol_og.jpg"
+            },
+            {
+              "id": "gaming-20261128-hark-the-ghoul",
+              "title": "HARK THE GHOUL is dated January 21, 2027 for PS5, Xbox Series, Switch 2, Switch and PC",
+              "summary": "Kwalee 同開發商 Deep Denizens 宣布，地牢探索遊戲《HARK THE GHOUL》將於 2027 年 1 月 21 日登陸 PS5、Xbox Series、Switch 2、Switch 同 Steam。主機版係今次新公佈。",
+              "source": "Gematsu",
+              "sourceUrl": "https://www.gematsu.com/2026/11/hark-the-ghoul-launches-january-21-2027-for-ps5-xbox-series-switch-2-switch-and-pc",
+              "publishedAt": "2026-11-26T23:50:00+08:00",
+              "category": "pc-switch2",
+              "platforms": [
+                "PlayStation 5",
+                "Xbox Series",
+                "Switch 2",
+                "Switch",
+                "PC"
+              ],
+              "releaseDate": "2027-01-21",
+              "uncertain": false,
+              "imageAlt": "HARK THE GHOUL release date announcement artwork",
+              "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Hark-Ghoul_11-26-26.jpg"
+            },
+            {
+              "id": "gaming-20261128-dawn-of-war-iv-painter-demo",
+              "title": "Dawn of War IV Painter Demo is out now on Steam ahead of the December 3 launch",
+              "summary": "Deep Silver 同 KING Art Games 喺 Steam 推出《Warhammer 40,000: Dawn of War IV》免費 Painter Demo，玩家可以為四個陣營嘅單位上色，並將設計帶入正式版。遊戲將於 12 月 3 日推出，Commander Edition 可由 11 月 30 日起提前三日遊玩。",
+              "source": "PLAION",
+              "sourceUrl": "https://press.plaion.com/en/DAWN-OF-WAR-IV-PAINTER-DEMO-OUT-NOW",
+              "publishedAt": "2026-11-26T00:00:00+08:00",
+              "category": "pc-switch2",
+              "platforms": [
+                "PC"
+              ],
+              "releaseDate": "2026-12-03",
+              "uncertain": false,
+              "note": "PLAION press release is dated 11/26/2026 without a time, so publishedAt uses T00:00:00+08:00. Commander Edition unlocks on 2026-11-30."
+            }
+          ]
+        },
+        {
+          "id": "news",
+          "label": "Game news",
+          "items": [
+            {
+              "id": "gaming-20261128-proton-experimental",
+              "title": "Proton Experimental is updated with fixes for FBC: Firebreak, Strange Brigade and more",
+              "summary": "Valve 於 11 月 27 日更新 Proton Experimental，修復《FBC: Firebreak》組隊時崩潰、《Terminator: Dark Fate - Defiance》過場缺聲，以及《Strange Brigade》啟動器記憶體洩漏等問題。",
+              "source": "GamingOnLinux",
+              "sourceUrl": "https://www.gamingonlinux.com/2026/11/proton-experimental-updated-with-fixes-for-strange-brigade-fbc-firebreak-terminator-dark-fate-defiance-and-more/",
+              "publishedAt": "2026-11-28T01:23:00+08:00",
+              "category": "news",
+              "platforms": [
+                "PC"
+              ],
+              "uncertain": false,
+              "imageAlt": "Proton Experimental update artwork",
+              "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/680203221id30295gol_og.jpg"
+            },
+            {
+              "id": "gaming-20261128-botanist-and-the-translator",
+              "title": "Team Cherry Presents and Makoto Koji announce The Botanist and the Translator for PC",
+              "summary": "Hollow Knight 開發商 Team Cherry 新出版品牌 Team Cherry Presents，聯同開發者 Makoto Koji 宣布植物解謎冒險遊戲《The Botanist and the Translator》，將登陸 Steam，發售日未公布。",
+              "source": "Gematsu",
+              "sourceUrl": "https://www.gematsu.com/2026/11/team-cherry-and-makoto-koji-announce-plant-mystery-adventure-game-the-botanist-and-the-translator-for-pc",
+              "publishedAt": "2026-11-27T23:10:00+08:00",
+              "category": "news",
+              "platforms": [
+                "PC"
+              ],
+              "releaseDate": "TBA",
+              "uncertain": false,
+              "note": "Gematsu's Steam 'About' block under this article appears to reuse Radio Rain's description; the summary uses only Gematsu's own opening description of a plant mystery adventure.",
+              "imageAlt": "The Botanist and the Translator announcement artwork",
+              "image": "https://www.gematsu.com/wp-content/uploads/2026/11/The-Botanist-Ann_11-27-26.jpg"
+            },
+            {
+              "id": "gaming-20261128-radio-rain",
+              "title": "Team Cherry Presents and Studio Stobie announce Radio Rain for PC",
+              "summary": "Team Cherry Presents 聯同 Studio Stobie 宣布平台冒險遊戲《Radio Rain》：少女 Cass 同火焰精靈 Ember 要喺被暴風雨籠罩嘅世界搵路返屋企。遊戲將登陸 Steam，發售日未公布。",
+              "source": "Gematsu",
+              "sourceUrl": "https://www.gematsu.com/2026/11/team-cherry-presents-and-studio-stobie-announce-moody-platform-adventure-game-radio-rain-for-pc",
+              "publishedAt": "2026-11-27T23:08:00+08:00",
+              "category": "news",
+              "platforms": [
+                "PC"
+              ],
+              "releaseDate": "TBA",
+              "uncertain": false,
+              "imageAlt": "Radio Rain announcement artwork",
+              "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Radio-Rain-Ann_11-27-26.jpg"
+            },
+            {
+              "id": "gaming-20261128-blokkan-walking-city",
+              "title": "Team Cherry Presents and Rohan Fraser announce Blokkan: Secret of the Walking City for PC",
+              "summary": "Team Cherry Presents 聯同開發者 Rohan Fraser 宣布解謎冒險遊戲《Blokkan: Secret of the Walking City》，玩家要喺巨型步行城市查案，配樂由 Christopher Larkin 負責。遊戲將登陸 Steam，發售日未公布。",
+              "source": "Gematsu",
+              "sourceUrl": "https://www.gematsu.com/2026/11/team-cherry-presents-and-rohan-fraser-announce-mystery-puzzle-adventure-game-blokkan-secret-of-the-walking-city-for-pc",
+              "publishedAt": "2026-11-27T23:05:00+08:00",
+              "category": "news",
+              "platforms": [
+                "PC"
+              ],
+              "releaseDate": "TBA",
+              "uncertain": false,
+              "imageAlt": "Blokkan: Secret of the Walking City announcement artwork",
+              "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Blokkan-Ann_11-27-26.jpg"
+            },
+            {
+              "id": "gaming-20261128-symphony-of-war-ii",
+              "title": "Symphony of War II: Dominion is announced for PC in 2027, published by Hooded Horse",
+              "summary": "Hooded Horse 將發行 Dancing Dragon Games 戰術 RPG 續作《Symphony of War II: Dominion》，預計 2027 年登陸 PC，並加入海戰玩法。",
+              "source": "GamingOnLinux",
+              "sourceUrl": "https://www.gamingonlinux.com/2026/11/cult-classic-tactical-rpg-symphony-of-war-is-getting-a-sequel-symphony-of-war-ii-dominion/",
+              "publishedAt": "2026-11-27T19:33:00+08:00",
+              "category": "news",
+              "platforms": [
+                "PC"
+              ],
+              "releaseDate": "2027",
+              "uncertain": false,
+              "imageAlt": "Symphony of War II: Dominion announcement artwork",
+              "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1138814080id30292gol_og.jpg"
+            },
+            {
+              "id": "gaming-20261128-dxvk-3-2",
+              "title": "DXVK 3.2 improves frame pacing, NVIDIA Reflex and VRAM eviction",
+              "summary": "喺 Linux／SteamOS 運行 Windows 遊戲用嘅翻譯層 DXVK 推出 3.2 版，加入更穩定嘅幀節奏支援，並改進 NVIDIA Reflex、VRAM 釋放邏輯，同修復 ROG Ally 等裝置嘅 HDR 偵測。",
+              "source": "GamingOnLinux",
+              "sourceUrl": "https://www.gamingonlinux.com/2026/11/dxvk-3-2-brings-improvements-for-frame-pacing-nvidia-reflex-vram-eviction-logic-and-more/",
+              "publishedAt": "2026-11-27T16:26:00+08:00",
+              "category": "news",
+              "platforms": [
+                "PC"
+              ],
+              "uncertain": false,
+              "imageAlt": "DXVK logo and version 3.2 artwork",
+              "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/dxvk_gol2_og.jpg"
+            },
+            {
+              "id": "gaming-20261128-splatoon-3-12-0-1",
+              "title": "Splatoon 3 version 12.0.1 fixes Anarchy Battle Series matchmaking and is required for online play",
+              "summary": "Nintendo 推出《Splatoon 3》Ver. 12.0.1，修復 Anarchy Battle (Series) 有時無法完成配對嘅問題。官方表示必須更新至最新版本先可以上線。",
+              "source": "Nintendo Life",
+              "sourceUrl": "https://www.nintendolife.com/news/2026/11/splatoon-3-version-12-0-1-update-out-now-here-are-the-patch-notes",
+              "publishedAt": "2026-11-27T09:05:00+08:00",
+              "category": "news",
+              "platforms": [
+                "Switch",
+                "Switch 2"
+              ],
+              "uncertain": false,
+              "note": "Nintendo Life stamped the story at 1:05am on 27 Nov 2026; converted from UK time (GMT) to HKT.",
+              "imageAlt": "Splatoon 3 promotional artwork",
+              "image": "https://images.nintendolife.com/44b2b1eff4f0d/1280x720.jpg"
+            },
+            {
+              "id": "gaming-20261128-wpca-closed-alpha",
+              "title": "WPCA closed alpha is set for December 16 to 22 on PS5 and PC",
+              "summary": "KRAFTON 同開發商 5minlab 宣布，合作異能收容動作遊戲《WPCA: World Phasebound Control Authority》將於 12 月 16 至 22 日喺 PS5 同 PC 舉行封閉 Alpha，而正式版預計 2028 年推出。報名已開放。",
+              "source": "Gematsu",
+              "sourceUrl": "https://www.gematsu.com/2026/11/wpca-world-phasebound-control-authority-world-trailer-closed-alpha-test-set-for-december-16-to-22",
+              "publishedAt": "2026-11-27T08:05:00+08:00",
+              "category": "news",
+              "platforms": [
+                "PlayStation 5",
+                "PC"
+              ],
+              "releaseDate": "2028",
+              "uncertain": false,
+              "imageAlt": "WPCA: World Phasebound Control Authority closed alpha artwork",
+              "image": "https://www.gematsu.com/wp-content/uploads/2026/11/WPCA-Closed-Alpha_11-26-26.jpg"
+            },
+            {
+              "id": "gaming-20261128-skate-end-of-seasons",
+              "title": "Skate will end seasons and season passes after Season 5 on December 1",
+              "summary": "據 PC Gamer 報道，EA 同開發商 Full Circle 宣布《skate.》第 5 季將於 12 月 1 日結束，之後唔再行季節同季票，改為更頻密嘅內容更新；剩低 Tix 會自動兌換未取得物品，其後清除。",
+              "source": "PC Gamer",
+              "sourceUrl": "https://www.pcgamer.com/games/sports/skate-is-dropping-seasons-and-season-passes-in-favor-of-regular-agile-content-updates/",
+              "publishedAt": "2026-11-27T00:00:00+08:00",
+              "category": "news",
+              "platforms": [
+                "PC"
+              ],
+              "uncertain": false,
+              "note": "PC Gamer gave only a publication date, so publishedAt uses T00:00:00+08:00. EA's official Update 0.33 post is dated November 24, 2026. Platforms beyond PC were not listed in the PC Gamer article.",
+              "imageAlt": "Skate early access promotional artwork",
+              "image": "https://cdn.mos.cms.futurecdn.net/L6Uv3zEQCqJWLrsdQY9RyX-1920-80.jpg"
+            },
+            {
+              "id": "gaming-20261128-vermintide-2-mod-tools",
+              "title": "Vermintide 2 mod tools are out now, with Modded Realm progression coming in early December",
+              "summary": "據 PC Gamer 報道，Fatshark 公開《Warhammer: Vermintide 2》內部 Mod Tools，畀模組作者製作自訂關卡、模型、貼圖同動畫。12 月初會為 Modded Realm 加入獨立離線進度，同時關閉 Versus 專用伺服器，改由社群自行開房。",
+              "source": "PC Gamer",
+              "sourceUrl": "https://www.pcgamer.com/games/fps/vermintide-2-mod-tools-get-a-public-release-and-the-games-90-percent-off-on-steam-too/",
+              "publishedAt": "2026-11-27T00:00:00+08:00",
+              "category": "news",
+              "platforms": [
+                "PC"
+              ],
+              "uncertain": false,
+              "note": "PC Gamer gave only a publication date, so publishedAt uses T00:00:00+08:00.",
+              "imageAlt": "Warhammer: Vermintide 2 promotional artwork",
+              "image": "https://cdn.mos.cms.futurecdn.net/SubVYEY5D6vgzjDNu7QSST-1920-80.jpg"
+            },
+            {
+              "id": "gaming-20261128-nba-2k27-vice-city",
+              "title": "NBA 2K27 Season 3 Vice City Takeover is live, with a limited Vice City Edition",
+              "summary": "《NBA 2K27》Season 3「Vice City Takeover」已於 11 月 27 日開跑，直至 1 月 15 日，並推出由 Bam Adebayo 擔任封面嘅 Vice City Edition，登陸 PS5、Xbox Series、Switch 2 同 PC。期間 GTA+ 會員可喺 PS5 同 Xbox 免費玩標準版。",
+              "source": "GoNintendo",
+              "sourceUrl": "https://gonintendo.com/contents/67641-vice-city-arrives-in-nba-2k27-season-3-today",
+              "publishedAt": "2026-11-27T00:00:00+08:00",
+              "category": "news",
+              "platforms": [
+                "PlayStation 5",
+                "Xbox Series",
+                "Switch 2",
+                "PC"
+              ],
+              "uncertain": false,
+              "note": "GoNintendo gave only a publication date, so publishedAt uses T00:00:00+08:00. Season 3 and the digital Vice City Edition run from November 27, 2026 through January 15 (11AM ET), per 2K's announcement.",
+              "imageAlt": "NBA 2K27 Vice City Edition cover with Bam Adebayo",
+              "image": "https://gonintendo.com/attachments/image/89495/file/medium-1c31da18c91cb7c704d475633e4473cc.png"
+            },
+            {
+              "id": "gaming-20261128-hack-95-pqube",
+              "title": "PQube will publish card-based hacking adventure Hack '95 for PC in 2027",
+              "summary": "PQube 將發行 Village Studio 開發嘅卡牌黑客冒險《Hack '95》，預計 2027 年登陸 Steam。劇本由作家兼遊戲記者 Keith Stuart 監督。",
+              "source": "Gematsu",
+              "sourceUrl": "https://www.gematsu.com/2026/11/card-based-hacking-adventure-game-hack-95-to-be-published-by-pqube",
+              "publishedAt": "2026-11-26T22:13:00+08:00",
+              "category": "news",
+              "platforms": [
+                "PC"
+              ],
+              "releaseDate": "2027",
+              "uncertain": false,
+              "imageAlt": "Hack '95 announcement artwork",
+              "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Hack-95_11-26-26.jpg"
+            }
+          ]
+        },
+        {
+          "id": "other-consoles",
+          "label": "Other consoles",
+          "items": [
+            {
+              "id": "gaming-20261128-yooka-laylee-skipping-xbox",
+              "title": "Yooka-Laylee and the Impossible Lair: Definitive Edition will not come to Xbox",
+              "summary": "據 The Verge 報道，Playtonic Games 表示，因技術挑戰同成本問題，暫時無法承諾為《Yooka-Laylee and the Impossible Lair: Definitive Edition》推出 Xbox 版。呢個免費升級將於 12 月 15 日登陸 PS5、Switch 2 同 PC。",
+              "source": "The Verge",
+              "sourceUrl": "https://www.theverge.com/games/1044715/yooka-laylees-free-upgrade-is-skipping-xbox",
+              "publishedAt": "2026-11-28T07:30:00+08:00",
+              "category": "other-consoles",
+              "platforms": [
+                "PlayStation 5",
+                "Switch 2",
+                "PC"
+              ],
+              "releaseDate": "2026-12-15",
+              "uncertain": false,
+              "imageAlt": "Yooka-Laylee and the Impossible Lair: Definitive Edition artwork",
+              "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/V1-scaled-1.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
+            },
+            {
+              "id": "gaming-20261128-phantom-blade-zero-nov28-update",
+              "title": "Phantom Blade Zero's November 28 update adds camera assist and a large batch of fixes",
+              "summary": "據 GameRant 報道，S-Game 公布《Phantom Blade Zero》11 月 28 日更新，PC 同 PS5 各約 7GB，加入戰鬥鏡頭輔助選項，PC 仲有滑鼠鎖定切換靈敏度，並有大量錯誤修復。",
+              "source": "GameRant",
+              "sourceUrl": "https://gamerant.com/phantom-blade-zero-update-patch-notes-november-28/",
+              "publishedAt": "2026-11-27T21:30:00+08:00",
+              "category": "other-consoles",
+              "platforms": [
+                "PlayStation 5",
+                "PC"
+              ],
+              "uncertain": false,
+              "imageAlt": "Phantom Blade Zero combat screenshot",
+              "image": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/12/phantom-blade-zero-trailer-screenshot-1.jpg?w=1600&h=900&fit=crop"
+            },
+            {
+              "id": "gaming-20261128-picross-one-million",
+              "title": "Jupiter's Picross series for Switch passes one million downloads, with Picross S Climax dated December 10 in Japan",
+              "summary": "據 Nintendo Life 報道，Jupiter 宣布 Switch 版 Picross 系列下載量已超過 100 萬。《Picross S Climax》將於 12 月 10 日登陸日本 eShop，並已推出體驗版；系列特賣則由 11 月 30 日起。",
+              "source": "Nintendo Life",
+              "sourceUrl": "https://www.nintendolife.com/news/2026/11/jupiters-picross-series-for-switch-has-officially-surpassed-one-million-sales",
+              "publishedAt": "2026-11-27T12:30:00+08:00",
+              "category": "other-consoles",
+              "platforms": [
+                "Switch"
+              ],
+              "releaseDate": "2026-12-10",
+              "uncertain": false,
+              "note": "Nintendo Life stamped the story at 4:30am on 27 Nov 2026; converted from UK time (GMT) to HKT. The article title says 'sales' but the body specifies one million downloads.",
+              "imageAlt": "Picross S series artwork",
+              "image": "https://images.nintendolife.com/de9b7adb8d052/1280x720.jpg"
+            },
+            {
+              "id": "gaming-20261128-xbox-next-week-dec-4",
+              "title": "Next week on Xbox includes Hela, Dragon Quest Monsters, Rayman Legends Retold and Thief Remastered",
+              "summary": "Xbox Wire 公布 11 月 30 日至 12 月 4 日陣容：12 月 1 日《Hela: of Mice & Magic》加入 Game Pass；12 月 3 日則有《Dragon Quest Monsters: The Withered World》、《Rayman Legends Retold》同《Thief: The Dark Project Remastered》。",
+              "source": "Xbox Wire",
+              "sourceUrl": "https://news.xbox.com/en-us/2026/11/27/next-week-on-xbox-new-games-for-november-30-to-december-4/",
+              "publishedAt": "2026-11-27T00:00:00+08:00",
+              "category": "other-consoles",
+              "platforms": [
+                "Xbox Series",
+                "Xbox One",
+                "PC"
+              ],
+              "uncertain": false,
+              "note": "Xbox Wire gave only a publication date of November 27, 2026, so publishedAt uses T00:00:00+08:00. Individual titles vary by Xbox platform and Game Pass availability.",
+              "imageAlt": "Xbox Next Week on Xbox artwork for November 30 to December 4",
+              "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/nwox-hero-34c5d30c373ea9dc1ade.jpg"
+            },
+            {
+              "id": "gaming-20261128-funghi-days",
+              "title": "Funghi Days is announced for consoles to mark the series' 15th anniversary",
+              "summary": "SUCCESS 為 Nameko／Funghi 系列 15 周年宣布新主機遊戲《Funghi Days》。平台同發售日尚未公布。",
+              "source": "Gematsu",
+              "sourceUrl": "https://www.gematsu.com/2026/11/funghi-days-announced-for-console",
+              "publishedAt": "2026-11-26T11:22:00+08:00",
+              "category": "other-consoles",
+              "releaseDate": "TBA",
+              "uncertain": false,
+              "note": "Gematsu says platforms and a release date were not announced.",
+              "imageAlt": "Funghi Days teaser artwork",
+              "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Funghi-Days-Ann_11-25-26.jpg"
+            }
+          ]
+        },
+        {
+          "id": "other",
+          "label": "Other",
+          "items": [
+            {
+              "id": "gaming-20261128-simpsons-hit-and-run-remake",
+              "title": "A rumoured Simpsons: Hit & Run remake may have been cancelled",
+              "summary": "據 VGC 報道，New Radical Games 高級遊戲設計師 Darren Evenson 喺 LinkedIn 指工作室一個未公布項目已被取消。外界推測可能係傳聞中嘅《The Simpsons: Hit & Run》重製，但佢並未明示，亦有可能係指其他項目。",
+              "source": "VGC",
+              "sourceUrl": "https://www.videogameschronicle.com/news/the-simpsons-hit-run-remake-may-have-been-cancelled-as-developer-drops-hints-they-were-working-on-it/",
+              "publishedAt": "2026-11-27T20:53:00+08:00",
+              "category": "other",
+              "platforms": [
+                "PC"
+              ],
+              "uncertain": true,
+              "note": "VGC stamped the story at 12:53 pm on 27 Nov 2026; converted from UK time (GMT) to HKT. Evenson did not name the cancelled project; VGC notes it could instead refer to a Scarface-related game. Platforms are unconfirmed.",
+              "imageAlt": "The Simpsons: Hit & Run original game artwork",
+              "image": "https://www.videogameschronicle.com/files/2023/01/The-Simpsons-Hit-and-Run.jpg"
+            },
+            {
+              "id": "gaming-20261128-marvelous-voluntary-departures",
+              "title": "Marvelous is seeking 65 voluntary departures in its consumer games division",
+              "summary": "據 VGC 報道，Marvelous 計劃喺負責主機同 PC 遊戲嘅消費業務部門裁減 65 人，並於 12 月 14 日至 2027 年 1 月 8 日接受自願離職申請，最遲 2027 年 3 月 31 日離職。公司稱會更多同外部工作室合作，但消費遊戲仍然係核心業務。",
+              "source": "VGC",
+              "sourceUrl": "https://www.videogameschronicle.com/news/story-of-seasons-and-rune-factory-developer-marvelous-is-offering-early-retirement-as-it-tries-to-cut-65-jobs/",
+              "publishedAt": "2026-11-27T19:59:00+08:00",
+              "category": "other",
+              "platforms": [
+                "PlayStation 5",
+                "Switch",
+                "Switch 2",
+                "PC"
+              ],
+              "uncertain": false,
+              "note": "VGC stamped the story at 11:59 am on 27 Nov 2026; converted from UK time (GMT) to HKT. Platforms reflect Marvelous' known consumer-game catalogues cited in the article (Story of Seasons, Rune Factory, Daemon X Machina), not a single title.",
+              "imageAlt": "Story of Seasons artwork",
+              "image": "https://www.videogameschronicle.com/files/2026/11/story-of-seasons.jpg"
+            },
+            {
+              "id": "gaming-20261128-itchio-creator-day",
+              "title": "itch.io Creator Day is live, with its Black Friday sale running through December 2",
+              "summary": "itch.io 於 11 月 27 日（太平洋時間全日）舉行 Creator Day，期間豁免平台分成。Black Friday 特賣會持續至 12 月 2 日上午 10 時（太平洋時間），超過 40,000 個項目減價。",
+              "source": "GamingOnLinux",
+              "sourceUrl": "https://www.gamingonlinux.com/2026/11/itch-io-creator-day-black-friday-2026-sale-is-live/",
+              "publishedAt": "2026-11-27T17:58:00+08:00",
+              "category": "other",
+              "platforms": [
+                "PC"
+              ],
+              "uncertain": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
